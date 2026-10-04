@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo iko ⟨adolah⟩ najisnyo dalam kaluahannyo: kok dagiangnyo manangih ⟨את⟩ kaluahannyo, atau dagiangnyo tatutuik dari kaluahannyo — najisnyo iolah itu.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Jo iko"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨adolah⟩"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "najisnyo"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "dalam kaluahannyo"
+    },
+    {
+      "surface": "רר",
+      "gloss": "manangih"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluahannyo"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "kaluahannyo"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "tatutuik"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "dari kaluahannyo"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "najisnyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "adolah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:48.499739060Z",
+  "model": "glm-5.3"
+}

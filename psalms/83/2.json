@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 83,
+  "translation": "Elohim, jan badian tagak untuak ⟨Engkau⟩, jan diam, jo jan barenti, wahai El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "badian"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak ⟨Engkau⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "diam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "barenti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:08.817698134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Imam tu mancaliak ⟨את⟩ panyakik tu, lalu dikunci ⟨את⟩ panyakik tu salamo tujuah ari.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panyakik tu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "panyakik tu"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "dikunci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panyakik tu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "panyakik tu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:25.108270784Z",
+  "model": "glm-5.3"
+}

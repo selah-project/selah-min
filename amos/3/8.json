@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Singo alah manguak — siapo nan indak takuik? Adonai Yahweh alah bakato — siapo nan indak bakenabian?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "singgo"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "manguak"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "bakenabian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:48.528684169Z",
+  "model": "glm-5.3"
+}

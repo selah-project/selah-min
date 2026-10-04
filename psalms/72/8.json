@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Jo inyo bakuaso dari lauik inggo ka lauik, jo dari batang aia inggo ka ujung-ujung bumi.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "",
+      "ref": "unused"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "jo inyo bakuaso"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dari lauik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inggo ka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "jo dari batang aia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inggo ka"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ujung-ujung"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:09.250558373Z",
+  "model": "glm-5.3"
+}

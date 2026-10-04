@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo salimu-i ⟨את⟩ inyo jo ameh murni; dari dalam jo dari lua salimu-i inyo; jo bueklah di atehnyo mahkota ameh sakaliliang.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "jo salimu-i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "ino (petinyo)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari dalam"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "jo dari lua"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "salimu-i inyo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "jo bueklah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:39.600716926Z",
+  "model": "glm-5.3"
+}

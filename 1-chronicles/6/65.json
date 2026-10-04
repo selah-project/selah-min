@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo dari suku Gad: ⟨את⟩ Raamot di Giload jo ⟨את⟩ tampek palarannyo, jo ⟨את⟩ Makhanaeim jo ⟨את⟩ tampek palarannyo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "dari suku"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "di Giload"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tampek palarannyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tampek palarannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Makhanaeim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Makhanaeim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tampek palarannyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tampek palarannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:57.132439142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Elohim, San alah mambuang ambo awak, San alah mampecah ambo awak, San alah tamarah ambo; baliaklah kapado ambo awak.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "San mambuang ambo awak"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "San mampecah ambo awak"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "San tamarah"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado ambo awak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:05.294279294Z",
+  "model": "glm-5.3"
+}

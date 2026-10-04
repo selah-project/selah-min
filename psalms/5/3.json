@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Taringkoklah kapado suaro takuik ambo, rajo ambo jo Elohim ambo, karano kapado Angkau ambo babarapo.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "taringkoklah"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kapado suaro"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "takuik ambo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo ambo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "jo Elohim ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado Angkau"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ambo babarapo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:56.571710999Z",
+  "model": "glm-5.3"
+}

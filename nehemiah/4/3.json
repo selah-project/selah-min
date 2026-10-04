@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Maka kito baramuik kapado Elohim kito, jo kito mamadiahan panjago ateh mareka siang jo malam karano mareka.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "kito baramuik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "kito mamadiahan"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "panjago"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ateh mareka"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jo malam"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "karano mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T08:36:51.171831338Z",
+  "model": "glm-5.3"
+}

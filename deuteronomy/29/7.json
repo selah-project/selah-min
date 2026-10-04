@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Lalu kami mambiak ⟨את⟩ tanah urang tu, jo kami agiah inyo sabagai punyo warisan kapado urang Reuven, kapado urang Gad, jo kapado satangah suku urang Manasye.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "lalu kami mambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah urang tu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tanah urang tu"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "jo kami agiah inyo"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "sabagai punyo warisan"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "kapado urang Reuven"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "jo kapado urang Gad"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "jo kapado satangah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "urang Manasye"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:19.325540913Z",
+  "model": "glm-5.3"
+}

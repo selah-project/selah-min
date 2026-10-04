@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Kapado awak nyawanyo, wa laki-laki, ambo maureka, jo suaro ambo kapado anak-anak manusia",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "kapado awak nyawanyo"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "wa laki-laki"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ambo maureka"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "jo suaro ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:33.958695880Z",
+  "model": "glm-5.3"
+}

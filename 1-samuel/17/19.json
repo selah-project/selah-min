@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Shaul jo urang tu jo satiok urang Yisrael ado di lembah Elah, balawanan jo urang Palisetim.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo satiok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "di lembah"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "balawanan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palisetim"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:58.658293091Z",
+  "model": "glm-5.3"
+}

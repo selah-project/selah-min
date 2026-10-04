@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo sado panduduak Yabeisy Gilad mandanga ⟨את⟩ sagalo nan alah dibaok dek urang Pelishti kapado Sha'ul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabeisy"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "alah dibaok"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Pelishti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kapado Sha'ul"
+    }
+  ],
+  "timestamp": "2026-10-04T08:43:21.823352554Z",
+  "model": "glm-5.3"
+}

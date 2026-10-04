@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo kau urang ajaran ⟨את⟩ inyo kapado ⟨את⟩ anak-anak awak, untuak bajabaik tantang inyo, katiko duduak di rumah awak, jo katiko bajalan di jalan, katiko barado jo katiko bangkik.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "ajaran"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak awak"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anak awak"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "untuak bajabaik"
+    },
+    {
+      "surface": "בם",
+      "gloss": "tantang inyo"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "katiko duduak"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di rumah awak"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "jo katiko bajalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "katiko barado"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "jo katiko bangkik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:14.570474517Z",
+  "model": "glm-5.3"
+}

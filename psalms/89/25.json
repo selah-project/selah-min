@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Jo kasatiaan ambo jo hesed ambo ado ⟨jo inyo⟩, jo dalam Namo ambo ditinggikan tanduaknyo.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "jo kasatiaan ambo"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "jo hesed ambo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "jo dalam Namo ambo"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ditinggikan"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "tanduaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:01.351434634Z",
+  "model": "glm-5.3"
+}

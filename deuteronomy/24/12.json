@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Dan kok inyo urang miskin, jan ang lalok jo jaminannyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan kok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ang lalok"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "jo jaminannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:12.548471004Z",
+  "model": "glm-5.3"
+}

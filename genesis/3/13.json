@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Bakato Yahweh Elohim kapado padusi itu: Apo nan ko alah kau buek? Jo padusi itu bakato: Ula tu mambuek awak sasat, jo akun makan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kapado padusi itu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nan ko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kau buek"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ula tu"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "mambuek awak sasat"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "akun makan"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:18.008700121Z",
+  "model": "glm-5.3"
+}

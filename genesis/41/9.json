@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Lalu kapalo panyakia bakato kapado ⟨את⟩ Paroh, nak kato: ⟨את⟩ doso-doso ambo ambo paikekan ari ko.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "panyakia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nak kato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doso-doso ambo"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "doso-doso ambo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "paikekan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari ko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:07:17.649425774Z",
+  "model": "glm-5.3"
+}

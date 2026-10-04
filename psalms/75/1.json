@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 75,
+  "translation": "Untuak kapalo musik; Jangan dirusakkan; mazmur untuak Asaf; lagu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak kapalo musik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "dirusakkan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "untuak Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:00.893366996Z",
+  "model": "glm-5.3"
+}

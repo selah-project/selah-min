@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo pado ari ka anam inyo disunat dagiang kulubnyo.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Jo pado ari"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ka anam"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "disunat"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "kulubnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:14.518738154Z",
+  "model": "glm-5.3"
+}

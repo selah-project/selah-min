@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Iko adolah anak-anak Sem, manuruik marga-marga mareka, manuruik bahaso mareka, di nagari mareka, manuruik bangso-bangso mareka.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "manuruik marga-marga mareka"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "manuruik bahaso mareka"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "di nagari mareka"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "manuruik bangso-bangso mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:28.532023704Z",
+  "model": "glm-5.3"
+}

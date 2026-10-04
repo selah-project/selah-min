@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo inyo manyucikan ⟨את⟩ rumah tu jo darah buruang tu, jo aia iduik, jo buruang nan iduik, jo kayu araz, jo ijuak, jo banang sirah kainim.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "jo inyo manyucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "jo darah"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "buruang tu"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "jo aia"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "jo buruang"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nan iduik"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "jo kayu"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "araz"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "jo ijuak"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "jo banang sirah"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "kainim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:33.232360220Z",
+  "model": "glm-5.3"
+}

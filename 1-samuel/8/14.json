@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo ⟨את⟩ sawah-sawah kalian jo ⟨את⟩ kebun anggur kalian, jo kebun zaitun kalian nan elok, inyo ambiak, jo inyo agiah kapado amba-ambanyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sawah-sawah kalian"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "sawah-sawah kalian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kebun anggur kalian"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "kebun anggur kalian"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "kebun zaitun kalian"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "inyo ambiak"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "jo inyo agiah"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "kapado amba-ambanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:01.831113303Z",
+  "model": "glm-5.3"
+}

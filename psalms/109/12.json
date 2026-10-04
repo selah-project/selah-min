@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Jan ado bagi inyo nan malangkangkan hesed, jo jan ado nan mambari kaundjuak kapado anak-anak yatimnyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi inyo"
+    },
+    {
+      "surface": "משך",
+      "gloss": "nan malangkangkan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ado"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nan mambari kaundjuak"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "kapado anak-anak yatimnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:03.117958572Z",
+  "model": "glm-5.3"
+}

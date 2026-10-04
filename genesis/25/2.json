@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo inyo malahiakan untuaknyo ⟨את⟩ Zimran, jo ⟨את⟩ Yokshan, jo ⟨את⟩ Medan, jo ⟨את⟩ Midian, jo ⟨את⟩ Yishbak, jo ⟨את⟩ Suakh.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Suakh"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Suakh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:22.692608593Z",
+  "model": "glm-5.3"
+}

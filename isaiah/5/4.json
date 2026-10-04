@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Apo lai nan buliah dibuek untuak kebun anggur ambo, nan indak lai ambo buek kapadonyo? Ba a, katiko ambo maharok supayo inyo manghasilkan anggur, kok inyo mambuek anggur masam?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak dibuek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "untuak kebun anggur ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "padahal indak"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ambo buek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ba a"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ambo maharok"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "supayo manghasilkan"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kok inyo mambuek"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "anggur masam"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:50.555526194Z",
+  "model": "glm-5.3"
+}

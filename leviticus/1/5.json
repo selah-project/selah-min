@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu inyo manyambaliah ⟨את⟩ anak lombu tu di muko Yahweh; lalu anak-anak Aharon, para imam, mambaok ⟨את⟩ darahnyo, jo mampacik ⟨את⟩ darah tu ka saliling mizbeakh, nan ado di mungko pintu Ohel Moed.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "lalu inyo manyambaliah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak lombu tu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lombu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "lalu mambaok"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahnyo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "jo mampacik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah tu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeakh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "saliling"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan ado di"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mungko pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:48.231117038Z",
+  "model": "glm-5.3"
+}

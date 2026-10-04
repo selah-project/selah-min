@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Urang bodo dek caro palanggaran inyo, sarato dek kaburukoan inyo inyo disaso.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "urang bodo"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "dek caro"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "palanggaran inyo"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "sarato dek kaburukoan inyo"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "inyo disaso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:37.516174807Z",
+  "model": "glm-5.3"
+}

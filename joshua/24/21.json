@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Urang banyak bakato kapado Yehosyua: Indak, baso ⟨את⟩ Yahweh nan kito layani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "kito layani"
+    }
+  ],
+  "timestamp": "2026-10-04T05:11:22.374802132Z",
+  "model": "glm-5.3"
+}

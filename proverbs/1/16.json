@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Karano sipak urang tu baangieh lari ka jaek, jo urang tu bacakak untuak manumpah darah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "sipak urang tu"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ka jaek"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "baangieh lari"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "jo urang tu bacakak"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "untuak manumpah"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:14.229118350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo sadoalah kaum Yehudah maambiak ⟨את⟩ Azaryah, inyo baumua anam baleh taun, lalu urang tu mancalon inyo manjadi rajo manggantikan apaknyo Amatsyah.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "baumua"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "mancalon manjadi rajo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "rajo manggantikan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "manggantikan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:07.289128018Z",
+  "model": "glm-5.3"
+}

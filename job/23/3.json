@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Sia namuah mangecek — kok ambo tahu, ambo ka manamuinyo, ambo ka tibo sampai ka tampek duduaknyo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "namuah mangecek"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kok ambo tahu"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "ambo ka manamuinyo"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ambo ka tibo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "tampek duduaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:09:33.495881738Z",
+  "model": "glm-5.3"
+}

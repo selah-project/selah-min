@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo sanak mangatahui baso gadang beniahnyo, jo katurunan sanak sarupo rumput di bumi.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "jo sanak mangatahui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniahnyo"
+    },
+    {
+      "surface": "וצאצאיך",
+      "gloss": "jo katurunan"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "sarupo rumput"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T08:04:32.563941757Z",
+  "model": "glm-5.3"
+}

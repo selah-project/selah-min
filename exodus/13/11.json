@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo ka tajadi katiko Yahweh mambaok ang masuak ka tanah urang Kanaan, sarupo nan alah diisiaik kapado ang jo kapado urang tuo ang, jo Inyo ka maagiahnyo kapado ang,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jo ka tajadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "mambaok ang masuak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "dihisiaik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ang"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "jo kapado urang tuo ang"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "jo Inyo ka maagiahnyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:23.804682227Z",
+  "model": "glm-5.3"
+}

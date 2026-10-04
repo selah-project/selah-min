@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Sungguah, di jalan hukum-Mu, Yahweh, ami alah manantikan Dikau; ka Namo-Mu jo ka ingek-an-Mu, rindu nyawa.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Sungguah"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "ami alah manantikan Dikau"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ka Namo-Mu"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "jo ka ingek-an-Mu"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "rindu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    }
+  ],
+  "timestamp": "2026-10-04T09:15:17.901273475Z",
+  "model": "glm-5.3"
+}

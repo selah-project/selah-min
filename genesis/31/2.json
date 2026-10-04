@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Lalu Yaakov maliek ⟨את⟩ muko Lavan, jo tapek inyo indak lai jo inyo sarupo kapatang jo ari sabalun kapatang.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "maliek"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo tapek"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "indak lai"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "sarupo kapatang"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ari sabalun kapatang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:02.731046107Z",
+  "model": "glm-5.3"
+}

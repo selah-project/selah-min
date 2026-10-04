@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Ambo tau sadoalah buruang bukik, jo binatang ladang ado basamo ambo.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "buruang"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bukik"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "jo binatang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "basamo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:30.948996402Z",
+  "model": "glm-5.3"
+}

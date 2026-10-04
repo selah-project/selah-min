@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Utuih rotinyo di muko aia, karano sasudah ari nan banyak sanak ka manamukannyo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Utuih"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "rotinyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sasudah ari nan banyak"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ari nan banyak"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "sanak ka manamukannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:34.899544241Z",
+  "model": "glm-5.3"
+}

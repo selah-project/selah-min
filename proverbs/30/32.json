@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Kalau ang bakalakuo bodoh dapek mangangkek diri, atau kalau ang bapikia jahaik — tangkok kok di muang ang!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau ang"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "bakalakuo bodoh"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "dapek mangangkek diri"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "atau kalau ang"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "bapikia jahaik"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangkok kok"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "di muang ang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:53.955775188Z",
+  "model": "glm-5.3"
+}

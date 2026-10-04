@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Anak nan pandai — musar apaknyo; tapi si pangaleh indak mandanga galeh.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nan pandai"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "musar"
+    },
+    {
+      "surface": "אב",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "tapi si pangaleh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "galeh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:57:01.039707318Z",
+  "model": "glm-5.3"
+}

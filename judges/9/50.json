@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Avimelekh pai ka Tebetz, jo marabuang ka Tebetz, jo maambiaknyo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tebetz"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "marabuang"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "ka Tebetz"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "maambiaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:15:30.378169837Z",
+  "model": "glm-5.3"
+}

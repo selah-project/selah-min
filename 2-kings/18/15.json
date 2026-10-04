@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Khizkiyahu maâagiah ⟨את⟩ saluruah perak nan tadapek di rumah Yahweh jo di padapek-padapek rumah rajo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maâagiah"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saluruah perak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nan tadapek"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "jo di padapek-padapek"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:03.603512852Z",
+  "model": "glm-5.3"
+}

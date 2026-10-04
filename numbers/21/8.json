@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo Yahweh bakato kapado Moshe: Bueklah di kau ular baka, jo takahkan inyo di ateh tiang; jo mandapek baso sagalo nan tagigiak mancaliaknyo — inyo hiduik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bueklah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "di kau"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ular baka"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "jo takahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (ular baka)"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "נס",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo mandapek baso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "nan tagigiak"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mancaliaknyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (ular baka)"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "inyo hiduik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:03.622001213Z",
+  "model": "glm-5.3"
+}

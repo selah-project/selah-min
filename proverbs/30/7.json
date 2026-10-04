@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Duo hal ambo lah maminta dari ⟨את⟩ ikau; jangan sansai ⟨itu⟩ dari ambo sabalun ambo mati.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "duo hal"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ambo lah maminta"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "dari ⟨את⟩ ikau",
+      "marks": "ikau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "sansai"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sabalun"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ambo mati"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:59.427543662Z",
+  "model": "glm-5.3"
+}

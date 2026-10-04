@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Urang jahat mambuek rancang ka urang nan bakebanaran, jo mangiria giginyo kapadonyo.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "mambuek rancang"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ka urang nan bakebanaran"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "mangiria"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "giginyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:42.019873051Z",
+  "model": "glm-5.3"
+}

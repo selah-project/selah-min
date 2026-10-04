@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo Yahweh bapidato kapado Moshe, kato-Nyo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "jo bapidato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:37.095036281Z",
+  "model": "glm-5.3"
+}

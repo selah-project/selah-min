@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sanang hati urang nan indak bajalan dalam pasabaik urang-urang jahat, jo di jalan urang-urang doso indak tagak, jo di tampek duduak pandango-pandango indak duduak.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sanang hati"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "dalam pasabaik"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "jo di jalan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "urang-urang doso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "jo di tampek duduak"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "pandango-pandango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:03.425444888Z",
+  "model": "glm-5.3"
+}

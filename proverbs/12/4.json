@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Bini nan bagak adolah mahkota untuak lakinyo, tapi nan mambuek malueh sarupo bangaok dalam tulang-tulangnyo.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nan bagak"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "untuak lakinyo"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "tapi sarupo bangaok"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "dalam tulang-tulangnyo"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "nan mambuek malueh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:41.213640625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Baitu inyo mangangkek tangan-Nyo tahadap inyo, untuak mambuek inyo jatuah di padang gurun.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangan-Nyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tahadap inyo"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "untuak mambuek jatuah"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:20.699160177Z",
+  "model": "glm-5.3"
+}

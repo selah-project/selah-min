@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Sungguah, dalam bayangan sajo urang bajalan; sungguah, sia-sia sajo inyo bakhiauik; inyo mangumpuan ⟨kakayoan⟩, jo indak tau siapo nan ka mangumpuannyo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sungguah"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dalam bayangan sajo"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sungguah"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sia-sia sajo"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "bakhiauik"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "mangumpuan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "nan ka mangumpuannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:50.424237317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Tuan ambo batanyo ⟨את⟩ hamba-hambanyo, mangecek: Ado jo sanak ayah, atau sudaro?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Tuan ambo"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "batanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Ado"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jo sanak"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "אח",
+      "gloss": "sudaro"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:48.374046825Z",
+  "model": "glm-5.3"
+}

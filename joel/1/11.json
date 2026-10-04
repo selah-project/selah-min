@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Maila lah kalian, hai para patani; mangangguak lah kalian, para pangarimo anggur, ateh ganduam jo ateh barley, karano lah hilang panen ladang.",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "maila"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "para patani"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "mangangguak"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "para pangarimo anggur"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ganduam"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "barley"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "hilang"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "panen"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:58.599843227Z",
+  "model": "glm-5.3"
+}

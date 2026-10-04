@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Panyalangannyo surang manyipak ⟨את⟩ urang jahat tu, jo tali-tali dusaannyo inyo diikek.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "panyalangannyo"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "manyipak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang jahat tu"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "urang jahat tu"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "jo tali-tali"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dusaannyo"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "inyo diikek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:00.072860314Z",
+  "model": "glm-5.3"
+}

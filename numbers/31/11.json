@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Mareka mambao ⟨את⟩ sado rampasan jo ⟨את⟩ sado nan ditangkok, di antaro manusia jo binatang",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "mareka mambao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado rampasan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado nan ditangkok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "nan ditangkok"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "di antaro manusia"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "jo binatang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:49:40.371201228Z",
+  "model": "glm-5.3"
+}

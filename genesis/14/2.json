@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Urang tu bakaparang malawan ⟨את⟩ Bera rajo Sodom, jo ⟨את⟩ Birsya rajo Amorah, Syinab rajo Admah, jo Syemaeber rajo Tseboyim, jo rajo Bela — inyo banamo Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "bakaparang"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "parang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera rajo Sodom"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Birsya rajo Amorah"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Syinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admah"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "jo Syemaeber"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tseboyim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "jo rajo"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:21.712693852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Namo nan elok labiah baiak dari minyak wangi, jo ari kamatian ⟨labiah baiak⟩ dari ari kalahiarannyo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "labiah baiak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "minyak wangi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "jo ari"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kamatian"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "dari ari"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "kalahiarannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:20.560478308Z",
+  "model": "glm-5.3"
+}

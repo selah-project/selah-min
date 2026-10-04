@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Karano luko-lukonyo indak lai dapek diubek; karano inyo alah tibo ka Yehudah, alah manyentuh sampai ka gapuro umat ambo, sampai ka Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "indak lai dapek diubek"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "luko-lukonyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "באה",
+      "gloss": "alah tibo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "manyentuh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat ambo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:23.776171220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Di jalan tsedeq ado kahidupan, jo di jalan nan ditampuah indak ado kamatian.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kahidupan"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "jo di jalan"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "nan ditampuah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:36.889281668Z",
+  "model": "glm-5.3"
+}

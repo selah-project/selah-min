@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 63,
+  "translation": "Sarupo lamak jo galeang, nawa ambo ka kanyang; jo bibia nan mangarumbai ria muluik ambo mamuji.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "jo galeang"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ka kanyang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nawa ambo"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "jo bibia"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "nan mangarumbai ria"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:45.577317938Z",
+  "model": "glm-5.3"
+}

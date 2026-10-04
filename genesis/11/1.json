@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Maka saluruah bumi iyo ⟨adalah⟩ mampunyoi ciek bibia jo kato-kato nan ciek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka jadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "bibia"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "jo kato-kato"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "nan ciek"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:03.084950082Z",
+  "model": "glm-5.3"
+}

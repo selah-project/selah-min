@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo potonglah ⟨את⟩ kulik sipuik ati angkau, jo tangkuiak angkau indak karehkan lai.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Jo potonglah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulik sipuik ati"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "kulik sipuik"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ati angkau"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "jo tangkuiak angkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "karehkan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:26.210068746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Tatap inyo babuah dalam tuo, baminyak jo hijau segar inyo ado.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "tatap"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "babuah"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "dalam tuo"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "baminyak"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "jo hijau segar"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ado"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:19.432175124Z",
+  "model": "glm-5.3"
+}

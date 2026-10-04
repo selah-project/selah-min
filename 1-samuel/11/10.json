@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 11:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo urang Yaves bakato: Esok ambo ka kalua kapado kalian, jo bua kalian kapado ambo sadonyo nan elok di mato kalian.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jo urang tu bakato"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaves"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "esok"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "ambo ka kalua"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kapado kalian"
+    },
+    {
+      "surface": "ו עשיתם",
+      "gloss": "jo bua kalian"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "di mato kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T05:25:34.791049672Z",
+  "model": "glm-5.3"
+}

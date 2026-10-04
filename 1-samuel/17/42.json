@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Urang Palisdi tu mancaliak, jo kok caliak ⟨את⟩ Dawid, lalu inyo pandang randah inyo, karano inyo urang mudo, sirah rambuiknyo, jo rancak rupo.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "urang Palisdi tu"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "kok caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "lalu inyo pandang randah inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adolah"
+    },
+    {
+      "surface": "נער",
+      "gloss": "urang mudo"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "sirah rambuiknyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "rancak"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "rupo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:18.081748255Z",
+  "model": "glm-5.3"
+}

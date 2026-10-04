@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Jo Yaakov bakato kapado Yosef: El Shaddai mancaliak dirinyo kapado ambo di Luz, di tanah Kenaan, dan Inyo mareki ⟨את⟩ ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "mancaliak dirinyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "di Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mareki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:01.943204605Z",
+  "model": "glm-5.3"
+}

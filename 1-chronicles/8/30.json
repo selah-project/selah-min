@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo anaknyo nan partama Abdon, jo Tsur, jo Kish, jo Baal, jo Nadab,",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "jo anaknyo"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "nan partama"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "jo Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "jo Kish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "jo Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "jo Nadab"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:37.467335485Z",
+  "model": "glm-5.3"
+}

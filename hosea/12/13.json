@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo Yaakov lari ka padang Aram, jo Yisrael babarapek untuak saurang bini, jo untuak saurang bini inyo manjago kambiang.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "lari"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "babarapek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "untuak saurang bini"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "jo untuak saurang bini"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "manjago kambiang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:58.588407775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Sampai salamanyo ambo indak ka lupo pikued-Mu, karano jo banyo Awak mangidupan ambo.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "sampai salamanyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ambo lupo"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pikued-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jo banyo"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "Awak mangidupan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:51.850648052Z",
+  "model": "glm-5.3"
+}

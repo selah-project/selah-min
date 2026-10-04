@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Maka Aku mamarintahkan ⟨את⟩ baskah-Ku untuak angkau pado taun kaanam, dan inyo mambuek ⟨את⟩ hasil panen untuak tigo taun.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baskah-Ku"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "baskah-Ku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak angkau"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pado taun"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "kaanam"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "dan inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasil panen"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "hasil panen"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "untuak tigo"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:26.653086889Z",
+  "model": "glm-5.3"
+}

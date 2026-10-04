@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo inyo bakato: Bareh ⟨את⟩ Avishag urang Shunem diagiah kapado Adoniyahu, sudaro ang, manjadi bini.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bareh diagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "urang Shunem"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "kapado Adoniyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sudaro ang"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "manjadi bini"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:59.386305414Z",
+  "model": "glm-5.3"
+}

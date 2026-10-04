@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 122,
+  "translation": "Karano rumah Yahweh Elohim kito, ambo mancari kabaiakan untuak ±dirimu.»",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ambo mancari"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabaiakan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak dirimu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:52.433704338Z",
+  "model": "glm-5.3"
+}

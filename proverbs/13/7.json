@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Ado nan mambuek dirinyo kayo, tapi indak punyo apo-apo; ado nan mambuek dirinyo miskin, tapi harato bana banyak.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "nan mambuek dirinyo kayo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi indak punyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apo-apo"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "nan mambuek dirinyo miskin"
+    },
+    {
+      "surface": "והון",
+      "gloss": "tapi harato"
+    },
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:39.608345816Z",
+  "model": "glm-5.3"
+}

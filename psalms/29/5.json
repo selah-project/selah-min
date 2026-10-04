@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Suaro Yahweh mamacah ⟨את⟩ kayu aroaz; baa, Yahweh mamacah ⟨את⟩ aroaz-aroaz Levanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "mamacah"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "kayu aroaz"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "baa, mamacah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroaz-aroaz Levanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "aroaz-aroaz"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Levanon"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:09.406294785Z",
+  "model": "glm-5.3"
+}

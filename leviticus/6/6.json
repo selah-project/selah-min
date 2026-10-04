@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Api nan taruih baka di ateh mazbah tu, indak buliah dipadaman.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "baka"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "buliah dipadaman"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:25.675652086Z",
+  "model": "glm-5.3"
+}

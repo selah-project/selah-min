@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Nan mahaja ⟨את⟩ bangso-bangso, indakkah inyo mahakimi? Nan maaja ilmu kapado manusia, ⟨musti inyo tau⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "nan mahaja"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "indakkah"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "inyo mahakimi"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "nan maaja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "kapado manusia"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ilmu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:11.303827753Z",
+  "model": "glm-5.3"
+}

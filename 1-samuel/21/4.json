@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo kini, apo ado di bawah tangan san? Lima roti — barikan ka tangan ambo, atau nan tasadio.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Jo kini"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan san"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "Lima"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "barikan"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ka tangan ambo"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nan tasadio"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:01.975254017Z",
+  "model": "glm-5.3"
+}

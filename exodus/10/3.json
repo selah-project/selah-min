@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 10:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Maka Moshe jo Aharon masuak kapado Paroh, lalu inyo bakato kapadonyo: Begini kato Yahweh, Elohim kaum Ibrani: Sampai bilo sanak manolak untuak marunduak diri di muko ambo? Lepaskanlah kaumku, supayo inyo mangabdi kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Maka masuak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jo Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Begini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "kaum Ibrani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "מאנת",
+      "gloss": "sanak manolak"
+    },
+    {
+      "surface": "לענת",
+      "gloss": "untuak marunduak diri"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "di muko ambo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Lepaskanlah"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kaumku"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "supayo inyo mangabdi kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:39.854131420Z",
+  "model": "glm-5.3"
+}

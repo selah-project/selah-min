@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Mizmorel nan untuak Dawid. Agiahlah kapado Yahweh, hai anak-anak El, agiahlah kapado Yahweh kagamarian jo kakuatan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmorel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Agiahlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "agiahlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kagamarian"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "jo kakuatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:28.963460389Z",
+  "model": "glm-5.3"
+}

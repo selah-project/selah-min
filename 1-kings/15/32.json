@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo parang ado di antaro Asa jo Baasa rajo Yisrael salamo ari-ari iduik mereka.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "jo parang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ari-ari iduik mereka"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:51.826677058Z",
+  "model": "glm-5.3"
+}

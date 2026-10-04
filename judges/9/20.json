@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Tapi kalau indak, kaluaikah api dari Avimelekh, jo makan ⟨את⟩ urang Syekem jo ⟨את⟩ rumah Millo; jo kaluaikah api dari urang Syekem jo dari rumah Millo, jo makan ⟨את⟩ Avimelekh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi kalau"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kaluaikah"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "dari Avimelekh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "jo makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Syekem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "urang"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Syekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Millo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "jo kaluaikah"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "dari urang"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Syekem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "jo dari rumah"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "jo makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:16:13.074844101Z",
+  "model": "glm-5.3"
+}

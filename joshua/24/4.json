@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu Ambo maagiah kapado Yitskhak ⟨את⟩ Yaakov jo ⟨את⟩ Esau, jo Ambo maagiah kapado Esau ⟨את⟩ gunuang Seir untuak dipunyoinyo; tapi Yaakov jo anak-anaknyo turun ka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Ambo maagiah"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kapado Yitskhak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "Ambo maagiah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kapado Esau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunuang Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "untuak dipunyoi"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jo anak-anaknyo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T05:11:43.263721342Z",
+  "model": "glm-5.3"
+}

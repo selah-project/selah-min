@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Takuek jo gatah datang ka dalam ambo, jo kacalakaan manyungkuik ambo.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "takuek"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "jo gatah"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka dalam ambo"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "manyungkuik ambo"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "kacalakaan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:34.952347842Z",
+  "model": "glm-5.3"
+}

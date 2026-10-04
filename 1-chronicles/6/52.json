@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo inyo maagiah ka mereka ⟨את⟩ kota-kota palarian: ⟨את⟩ Shekhem jo ⟨את⟩ tanah lapangnyo di bukik Efrayim, jo ⟨את⟩ Gezer jo ⟨את⟩ tanah lapangnyo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "jo inyo maagiah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota palarian"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "palarian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tanah lapangnyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah lapangnyo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di bukik"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tanah lapangnyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah lapangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:07.505393062Z",
+  "model": "glm-5.3"
+}

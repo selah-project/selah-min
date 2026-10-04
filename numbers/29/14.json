@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 29:14",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo minkha-nyo: tapuang gandum bacampua jo minyak, tigo baleh isaron untuak ciek anak lombu — untuak tigo baleh anak lombu — duo isaron untuak ciek domba jantan, untuak duo domba jantan.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "jo minkha-nyo"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tapuang gandum"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "bacampua"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "baleh isaron"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "untuak anak lombu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "לשלשה",
+      "gloss": "untuak tigo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "anak lombu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "isaron"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "untuak domba jantan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "untuak duo"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "domba jantan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:48:36.708424659Z",
+  "model": "glm-5.3"
+}

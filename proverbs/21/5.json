@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Rancang-rancang urang nan rajin hanyo mandapek ka labiah-labiah; tapi satiok urang nan taragak-ragak hanyo mandapek ka kurang.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "rancang-rancang"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "urang nan rajin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "mandapek ka labiah-labiah"
+    },
+    {
+      "surface": "ווכל",
+      "gloss": "tapi satiok"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "urang nan taragak-ragak"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "mandapek ka kurang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:58:51.959966173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo kau akaik ⟨את⟩ limo tapih-tapih ciek surang, jo ⟨את⟩ anam tapih-tapih ciek surang, jo kau gando ⟨את⟩ tapih nan kaanam di muko kemah tu.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "jo kau akaik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limo tapih-tapih"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limo"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tapih-tapih"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ciek surang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anam tapih-tapih"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tapih-tapih"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ciek surang"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "jo kau gando"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tapih nan kaanam"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "tapih"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "nan kaanam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "מול",
+      "gloss": "muko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:53.431237440Z",
+  "model": "glm-5.3"
+}

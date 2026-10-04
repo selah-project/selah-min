@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Urang tu mambueh ⟨את⟩ sagalo jiwa nan ado di dalamnyo jo muncuak padang — urang tu ditumpas; indak tasiso ciek juo nan mangarok; jo ⟨את⟩ Hatsor inyo baka jo api.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "mambueh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo jiwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ado di dalamnyo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "jo muncuak"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ditumpas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "tasiso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciek juo"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "nan mangarok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "baka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    }
+  ],
+  "timestamp": "2026-10-04T05:07:54.115644419Z",
+  "model": "glm-5.3"
+}

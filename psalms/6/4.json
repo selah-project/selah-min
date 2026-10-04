@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo nawa ambo gataik bana; jo Dapek, Yahweh — sampai bilo?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "jo nawa ambo"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "gataik"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo Dapek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:24.244495230Z",
+  "model": "glm-5.3"
+}

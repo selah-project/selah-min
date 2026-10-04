@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo dabu ko baliak ka tanah sarupo nan dahulu, jo ruakh ko baliak ka Elohim nan mangarimonjo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "jo baliak"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "sarupo nan dahulu"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "jo ruakh"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "mangarimonjo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:20.159849540Z",
+  "model": "glm-5.3"
+}

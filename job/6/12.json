@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Apo kakuatan ambo kakuatan batu? Apo dagiang ambo tambago?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kakuatan ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagiang ambo"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "tambago"
+    }
+  ],
+  "timestamp": "2026-10-04T08:04:18.848041465Z",
+  "model": "glm-5.3"
+}

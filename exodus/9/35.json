@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ati Paroh manjadi kareh, jo inyo indak malapeh ⟨את⟩ anak-anak Yisrael, sarupo nan alah dikatoakan Yahweh dek tangan Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "manjadi kareh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "malapeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikatoakan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deh tangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:33.684571982Z",
+  "model": "glm-5.3"
+}

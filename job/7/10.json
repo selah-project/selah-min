@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Indak ka baliak lai ka rumahnyo, jo tampeknyo indak ka mangana inyo lai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ka baliak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ka rumahnyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ka mangana inyo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "tampeknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:04:03.725655346Z",
+  "model": "glm-5.3"
+}

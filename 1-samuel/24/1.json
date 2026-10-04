@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu Dawid naik dari sinan, jo tingga di kubu-kubu Ein Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lalu naik"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sinan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jo tingga"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "di kubu-kubu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:27.338397139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lalu satiok urang mangalahan ⟨את⟩ lalakinyo masiang-masiang, lalu Aram lari, jo Yisrael manuduik urang tu, lalu Ben-Hadad rajo Aram lolos jo ⟨mangidaiki⟩ kudo jo para pangana kudo.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "lalu satiok urang mangalahan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "satiok urang"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "lalakinyo masiang-masiang"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "lalu lari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "lalu manuduik urang tu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "lalu lolos"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨mangidaiki⟩"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kudo"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "jo para pangana kudo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:53:46.076083387Z",
+  "model": "glm-5.3"
+}

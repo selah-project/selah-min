@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Urang nan manamui inyo sadang mahimpun kayu mambaok inyo ⟨את⟩ dakek Moshe, jo kapado Aharon, jo kapado sadoalah jamaah.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "mambaok dakek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (urang tu)"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "urang nan manamui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (urang tu)"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "sadang mahimpun"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:43:36.569750005Z",
+  "model": "glm-5.3"
+}

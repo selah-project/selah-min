@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jadi salasailah langik jo bumi, sarato sagalo pasukannyo.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "salasailah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "jo bumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarato sagalo"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "pasukannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:44.896710497Z",
+  "model": "glm-5.3"
+}

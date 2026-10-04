@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Samoga sabana mandalam ambo manjadi lamak di hadapan-Nyo; ambo, ambo basanang-sanang dalam Yahweh.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "samoga manjadi lamak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di hadapan-Nyo"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "sabana mandalam ambo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "ambo basanang-sanang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "dalam Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:42.238281104Z",
+  "model": "glm-5.3"
+}

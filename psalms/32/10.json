@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Ragi kasakik untuak urang durhaka, tapi nan picayo kapado Yahweh, hesed mangaliliangi inyo.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ragi"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "kasakik"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "untuak urang durhaka"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "tapi nan picayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "mangaliliangi inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:21.033375719Z",
+  "model": "glm-5.3"
+}

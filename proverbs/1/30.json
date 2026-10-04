@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Indak inyo urang mao kapado nasihat ambo, inyo urang hina sadonyo koreksian ambo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "mao"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "kapado nasihat ambo"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "inyo urang hina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "koreksian ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:39.692318896Z",
+  "model": "glm-5.3"
+}

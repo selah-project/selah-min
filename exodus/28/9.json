@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Dan kau ambiak ⟨את⟩ duo batu syoham, lalu kau ukia namo-namo anak-anak Yisrael di atehnyo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dan kau ambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duo batu syoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "syoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "lalu kau ukia"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:00.201243048Z",
+  "model": "glm-5.3"
+}

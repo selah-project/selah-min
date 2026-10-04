@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Caliaklah, ari-ari tibo, kato Yahweh, dan ambo ka manabueh ⟨את⟩ rumah Yisrael jo ⟨את⟩ rumah Yehudah beniah manusia jo beniah binatang.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Caliaklah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "dan ambo ka manabueh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "jo beniah"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:37:20.337506163Z",
+  "model": "glm-5.3"
+}

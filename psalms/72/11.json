@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Jo sado rajo-rajo basujuik kapadonyo, sado bangso-bangso balayok inyo.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "jo basujuik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "balayok inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:05.892137436Z",
+  "model": "glm-5.3"
+}

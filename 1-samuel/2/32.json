@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo ang ka mancaliak kasusahan di tampek tingga, di sagalo kabaiaknan nan dibuek kapado ⟨את⟩ Yisrael; jo indak ka ado urang tuo di rumah ang sapanjang ari.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "jo ang ka mancaliak"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "di tampek tingga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "dibuek kabaiaknan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka ado"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "urang tuo"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di rumah ang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:51.446092369Z",
+  "model": "glm-5.3"
+}

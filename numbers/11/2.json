@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Urnag tu maīla ka Moshe, jo Moshe badoa kapado Yahweh, lalu api itu padam.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "maīla"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "jo badoa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "lalu padam"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:45.362990418Z",
+  "model": "glm-5.3"
+}

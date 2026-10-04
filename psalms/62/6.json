@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 62,
+  "translation": "Hanyo kapado Elohim jiwa ambo diam; karano dari-Nyo lah harapan ambo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "diam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari-Nyo"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "harapan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:27.102083135Z",
+  "model": "glm-5.3"
+}

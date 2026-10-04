@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "jo bakato bakeh inyo ⟨את⟩ kaba-kaba nan elok, jo manampek takhtanyo di ateh takhta rajo-rajo nan ado basamo ⟨את⟩ inyo di Babel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bakeh ⟨את⟩ inyo"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "kaba-kaba nan elok"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jo manampek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takhtanyo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhtanyo"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "untuak takhta"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "basamo ⟨את⟩ inyo"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "di Babel"
+    }
+  ],
+  "timestamp": "2026-10-04T06:47:51.977667529Z",
+  "model": "glm-5.3"
+}

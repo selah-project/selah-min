@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Dan bueklah ciek kapporet dari ameh murni: duo hasta satangah ⟨adolah⟩ panjangnyo, jo ciek hasta satangah lebaanyo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dan bueklah"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kapporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "duo hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jo satangah"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "panjangnyo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "jo ciek hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jo satangah"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lebaanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:20.789360903Z",
+  "model": "glm-5.3"
+}

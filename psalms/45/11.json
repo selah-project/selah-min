@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Danga, O anak gadih, caliak, jo palingkakan talingoamu; lupo pulo urangmu jo rumah apakmu.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Danga"
+    },
+    {
+      "surface": "בת",
+      "gloss": "O anak gadih"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "jo caliak"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "jo palingkakan"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "talingoamu"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "jo lupo pulo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "urangmu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "jo rumah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apakmu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:25.994762295Z",
+  "model": "glm-5.3"
+}

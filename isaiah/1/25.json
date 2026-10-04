@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Ambo ka mambaok baliak tangan ambo atasmu, jo manjariang sarimu sarupo kabur, jo mahapuih saluruah timahmu.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "jo mambaok baliak"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan ambo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atasmu"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "jo manjariang"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "sarimu"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "jo mahapuih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "timahmu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:58.265885558Z",
+  "model": "glm-5.3"
+}

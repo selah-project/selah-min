@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Kasusahan ati ambo lah malaweh; kaluakan ambo dari sasak-sasak ambo.",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "lah malaweh"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "dari sasak-sasak ambo"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "kaluakan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:04.198948560Z",
+  "model": "glm-5.3"
+}

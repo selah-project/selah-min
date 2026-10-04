@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 37:20",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Jo kayu-kayu nan ang tulih ka atehnyo, angkhek ado di tangan kau, di mato urang tu.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "jo angkhek ado"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "ang tulih"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka atehnyo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di tangan kau"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "di mato urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:02:20.776580359Z",
+  "model": "glm-5.3"
+}

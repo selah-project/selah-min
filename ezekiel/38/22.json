@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 38:22",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo ambo mahukum inyo ⟨את⟩ jo wabaak, jo darah, jo ujan banjia, jo batu-batu elgabis, api jo balerang — ambo ka manurunkan atasmnyo, jo atasmnyo pasukannyo, jo atasmnyo bangso-bangso nan banyak nan ⟨את⟩ basamo inyo.",
+  "tokens": [
+    {
+      "surface": "ונשפטתי",
+      "gloss": "jo ambo mahukum"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "jo wabaak"
+    },
+    {
+      "surface": "ובדם",
+      "gloss": "jo darah"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "jo ujan"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "banjia"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "jo batu-batu"
+    },
+    {
+      "surface": "אלגביש",
+      "gloss": "elgabis"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "וגגפרית",
+      "gloss": "jo balerang"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "ambo ka manurunkan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasmnyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo atasmnyo"
+    },
+    {
+      "surface": "אגפיו",
+      "gloss": "pasukannyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo atasmnyo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ basamo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:01:20.641011501Z",
+  "model": "glm-5.3"
+}

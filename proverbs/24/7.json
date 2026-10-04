@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Karano hatek bana hikmah untuak urang bodoh, di gapuro inyo indak mambukakprogramsnyo.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "karano hatek bana"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "untuak urang bodoh"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di gapuro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "muroninyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:12.101070723Z",
+  "model": "glm-5.3"
+}

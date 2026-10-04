@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo katiko urang tu tibo, inyo maliek ⟨את⟩ Eliav, jo bakato: Pasti di muko Yahweh nan diurapi-Nyo ko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo katiko"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "urang tu tibo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "inyo maliek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אך",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "nan diurapi-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:27:25.361943906Z",
+  "model": "glm-5.3"
+}

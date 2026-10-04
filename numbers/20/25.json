@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Ambiaklah ⟨את⟩ Aharon jo ⟨את⟩ Elazar anaknyo, jo ombo ⟨את⟩ inyo naiak ka Hor, gunuang itu.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ambiaklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "jo ombo naiak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunuang itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:45:35.963441728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Kato-kato dari muncuangnyo: kajahatan jo panebuikan; inyo alah baranti untuak mangarati, untuak babaik.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "dari muncuangnyo"
+    },
+    {
+      "surface": "און",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "jo panebuikan"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "baranti"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "untuak mangarati"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "untuak babaik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:30.317954589Z",
+  "model": "glm-5.3"
+}

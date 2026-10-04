@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jan himpun jiwa ambo basamo urang sala, jo jan basamo urang tukang darah hiduik ambo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "himpun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "urang sala"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa ambo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jo basamo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "urang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tukang darah"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hiduik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:02.797248864Z",
+  "model": "glm-5.3"
+}

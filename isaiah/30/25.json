@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 30:25",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo ado di ateh satiok gunuang tinggi jo di ateh satiok bukik nan tadangkak, saluran-saluran, aruah-aruah aia, pado ari pambantaian nan gadang, katiko manara-manara runtuah.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jo ado"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "bukik"
+    },
+    {
+      "surface": "נשאה",
+      "gloss": "nan tadangkak"
+    },
+    {
+      "surface": "פלגים",
+      "gloss": "saluran-saluran"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "aruah-aruah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pambantaian"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "katiko runtuah"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "manara-manara"
+    }
+  ],
+  "timestamp": "2026-10-04T06:15:33.238688518Z",
+  "model": "glm-5.3"
+}

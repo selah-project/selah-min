@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Di puncak tampek-tampek tinggi, dakek jalan, di tampek laluan-laluan batamu, inyo badiri",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "di puncak"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "tampek-tampek tinggi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "laluan-laluan"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "badiri"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:33.958369834Z",
+  "model": "glm-5.3"
+}

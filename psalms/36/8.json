@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Sangai mahal hesed-Mu, Elohim, inggo anak-anak manusia balinduang di bawah bayang-bayang sayok-Mu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "sangai"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "mahal"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "inggo anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "di bawah bayang-bayang"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sayok-Mu"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "balinduang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:35.115331020Z",
+  "model": "glm-5.3"
+}

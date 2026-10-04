@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Maka Yehosyua malumpuahkan ⟨את⟩ Amalek jo ⟨את⟩ rakyaiknyo jo muncuak padang.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "malumpuahkan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "rakyaiknyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "rakyaiknyo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "jo muncuak"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:27.533400518Z",
+  "model": "glm-5.3"
+}

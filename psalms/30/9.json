@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Kapado You Yahweh ambo manyaruik, jo kapado Adonai ambo bamohon kasih.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Kapado You"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ambo manyaruik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ambo bamohon kasih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:10.832916053Z",
+  "model": "glm-5.3"
+}

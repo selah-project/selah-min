@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Urang-urang jahat alah mambuek jaring untuak ambo, tapi dari parentah-Mu ambo indak manyasaruang diri.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jaring"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "tapi dari parentah-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "manyasaruang diri"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:17.069789737Z",
+  "model": "glm-5.3"
+}

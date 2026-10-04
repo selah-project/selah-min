@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Sanak mambuek ambo tau jalan iduik; kapuasan ria sori ado di ⟨את⟩ muko-Mu; kamanisan ado di tangan suok-Mu salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Sanak mambuek ambo tau"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kapuasan"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "ria sori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko-Mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "kamanisan"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "di tangan suok-Mu"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:28.862576884Z",
+  "model": "glm-5.3"
+}

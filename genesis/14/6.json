@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo ⟨את⟩ urang Hori di gunuang mareka Seir, sampai El-Paran nan ado di dakek padang gurun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Hori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "urang Hori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "di gunuang mareka"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di dakek"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:07.314824598Z",
+  "model": "glm-5.3"
+}

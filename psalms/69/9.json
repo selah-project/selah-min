@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Urang asiang ambo manjadi kapado sanak-sanak ambo, jo urang asa kapado anak-anak mande ambo.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ambo manjadi"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kapado sanak-sanak ambo"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "jo urang asa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kapado anak-anak"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mande ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:02.247301308Z",
+  "model": "glm-5.3"
+}

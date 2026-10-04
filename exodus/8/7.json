@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo katak-katak itu ka pai dari ang, jo dari rumah-rumah ang, jo dari hamba-hamba ang, jo dari bangso ang; hanyo di batang aia se inyo tingga.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "jo inyo ka pai"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak itu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari ang"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "jo dari rumah-rumah ang"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "jo dari hamba-hamba ang"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "jo dari bangso ang"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "di batang aia"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "inyo tingga"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:41.543425578Z",
+  "model": "glm-5.3"
+}

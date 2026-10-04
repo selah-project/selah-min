@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Namun angkau akan diturunkan ka Sheol, ka liang-Liang nan dasa-dasa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "namun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "angkau akan diturunkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ka dasa-dasa"
+    },
+    {
+      "surface": "בור",
+      "gloss": "liang-Liang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:10:13.242830430Z",
+  "model": "glm-5.3"
+}

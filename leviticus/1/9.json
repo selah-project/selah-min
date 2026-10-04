@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo isi paruiknyo jo tungkaiinyo dibasuh jo aia, lalu imam manyalayang ⟨את⟩ sagalonyo di ateh mazbeakh — kurban bakar, paresun dek api, bau nan mananam kapado Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "jo isi paruiknyo"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "jo tungkaiinyo"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "dibasuh"
+    },
+    {
+      "surface": "במים",
+      "gloss": "jo aia"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "lalu manyalayang"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalonyo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sagalonyo"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di ateh mazbeakh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "paresun dek api"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "nan mananam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:03.663559934Z",
+  "model": "glm-5.3"
+}

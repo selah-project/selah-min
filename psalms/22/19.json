@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Mareka mambagi ⟨את⟩ pakaian-pakaian ambo di antaro mareka, jo ateh pakaian ambo mareka mahamparkan undo-undo.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "mareka mambagi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian ambo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak mareka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "pakaian ambo"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "mareka mahamparkan"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "undo-undo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:25.313482604Z",
+  "model": "glm-5.3"
+}

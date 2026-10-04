@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Yahweh mampukua kau jo batuk layu, jo damam, jo radang, jo paneh mambaaka, jo padang, jo hampanyo, jo lapuak ijau; dan sagalonyo mangejek kau sampai kau binaso.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "mampukua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "jo batuk layu"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "jo damam"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "jo radang"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "jo paneh mambaaka"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "jo padang"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "jo hampanyo"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "jo lapuak ijau"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "mangejek kau"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "kau binaso"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:21.493996724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 44:21",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Ingo-i ko, alek Yaakov jo alek Yisrael, karano murid ambo awak, ambo mambantuak awak, murid untuak ambo awak alek, Yisrael indak ka lupo ka ambo.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingo-i"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "jo Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "murid ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "awak"
+    },
+    {
+      "surface": "יצרתיך",
+      "gloss": "mambantuak awak"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "murid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "awak alek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תנשני",
+      "gloss": "ka lupo ka ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:56.224949757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Inyo labiiah dicaroi daripado ameh, ameh murni nan banyak, jo labiiah manih daripado madu jo tetes madu dari sarang.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "labiiah dicaroi"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "daripado ameh"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ameh murni"
+    },
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "labiiah manih"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "daripado madu"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "tetes madu"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "dari sarang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:50.664480469Z",
+  "model": "glm-5.3"
+}

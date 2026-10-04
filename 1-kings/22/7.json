@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lalu Yehosafat bakato: Apo indak ado di siko lai ciek nabi untuak Yahweh, supayo kito batanyo ⟨את⟩ kapadonyo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Apo indak ado"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di siko"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "supayo kito batanyo"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ kapadonyo",
+      "marks": "inyo (Mikhayahu)"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:38.568081376Z",
+  "model": "glm-5.3"
+}

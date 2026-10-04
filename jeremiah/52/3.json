@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "Karano dek kamurka'an Yahweh tajadi ⟨iko⟩ di Yerushalayim jo di Yehudah, sampai lai inyo mambuang inyo dari muko-Nyo; jo Tsidkiyahu barundiak jo rajo Babel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kamurka'an"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tajadi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jo di Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai lai"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "mambuang"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ino",
+      "marks": "ino (Yerushalayim jo Yehudah)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "muko-Nyo"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "jo barundiak"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "jo rajo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-10-04T09:19:17.588663989Z",
+  "model": "glm-5.3"
+}

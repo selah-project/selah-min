@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Ambo ka mamuji Yahweh sangaik jo munciak ambo, jo di tangah-tangah urang banyak ambo ka managakkan pujian untuak-Nyo.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ambo ka mamuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "jo munciak ambo"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "jo di tangah-tangah"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ambo ka managakkan pujian untuak-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:26.864873211Z",
+  "model": "glm-5.3"
+}

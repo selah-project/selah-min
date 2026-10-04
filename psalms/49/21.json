@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Manusia dalam kamuliaan tapi indak mamahami, inyo dipabandiangan jo binatang-binatang — binatang tu alah punah.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Manusia"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "dalam kamuliaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mamahami"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "dipabandiangan"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "jo binatang-binatang"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "alah punah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:04.810391657Z",
+  "model": "glm-5.3"
+}

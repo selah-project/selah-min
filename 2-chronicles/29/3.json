@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 29:3",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Inyo, pado taun patamo pamarintahannyo, pado bulan patamo, mambukak ⟨את⟩ pintu-pintu rumah Yahweh, jo inyo manguek baliak pintu-pintu itu.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Inyo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pado taun"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "patamo"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "pamarintahannyo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "pado bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "patamo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pintu-pintu rumah Yahweh"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "jo inyo manguek baliak pintu-pintu itu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:57:33.233979951Z",
+  "model": "glm-5.3"
+}

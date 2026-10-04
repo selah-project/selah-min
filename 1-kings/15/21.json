@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Maka katiko Baasa mandanga itu, inyo baranti mambangun ⟨את⟩ Rama, jo tingga di Tirtsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka katiko"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "baranti"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "di Tirtsa"
+    }
+  ],
+  "timestamp": "2026-10-04T05:52:04.743982001Z",
+  "model": "glm-5.3"
+}

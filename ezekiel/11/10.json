@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Dangan padang kalian ka jatuah; pado bateh Yisrael Ambo ka maadili ⟨את⟩ kalian, jo kalian ka mangatahui baso Ambo Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "dangan padang"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "kalian ka jatuah"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "bateh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "Ambo ka maadili"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kalian",
+      "marks": "kalian"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "jo kalian ka mangatahui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:50:30.450666657Z",
+  "model": "glm-5.3"
+}

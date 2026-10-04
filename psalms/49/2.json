@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Taguek lah ancía ko, sado bangso-bangso; pasan talingo lah, sado panghuni dunyo.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "taguek"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "pasan talingo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "panghuni"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "dunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:50.341084072Z",
+  "model": "glm-5.3"
+}

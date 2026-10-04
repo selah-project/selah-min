@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Tapi uap naik dari bumi, jo mairi sado ⟨את⟩ muko samu tanah itu.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "Tapi uap"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "jo mairi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado muko samu tanah itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko samu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:43.877360921Z",
+  "model": "glm-5.3"
+}

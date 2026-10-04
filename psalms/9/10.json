@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Dan Yahweh manjadi kubu untuak nan taseduah, kubu pado maso-maso kasusahan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan manjadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "untuak nan taseduah"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pado maso-maso"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "kasusahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:42.727492175Z",
+  "model": "glm-5.3"
+}

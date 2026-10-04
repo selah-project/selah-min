@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Kalau Yahweh loba nak jo kito, maka ⟨inyo⟩ mambaok ⟨את⟩ kito ka tanah iko jo maagiahnyo kapado kito — tanah nan maaliran susu jo madu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kalau"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "loba nak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo kito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "maka mambaok"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kito",
+      "marks": "kito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "וונתנה",
+      "gloss": "jo maagiahnyo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado kito"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "maaliran"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "jo madu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:42:36.436010236Z",
+  "model": "glm-5.3"
+}

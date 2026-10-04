@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 3:28",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo perintahkan ⟨את⟩ Yehosyua, jo kuekkan inyo, jo buek inyo taguah, karano inyo nan ka malewati di muko urang banyak ko, jo inyo nan ka maagiah warisan kapado urang tu ⟨את⟩ tanah nan ka sanak caliak.",
+  "tokens": [
+    {
+      "surface": "וצו",
+      "gloss": "jo perintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosyua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "jo kuekkan inyo"
+    },
+    {
+      "surface": "ואמצהו",
+      "gloss": "jo buek inyo taguah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ka malewati"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "ka maagiah warisan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kapado urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ka sanak caliak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:28.807956075Z",
+  "model": "glm-5.3"
+}

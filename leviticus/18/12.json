@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Kabogalan sudaro padusi apak dake indak dake tagalehkan, karano inyo dagiang apak dake inyo.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kabogalan"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sudaro padusi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apak dake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "tagalehkan"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apak dake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:06.067811693Z",
+  "model": "glm-5.3"
+}

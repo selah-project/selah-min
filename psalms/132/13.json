@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Karano Yahweh alah mamiliak Tsiyon, inyo mangahandoki inyo sabagai tampek tingga untuak Ia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "mamiliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "mangahandoki"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "sabagai tampek tingga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak Ia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:19.240624507Z",
+  "model": "glm-5.3"
+}

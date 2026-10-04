@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 1:37",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sarupo Yahweh pernah basamo tuan ambo rajo, baitu bilo Inyo basamo Shelomoh, jo manggadangkan ⟨את⟩ takhtanyo labiah gadang dari takhta tuan ambo rajo Dawid.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "pernah ado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bilo ado"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "jo manggadangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takhtanyo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhtanyo"
+    },
+    {
+      "surface": "מכסא",
+      "gloss": "dari takhta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:05.368983087Z",
+  "model": "glm-5.3"
+}

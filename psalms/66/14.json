@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Nan alah buka bibia ambo ujuak, jo nan dikatoaan muang ambo katiko ambo dalam kasusaik.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "alah buka"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibia ambo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "jo nan dikatoaan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muang ambo"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dalam kasusaik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:18.757859835Z",
+  "model": "glm-5.3"
+}

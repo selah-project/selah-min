@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Lalu Yitskhak bakato kapado Yaakov: \"Dakeklah ka sinan, uniak, supayo ambo maraso awak — apo awak ko anak ambo Esav, apo bukan?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "dakeklah ka sinan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lah"
+    },
+    {
+      "surface": "ו אמשך",
+      "gloss": "supayo ambo maraso awak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "uniak"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "apo awak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:05.411128665Z",
+  "model": "glm-5.3"
+}

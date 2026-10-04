@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Untuak nan mamimpin musik, mazmur untuak Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak nan mamimpin musik"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:42.554237322Z",
+  "model": "glm-5.3"
+}

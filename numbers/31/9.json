@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Urang-urang Yisrael manangkok ⟨את⟩ bini-bini Midian jo ⟨את⟩ anak-anaknyo, jo ⟨את⟩ sado binatangnyo, jo ⟨את⟩ sado taranaknyo, jo ⟨את⟩ sado kakayoannyo alah dirampok",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "manangkok"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini-bini Midian"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "bini-bini"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado binatangnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "binatangnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado taranaknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "taranaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado kakayoannyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kakayoannyo"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "alah dirampok"
+    }
+  ],
+  "timestamp": "2026-10-04T04:49:40.370729482Z",
+  "model": "glm-5.3"
+}

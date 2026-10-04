@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 22:16",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Apo ang di siko, jo siapo ang di siko, karano ang mahak untuak ang kubua di siko? Mahak di tampek tinggi kubunyo, maiñgiek di batu Mishkan untuaknyo.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak ang"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di siko"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jo siapo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak ang"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di siko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חצבת",
+      "gloss": "ang mahak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak ang"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di siko"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kubua"
+    },
+    {
+      "surface": "חצבי",
+      "gloss": "mahak"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "di tampek tinggi"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kubunyo"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "maiñgiek"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "di batu"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:12:24.369114651Z",
+  "model": "glm-5.3"
+}

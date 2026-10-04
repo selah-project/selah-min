@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 59,
+  "translation": "O kakuatan ambo, kapado-Mu ambo manyanyi mamanjek, karano Elohim adolah tampek tinggi ambo, Elohim nan punyo hesed ambo.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "O kakuatan ambo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ambo manyanyi mamanjek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "tampek tinggi ambo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nan punyo"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesed ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:44.791666829Z",
+  "model": "glm-5.3"
+}

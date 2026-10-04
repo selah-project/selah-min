@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu inyo mangirim ⟨את⟩ buruang dareh dari ⟨את⟩ dirinyo, untuak caliak apo aia alah bakurang dari ateh muko tanah.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buruang dareh"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "buruang dareh"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "dari ⟨את⟩ dirinyo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak caliak"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "apo alah bakurang"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:37.808760087Z",
+  "model": "glm-5.3"
+}

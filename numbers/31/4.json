@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Saribu untuak tiok suku, saribu untuak tiok suku — untuak sado suku Yisrael — utuih-lah inyo untuak parang.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "Saribu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "untuak tiok suku"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "saribu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "untuak tiok suku"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak sado"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "utuih-lah inyo"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "untuak parang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:49:27.972863825Z",
+  "model": "glm-5.3"
+}

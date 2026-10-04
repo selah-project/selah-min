@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 53,
+  "translation": "Jo ⟨את⟩ urang-urang jahat diagiah kubuanyo, jo ⟨את⟩ urang kayo dalam kamatiannyo; walaupun indak kasarangan inyo buek, indak ado pulo panipuikan di muncuaknyo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "diagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang jahat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kubuanyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang kayo"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "urang kayo"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "dalam kamatiannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "walaupun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kasarangan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inyo buek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak ado pulo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "panipuikan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "di muncuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:22:09.147517862Z",
+  "model": "glm-5.3"
+}

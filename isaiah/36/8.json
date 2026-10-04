@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Jo kini, bueklah janji kiro-kiro jo ⟨את⟩ tuan ambo, rajo Asyur, jo ambo ka agiah kapado kau duo ribu kudo, kok kau dapek manyadioan panunggangi atehnyo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "bueklah janji"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiro-kiro"
+    },
+    {
+      "surface": "את",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tuan ambo, rajo Asyur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "jo ambo ka agiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duo ribu"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kudo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "kau dapek"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuak manyadioan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kau"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "panunggangi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:30.163035693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Jo inyo mampalindangi tanah nan gampil sanang, indak inyo picayo kato-Nyo.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "jo inyo mampalindangi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "nan gampil sanang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "inyo picayo"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "kato-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:45.101382051Z",
+  "model": "glm-5.3"
+}

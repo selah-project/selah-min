@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Kalau ang barusaho muko-muko mancari El, jo kapado Shaddai ang bapamoa-pamoa,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "barusaho muko-muko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "תתחנן",
+      "gloss": "bapamoa-pamoa"
+    }
+  ],
+  "timestamp": "2026-10-04T08:04:18.073458346Z",
+  "model": "glm-5.3"
+}

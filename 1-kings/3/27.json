@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu rajo tu manjawek jo bakato: Bari urang tu ⟨את⟩ anak kaciak nan iduik tu, jangan bunuah inyo — inyo iolah ibunyo.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lalu manjawek"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "לה",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak kaciak nan iduik tu"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "anak kaciak"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nan iduik"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "jangan bunuah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "bunuah inyo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo iolah"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:41.947634524Z",
+  "model": "glm-5.3"
+}

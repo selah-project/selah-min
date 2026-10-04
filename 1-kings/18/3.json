@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Akhab maagiah kato kapado Obadyahu nan ateh rumah tu, jo Obadyahu takuik ⟨את⟩ Yahweh sangaik.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maagiah kato"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "jo Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adolah"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:52:28.434403343Z",
+  "model": "glm-5.3"
+}

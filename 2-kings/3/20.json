@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jadi pado pagi hari, katiko minkha pagi tu naik, caliaklah, aia datang dari arah Edom, jo tanah itu tapenuih ⟨את⟩ aia tu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi hari"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "katiko... naik"
+    },
+    {
+      "surface": "המנחha",
+      "gloss": "minkha pagi tu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "caliaklah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "באים",
+      "gloss": "datang"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "dari arah"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "jo tapenuih"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aia tu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:16.585325747Z",
+  "model": "glm-5.3"
+}

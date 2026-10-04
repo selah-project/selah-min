@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Urang Paliset mamunguah ⟨את⟩ potuang Elohim, mambaoknyo masuak ka rumah Dagon, jo manaruhnyo dakek kapado Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "mamunguah"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Urang Paliset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potuang Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "potuang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "potuang tu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ka rumah"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "jo manaruh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "dakek Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "dakek kapado"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:40.317009496Z",
+  "model": "glm-5.3"
+}

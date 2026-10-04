@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 63,
+  "translation": "Elohim, El ambo sanak, ambo mancari Adok bakacak-cakah; napsu ambo lah haus kapado Adok, dagiang ambo lah lamo kamanangan kapado Adok, di tanah kari jo lalok, tanpa aia.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "ambo mancari Adok bakacak-cakah"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "lah haus"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado Adok"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napsu ambo"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "lah lamo kamanangan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado Adok"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagiang ambo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kari"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "jo lalok"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:55.924210439Z",
+  "model": "glm-5.3"
+}

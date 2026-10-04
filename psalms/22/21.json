@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Selamatkan ⟨את⟩ ati ambo dari padang, ⟨את⟩ nan satu-satunyo ambo dari tangan anjiang.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Selamatkan"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dari padang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "aniang"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "nan satu-satunyo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:10.501899763Z",
+  "model": "glm-5.3"
+}

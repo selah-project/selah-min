@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Inyo manyiraman dari minyak itu ka ateh mezbah itu tujuah kali, lalu inyo maurap ⟨את⟩ mezbah itu jo ⟨את⟩ sagalo pakaian-paraiknyo, jo ⟨את⟩ baskom gadang itu jo ⟨את⟩ alaknyo, untuak manyucikannyo.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "manyiraman"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari minyak itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "maurap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah itu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo pakaian-paraiknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pakaian-paraiknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baskom gadang itu"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "baskom gadang itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alaknyo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "alaknyo"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "untuak manyucikannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:10.625436073Z",
+  "model": "glm-5.3"
+}

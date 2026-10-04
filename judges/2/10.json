@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo sagalo angkatan nan itu pun dikumpuaan kapado nenek moyangnyo, lalu bangkek angkatan lain sasudah urang tu, nan indak mangatahui ⟨את⟩ Yahweh, jo pun ⟨את⟩ pakaro nan alah inyo buek untuak Yisrael.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo pun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nan itu"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "dikumpuaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "nenek moyangnyo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "lalu bangkek"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sasudah urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mangatahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo pun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaro"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "untuak Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:11:39.719421338Z",
+  "model": "glm-5.3"
+}

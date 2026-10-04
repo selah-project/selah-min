@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Marakahek jo binasolah urang nan manantang ati ambo; nan dipakaian hino jo akaik malu, urang-urang nan mancari kaba buruak ambo.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "marakahek"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "binasolah"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "urang nan manantang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "nan dipakaian"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hino"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "jo akaik malu"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "urang-urang nan mancari"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kaba buruak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:41.278609766Z",
+  "model": "glm-5.3"
+}

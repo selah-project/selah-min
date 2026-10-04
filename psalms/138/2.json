@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 138,
+  "translation": "Ambo basujud ka arah istano kasucian Kau, jo ambo mamuji ⟨את⟩ namo Kau karano hesed Kau jo karano amik Kau, karano Kau alah mambuek gadang di ateh sado namo Kau — ujar Kau.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "ambo basujud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "istano"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kasucian Kau"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "jo ambo mamuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo Kau"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo Kau"
+    },
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed Kau"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo karano"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "amik Kau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "Kau alah mambuek gadang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo Kau"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ujar Kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:53.973309488Z",
+  "model": "glm-5.3"
+}

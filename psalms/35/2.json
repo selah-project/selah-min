@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Capiaklah parisai jo tampek balinduang, jo bangkiklah untuak manolong ambo.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Capiaklah"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "parisai"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "jo tampek balinduang"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "jo bangkiklah"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "untuak manolong ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:47.411340320Z",
+  "model": "glm-5.3"
+}

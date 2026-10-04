@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Kasucian Yisrael untuak Yahweh, hasia partamonyo; sado nan mamakannyo ka bagala, rabun ka tibo ka ateh inyo tu, kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "kasucian"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "hasia partamo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "nan mamakannyo"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ka bagala"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rabun"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ka tibo"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka ateh inyo tu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:26:16.445885019Z",
+  "model": "glm-5.3"
+}

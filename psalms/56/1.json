@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Untuak panduan musik, tantang ‘buruang daratu nan bisu di tampek nan jauah’; mazmur untuak Dawid, miktam, katiko urang Plistim mamacik ⟨את⟩ inyo di Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak panduan musik"
+    },
+    {
+      "surface": "על",
+      "gloss": "tantang"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "buruang daratu"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "nan bisu"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "di tampek nan jauah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "katiko mamacik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Plistim"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "di Gat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:16.971690592Z",
+  "model": "glm-5.3"
+}

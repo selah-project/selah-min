@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Dan Yahweh bakato kapado Moshe: \"Onjua ⟨את⟩ tanganmu di ateh lauik, supayo aia baliak ka ateh urang Mitsrayim, ka ateh kareta parangnyo jo ka ateh pangacudanyo.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "onjua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "supayo baliak"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "kareta parangnyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ka ateh"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "pangacudanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:15.104752350Z",
+  "model": "glm-5.3"
+}

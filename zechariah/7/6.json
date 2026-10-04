@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Dan sangatokahkok makan jo minum — bukankah inyo barua makan jo minuak untuak diri sanak surang?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan sangatokahkok"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "makan"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "minum"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "nan makan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jo sanak"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "nan minum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:19:07.328653338Z",
+  "model": "glm-5.3"
+}

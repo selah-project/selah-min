@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Alun lai Shemuel mangatahui ⟨את⟩ Yahweh, jo alun lai tapancaliak kapadonyo kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "alun lai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mangatahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "jo alun lai"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "tapancaliak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:57.872396883Z",
+  "model": "glm-5.3"
+}

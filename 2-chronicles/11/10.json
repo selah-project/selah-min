@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "jo ⟨את⟩ Tsorah, jo ⟨את⟩ Ayalon, jo ⟨את⟩ Khevron, nan ado di Yehudah jo di Binyamin, kuta-kuta bakuat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "jo di Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kuta-kuta"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "bakuat"
+    }
+  ],
+  "timestamp": "2026-10-04T08:51:16.291427240Z",
+  "model": "glm-5.3"
+}

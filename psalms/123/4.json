@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 123,
+  "translation": "Sanang bana lah kahabihan ati hiduik kito dek palawak urang-urang nan tenteram, jo dek kahinoan urang-urang nan takabuang.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "sanang bana"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "kahabihan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dek"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ati hiduik kito"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "palawak"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "urang-urang nan tenteram"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "kahinoan"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "urang-urang nan takabuang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:51.708327210Z",
+  "model": "glm-5.3"
+}

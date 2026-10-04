@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "jo Beit-Peʿor, jo lereng-lereng ha-Pisgah, jo Beit ha-Yesyimot,",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "jo Beit"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "-Peʿor"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "jo lereng-lereng"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "ha-Pisgah"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "jo Beit"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "ha-Yesyimot"
+    }
+  ],
+  "timestamp": "2026-10-04T05:07:25.522373828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 10:21",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo dari anak-anak Kharim: Maasejah, jo Elijah, jo Sjemajah, jo Yikhiel, jo Uzijah.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "dari anak-anak"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Kharim"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Maasejah"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "jo Elijah"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "jo Sjemajah"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "jo Yikhiel"
+    },
+    {
+      "surface": "ועזיה",
+      "gloss": "jo Uzijah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:34:16.935119394Z",
+  "model": "glm-5.3"
+}

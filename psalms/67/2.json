@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 67,
+  "translation": "Elohim, kirana maanggun awak jo maampeki awak; Manyinari mukonyo ⟨את⟩ awak. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "kirana maanggun awak"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "jo maampeki awak"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "manyinari"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "awak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:22.268471819Z",
+  "model": "glm-5.3"
+}

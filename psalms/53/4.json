@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 53,
+  "translation": "Sadonyo alah balangkah baliak, basamo-samo inyo alah b busuak; indak ado nan babuek elok, indak ado pun ciek.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "סג",
+      "gloss": "balangkah baliak"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo-samo"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "busuak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan babuek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:11.285845052Z",
+  "model": "glm-5.3"
+}

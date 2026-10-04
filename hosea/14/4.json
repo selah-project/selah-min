@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Ashur indak ka manyalamaikta; kito indak naik di ateh kudo; jo indak lai kito bakato 'Elohim kito' kapado hasia tangan kito; karano pado ⟨kau⟩ urang yatim mandapek kasihan.",
+  "tokens": [
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "ka manyalamaikta"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kudo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "naik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "kito bakato"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "kapado hasia"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "tangan kito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pado ⟨kau⟩"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "mandapek kasihan"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "urang yatim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:56.467731200Z",
+  "model": "glm-5.3"
+}

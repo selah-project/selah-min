@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Apo ari-ari Mu sarupo ari urang fana, apo taun-taun Mu sarupo ari urang gagah?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "sarupo ari"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "urang fana"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ari-ari Mu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apo"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "taun-taun Mu"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ari"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "urang gagah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:06:05.362428460Z",
+  "model": "glm-5.3"
+}

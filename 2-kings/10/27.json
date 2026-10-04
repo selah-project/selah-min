@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Maka inyo maruntuah ⟨את⟩ tiang patuang Baal, jo maruntuah ⟨את⟩ rumah Baal, lalu manjadiannyo tampek buang ranjo sampai ari ko.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "maka inyo maruntuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang patuang Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tiang patuang"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "jo maruntuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "lalu inyo manjadiannyo"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "tampek buang ranjo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari ko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:05.530232384Z",
+  "model": "glm-5.3"
+}

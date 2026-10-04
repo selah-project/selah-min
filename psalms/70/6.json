@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 70,
+  "translation": "Sadang ambo iko urang miskin jo urang mais, Elohim, capeklah kapado ambo; Pangamupek ambo jo Panyalamai ambo iolah Awak, Yahweh, jan lambek.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "sadang ambo iko"
+    },
+    {
+      "surface": "עני",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jo urang mais"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "capeklah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "Pangamupek ambo"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "jo Panyalamai ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iolah Awak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "lambek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:52.247397704Z",
+  "model": "glm-5.3"
+}

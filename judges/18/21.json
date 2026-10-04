@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Urang tu bapaliak jo pai, jo urang tu manampek ⟨את⟩ anak-anak ketek jo ⟨את⟩ tarnak jo ⟨את⟩ harto di muko urang tu.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "bapaliak"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "pai"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "manampek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak ketek"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "anak-anak ketek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tarnak"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "tarnak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "harto"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "harto"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di muko urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:21:11.153065868Z",
+  "model": "glm-5.3"
+}

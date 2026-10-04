@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Ka pambimbing, syair pangajaran untuak anak-anak Korah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ka pambimbing"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "syair pangajaran"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "untuak anak-anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:49.830111918Z",
+  "model": "glm-5.3"
+}

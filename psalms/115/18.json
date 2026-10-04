@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 115,
+  "translation": "Tapi kito, kito ka mamacaki Yah, dari kini sampai salamanyo. Pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "tapi kito"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "kito ka mamacaki"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dari kini"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:55.933535760Z",
+  "model": "glm-5.3"
+}

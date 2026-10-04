@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu bakeh-bakeh rajo nan malayannyo bakato: Dipacari untuak rajo padusi-padusi anak dara, nan elok mukonyo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "bakeh-bakeh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "nan malayannyo"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "dipacari"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "untuak rajo"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "padusi-padusi"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "anak dara"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "elok"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:06.920399442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Inyo ka kalua mangaja kito sampai kito maila ⟨את⟩ inyo dari kota; dek karano inyo ka bakato: Inyo lari maisolah kito, sarupo pado partamo; jo kito lari maisolah inyo.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "inyo ka kalua"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "mangaja kito"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "kito maila"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "inyo ka bakato"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "lari"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "maisolah kito"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "pado partamo"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "kito lari"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "maisolah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:06:26.647167083Z",
+  "model": "glm-5.3"
+}

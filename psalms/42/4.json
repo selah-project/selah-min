@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Aia mato ambo alah manjadi roti ambo siang jo malam, katiko inyo bakato kapado ambo sadari ari: Di ma Elohim-Mu?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "alah manjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "Aia mato ambo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jo malam"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "katiko inyo bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadari"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Di ma"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:49.830619287Z",
+  "model": "glm-5.3"
+}

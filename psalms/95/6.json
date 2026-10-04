@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 95,
+  "translation": "Mari kito sujud jo kito baliak lutuik, kito barundiang di muko Yahweh, nan mambuek kito.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Mari"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "kito sujud"
+    },
+    {
+      "surface": "וונכרעה",
+      "gloss": "jo kito baliak lutuik"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "kito barundiang"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "nan mambuek kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:51.597401420Z",
+  "model": "glm-5.3"
+}

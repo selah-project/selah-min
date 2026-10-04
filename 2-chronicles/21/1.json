@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lalu Yehoshafat barado basamo niniak moyangnyo, jo inyo dikubuaan basamo niniak moyangnyo di koto Dawid; lalu Yehoram, anaknyo, bakuasa manggantianyo.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "barado basamo"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "niniak moyangnyo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikubuaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "niniak moyangnyo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di koto"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "bakuasa"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "manggantianyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:55:14.107763802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahweh Elohim awak takuti, inyo ⟨את⟩ awak abuhi, kapado inyo awak bakaik arek, jo jo namonyo awak basumpah.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim awak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim awak"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takuti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "inyo ⟨את⟩",
+      "marks": "abuhi"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "awak abuhi"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "bakaik arek"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "jo jo namonyo"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "awak basumpah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:29.284725405Z",
+  "model": "glm-5.3"
+}

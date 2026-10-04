@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Tiuplah shofar pado bulan baru, pado purnama, untuak ari rayo kito.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "tiuplah"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "pado bulan baru"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "pado purnama"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "untuak ari"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "rayo kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:14.876042219Z",
+  "model": "glm-5.3"
+}

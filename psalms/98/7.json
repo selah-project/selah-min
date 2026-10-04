@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 98,
+  "translation": "Sarawaiklah lauik jo sagalo isinyo, tano kajuik jo panduduaknyo.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Sarawaiklah"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "jo sagalo isinyo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tano kajuik"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "jo panduduaknyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:28.846563312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 56:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Maikek, kito ambiak anggur, jo kito minum sadakeh minuman kareh, jo esok ari ka sarupo jo ari ko, bahkan labiah gadang bana-bana.",
+  "tokens": [
+    {
+      "surface": "אתיו",
+      "gloss": "maiek"
+    },
+    {
+      "surface": "אקחה",
+      "gloss": "kito ambiak"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ונסבאה",
+      "gloss": "jo kito minum sadakeh"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "minuman kareh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "sarupo jo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "esok ari"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "labiah"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana-bana"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:34.966381404Z",
+  "model": "glm-5.3"
+}

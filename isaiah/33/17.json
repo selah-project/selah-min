@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Mato kau ka caliak rajo dalam rancaknyo; mato itu ka mancaliak tanah nan jauh.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "dalam rancaknyo"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ka caliak"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mato kau"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ka mancaliak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "nan jauh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:44.721050941Z",
+  "model": "glm-5.3"
+}

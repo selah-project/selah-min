@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Karano inyo mambuek rancak di mato matonyo surang, untuak manamukan dosonyo, untuak mambancinyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "mambuek rancak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di mato matonyo"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "untuak manamukan"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "dosonyo"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "untuak mambancinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:30.317796664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Ambo ka mambuek anak-anak mudo manjadi pangulu urang tu, jo anak balai ka bakuaso ateh urang tu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jo Ambo ka mambuek"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "anak-anak mudo"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "pangulu urang tu"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "jo anak balai"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "ka bakuaso"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ateh urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:59.448495781Z",
+  "model": "glm-5.3"
+}

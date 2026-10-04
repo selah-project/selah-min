@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Ambo, ambo surang nan mangedek kalian; sia awak ⟨את⟩ sampai takuik kapado manusia nan ka mati, jo kapado anak manusia nan dibagikan sarupo rumpuik?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "surang"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "nan mangedek kalian"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awak"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "sampai takuik"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "kapado manusia"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "nan ka mati"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "jo kapado anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumpuik"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "nan dibagikan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:58.918698108Z",
+  "model": "glm-5.3"
+}

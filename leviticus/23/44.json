@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo Moshe maagiah tau ⟨את⟩ wakatu-wakatu patamo Yahweh kapado anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "maagiah tau"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakatu-wakatu patamo Yahweh"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "wakatu-wakatu patamo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:20.447440814Z",
+  "model": "glm-5.3"
+}

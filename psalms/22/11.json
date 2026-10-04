@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Ka Sanalah ambo dilapehan sajak dari rahim, sajak dari paruik ibu ambo — El ambo Sanalah.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Ka Sanalah"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ambo dilapehan"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dari rahim"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dari paruik"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibu ambo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sanalah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:02.663710829Z",
+  "model": "glm-5.3"
+}

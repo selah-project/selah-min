@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Gadang Yahweh, jo tapuji banar, di koto Elohim kito, gunuang kasucian-Nyo.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Gadang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "jo tapuji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di koto"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kasucian-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:02.013489135Z",
+  "model": "glm-5.3"
+}

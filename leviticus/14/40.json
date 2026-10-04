@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "mako imam mandapek supayo urang tu maambiak ⟨את⟩ batu-batu nan ado panyakik tu di dalamnyo, jo urang tu mambuangnyo ka lua kota, ka tampek nan indak barasiah",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "mandapek supayo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "urang tu maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "panyakik tu"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "jo urang tu mambuangnyo"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (batu-batu tu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "lua"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nan indak barasiah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:04:43.356582958Z",
+  "model": "glm-5.3"
+}

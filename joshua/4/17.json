@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Yehosyua mamarintahkan ⟨את⟩ para imam, mangecekan: Naiklah dari Yarden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecekan"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naiklah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-04T05:04:03.778991689Z",
+  "model": "glm-5.3"
+}

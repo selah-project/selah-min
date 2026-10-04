@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Yahweh bakato kapado Moshe jo kapado Aharon: Ambiaklah untuak kalian sagaleh genggam tangan kalian dabu dari dapua baka, lalu Moshe manyipakannyo ka arah langik di mato Paroh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ambiaklah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kalian"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "sagaleh"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "genggam tangan kalian"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "dapua baka"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "lalu manyipakannyo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ka arah langik"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:14.279527878Z",
+  "model": "glm-5.3"
+}

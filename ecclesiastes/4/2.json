@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Ambo mamuji ⟨את⟩ urang-urang mati nan alah mati labiah dari urang-urang nan iduik, nan inyo tu iduik sampai kini.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Ambo mamuji"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang mati"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "urang-urang mati"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "alah"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "urang-urang nan iduik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo tu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "sampai kini"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:15.894422603Z",
+  "model": "glm-5.3"
+}

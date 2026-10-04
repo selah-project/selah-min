@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Sagalo nan dikalokok Yahweh, inyo bueknyo di langik jo di bumi, di lauik jo sado lahuih-dalam.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dikalokok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bueknyo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "jo di bumi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di lauik"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "lahuih-dalam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:46.098797322Z",
+  "model": "glm-5.3"
+}

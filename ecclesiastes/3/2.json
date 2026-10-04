@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Wakatu untuak badanak, jo wakatu untuak mati; wakatu untuak mananam, jo wakatu untuak mancabiak nan batanam.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "untuak badanak"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jo wakatu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "untuak mati"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "untuak mananam"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jo wakatu"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "untuak mancabiak"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "nan batanam"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:37.825980939Z",
+  "model": "glm-5.3"
+}

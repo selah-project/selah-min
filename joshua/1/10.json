@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Kok Yehoshua mamarintahan ⟨את⟩ pangurang-pangurang bangso itu, nan bakato:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kok mamarintahan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangurang-pangurang bangso itu"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "pangurang-pangurang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T05:04:13.559288885Z",
+  "model": "glm-5.3"
+}

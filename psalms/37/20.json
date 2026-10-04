@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Karano urang jaah ka binaso, jo musuah Yahweh sarupo lemak anak domba — habihlah inyo, sarupo asok habihlah inyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jaah"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ka binaso"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "jo musuah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "sarupo lemak"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "habihlah inyo"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "sarupo asok"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "habihlah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:33.705198892Z",
+  "model": "glm-5.3"
+}

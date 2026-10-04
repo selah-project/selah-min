@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo urang tu bakarajo baitu; diambiak inyo duo lumbu nan sadang manyusu, diikek inyo ka kareta, jo ⟨את⟩ anak-anaknyo dikuruang di dalam rumah.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "jo urang tu bakarajo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "diambiak"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "lumbu"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "nan sadang manyusu"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "diikek"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "ka kareta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "dikuruang"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di dalam rumah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:50.894806444Z",
+  "model": "glm-5.3"
+}

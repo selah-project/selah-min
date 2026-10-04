@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Kato pamberontakan kapado urang jaah: di tangah-tangah ati ambo, indak ado raso takuik kapado Elohim di muko matonyo.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pamberontakan"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kapado urang jaah"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "raso takuik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:30.317649147Z",
+  "model": "glm-5.3"
+}

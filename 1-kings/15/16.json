@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo parang ado di antaro Asa jo Baasa, rajo Yisrael, sapanjang ari-ari duonyo.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "jo parang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ari-ari duonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:51.496610449Z",
+  "model": "glm-5.3"
+}

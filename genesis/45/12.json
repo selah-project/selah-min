@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Jo caliak, mato sanak nan caliak, jo mato saudaro ambo Binyamin, karano iko mulo ambo nan mangecek jo sanak.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Jo caliak"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mato sanak"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "nan caliak"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "jo mato"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaro ambo"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulo ambo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "nan mangecek"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "jo sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:38.142748417Z",
+  "model": "glm-5.3"
+}

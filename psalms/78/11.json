@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Lupo inyo pabuatan-Nyo jo kajaiaban-Nyo nan alah dipacaliakannyo kapado inyo.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Lupo inyo"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "pabuatan-Nyo"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "jo kajaiaban-Nyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "dipacaliakannyo kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:07.644417603Z",
+  "model": "glm-5.3"
+}

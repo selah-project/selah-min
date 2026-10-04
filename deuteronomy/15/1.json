@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Pado ujuang tujuah taun, kau buwek shemittah.",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "pado ujuang"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kau buwek"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "shemittah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:49.391034096Z",
+  "model": "glm-5.3"
+}

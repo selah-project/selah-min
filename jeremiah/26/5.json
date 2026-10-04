@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 26:5",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "untuak mandanga kato-kato ambo-ambo nabi-nabi kito padutuik, nan ambo kirim kapado sanak, bana pai sabalun pagi jo bakirim, tapi sanak indak mandanga",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "untuak mandanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ambo-ambo"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nabi-nabi kito padutuik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kirim"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "והשכם",
+      "gloss": "bana pai sabalun pagi"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "jo bakirim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "mandanga"
+    }
+  ],
+  "timestamp": "2026-10-04T06:35:06.448689689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Untuak mambukak mato urang nan buto, untuak mangaluaan tahanan dari panjaro, dari rumah tahanan urang-urang nan duduak dalam kagelapan.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "untuak mambukak"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mato"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "urang nan buto"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "untuak mangaluaan"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "dari panjaro"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "tahanan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "tahanan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "urang-urang nan duduak"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dalam kagelapan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:18:17.146901973Z",
+  "model": "glm-5.3"
+}

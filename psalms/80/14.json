@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "Babi lia dari rimbo manggariknyo, jo binatang ladang mamakaninyo.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "manggariknyo"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "babi lia"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "dari rimbo"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "jo binatang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "mamakaninyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:19.782111280Z",
+  "model": "glm-5.3"
+}

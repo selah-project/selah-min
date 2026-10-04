@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Karano Yahweh alah maagiah ateh kalian ruakh tandang lalu, dan alah mandakek ⟨את⟩ mato kalian — ⟨את⟩ nabi-nabi — jo ⟨את⟩ kapalo kalian, urang-urang paninggaok, alah disuruak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "alah maagiah"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ateh kalian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "tandang lalu"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "dan alah mandakek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mato kalian"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mato kalian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabi-nabi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalo kalian"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "kapalo kalian"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "urang-urang paninggaok"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "disuruak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:15:10.077059268Z",
+  "model": "glm-5.3"
+}

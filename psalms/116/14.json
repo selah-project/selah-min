@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Nazar-nazar ambo kapado Yahweh ambo ka bayia, kini, di muko sadoalah umat-Nyo.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "nazar-nazar ambo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ambo ka bayia"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado sadoalah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:17.447077744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Ambo — caliak, parjanjian Ambo ⟨adalah⟩ basarang jo ⟨את⟩ dunsanak, jo dunsanak ka manjadi ayah banyak bangso.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian Ambo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ basarang jo dunsanak",
+      "marks": "dunsanak (dengan kau)"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "jo dunsanak ka manjadi"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "המון",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:16.115712666Z",
+  "model": "glm-5.3"
+}

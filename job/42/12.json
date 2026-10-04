@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Lalu Yahweh mamakatuahi ⟨את⟩ akia Iyov labiah dari awalnyo; jo ado padonyo ampek baleh ribu kambiang-bia, anam ribu unta, saribu pas lombu, jo saribu kuda padi batino.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Lalu Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "mamakatuahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akia Iyov"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "akia"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "labiah dari awalnyo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo ado"
+    },
+    {
+      "surface": "לו",
+      "gloss": "padonyo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambiang-bia"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "anam"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "unta"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "saribu"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "pas"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "lombu"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "saribu"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "kuda padi batino"
+    }
+  ],
+  "timestamp": "2026-10-04T08:15:32.995010802Z",
+  "model": "glm-5.3"
+}

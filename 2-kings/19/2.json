@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu inyo mangutuih ⟨את⟩ Elyakim nan mamarentah rumah <rajo>, jo Shebna panulih, jo ⟨את⟩ urang tuo-tuo imam, sadang babaju kain sak, ka nabi Yeshayahu anak Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangutuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "mamarentah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah rajo"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "jo Shebna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "panulih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang tuo-tuo imam"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "urang tuo-tuo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "sadang babaju"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "kain sak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-10-04T09:14:26.316579663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Jo tangkuek ambo alah Angkau tinggikan sarupo reem; ambo alah dilampoki jo minyak nan ranum.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "lah Angkau tinggikan"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "sarupo reem"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "tangkuek ambo"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "dilampoki"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "nan ranum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:23.033882884Z",
+  "model": "glm-5.3"
+}

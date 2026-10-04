@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 111,
+  "translation": "Pambabasan Ia alah utuih untuak umat-Nyo; parjanjian-Nyo Ia alah mamarintahkan untuak salamo-lamo; suci jo mambuek gera namo-Nyo.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "pambabasan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "alah utuih"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "untuak umat-Nyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alah mamarintahkan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuak salamo-lamo"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "parjanjian-Nyo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "jo mambuek gera"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namo-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:49.400374141Z",
+  "model": "glm-5.3"
+}

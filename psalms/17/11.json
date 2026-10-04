@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Langkah-langkah kami kini alah dikurungi; matonyo mareka patok untuak malangkokan ⟨kami⟩ ka bumi.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "langkah-langkah kami"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "alah dikurungi"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "matonyo"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "mareka patok"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "untuak malangkokan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ka bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:24.187455175Z",
+  "model": "glm-5.3"
+}

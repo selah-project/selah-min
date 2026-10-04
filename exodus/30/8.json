@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Dan katiko Aharon maila'angkan ⟨את⟩ palito-palito di antaro duo sanjo, inyo manutuaknyo; dupa nan taruih-teruih di muko Yahweh, dek sagalo angkatan kalian.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "dan katiko maila'angkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palito-palito"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "palito-palito"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "duo sanjo"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "inyo manutuaknyo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nan taruih-teruih"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "dek sagalo angkatan kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:03.894989044Z",
+  "model": "glm-5.3"
+}

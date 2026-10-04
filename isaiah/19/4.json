@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo Aku manyarahan ⟨את⟩ Mitsrayim ka tangan tuan-tuan nan kasa, jo saurang rajo nan gagah bakeh mamarentah inyo — kato Adonai Yahweh Tsebaot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "jo Aku manyarahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "tuan-tuan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nan kasa"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "jo saurang rajo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nan gagah bakeh"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "mamarentah"
+    },
+    {
+      "surface": "בם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-10-04T06:12:12.011773394Z",
+  "model": "glm-5.3"
+}

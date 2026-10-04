@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu Yehosua baliak, jo sado Yisrael basamo inyo, ka pakampuhan di Gilgal.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "pakampuhan"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "di Gilgal"
+    }
+  ],
+  "timestamp": "2026-10-04T05:06:26.864919535Z",
+  "model": "glm-5.3"
+}

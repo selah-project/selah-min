@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu Athaliah mandanga ⟨את⟩ suaro para panguawek jo urang banyak tu, lalu inyo masuak manuju urang banyak tu di Rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "lalu mandanga"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Athaliah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaro"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "para panguawek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "lalu inyo masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manuju"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:44.261030081Z",
+  "model": "glm-5.3"
+}

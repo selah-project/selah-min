@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 128,
+  "translation": "Hasia tanago tanganmu, awak makan; bauntuang awak, jo elok untuak awak.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "hasia tanago"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "awak makan"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "bauntuang awak"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "jo elok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak awak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:49.775833799Z",
+  "model": "glm-5.3"
+}

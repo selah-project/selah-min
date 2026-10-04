@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 140,
+  "translation": "Urang nan jahat lidahnyo indak tagak di bumi; urang nan karas jo jaang, musibah mamburu inyo sampado tumbang.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "nan jahat lidahnyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nan karas"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jaang"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "mamburu inyo"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "sampado tumbang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:17.693902944Z",
+  "model": "glm-5.3"
+}

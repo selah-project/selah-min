@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Di ari itu Adonai akan maiduakan ⟨את⟩ parhiasan langan-garigi tu, jo ikak kapalo, jo bulan sabik.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Di ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "akan maiduakan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parhiasan langan-garigi tu"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "parhiasan"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "langan-garigi tu"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "jo ikak kapalo"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "jo bulan sabik"
+    }
+  ],
+  "timestamp": "2026-10-04T06:07:33.295450072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 57,
+  "translation": "Untuak nan mamimpin musik; Al-tashchet; mazmur untuak Dawid, miktam, katiko inyo lari dari muko Sya ul, ka dalam guo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak nan mamimpin musik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tashchet (jagoasia indak)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "katiko inyo lari"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sya ul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "ka dalam guo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:40.306342372Z",
+  "model": "glm-5.3"
+}

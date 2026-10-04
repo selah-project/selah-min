@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Anak-anak Eilam, saribu duo ratus limo puluah ampek.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak-anak"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Eilam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "saribu"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duo ratus"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limo puluah"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "jo ampek"
+    }
+  ],
+  "timestamp": "2026-10-04T08:31:17.455728413Z",
+  "model": "glm-5.3"
+}

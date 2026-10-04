@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Inyo alah mauaikan dagiang ambo jo kulik ambo, alah mangancangkan tulang-tulang ambo.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "mauaikan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagiang ambo"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "jo kulik ambo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "mangancangkan"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "tulang-tulang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:18:27.199292225Z",
+  "model": "glm-5.3"
+}

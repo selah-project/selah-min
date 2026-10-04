@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Sungai — anak-anak sungainyo mambiak riang koto Elohim, nan suci, tampek-tampek Mishkan Elyon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "anak-anak sungainyo"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mambiak riang"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "koto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "tampek-tampek Mishkan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:47.022094699Z",
+  "model": "glm-5.3"
+}

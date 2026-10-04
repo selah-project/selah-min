@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu inyo manggalinyokan ⟨את⟩ olahton tu, jo mamotong-motong inyo manuruik potongan-potongannyo.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "lalu inyo manggalinyokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olahton tu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olahton tu"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "jo mamotong-motong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "manuruik potongan-potongannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:48.231689014Z",
+  "model": "glm-5.3"
+}

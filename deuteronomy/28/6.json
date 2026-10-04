@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Barakaik angkau katiko masuak, jo barakaik angkau katiko kalua.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakaik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "katiko masuak"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "jo barakaik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "katiko kalua"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:35.881212111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Dan Ia mangicoannyo ka tangah pakampuahan inyo, mangaliliangi tampek tingga inyo.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "mangicoannyo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka tangah"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "pakampuahan inyo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mangaliliangi"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "tampek tingga inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:24.444799544Z",
+  "model": "glm-5.3"
+}

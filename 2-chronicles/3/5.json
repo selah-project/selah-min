@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo ⟨את⟩ rumah gadang iyo salimuik jo kayu timbul, jo iyo salimuikinyo jo ameh nan elok, jo iyo mambao di atehnyo tiok-tiok janjang karambia jo rante-rante.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah gadang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "salimuik"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "timbul"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "jo iyo salimuikinyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "jo iyo mambao"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "tiok-tiok janjang karambia"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "jo rante-rante"
+    }
+  ],
+  "timestamp": "2026-10-04T08:50:01.222379442Z",
+  "model": "glm-5.3"
+}

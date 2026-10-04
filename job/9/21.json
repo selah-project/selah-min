@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Ambo sarado, indak ambo tau nyawo ambo surang, ambo mambanci iduik ambo.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "sarado"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawo ambo"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "mambanci"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "iduik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:05:38.772560603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu Yehosyua bakato kapado anak-anak Yisrael: Maiaklah kamasiko, jo dangaanlah ⟨את⟩ kato-kato Yahweh, Elohim kalian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Maiaklah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kamasiko"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "jo dangaanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato Yahweh Elohim kalian"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T09:07:12.180746058Z",
+  "model": "glm-5.3"
+}

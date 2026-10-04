@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Karano jo Awak ado mato aia iduik; di cahayo-Mu kami mancaliak cahayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jo Awak"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "mato aia"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "di cahayo-Mu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "kami mancaliak"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahayo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:15.831578412Z",
+  "model": "glm-5.3"
+}

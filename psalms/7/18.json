@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Ambo ka mangucap syukur kapado Yahweh manuruik tsedeq-Nyo, jo ambo ka manyanyi namo Yahweh Nan Tatinggi.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ambo ka mangucap syukur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "manuruik tsedeq-Nyo"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "jo ambo ka manyanyi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nan Tatinggi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:40.516111781Z",
+  "model": "glm-5.3"
+}

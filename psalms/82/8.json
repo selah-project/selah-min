@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 82,
+  "translation": "Bangiklah, Elohim, hakamilah bumi, karano Sanaklah nan mawarisi sagalo bangso-bangso.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangiklah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "hakamilah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sanaklah"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "mawarisi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:56.723478687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Karieh urang-urang bodo manyahiakannyo, karano inyo indak tahui untuak pai ka nagari.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "karieh"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "urang-urang bodo"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "manyahiakannyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahui"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuak pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "nagari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:50.500862413Z",
+  "model": "glm-5.3"
+}

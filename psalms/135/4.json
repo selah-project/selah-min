@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Karano Yah alah mamiliah untuak dirinyo ⟨את⟩ Yaakov, ⟨את⟩ Yisrael sabagai milik pusakonyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "alah mamiliah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak dirinyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "sabagai milik pusakonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:55.591677981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Dan kapado pangulu-pangulu anak-anak Yisrael inyo indak malangangkan tangannyo; jo inyo mancaliak ⟨את⟩ Elohim, lalu inyo makan jo inyo minum.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "pangulu-pangulu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "malangankan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "jo inyo mancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "jo inyo makan"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "jo inyo minum"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:49.914223522Z",
+  "model": "glm-5.3"
+}

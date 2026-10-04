@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo inyo bakato: Panggia inyo. Lalu inyo manggia inyo, jo inyo tagak di mungko pintu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "panggia"
+    },
+    {
+      "surface": "לה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu inyo manggia"
+    },
+    {
+      "surface": "לה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "jo inyo tagak"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "di mungko pintu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:49.376102774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu Moshe naiak ka gunuang tu, dan awan tu manuduiki ⟨את⟩ gunuang tu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunuang tu"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "manuduiki"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunuang tu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunuang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:18.580487727Z",
+  "model": "glm-5.3"
+}

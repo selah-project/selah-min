@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo kau lapeh pieh di liä kau, kok kau urang nan lapar sanang.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "jo kau lapeh"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "pieh"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "di liä kau"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "urang nan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lapar sanang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:34.889308727Z",
+  "model": "glm-5.3"
+}

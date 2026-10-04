@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Sarupo nan tangan ambo alah manamukan untuak karajaan-karajaan patuang, jo patuang-patuang ukirannyo, labiah dari di Yerushalayim jo di Shomeron —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "alah manamukan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan ambo"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "untuak karajaan-karajaan"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "patuang"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "jo patuang-patuang ukirannyo"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "dari Yerushalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "jo dari Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:15.758722508Z",
+  "model": "glm-5.3"
+}

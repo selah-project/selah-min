@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Elohim kito tibo, jo indak bapaniah; api makan di mukonyo, jo sakitarinyo badang kancali bana.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "bapaniah"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "jo sakitarinyo"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "badang kancali"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:10.904687844Z",
+  "model": "glm-5.3"
+}

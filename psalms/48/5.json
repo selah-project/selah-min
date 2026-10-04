@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Karano caliak, rajo-rajo tu bakumpua, inyo tibo basamo-samo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "rajo-rajo tu"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "bakumpua"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo-samo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:45.589633160Z",
+  "model": "glm-5.3"
+}

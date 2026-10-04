@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Lalu Avraham manyambah di muko urang nagari tu.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "manyambah"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari tu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:14.548793790Z",
+  "model": "glm-5.3"
+}

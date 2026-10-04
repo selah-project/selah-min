@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Tapi urang tu maihang inyo jo muncuak urang tu, jo jo lido urang tu urang tu mangecek bohong kapado inyo.",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "tapi urang tu maihang inyo"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "jo muncuak urang tu"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "jo jo lido urang tu"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "urang tu mangecek bohong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:39.611713496Z",
+  "model": "glm-5.3"
+}

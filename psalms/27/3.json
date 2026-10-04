@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Kok pasuakan maidok mandapek ambo, ati ambo indak takuik; kok parang bangkik batolak kapado ambo, walaupun baitu ambo tetap pacyo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "maidok mandapek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "pasuakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "parang"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "walaupun baitu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "tetap pacyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:55.582208898Z",
+  "model": "glm-5.3"
+}

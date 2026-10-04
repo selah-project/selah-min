@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo urang tu ka tibo ka sinan, jo urang tu ka mahapuih ⟨את⟩ sagalo patuang jileknyo jo ⟨את⟩ sagalo nan bajiaknyo dari sinan.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "jo urang tu ka tibo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka sinan"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "jo urang tu ka mahapuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo patuang jileknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "patuang jileknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo nan bajiaknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "nan bajiaknyo"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "dari sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:51:14.691762721Z",
+  "model": "glm-5.3"
+}

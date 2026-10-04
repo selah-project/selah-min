@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Sanduanglah ambo, dan ambo ka salamat, dan ambo ka mamatuik pado chukik-Mu taruih-taruih.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "Sanduanglah ambo"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "dan ambo ka salamat"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "dan ambo ka mamatuik"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "pado chukik-Mu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih-taruih"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:44.104304719Z",
+  "model": "glm-5.3"
+}

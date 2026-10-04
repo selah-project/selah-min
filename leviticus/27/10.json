@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Indak buliah inyo maubah, jo indak buliah inyo mambaleh ⟨את⟩ inyo — nan elok jo nan buruak, atau nan buruak jo nan elok; jo kalau bana inyo mambaleh binatang jo binatang, mako inyo jo gantiannyo manjadi suci.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "maubah inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "mambaleh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "jo nan buruak"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nan buruak"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "jo nan elok"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jo kalau"
+    },
+    {
+      "surface": "המר",
+      "gloss": "bana mambaleh"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "mambaleh"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "jo binatang"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "jo gantiannyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:13.511397386Z",
+  "model": "glm-5.3"
+}

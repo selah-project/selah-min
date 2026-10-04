@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Kok ambo naiak ka langik — di sinan Engkau; kok ambo mamukaan balai di Sheol — caliak, di sinan Engkau.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ambo naiak"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ka langik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "kok ambo mamukaan balai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "caliak, di sinan Engkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:25.902647250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Usir urang nan pangelek, jo mandaka ka kalua; mako pasalisiahan jo aib ka baranti.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "usir"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "urang nan pangelek"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "jo ... kalua"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "mandaka"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "jo ... baranti"
+    },
+    {
+      "surface": "דין",
+      "gloss": "pasalisiahan"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "aib"
+    }
+  ],
+  "timestamp": "2026-10-04T07:58:55.696004869Z",
+  "model": "glm-5.3"
+}

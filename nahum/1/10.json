@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Karano bia inyo sarupo duri nan tajalin, jo jo minumnyo inyo lah mabuak, inyo dimakan sarupo jerami kariang sapanuahnyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bia sampai"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "duri"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "nan tajalin"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "jo jo minumnyo"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "inyo lah mabuak"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "inyo dimakan"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "sarupo jerami"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kariang"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "sapanuahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:15:13.639655605Z",
+  "model": "glm-5.3"
+}

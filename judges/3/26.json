@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Ehud salamaik salamo urang tu lambaik-lambaik; inyo malewati ⟨את⟩ patuang-patuang, lalu salamaik ka Seirah.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "jo Ehud"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "salamaik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "urang tu lambaik-lambaik"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "malewati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patuang-patuang"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "patuang-patuang"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "lalu salamaik"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "ka Seirah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:13:27.338699289Z",
+  "model": "glm-5.3"
+}

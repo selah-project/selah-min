@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Marepons jo bakato kapado Nevukhadnetsar rajo: wahai rajo, iduik untuak salamo-lamonyo!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "marepons"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "kapado Nevukhadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "wahai rajo"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "untuak salamo-lamonyo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T08:27:19.477761037Z",
+  "model": "glm-5.3"
+}

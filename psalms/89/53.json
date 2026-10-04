@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Dipuji Yahweh salamo-lamonyo. Amin, jo amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dipuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "jo amin"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:48.711627651Z",
+  "model": "glm-5.3"
+}

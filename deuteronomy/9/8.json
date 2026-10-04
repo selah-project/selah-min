@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Bahkan di Khoreb awak ale mambuek bangih Yahweh, sahinggo Yahweh mamarahi awak ale untuak mambinasoan ⟨את⟩ awak ale.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "bahkan di Khoreb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "awak ale mambuek bangih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "sahinggo mamarahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "awak ale"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "untuak mambinasoan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awak ale"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:51.679397493Z",
+  "model": "glm-5.3"
+}

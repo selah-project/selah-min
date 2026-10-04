@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ambo alah mahaga parentah-parentah-Mu jo kasaksian-kasaksian-Mu, karano sagalo jalan ambo di muko-Mu.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "ambo alah mahaga"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "parentah-parentah-Mu"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "jo kasaksian-kasaksian-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan ambo"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di muko-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:19.952182808Z",
+  "model": "glm-5.3"
+}

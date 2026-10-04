@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 83,
+  "translation": "Lagu, Mazmur untuak Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "untuak Asaf"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:08.817433344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 83,
+  "translation": "Inyo ditampehan di En-Dor, inyo manjadi kotoran di ateh tanah.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "ditampehan"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "di"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "En-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "kotoran"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "di ateh tanah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:55.445604691Z",
+  "model": "glm-5.3"
+}

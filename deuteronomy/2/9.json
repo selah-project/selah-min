@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Yahweh bakato kapado ambo: Jan pasondi ⟨את⟩ Moab, jo jan bangkik parang malawan inyo, karano ambo indak ka agiah kapado ambo tanahnyo sabagai punyo, karano kapado anak-anak Lut ambo alah agiah ⟨את⟩ Ar sabagai punyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "pasondi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "בם",
+      "gloss": "malawan inyo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "parang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ka agiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dari tanahnyo"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "sabagai punyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kapado anak-anak"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah agiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "sabagai punyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:19.307171424Z",
+  "model": "glm-5.3"
+}

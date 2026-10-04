@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Kuruai angkau, ò Elohim, salamo-lamonyo; tungkek kasalarasan iolah tungkek karajaan angkau.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "kuruai angkau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo satiok ari"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tungkek"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "kasalarasan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tungkek"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "karajaan angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:19.794081632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Katiko itu ambo bakato: Caliak, ambo tibo; di gulungan kitab tatulih tantang ambo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Katiko itu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ambo tibo"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "di gulungan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "tatulih"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tantang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:41.977316849Z",
+  "model": "glm-5.3"
+}

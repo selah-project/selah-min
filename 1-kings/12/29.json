@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu inyo manaruh ⟨את⟩ nan ciek di Beit-El, jo ⟨את⟩ nan ciek nan lai inyo taruah di Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "lalu inyo manaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan ciek"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nan ciek nan lai"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek nan lai"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inyo taruah"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "di Dan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:03.547265142Z",
+  "model": "glm-5.3"
+}

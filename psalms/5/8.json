@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Tapi ambo, jo kakayoan hesed Engkau, ambo tibo ka rumah Engkau; ambo manyambah ka arah istano kasucian Engkau, jo takuik kapado Engkau.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "jo kakayoan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed Engkau"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ambo tabo ka"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah Engkau"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ambo manyambah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "istano"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kasucian Engkau"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "jo takuik kapado Engkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:00.398282550Z",
+  "model": "glm-5.3"
+}

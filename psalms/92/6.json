@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Baa gadangnyo karajo-karajo-Mu, Yahweh; sangek dalamnyo pikiran-pikiran-Mu!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Baa"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "gadangnyo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "karajo-karajo-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangek"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "dalamnyo"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "pikiran-pikiran-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:53.050520719Z",
+  "model": "glm-5.3"
+}

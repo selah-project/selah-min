@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo ⟨את⟩ meja jo ⟨את⟩ sagalo parabotnyo, jo ⟨את⟩ paradian jo ⟨את⟩ sagalo parabotnyo, jo ⟨את⟩ mezbah paduwan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "meja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo parabotnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "paradian"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "paradian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo parabotnyo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "sagalo parabotnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "mezbah paduwan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "paduwan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:15.978982048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Karano di tampek ma inyo dibuang tawan, di sinan pulo inyo mati, jo ⟨את⟩ tanah iko indak inyo caliak lai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "dibuang tawan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (Shalum)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan pulo"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanah iko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    }
+  ],
+  "timestamp": "2026-10-04T06:33:55.260018639Z",
+  "model": "glm-5.3"
+}

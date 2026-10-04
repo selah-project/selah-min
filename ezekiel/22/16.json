@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 22:16",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo kau ka taranciak diri ⟨kau⟩ di mato bangso-bangso, jo kau ka tau bahasonyo ambo adolah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונחלת",
+      "gloss": "kau ka taranciak diri"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨kau⟩"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "kau ka tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahasonyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:55:40.723271902Z",
+  "model": "glm-5.3"
+}

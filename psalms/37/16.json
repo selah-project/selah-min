@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Saketek bagi urang nan bana labiah elok daripado kakayaan urang-urang jahat nan banyak.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "labiah elok"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "bagi urang nan bana"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "daripado kakayaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:57.974305449Z",
+  "model": "glm-5.3"
+}

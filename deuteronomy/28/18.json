@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Kutuk ⟨adolah⟩ buah paruikmu jo buah tanahmu, anak lombomu jo anak kambiang-dombamu.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "kutuk"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "paruikmu"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "jo buah"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "anak lombo"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "lombomu"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "jo anak kambiang-domba"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "kambiang-dombamu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:22.920653951Z",
+  "model": "glm-5.3"
+}

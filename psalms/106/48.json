@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Tabarakaiklah Yahweh, Elohim Yisrael, dari maso nan lamo inggo maso nan lamo; jo sagalo urang banyak mangato: Amin. Pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "tabarakaiklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "maso nan lamo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "inggo"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "maso nan lamo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jo mangato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:22.959261493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Padiahan kokolah, langik, jo kaok ambo mangecek; jo bumi kokolah manganang kato-kato dari muncuak ambo.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "padiahan kokolah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "jo kaok ambo mangecek"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "kokolah manganang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "פי",
+      "gloss": "dari muncuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:51.698488256Z",
+  "model": "glm-5.3"
+}

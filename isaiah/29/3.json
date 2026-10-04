@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo Aku mahampiri bakaado-ado mangkaliliangi ang, jo Aku mambakuik ang jo pos parang, jo Aku mandirikan tanggo pancacuik ateh ang.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "jo Aku mahampiri"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "mangkaliliangi (bakaliliang)"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ang"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "jo Aku mambakuik"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ang"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "pos parang"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "jo Aku mandirikan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ateh ang"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "tanggo pancacuik"
+    }
+  ],
+  "timestamp": "2026-10-04T06:15:41.402464054Z",
+  "model": "glm-5.3"
+}

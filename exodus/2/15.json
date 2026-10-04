@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu Paroh mandanga ⟨את⟩ kaba tu, lalu inyo mancari untuak mambunuah ⟨את⟩ Moshe; tapi Moshe lari dari muko Paroh, lalu tingga di tanah Midian, jo duduak dakek sumua tu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lalu mandanga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaba tu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "lalu mancari"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "untuak mambunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "lalu lari"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu tingga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jo duduak"
+    },
+    {
+      "surface": "על",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "sumua tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:47.080121866Z",
+  "model": "glm-5.3"
+}

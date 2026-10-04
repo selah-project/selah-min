@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo ⟨את⟩ rumah tanggo Yahudah ambo marahimi, ambo salamatkan urang tu dek Yahweh Elohim urang tu, indak dek busur, indak dek padang, indak dek paparangan, dek kudo jo dek panunggang kudo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tanggo Yahudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah tanggo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudah"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ambo marahimi"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "ambo salamatkan urang tu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "dek Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim urang tu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "ambo salamatkan urang tu"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "dek busur"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "dek padang"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "dek paparangan"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "dek kudo"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "dek panunggang kudo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:38.555867835Z",
+  "model": "glm-5.3"
+}

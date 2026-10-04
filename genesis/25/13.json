@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 25:13",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo iko namo-namo anak-anak Ismael, manuruik namonyo, manuruik katurunannyo: anak sulung Ismael, Nevayot; jo Kedar, jo Adbeel, jo Mibsam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ismael"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "manuruik namonyo"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "manuruik katurunannyo"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ismael"
+    },
+    {
+      "surface": "נבית",
+      "gloss": "Nevayot"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "jo Kedar"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "jo Adbeel"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "jo Mibsam"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:02.570569641Z",
+  "model": "glm-5.3"
+}

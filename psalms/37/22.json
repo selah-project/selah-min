@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Karano nan dibarakati-Nyo mawarisi bumi, jo nan dikatuahi-Nyo dipotong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "nan dibarakati-Nyo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "mawarisi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "nan dikatuahi-Nyo"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "dipotong"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:41.826773546Z",
+  "model": "glm-5.3"
+}

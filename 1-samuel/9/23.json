@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Shemuel bakato kapado tukang mamasak: Bari ⟨את⟩ masakan nan alah ambo barikan kapado tu, nan alah ambo katoan kapado tu: taruihkan ⟨את⟩ inyo di sampiang tu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "kapado tukang mamasak"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "bari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masakan"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "masakan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah ambo barikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "alah ambo katoan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado tu"
+    },
+    {
+      "surface": "שים",
+      "gloss": "taruihkan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "di sampiang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:13.593997196Z",
+  "model": "glm-5.3"
+}

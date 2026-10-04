@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Rancangan Yahweh tagak salamo-lamonyo, mungkinan atinyo untuak katurunan jo katurunan.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "rancangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mungkinan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "untuak katurunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jo katurunan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:14.999611926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 112,
+  "translation": "Cahayo tacurah di dalam kagelapan untuak urang nan luruih — penuah kasiah, pangasiah, jo banar.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "tacurah"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "di dalam kagelapan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahayo"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "untuak urang nan luruih"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "penuah kasiah"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "jo pangasiah"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "jo banar"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:04.216236872Z",
+  "model": "glm-5.3"
+}

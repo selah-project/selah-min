@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "jo ⟨את⟩ urang Amori, jo ⟨את⟩ urang Kanaan, jo ⟨את⟩ urang Girgasyi, jo ⟨את⟩ urang Yebusi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Amori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Amori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Girgasyi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "urang Girgasyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Yebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "urang Yebusi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:28.616996443Z",
+  "model": "glm-5.3"
+}

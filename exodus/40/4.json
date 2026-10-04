@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Awak ka mambaok masuak ⟨את⟩ meja, jo manyusun ⟨את⟩ susunannyo; awak ka mambaok masuak ⟨את⟩ palito, jo mambaok ka ateh ⟨את⟩ lampu-lampunyo.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "jo awak ka mambaok masuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "jo manyusun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "susunannyo"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "susunannyo"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "jo awak ka mambaok masuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palito"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "palito"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "jo mambaok ka ateh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampu-lampunyo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampu-lampunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:22.117943606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo indak ang buliah batunangan jo inyo: anak padusi ang indak ka agiah untuak anak laki-lakinyo, jo anak padusinyo indak ka ambiak untuak anak laki-laki ang.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "ang buliah batunangan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "anak padusi ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ka agiah"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "untuak anak laki-lakinyo"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "jo anak padusinyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ka ambiak"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "untuak anak laki-laki ang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:53:56.869075171Z",
+  "model": "glm-5.3"
+}

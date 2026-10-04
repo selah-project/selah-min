@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 140,
+  "translation": "Sasungguahnyo urang nan banar mamuji kapado namo-Mu, urang nan luruak duduak di hadapan ⟨את⟩ muko-Mu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sasungguahnyo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang nan banar"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "kapado namo-Mu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "duduak"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "urang nan luruak"
+    },
+    {
+      "surface": "את",
+      "gloss": "di hadapan ⟨את⟩",
+      "marks": "muko-Mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:08.993695385Z",
+  "model": "glm-5.3"
+}

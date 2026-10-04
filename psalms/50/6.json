@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Jo langik mangumumkan ⟨את⟩ tsedeq-Nyo, karano Elohim — inyo-lah hakim. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Jo mangumumkan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tsedeq-Nyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo-lah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:37.859813651Z",
+  "model": "glm-5.3"
+}

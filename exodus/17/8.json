@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lalu Amalek tibo, jo baparang malawan Yisrael di Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu tibo"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "jo baparang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "malawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "di Refidim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:16.699463116Z",
+  "model": "glm-5.3"
+}

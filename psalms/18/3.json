@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Yahweh batu karang ambo, jo benteang ambo, jo palapeh ambo, El ambo, batu ambo, ambo balinduang di dalam-Nyo, pisaia ambo, jo tanduak kasalamatan ambo, tampek tinggi ambo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "batu karang ambo"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "jo benteang ambo"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "jo palapeh ambo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ambo"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu ambo"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ambo balinduang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalam-Nyo"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "pisaia ambo"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "jo tanduak"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "kasalamatan ambo"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "tampek tinggi ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:24.667291685Z",
+  "model": "glm-5.3"
+}

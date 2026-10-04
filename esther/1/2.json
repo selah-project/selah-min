@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "pado ari-ari itu, katiko rajo Achashverosh tagak di ateh takhta karajaannyo, nan ado di Shushan, ⟨kota⟩ benteang itu,",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "pado ari-ari"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "katiko duduak-tagak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "karajaannyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "di Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨kota⟩ benteang itu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:26.617783918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Indak dek kurbanmu ambo mangukuhi ⟨kamu⟩, jo olah-mu salalu ado di muko ambo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indak"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "kurbanmu"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ambo mangukuhi ⟨kamu⟩"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "jo olah-mu"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "di muko ambo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "salalu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:37.860051131Z",
+  "model": "glm-5.3"
+}

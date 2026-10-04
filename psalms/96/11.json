@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 96,
+  "translation": "Marilah langik basuka ria, bumi bagembira; lauik maaduak jo sagalo isinyo.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "basuka ria"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "bagembira"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "maaduak"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "jo sagalo isinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:16.765234338Z",
+  "model": "glm-5.3"
+}

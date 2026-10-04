@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Inyo nan mangirian ⟨את⟩ patarintah⟨nyo⟩ ka bumi, ciek kato⟨nyo⟩ balari capek bana.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "nan mangirian"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "⟨את⟩ patarintah⟨nyo⟩",
+      "marks": "patarintah-Nyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "capek bana"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "balari"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kato⟨nyo⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:20.902525464Z",
+  "model": "glm-5.3"
+}

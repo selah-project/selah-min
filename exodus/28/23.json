@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo kaua ka buek pado dada tu duo liliang ameh, jo kaua ka taruah ⟨את⟩ duo liliang itu pado duo ujuang dada tu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kaua ka buek"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "dada tu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "liliang"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kaua ka taruah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duo liliang itu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "liliang itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ujuang"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "dada tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:40.146455058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Sungguah, ⟨את⟩ darah kamo, darah untuak nyao kamo, ambo ka tuntuik; dari tangan satiok binatang iduik ambo ka tuntuik inyo, jo dari tangan manusia; dari tangan satiok urang, saudaronyo, ambo ka tuntuik ⟨את⟩ nyao manusia.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "sungguah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah kamo"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "darah kamo"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "untuak nyao kamo"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ambo ka tuntuik"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "binatang iduik"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "ambo ka tuntuik inyo"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "jo dari tangan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaronyo"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ambo ka tuntuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyao manusia"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:07.348663474Z",
+  "model": "glm-5.3"
+}

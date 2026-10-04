@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Indak inyo mamusnahkan ⟨את⟩ bangso-bangso nan alah dikatokan Yahweh kapado inyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "mamusnahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso-bangso"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alah dikatokan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:17.771875227Z",
+  "model": "glm-5.3"
+}

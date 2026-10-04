@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 85,
+  "translation": "Engkau alah maangkek duso bangso nyo, Engkau alah manutuik sagalo doso urang tu. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Engkau alah maangkek"
+    },
+    {
+      "surface": "עון",
+      "gloss": "duso"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangso nyo"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "Engkau alah manutuik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "doso urang tu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:45.409753436Z",
+  "model": "glm-5.3"
+}

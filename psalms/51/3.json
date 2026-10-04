@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Baniahi ambo, Elohim, manuruik hesed-Mu, manuruik kadipati rakhame-Mu pusekan pangaja-an ambo.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Baniahi ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "manuruik hesed-Mu"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "manuruik kadipati"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rakhame-Mu"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "pusekan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pangaja-an ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:43.048292411Z",
+  "model": "glm-5.3"
+}

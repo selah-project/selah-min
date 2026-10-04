@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Inyo bakumpua manantang jiwo urang nan bana, jo darah urang nan indak bapikia-la inyo maiyo.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "inyo bakumpua"
+    },
+    {
+      "surface": "על",
+      "gloss": "manantang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang nan bana"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "jo darah"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "urang nan indak bapikia"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "inyo maiyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:04.547575218Z",
+  "model": "glm-5.3"
+}

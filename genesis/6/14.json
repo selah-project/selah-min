@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Bueklah dek ambo surang sabuah bahtera dari kayu goper; bilik-bilik ka urang buek dalam bahtera itu, jo urang lapiknyo dari muka jo dari lua jo sipak.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Bueklah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dek ambo surang"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "sabuah bahtera"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dari kayu"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "goper"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "bilik-bilik"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka urang buek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahtera itu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "dalam bahtera itu"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "jo urang lapiknyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (bahtera)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari muka"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "jo dari lua"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "jo sipak"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:39.081124445Z",
+  "model": "glm-5.3"
+}

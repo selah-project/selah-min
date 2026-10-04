@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo sagalo pasak Mishkan tu jo pasak balakang nan sakaliliang tu daulo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "pasak"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "jo balakang"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "daulo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:58.677086081Z",
+  "model": "glm-5.3"
+}

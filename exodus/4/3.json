@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu inyo bakato: Lempaklah bana ka tanah. Maka inyo dilempakannyo ka tanah, jadi lah inyo manjadi ula, dan Moshe lari dari mukonyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "lempaklah bana"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "dilempakkannyo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi lah manjadi"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "ula"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "lari"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:33.039676482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 95,
+  "translation": "Unjan kareh ati kito sarupo di Merivah, sarupo ari Massah di gurun;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Unjan"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "kareh"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ati kito"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "sarupo di Merivah"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sarupo ari"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:51.597772797Z",
+  "model": "glm-5.3"
+}

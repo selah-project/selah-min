@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Mahago Yahweh ⟨את⟩ sadoalah nan mangasihi-Nyo, tapi ⟨את⟩ sadoalah urang jaah inyo musnakan.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Mahago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah nan mangasihi-Nyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "nan mangasihi-Nyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah urang jaah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "urang jaah"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "inyo musnakan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:48.036179049Z",
+  "model": "glm-5.3"
+}

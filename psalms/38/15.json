@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Ambo manjadi sarupo urang nan indak mandanga, jo indak ado dalam picinyo kato-santiangan.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sarupo urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "dalam picinyo"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "kato-santiangan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:02.767314106Z",
+  "model": "glm-5.3"
+}

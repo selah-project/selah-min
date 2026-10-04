@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 115,
+  "translation": "Indak urang-urang nan alah mati mamuji Yah, jo indak sado nan turun ka Diam-hemia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "urang-urang nan alah mati"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "nan turun ka"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "Diam-hemia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:55.933131695Z",
+  "model": "glm-5.3"
+}

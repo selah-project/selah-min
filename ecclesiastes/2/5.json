@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Aku mambuek untuak ambo kebun-kebun jo taman-taman, jo aku mananam di sinan batang sagalo macam buah.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "kebun-kebun"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "jo taman-taman"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "jo aku mananam"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "batang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo macam"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:55.292984854Z",
+  "model": "glm-5.3"
+}

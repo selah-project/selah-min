@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Karano Engkau manyalamaikkan urang nan kasasek, tapi mato nan angkuah Engkao marunduak-an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nan kasasek"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "manyalamaikkan"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "tapi mato"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "nan angkuah"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "marunduak-an"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:21.941364536Z",
+  "model": "glm-5.3"
+}

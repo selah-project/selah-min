@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Ambo lah manunggu — karano inyo indak mangecek, karano inyo tagak mandiam, indak manjawek lai —",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "ambo lah manunggu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "inyo mangecek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "inyo tagak mandiam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "manjawek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    }
+  ],
+  "timestamp": "2026-10-04T08:11:25.615793732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Dawid bakato kapado Yahweh ⟨את⟩ kato-kato nyanyian iko, pado ari Yahweh malapeh ⟨את⟩ inyo dari tangan sagalo musuahnyo jo dari tangan Sha ul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato nyanyian iko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "malapeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuahnyo"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "jo dari tangan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha ul"
+    }
+  ],
+  "timestamp": "2026-10-04T09:10:26.207730280Z",
+  "model": "glm-5.3"
+}

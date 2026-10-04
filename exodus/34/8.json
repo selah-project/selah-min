@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Lalu Moshe capek tasuruak, manunduak kapado bumi, jo manyambah.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "lalu capek tasuruak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "manunduak"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kapado bumi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "jo manyambah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:46.672500925Z",
+  "model": "glm-5.3"
+}

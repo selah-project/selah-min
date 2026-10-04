@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Caliak, inyo manganduang kabatilan, bakanduang kasusahan payah, jo malahiaan dusta.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "manganduang"
+    },
+    {
+      "surface": "און",
+      "gloss": "kabatilan"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "bakanduang"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasusahan payah"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "malahiaan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:06.164536861Z",
+  "model": "glm-5.3"
+}

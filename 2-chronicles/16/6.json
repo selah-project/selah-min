@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu Asa rajo maambiak ⟨את⟩ saluruah Yehuda, urang tu mambaok ⟨את⟩ batu-batu Rama jo ⟨את⟩ kayu-kayunyo nan dibangun dek Baasa, jo inyo mambangun jo itu ⟨את⟩ Geba jo ⟨את⟩ Mitzpa.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Lalu Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saluruah Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "urang tu mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu Rama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "kayu-kayunyo"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "kayu-kayunyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibangun"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "dek Baasa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jo itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "Mitzpa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    }
+  ],
+  "timestamp": "2026-10-04T08:54:01.681451313Z",
+  "model": "glm-5.3"
+}

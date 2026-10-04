@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu inyo manyusun ⟨את⟩ kayu-kayu tu, mambalah ⟨את⟩ lembu tu, jo maangkeknyo ka ateh kayu-kayu tu.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "lalu inyo manyusun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayu-kayu tu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu tu"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "mambalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu tu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu tu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "maangkeknyo ka ateh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:53:11.504665862Z",
+  "model": "glm-5.3"
+}

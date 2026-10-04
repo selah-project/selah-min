@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 9:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Ang manambah bangso tu, indak Ang mambesarkan karamahan tu; inyo bakaramah di muko Ang sarupo karamahan wakatu panen, sarupo urang tu bagaloriah katiko mambagi rampasan.",
+  "tokens": [
+    {
+      "surface": "הרבית",
+      "gloss": "manambah"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangso tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "mambesarkan"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "karamahan tu"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "bakaramah"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di muko Ang"
+    },
+    {
+      "surface": "כשמחת",
+      "gloss": "sarupo karamahan"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "wakatu panen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo katiko"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "bagaloriah"
+    },
+    {
+      "surface": "בחלקם",
+      "gloss": "katiko mambagiannyo"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rampasan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:10.349832329Z",
+  "model": "glm-5.3"
+}

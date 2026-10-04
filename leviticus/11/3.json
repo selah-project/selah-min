@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Sagalo nan mamarihak kuku jo nan balahi basi kukunyo, nan mambaok baliak makanan di dalamuangnyo dari kalompok binatang — iko nan buliah urang tu makan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "mamarihak kuku"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "jo balahi basi"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "lahi"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "kukunyo"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "mambaok baliak"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "makanan di dalamuangnyo"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "dari kalompok binatang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iko"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "urang tu makan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:49.316554838Z",
+  "model": "glm-5.3"
+}

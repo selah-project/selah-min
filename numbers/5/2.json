@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Suruah ⟨את⟩ anak-anak Yisrael, supayo urang tu mahiaan dari kamp sagalo urang kena kusta, sagalo urang nan kaluaan, jo sagalo urang nan najis dek mayik.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "suruah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "urang tu mahiaan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "urang kena kusta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "זב",
+      "gloss": "urang nan kaluaan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "urang nan najis"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "dek mayik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:40:12.781661531Z",
+  "model": "glm-5.3"
+}

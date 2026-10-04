@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Jo inyo mamiliah Dawid, hambonyo, jo maambiaknyo dari kandang-kandang domba.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "jo inyo mamiliah"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hambonyo"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "jo maambiaknyo"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "dari kandang-kandang"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:35.485236551Z",
+  "model": "glm-5.3"
+}

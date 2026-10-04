@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo juo ⟨את⟩ anak hamba padusi itu ambo jadian ciek kaum, karano inyo ⟨adalah⟩ beniah sanak.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak hamba padusi itu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hamba padusi itu"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "jadi ciek kaum"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ambo jadian inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniah sanak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:49.755501831Z",
+  "model": "glm-5.3"
+}

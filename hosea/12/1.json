@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Ephrajim mangalilingi ambo jo dusta, jo rumah Yisrael jo panecehan; jo Yahudah alun baranti balari-lari basamo El, jo basamo urang-urang suci inyo tapacayo.",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "mangalilingi ambo"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "jo dusta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "jo panecehan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jo Yahudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alun baranti"
+    },
+    {
+      "surface": "רד",
+      "gloss": "balari-lari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jo basamo"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "urang-urang suci"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "inyo tapacayo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:16.199339708Z",
+  "model": "glm-5.3"
+}

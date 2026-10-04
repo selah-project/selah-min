@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Tunjuaklan urang jahat atehnyo, jo satan tagak di tangan suoknyo.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Tunjuaklan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "jo satan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tangan suoknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:59.637273266Z",
+  "model": "glm-5.3"
+}

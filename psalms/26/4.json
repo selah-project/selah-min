@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Indak ambo lalamok basamo urang nan sia-sia, jo basamo urang nan manyuruak rancak-rancak indak ambo masuak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indak"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ambo lalamok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "urang"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "nan sia-sia"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jo basamo"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "urang nan manyuruak rancak-rancak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ambo masuak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:34.471092117Z",
+  "model": "glm-5.3"
+}

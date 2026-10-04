@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Kau taruih ⟨את⟩ kasaksian tu ka dalam Aron, nan ambo ka agiah kapado kau.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "kau taruih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka dalam"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasaksian"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ambo ka agiah"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado kau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:43.656916228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Inyo indak ka bakiaok, jo indak maangkek ⟨suaronyo⟩, indak mambuek suaronyo tadanga di lua.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "bakiaok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "mambuek tadanga"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "suaronyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:19.898766186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Di Gat jan kalian baolah carito, jan kalian tangih; di Beit-le-Afrah ambo baguliah di dabu.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Di Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "kalian baolah carito"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "kalian tangih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "kalian tangih"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Beit"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Afrah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ambo baguliah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:23.776461227Z",
+  "model": "glm-5.3"
+}

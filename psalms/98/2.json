@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 98,
+  "translation": "Yahweh alah mambuek dikanaui kasalamatan-Nyo; di mato bangso-bangso inyo alah manyingkapan tsedeq-Nyo.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "lah mambuek dikanaui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "kasalamatan-Nyo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "lah manyingkapan"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedeq-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:46.064084068Z",
+  "model": "glm-5.3"
+}

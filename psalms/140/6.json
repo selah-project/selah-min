@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 140,
+  "translation": "Urang takabuang alah manyumuikkan perangkap untuak ambo, jo tali-tali; mareka mangambangkan jua di sisi jalan; mareka alah mamasang panjireng untuak ambo. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "alah manyumuikkan"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "urang takabuang"
+    },
+    {
+      "surface": "פח",
+      "gloss": "perangkap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "jo tali-tali"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "mareka mangambangkan"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "jua"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "panjireng"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "mareka alah mamasang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:03.893686242Z",
+  "model": "glm-5.3"
+}

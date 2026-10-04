@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Maka turunlah sapuluah sudaro-sudaro Yosef untuak mambali bareh dari Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Maka turunlah"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sudaro-sudaro"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "untuak mambali bareh"
+    },
+    {
+      "surface": "בר",
+      "gloss": "bareh"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:43.560707136Z",
+  "model": "glm-5.3"
+}

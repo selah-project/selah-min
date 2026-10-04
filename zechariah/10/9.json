@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo Ambo ka sabuanyo di tangah-tangah bangso-bangso, jo di daerah-darah jauah inyo ka mangana-i Ambo, jo inyo ka iduik basamo ⟨את⟩ anak-anaknyo, jo inyo ka baliak.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "jo Ambo ka sabuanyo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di tangah-tangah bangso-bangso"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "jo di daerah-darah jauah"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "inyo ka mangana-i Ambo"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "jo inyo ka iduik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "jo inyo ka baliak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:20:08.398570130Z",
+  "model": "glm-5.3"
+}

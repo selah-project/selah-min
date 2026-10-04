@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Sapanjang ari inyo maambuiak ⟨את⟩ kato-kato ambo; saluruah rancangan inyo untuak ka buruak ambo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sapanjang ari"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato ambo"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "maambuiak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "rancangan inyo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "untuak ka buruak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:10.751967343Z",
+  "model": "glm-5.3"
+}

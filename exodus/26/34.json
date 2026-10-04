@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Dan sanak harus manaruih ⟨את⟩ tampatan pacampuran di ateh tabuik kasaksian, di tampek nan paliang suci.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "sanak harus manaruih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampatan pacampuran"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tampatan pacampuran"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabuik"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tampek suci"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "nan paliang suci"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:06.924169226Z",
+  "model": "glm-5.3"
+}

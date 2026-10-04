@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Moshe bakato kapado ⟨את⟩ Elohim: Ambo siapo ambo, untuak pai kapado Paroh, jo untuak mangaluaan ⟨את⟩ anak-anak Yisrael dari Mitsrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo...bakato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "jo untuak"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "mangaluaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:57.997001596Z",
+  "model": "glm-5.3"
+}

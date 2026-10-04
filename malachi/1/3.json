@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "tapi ⟨את⟩ Esav Ambo banci, jo Ambo mambuek ⟨את⟩ pagunuangannyo gurang, jo ⟨את⟩ puseaknyo manjadi rimbo urang tanah kariang.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "tapi ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "Ambo banci"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "jo Ambo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagunuangannyo"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "pagunuangannyo"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "gurang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "puseaknyo"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "puseaknyo"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "untuak binatang lia"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tanah kariang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:10.594422600Z",
+  "model": "glm-5.3"
+}

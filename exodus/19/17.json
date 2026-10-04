@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo Moshe mambaok ⟨את⟩ urang banyak kalua dari kamp untuak batamu jo Elohim, jo urang tu bajajar di kaki gunuang tu.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mambaok kalua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "untuak batamu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "bajajar"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "di kaki"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunuang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:44.969082079Z",
+  "model": "glm-5.3"
+}

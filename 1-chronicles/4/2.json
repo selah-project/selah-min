@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Reaya anak Shoval malahiakan ⟨את⟩ Yakhat, jo Yakhat malahiakan ⟨את⟩ Akhumai jo ⟨את⟩ Lahad; iko adolah kaluarga-kaluarga urang Tsereati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Jo Reaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakhat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yakhat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "jo Yakhat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Akhumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "kaluarga-kaluarga"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "urang Tsereati"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:35.925872303Z",
+  "model": "glm-5.3"
+}

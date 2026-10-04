@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo kueklah tangan Midian ateh Yisrael; dek karano Midian, urang-orang Yisrael mambuek untuak surang-surang ⟨את⟩ lubang-lubang nan di gunuang, jo ⟨את⟩ gua-gua, jo ⟨את⟩ benteang-benteang.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "jo kueklah"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak surang-surang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang-orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lubang-lubang nan di gunuang"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "lubang-lubang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "di gunuang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gua-gua"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "gua-gua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "benteang-benteang"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "benteang-benteang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:14:12.388826057Z",
+  "model": "glm-5.3"
+}

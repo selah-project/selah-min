@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Iko anak-anak Yisrael: Reuven, Shimeon, Levi, jo Yehudah, Yissakhar, jo Zevulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jo Yehudah"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissakhar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "jo Zevulun"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:34.458647850Z",
+  "model": "glm-5.3"
+}

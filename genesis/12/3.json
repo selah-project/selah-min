@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo Aka baka barek-i urang nan mambaok barek kapado ang, jo urang nan maanjk-an ang Aka laknat-i; jo saluruah kaluarga di bumi ka mandapek barek dek ang.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Aka baka barek-i"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "urang nan mambaok barek kapado ang"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "jo urang nan maanjk-an ang"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "Aka laknat-i"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "ka mandapek barek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dek ang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kaluarga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:20.580606680Z",
+  "model": "glm-5.3"
+}

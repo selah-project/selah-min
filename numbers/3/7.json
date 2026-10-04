@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "jo inyo mahjago panjagoannyo, sarato ⟨את⟩ panjagoan sadoalah jamaah, di muko kemah patamuan, untuak manaruihan pakerjaan ⟨את⟩ Mishkan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "jo inyo mahjago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panjagoannyo"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "panjagoannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarato ⟨את⟩",
+      "marks": "panjagoan sadoalah jamaah"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "panjagoan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuak manaruihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakerjaan Mishkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "pakerjaan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:36.899693069Z",
+  "model": "glm-5.3"
+}

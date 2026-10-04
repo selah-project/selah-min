@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Dan inyo malambuang batu kapado ⟨את⟩ Dawid jo kapado ⟨את⟩ sagalo hamba rajo Dawid, sadang sagalo urang banyak jo sagalo pahlawan ado di sabalah kanannyo jo di sabalah kidanyo.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "malambuang batu"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "jo batu-batu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo hamba rajo Dawid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "pahlawan-pahlawan"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "di sabalah kanannyo"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "jo di sabalah kidanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:40:07.005581568Z",
+  "model": "glm-5.3"
+}

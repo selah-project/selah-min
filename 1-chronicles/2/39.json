@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Azaryah manurunkan ⟨את⟩ Khelets, jo Khelets manurunkan ⟨את⟩ Elasah.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Jo Azaryah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khelets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Khelets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "jo Khelets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasah"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:39:58.316492619Z",
+  "model": "glm-5.3"
+}

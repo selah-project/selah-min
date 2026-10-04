@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 32:21",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo Engkau mambaok kalua ⟨את⟩ umat-Mu, ⟨את⟩ Yisrael, dari tanah Mitsrayim, jo tando-tando jo mukjizat, jo tangan nan kua, jo langan nan dilanggang, jo katakaan nan gadang.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "Jo Engkau mambaok kalua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Mu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "באתות",
+      "gloss": "jo tando-tando"
+    },
+    {
+      "surface": "ובמופתים",
+      "gloss": "jo mukjizat"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "jo tangan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "nan kua"
+    },
+    {
+      "surface": "ובאזרוע",
+      "gloss": "jo langan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nan dilanggang"
+    },
+    {
+      "surface": "ובמורא",
+      "gloss": "jo katakaan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nan gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:39:37.438142033Z",
+  "model": "glm-5.3"
+}

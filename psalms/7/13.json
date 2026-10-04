@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Kalau inyo indak baliak, padangnyo inyo asah, busunnyo alah inyo tanai jo alah inyo siapok.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "padangnyo"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "asah"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "busunnyo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tanai"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "siapok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:06.164206134Z",
+  "model": "glm-5.3"
+}

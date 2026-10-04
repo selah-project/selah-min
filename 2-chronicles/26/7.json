@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo Elohim manolong inyo malawan urang Filistin, jo malawan urang Arab nan tingga di Gur-Baal, jo urang Maunim.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "jo manolong inyo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "malawan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Filistin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo malawan"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "urang Arab"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "nan tingga"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "di Gur-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "jo urang Maunim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:56:41.968867896Z",
+  "model": "glm-5.3"
+}

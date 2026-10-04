@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 8:36",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo Aakhaz manurunkan ⟨את⟩ Yehoadah, jo Yehoadah manurunkan ⟨את⟩ Alemet, jo ⟨את⟩ Azmavet, jo ⟨את⟩ Zimri; jo Zimri manurunkan ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Jo Aakhaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoadah"
+    },
+    {
+      "surface": "יהועדה",
+      "gloss": "Yehoadah"
+    },
+    {
+      "surface": "ויהועדה",
+      "gloss": "jo Yehoadah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Azmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "jo Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:57.424576511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "⟨את⟩ satiok gagak manuruik janjangnyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satiok gagak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gagak"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "manuruik janjangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:05.690853505Z",
+  "model": "glm-5.3"
+}

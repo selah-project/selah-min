@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Jo tabarakati namo kamuliaan-Nyo salamo-lamonyo, jo kamuliaan-Nyo mangisi ⟨את⟩ sadonyo bumi. Amin, jo amin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Jo tabarakati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamuliaan-Nyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "jo mangisi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamuliaan-Nyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadonyo bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "jo amin"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:56.945861920Z",
+  "model": "glm-5.3"
+}

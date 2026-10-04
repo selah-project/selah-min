@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 13:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "indak awak mandanga kato-kato nabi itu, saurang panjapak mimpi itu, karano Yahweh, Elohim awak saluruah, manguji ⟨את⟩ awak saluruah, untuak mangatahui kok awak pancintoi ⟨את⟩ Yahweh, Elohim awak saluruah, jo sagalo ati awak jo jo sagalo nyao awak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "awak mandanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "חולם",
+      "gloss": "panjapak mimpi"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "mimpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מנסה",
+      "gloss": "manguji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim awak saluruah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awak saluruah",
+      "marks": "awak saluruah"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuak mangatahui"
+    },
+    {
+      "surface": "הישכם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "awak pancintoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim awak saluruah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ati awak"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo jo sagalo"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nyao awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:50.687529309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Dan Aharon jo anak-anaknyo makan ⟨את⟩ dagiang domba jantan itu jo ⟨את⟩ roti nan ado di dalam bakoluah, di mungko Khema Partamuan.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "jo makan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jo anak-anaknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiang domba jantan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "roti"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "di dalam bakoluah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di mungko"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Partamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:48.038563148Z",
+  "model": "glm-5.3"
+}

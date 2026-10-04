@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo Dawid buek baa baitu, sarupo nan disuruahkan Yahweh ka inyo; jo inyo mamukua ⟨את⟩ urang Palishti dari Giv'a sampai ⟨kau⟩ tibo ka Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jo buek"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baa baitu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "disuruahkan ka inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "jo mamukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Palishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palishti"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "dari Giv'a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באך",
+      "gloss": "kau tibo"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-10-04T05:35:54.532020102Z",
+  "model": "glm-5.3"
+}

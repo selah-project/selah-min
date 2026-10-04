@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo ⟨את⟩ lantai rumah ditutuik ameh, di dalam jo di lua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lantai rumah"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "lantai"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ditutuik"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "di dalam"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "jo di lua"
+    }
+  ],
+  "timestamp": "2026-10-04T05:47:17.737359272Z",
+  "model": "glm-5.3"
+}

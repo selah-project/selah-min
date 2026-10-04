@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "jo minyak untuak palito, jo bumbu-bumbu untuak minyak paminyakan, jo untuak katuangan bumbu-bumbu.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "untuak palito"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "jo bumbu-bumbu"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "untuak minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "paminyakan (urapan)"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "jo untuak katuangan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "bumbu-bumbu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:29.764496978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Biar urang asiang mamuah sanak, bukan muncuak sanak surang; urang nan balain, bukan bibia sanak surang.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "mamuah sanak"
+    },
+    {
+      "surface": "זר",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "muncuak sanak surang"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "urang nan balain"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo bukan"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "bibia sanak surang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:35.032635319Z",
+  "model": "glm-5.3"
+}

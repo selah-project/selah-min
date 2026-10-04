@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 13:11",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo ambo ka mangukia dunie dek kaburukoannyo, jo urang jahat dek dosonyo; ambo ka mahanti kabangganan urang sombong, jo kalabek urang garang ambo ka manurunan.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Jo ambo ka mangukia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunie"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dek kaburukoannyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "dek dosonyo"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ambo ka mahanti"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kabangganan"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "urang sombong"
+    },
+    {
+      "surface": "וגאות",
+      "gloss": "jo kalabek"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "urang garang"
+    },
+    {
+      "surface": "אשפיל",
+      "gloss": "ambo ka manurunan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:19.081416910Z",
+  "model": "glm-5.3"
+}

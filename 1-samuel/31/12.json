@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Sagalo urang gagah bangkik, jalan sapapanjang malam, lalu mangambok ⟨את⟩ jasaang Sha'ul jo ⟨את⟩ jasaang-jasaang anak-anaknyo dari tanggok bait Shan, tibo di Yavesh, jo mambakaar ⟨את⟩ urang tu di sinan.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gagah"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapapanjang"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "lalu mangambok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jasaang Sha'ul"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "jasaang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "jasaang-jasaang anak-anaknyo"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "jasaang-jasaang"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "dari tanggok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tibo di"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "mambakaar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "jasaang-jasaang itu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:34:30.991598835Z",
+  "model": "glm-5.3"
+}

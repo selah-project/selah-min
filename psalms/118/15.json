@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 118,
+  "translation": "Suaro ria jo palinduangan di khemah urang-urang tsedeq: tangan suok Yahweh bakarajo jo gagah.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ria"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "jo palinduangan"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "di khemah-khemah"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang-urang tsedeq"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan suok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bakarajo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jo gagah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:08.266696446Z",
+  "model": "glm-5.3"
+}

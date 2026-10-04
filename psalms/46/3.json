@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Karano itu indak kito takuik, walaupun bumi babaliak, jo gunuang-gunuang taguncang ka ati lauik.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "kito takuik"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "walaupun babaliak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "jo taguncang"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ka ati"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lauik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:44.067417055Z",
+  "model": "glm-5.3"
+}

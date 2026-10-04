@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Dalam katantuan-katantuan-Mu ambo basanang, indak ambo lupo kato-Mu.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "dalam katantuan-katantuan-Mu"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "ambo basanang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ambo lupo"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kato-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:21.270390045Z",
+  "model": "glm-5.3"
+}

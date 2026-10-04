@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Dan iko nan ka urang buek kapadonyo: tigo ratus ameh panjangnyo bahtera itu, lima puluah ameh lebanyo, jo tigo puluah ameh tingginyo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Dan iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka urang buek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (bahtera)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ameh (ukua)"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjangnyo"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahtera itu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ameh (ukua)"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lebanyo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "jo tigo puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ameh (ukua)"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "tingginyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:39.081312893Z",
+  "model": "glm-5.3"
+}

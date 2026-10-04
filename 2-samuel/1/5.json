@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Dawid bakato kapado anak mudo nan mangabarian kapadonyo: Baa awak tau bahaso Shaul alah mati, jo Yonatan anaknyo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak mudo"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "nan mangabarian"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "איך",
+      "gloss": "baa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "awak tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahaso"
+    },
+    {
+      "surface": "מת",
+      "gloss": "alah mati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "jo Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:34:28.886319857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Ambo lah tandam dalam lumpua nan dalam, indak ado tampek bajak; ambo lah tibo ka dalam-dalam aia, jo banjia mangawuak ambo.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "ambo lah tandam"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "dalam"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "lumpua nan dalam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "tampek bajak"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ambo lah tibo"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "ka dalam-dalam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "jo banjia"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "mangawuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:31.721916610Z",
+  "model": "glm-5.3"
+}

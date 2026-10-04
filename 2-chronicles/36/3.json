@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Jo rajo Mitsrayim manurunkannyo di Yerushalayim, jo mandendani ⟨את⟩ nagari itu saratuih talenta perak jo ciek talenta ameh.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "manurunkannyo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "mandendani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagari itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari itu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratuih"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta perak jo ciek talenta ameh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "jo ciek talenta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:00:35.932165419Z",
+  "model": "glm-5.3"
+}

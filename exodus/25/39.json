@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Saaik ameh murni inyo mahasiaikannyo, ⟨את⟩ sagalo paralatan iko.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "saaik"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "inyo mahasiaikannyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo mahasiaikannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo paralatan iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "paralatan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:33.369827319Z",
+  "model": "glm-5.3"
+}

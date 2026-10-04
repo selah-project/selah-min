@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo pintu-pintu ditutuik di pasa, ma suaro panggiliang lah randah, urang bangkek dek suaro buruang, jo sado anak-anak gadih nyanyian dibarandokan.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "ditutuik"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "di pasa"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "randah"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "panggiliang"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "bangkek"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "dek suaro"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "buruang"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "dibarandokan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak gadih"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "nyanyian"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:41.496833695Z",
+  "model": "glm-5.3"
+}

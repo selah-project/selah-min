@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Supayo kamuliaan ambo mambunyian paneh-pujian untuak Engkau, jo indak barasia — Yahweh, Elohim ambo, salamanyo ambo maagiah tarimo kasih kapado-Mu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "mambunyian paneh-pujian untuak Engkau"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamuliaan ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "barasia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ambo maagiah tarimo kasih kapado-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:55.171270574Z",
+  "model": "glm-5.3"
+}

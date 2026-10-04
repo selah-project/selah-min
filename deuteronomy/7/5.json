@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Tapi sarupo iko buek kapadonyo: meja kurban inyo tu runtuahkan, batu tagak inyo tu papecahan, tiang Ashera inyo tu tabangan, jo patuang inyo tu bakaan jo api.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sarupo iko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sarupo iko"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "buek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "meja kurban inyo tu"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "runtuahkan"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "batu tagak inyo tu"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "papecahan"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "tiang Ashera inyo tu"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "tabangan"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "patuang inyo tu"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "bakaan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:01.330859666Z",
+  "model": "glm-5.3"
+}

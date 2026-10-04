@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Dan kau ka bakato pado ari itu: Aku mamuji Engkau, Yahweh, karano Engkau alah mamarahi ambo, murkamu alah baliak, jo Engkau mamaduah ambo.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "dan kau ka bakato"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "aku mamuji Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "Engkau alah mamarahi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "alah baliak"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "murkamu"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "jo Engkau mamaduah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:48.010713123Z",
+  "model": "glm-5.3"
+}

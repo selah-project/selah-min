@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Apo kinyo buwek pado ari nan ditantukan, jo pado ari rayo Yahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kinyo buwek"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nan ditantukan"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "jo pado ari"
+    },
+    {
+      "surface": "חג",
+      "gloss": "royo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:06.452933527Z",
+  "model": "glm-5.3"
+}

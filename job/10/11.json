@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Kulik jo dagiang Awak mamakaian ambo, jo tulang jo urat Awak mambalut ambo.",
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "Kulik"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "jo dagiang"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "Awak mamakaian ambo"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "jo tulang"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "jo urat"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "Awak mambalut ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:05:41.987725465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jan mangecek manggarik jo manggunyo batarabuang urang babarengan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "jo manggarik"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "jo manggunyo batarabuang"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "urang babarengan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:33.818006268Z",
+  "model": "glm-5.3"
+}

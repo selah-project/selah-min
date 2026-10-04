@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Karano pamberontakan ambo ambo tau, jo doso ambo ado di muko ambo taruih.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pamberontakan ambo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "jo doso ambo"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "di muko ambo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:55.235142454Z",
+  "model": "glm-5.3"
+}

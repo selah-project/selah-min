@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 25:17",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Buek kaki tu jarang di rumah kawanmu, bia kawanmu indak kanyang jo kau lalu benci kapado kau.",
+  "tokens": [
+    {
+      "surface": "הקר",
+      "gloss": "buek jarang"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kaki tu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kawanmu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bia indak"
+    },
+    {
+      "surface": "ישבעך",
+      "gloss": "kanyang jo kau"
+    },
+    {
+      "surface": "ושנאך",
+      "gloss": "lalu benci kapado kau"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:37.312752354Z",
+  "model": "glm-5.3"
+}

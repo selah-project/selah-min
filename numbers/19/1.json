@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo Yahweh bajanji kapado Moshe jo kapado Aharon, mangecek begini:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bajanji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek begini"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:05.199076403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Mako katiko rajo Chizkiahu mandanga ⟨itu⟩, inyo mancabiak ⟨את⟩ pakaiannyo, lalu manyalimuik dirinyo jo kain sak, dan masuak ka rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mako"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "katiko mandanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "mancabiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannyo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannyo"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "salimuik dirinyo"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "jo kain sak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:23.120437243Z",
+  "model": "glm-5.3"
+}

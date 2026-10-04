@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Dek kato Yahweh langik dijadian, jo dek ruakh fromyo sagalo parangannyo.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Dek kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "dijadian"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "jo dek ruakh"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "fromyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "parangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:29.410464448Z",
+  "model": "glm-5.3"
+}

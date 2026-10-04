@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Paroh bakato: Ambo surang ka mangiriman pulang, dan ⟨את⟩ kito biahi untuak Yahweh, Elohim, di padang rimbunan; hanyo jangan jauah bana pai — bahubuang lah untuak ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ambo surang"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ka mangiriman pulang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kito",
+      "marks": "kito"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "dan kito biahi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang rimbunan"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "jauah bana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "pai jauah"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pai"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "bahubuanglah"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:35.395517718Z",
+  "model": "glm-5.3"
+}

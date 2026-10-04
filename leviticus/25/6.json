@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Dan Shabat bumi tu ka jadi untuak kalian makanan — untuak kau, jo untuak hambamu, jo untuak amahmu, jo untuak urang upahanmu, jo untuak panduduakmu urang rantau nan tingga basamo kau.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "dan ka jadi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kalian"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak kau"
+    },
+    {
+      "surface": "ו לעבדך",
+      "gloss": "jo untuak hambamu"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "jo untuak amahmu"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "jo untuak urang upahanmu"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "jo untuak panduduakmu"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "urang rantau"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo kau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:34.833309200Z",
+  "model": "glm-5.3"
+}

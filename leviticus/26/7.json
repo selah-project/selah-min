@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo kalian mandakek-an ⟨את⟩ musuah kalian, jo inyo tajang ka muko kalian dek padang.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "Jo kalian mandakek-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuah kalian"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuah kalian"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "jo inyo tajang"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ka muko kalian"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "dek padang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:26.296258850Z",
+  "model": "glm-5.3"
+}

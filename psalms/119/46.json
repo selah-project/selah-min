@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Jo ambo ka mangecekk kasaksian-Kau di muko rajo-rajo, jo indak ka malu.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "jo ambo ka mangecekk"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "kasaksian-Kau"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak ka"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "malu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:49.215537360Z",
+  "model": "glm-5.3"
+}

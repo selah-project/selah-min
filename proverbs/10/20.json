@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lidah urang nan bana adolah perak pilihan, tapi ati urang jahat saketek haragonyo.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "pilihan"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang nan bana"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "saketek haragonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:57.857743102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lalu Yehosafat bakato kapado rajo Yisrael: Ajo, cari pado ari ko ⟨את⟩ kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "cari"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ajo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "pado ari ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:38.557991977Z",
+  "model": "glm-5.3"
+}

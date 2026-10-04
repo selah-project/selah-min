@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Yahweh agiah kakuatan kapado umat-Nyo; Yahweh maumpama ⟨את⟩ umat-Nyo jo damai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kapado umat-Nyo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "maumpama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Nyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nyo"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "jo damai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:02.680482552Z",
+  "model": "glm-5.3"
+}

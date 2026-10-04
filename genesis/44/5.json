@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Indak iko kah nan tuan amyo minum ⟨jo iko⟩, yo inyo mambaco untuang jo iko? Kalian alah mambuek jahat, nan kalian buek.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "indak…kah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "minum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan amyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yo inyo"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "mambaco"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "mambaco untuang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "alah mambuek jahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "kalian buek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:28.087527847Z",
+  "model": "glm-5.3"
+}

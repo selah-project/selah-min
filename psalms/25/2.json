@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Elohim ambo, pado Engkau ambo tacakek; jangan sampai ambo mailang muko; jangan musuah-musuah ambo tagomboh ateh ambo.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pado Engkau"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ambo tacakek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "אבושׁה",
+      "gloss": "ambo mailang muko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "tagomboh"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuah-musuah ambo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ateh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:22.560135221Z",
+  "model": "glm-5.3"
+}

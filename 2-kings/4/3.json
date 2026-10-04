@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Baliau bakato: Pgia, pinjam untuak diri sanek sagalo baldi dari lua, dari ⟨את⟩ sagalo tatanggo sanek — baldi-baldi nan kosong; janga dikurangi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pgia"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "pinjam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak diri sanek"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "sagalo baldi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "lua"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo tatanggo sanek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "tatanggo sanek"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "baldi-baldi"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "nan kosong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janga"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "dikurangi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:57:01.338429018Z",
+  "model": "glm-5.3"
+}

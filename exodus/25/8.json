@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo buahekannyo untuak Ambo tampek suci, supayo Ambo dapek tingga di tangah-tangah inyo",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Jo buahekannyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak Ambo"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "tampek suci"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "supayo Ambo dapek tingga"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di tangah-tangah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:23.969235440Z",
+  "model": "glm-5.3"
+}

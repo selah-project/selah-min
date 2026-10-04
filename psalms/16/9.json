@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Dek karano itu ati ambo sanang, jo kabasaran ambo bagiria; dagiang ambo pun bamukim dangan aman.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dek karano itu"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "jo bagiria"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kabasaran ambo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pun"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagiang ambo"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bamukim"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "dangan aman"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:28.861961460Z",
+  "model": "glm-5.3"
+}

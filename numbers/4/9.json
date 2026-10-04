@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 4:9",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Urang tu ka mangambiak kain tekhelet, jo manutuik ⟨את⟩ manaro panjarano, ⟨את⟩ palito-palitonyo, ⟨את⟩ sepik-sepiknyo, ⟨את⟩ panyalo baranyo, jo ⟨את⟩ sagalo pakakeh minyaknyo nan dipakai urang tu melayani inyo.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "mangambiak"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "kain"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "manutuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaro panjarano"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "manaro"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "panjarano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "palito-palitonyo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "palito-palitonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sepik-sepiknyo"
+    },
+    {
+      "surface": "מלקחיה",
+      "gloss": "sepik-sepiknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panyalo baranyo"
+    },
+    {
+      "surface": "מחתתיה",
+      "gloss": "panyalo baranyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo pakakeh minyaknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "pakakeh"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "melayani"
+    },
+    {
+      "surface": "לה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jo itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:39:08.516896942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Jo kini, Yahweh, ayah kami, You ⟨iyo⟩; kami ⟨iyo⟩ tanah liat, jo You pambantuak kami, jo karya tangan You kami sagalo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ayah kami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "You"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "tanah liat"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "jo You"
+    },
+    {
+      "surface": "יצצנו",
+      "gloss": "pambantuak kami"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "jo karya"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan You"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "kami sagalo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:24:48.488011784Z",
+  "model": "glm-5.3"
+}

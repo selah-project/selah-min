@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Langik jo bumi mamuji inyo, lauik-lauik jo sagalo nan bagarak di dalamnyo.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "mamuji inyo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jo bumi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lauik-lauik"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nan bagarak"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di dalamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:13.422003518Z",
+  "model": "glm-5.3"
+}

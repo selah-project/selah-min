@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "ati angkuahnyo, jo urang tu lupo ka ⟨את⟩ Yahweh, Elohim nan mambaok angkuak kelua dari tanah Mitsrayim, dari rumah parabdi;",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "angkuahnyo"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "jo urang tu lupo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "nan mambaok angkuak kelua"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "parabdi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:27.708316768Z",
+  "model": "glm-5.3"
+}

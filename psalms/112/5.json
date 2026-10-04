@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 112,
+  "translation": "Elok urang nan mambari jo mamintih; inyo manjago urusan-urusannyo jo hukum.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "mambari"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "mamintih"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "manjago urusan-urusannyo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "urusannyo"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "jo hukum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:13.196028956Z",
+  "model": "glm-5.3"
+}

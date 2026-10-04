@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo pado ari itu tajadi, ambo pacahkan ⟨את⟩ busur Yisrael di lampeang Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jo tajadi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ambo pacahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "busur"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "di lampeang"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:38.555054118Z",
+  "model": "glm-5.3"
+}

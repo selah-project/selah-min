@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Lalu bakato Paroh: Caliak, kini amua rami urang nagari ko, jo sanedo baraka inyo mandeh mangistiriahikan ⟨את⟩ inyo dari pikulan-pikulan bareknyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "rami"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini amua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari ko"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "mandeh mangistiriahikan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "dari pikulan-pikulan bareknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:54.214422558Z",
+  "model": "glm-5.3"
+}

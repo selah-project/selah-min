@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "jo ⟨את⟩ urang Patros, jo ⟨את⟩ urang Kaslukh — dari sananyo kalua urang Palishti — jo ⟨את⟩ urang Kaftor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Patros"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "urang Patros"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Kaslukh"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "urang Kaslukh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sananyo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palishti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Kaftor"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "urang Kaftor"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:29.694490761Z",
+  "model": "glm-5.3"
+}

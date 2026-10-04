@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Moshe baliak kapado Yahweh, jo bakato: Adonai, baa kok Kau mambuek jahat kapado kaum iko? Baa kok ko Kau mangiriman ambo?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "Kau mambuek jahat"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kapado kaum"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "Kau mangiriman ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:56.614542054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Jo ⟨את⟩ umat Ambo urang tu ajari mancaliak bana antaro nan suci jo nan biaso, jo antaro nan tajamu jo nan murni urang tu buek inyo tau.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umat Ambo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat Ambo"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "urang tu ajari"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antaro"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "jo nan biaso"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nan tajamu"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "jo nan murni"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "urang tu buek inyo tau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:05:05.741219005Z",
+  "model": "glm-5.3"
+}

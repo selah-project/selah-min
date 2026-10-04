@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Inyo mangatok-an busurnyo jo kakinyo, jo managak-an ambo sarupo target untuak anak padang.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "mangatok-an jo kakinyo"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "busurnyo"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "managak-an ambo"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "sarupo target"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "untuak anak padang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:18:08.751952412Z",
+  "model": "glm-5.3"
+}

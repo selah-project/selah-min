@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo awak mancari dari tampek tu ⟨את⟩ Yahweh, Elohim awak, jo awak mandapek-Nyo, karano awak mancari-Nyo jo sado ati awak jo jo sado nyawa awak.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "jo awak mancari"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari tampek tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim awak"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "jo awak mandapek-Nyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "awak mancari-Nyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ati awak"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo jo sado"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawa awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:53:50.194108704Z",
+  "model": "glm-5.3"
+}

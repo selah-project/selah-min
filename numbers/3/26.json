@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo kain gantuang alaik ampek sangai, jo ⟨את⟩ tirai di mungko pintu alaik ampek sangai tu, nan di ateh Mishkan jo di ateh mazbakh sakitarinyo, jo ⟨את⟩ tali-talinyo, untuak sadoalah karajonyo.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "jo kain gantuang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "alaik ampek sangai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tirai"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di mungko pintu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "alaik ampek sangai tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo di ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbakh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakitarinyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tali-talinyo"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "tali-talinyo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak sadoalah"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "karajonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:16.794758886Z",
+  "model": "glm-5.3"
+}

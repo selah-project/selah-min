@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 53,
+  "translation": "Sungguah, panyakik kamilah nan inyo pikua, jo panyik-panyik kamilah nan inyo baok; sadangkok kami mamandang inyo urang nan disantuah, dipukua dek Elohim, jo dipacakola.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "sungguah"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "panyakik kami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mamikua"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "jo panyik-panyik kami"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "inyo baok"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "sadangkok kami"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "mamandang inyo"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "disantuah"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "dipukua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dek Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "jo dipacakola"
+    }
+  ],
+  "timestamp": "2026-10-04T06:22:22.427421943Z",
+  "model": "glm-5.3"
+}

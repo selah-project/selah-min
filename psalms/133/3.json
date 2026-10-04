@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 133,
+  "translation": "Sarupo ambuniai Khremon nan manurun ka gunuang-gunuang Tsion, karano di sinan Yahweh maminteh ⟨את⟩ barkah — iduik salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Sarupo ambuniai"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Khremon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nan manurun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "maminteh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barkah"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "barkah"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:13.411040033Z",
+  "model": "glm-5.3"
+}

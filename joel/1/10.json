@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Dirabuih ladang, bakabuang tanah, karano dirabuih jaguang, kariang tuak anggur, laluah miahsiah.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "dirabuih"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "bakabuang"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dirabuih"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "jaguang"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "kariang"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "tuak anggur"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "laluah"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "miahsiah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:58.599703394Z",
+  "model": "glm-5.3"
+}

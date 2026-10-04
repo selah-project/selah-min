@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Aminadab manjadiakan ⟨את⟩ Nakhshon, jo Nakhshon manjadiakan ⟨את⟩ Salmon.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "jo Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manjadiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "jo Nakhshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manjadiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmon"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:17.814428613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Jo urang tu manambah lai doso kapado-Nyo, mambarontak kapado `Elyon di gurun kariang.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "manambah lai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "doso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado-Nyo"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "mambarontak kapado"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "di gurun kariang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:00.069302911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo kaduonyo talanjang, adam itu jo bininyo, jo indak maila.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kaduonyo"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "talanjang"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "jo bininyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "maila"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:30.803532055Z",
+  "model": "glm-5.3"
+}

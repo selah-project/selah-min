@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo duduak tiok urang di bawah anggurnyo, jo di bawah aranyo, jo indak ado nan manggaduah; karano muluik Yahweh Tsebaot alah bakato.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "jo duduak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tiok urang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "anggurnyo"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "jo di bawah"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "aranyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "nan manggaduah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alah bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T07:14:42.746360328Z",
+  "model": "glm-5.3"
+}

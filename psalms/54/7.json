@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 54,
+  "translation": "Baliaklah buek buruak kapado musuah-musuah ambo; jo kasatiaan-Mu, punahkanlah inyo.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "buek buruak"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "kapado musuah-musuah ambo"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "jo kasatiaan-Mu"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "punahkanlah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:01.555131904Z",
+  "model": "glm-5.3"
+}

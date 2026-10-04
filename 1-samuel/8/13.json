@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo ⟨את⟩ anak-anak padusi kalian inyo ambiak, untuak pangasiak bauok, untuak pamasak, jo untuak pambaru roti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak padusi kalian"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "anak-anak padusi kalian"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "inyo ambiak"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "untuak pangasiak bauok"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "untuak pamasak"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "untuak pambaru roti"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:01.830858012Z",
+  "model": "glm-5.3"
+}

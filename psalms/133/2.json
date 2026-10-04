@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 133,
+  "translation": "Sarupo minyak nan elok di ateh kapalo, manurun ka jangguik, jangguik Aharon, nan manurun ka bibia bajunyo.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Sarupo minyak"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "יורד\/ירד",
+      "gloss": "manurun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "jangguik"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "jangguik"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nan manurun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibia"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "bajunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:13.410845859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo Yitro bakato: Barakaik Yahweh, nan alah malapeh ⟨אתכם⟩ dari tangan Mitsrayim jo dari tangan Paroh, nan alah malapeh ⟨את⟩ urang banyak dari bawah tangan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barakaik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "malapeh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "jo dari tangan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "malapeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dari bawah"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:19.095764043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Inyo-iyo nampak parbuatan Yahweh, jo nika-nika ajaib-Nyo di lubuak nan dalam.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "inyo-iyo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nampak"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "parbuatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "jo nika-nika ajaib-Nyo"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "di lubuak nan dalam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:33.990474578Z",
+  "model": "glm-5.3"
+}

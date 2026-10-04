@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Sanak paduai inyo jo tungkek basi; sarupo barang buatan pandai tanah sanak piciahkan inyo.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "paduai inyo"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "jo tungkek"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "basi"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "sarupo barang"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "pandai tanah"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "piciahkan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:55.220525730Z",
+  "model": "glm-5.3"
+}

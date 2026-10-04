@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Maka inyo mambiahan Mishkan Syilo, khemah nan inyo tinggakan di tangah-tangah manusia.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "mambiahan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Syilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nan inyo tinggakan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "di tangah-tangah manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:24.609149806Z",
+  "model": "glm-5.3"
+}

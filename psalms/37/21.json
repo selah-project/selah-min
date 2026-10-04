@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Urang jahat maminjam indak mambalia; urang banar baramah jo mahadiah.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "maminjam"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mambalia"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "urang banar"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "baramah"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "mahadiah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:41.826531665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 62,
+  "translation": "Jo kapado kau, Adonai, ado ⟨iolah⟩ hesed, karano kau nan mambaleh kapado satiok urang manuruik buatannyo.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "jo kapado kau"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "mambaleh"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kapado satiok urang"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "manuruik buatannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:36.609815340Z",
+  "model": "glm-5.3"
+}

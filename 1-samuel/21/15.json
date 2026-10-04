@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lalu Akish bakato kapado hamba-hambanyo: Caliak, санак caliak, urang iko bagilo-gilo; baa kok kau urang mambaok ⟨את⟩ inyo kapado ambo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanyo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "kau urang caliak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "bagilo-gilo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "kau urang mambaok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:21.132347256Z",
+  "model": "glm-5.3"
+}

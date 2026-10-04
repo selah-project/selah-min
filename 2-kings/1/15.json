@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo bakato malaikjak Yahweh kapado Eliyahu: Turunlah jo inyo, jangan takuik kapadonyo. Lalu inyo bangun jo turun jo inyo kapado rajo tu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaikjak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Turunlah"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ jo inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ jo inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:30.688078471Z",
+  "model": "glm-5.3"
+}

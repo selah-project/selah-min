@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Dan sasudah baliaknyo taun, Ben-Hadad mangumpuakan ⟨את⟩ Aram, lalu naiak ka Afeq untuak baparang malawan Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan tajadilah"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "pado baliaknyo"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mangumpuakan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lalu naiak"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "ka Afeq"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuak baparang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "malawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:00.892015420Z",
+  "model": "glm-5.3"
+}

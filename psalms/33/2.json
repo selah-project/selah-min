@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Pujilah Yahweh jo kinor, jo nevel sapuluah tali; babunyilah ⟨untuak-Nyo⟩.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "jo kinor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "jo nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sapuluah tali"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "babunyilah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨untuak-Nyo⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:49.364102224Z",
+  "model": "glm-5.3"
+}

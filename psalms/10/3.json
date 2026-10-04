@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Karano urang jahat mamuji nafsu atinyo surang, jo urang bakareto mamuji inyo, nan mandandeh Yahweh",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "על",
+      "gloss": "tarhadap"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "nafsu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "atinyo surang"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "jo urang bakareto"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "nan mandandeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:06.944887109Z",
+  "model": "glm-5.3"
+}

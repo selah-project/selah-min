@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Dan imam mamarintahkan, dan bakorban ⟨את⟩ buruang nan ciek, ka dalam piriang tanah, di ateh aia nan iduik.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "bakorban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buruang nan ciek"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "buruang"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka dalam"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "piriang"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nan iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:28.465347829Z",
+  "model": "glm-5.3"
+}

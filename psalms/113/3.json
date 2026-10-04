@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 113,
+  "translation": "Dari timua matoari sampai tahannyo, tapuji namo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "dari timua"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "tahannyo"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "tapuji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:48.972391142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 37:20",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Jo kini, Yahweh, Elohim kito, slamatkan kito dari tangannyo, supayo sadolah karajoan-karajoan bumi tau baso kau ⟨adolah⟩ Yahweh, kau surang sajo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "הושיענו",
+      "gloss": "slamatkan kito"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "dari tangannyo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "supayo tau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadolah"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karajoan-karajoan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kau surang sajo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:02.582207444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 27:23",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "maka imam maetong untuaknyo ⟨את⟩ jumlah taksiranmu sampai taun Yobel, dan inyo mambayia ⟨את⟩ taksiranmu pado ari itu, sabuah bando suci untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "maka maetong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jumlah taksiranmu"
+    },
+    {
+      "surface": "מכסת",
+      "gloss": "jumlah"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "taksiranmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "taun"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yobel"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dan mambayia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taksiranmu"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "taksiranmu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:28.383941406Z",
+  "model": "glm-5.3"
+}

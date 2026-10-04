@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 99,
+  "translation": "Jo kakuatan rajo nan mangasihi pangadilan — angkau alah managakkan kadudukan nan adia, pangadilan jo tsedeq di Yaakov angkau alah karajoan.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "jo kakuatan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pangadilan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mangasihi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "alah managakkan"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "kadudukan nan adia"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pangadilan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "jo tsedeq"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "di Yaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "alah karajoan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:38.652835678Z",
+  "model": "glm-5.3"
+}

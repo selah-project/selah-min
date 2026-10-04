@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Untuak Dawid: jan tagaduah-gaduah dek urang-urang nan buruak, jan iri hati kapado urang-urang nan buek panyalahan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuak Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "tagaduah-gaduah"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "dek urang-urang nan buruak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "iri hati"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "kapado urang-urang nan buek"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "panyalahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:07.165040218Z",
+  "model": "glm-5.3"
+}

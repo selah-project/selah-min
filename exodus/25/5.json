@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "jo kulik biriang nan diagiah warna sirah, jo kulik takhas, jo kayu akasia —",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "jo kulik"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "biriang"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "nan diagiah warna sirah"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "jo kulik"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhas"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "jo kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:23.968669260Z",
+  "model": "glm-5.3"
+}

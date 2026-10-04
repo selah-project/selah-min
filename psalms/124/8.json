@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 124,
+  "translation": "Patolongan kito barado dalam Namo Yahweh, Pancipta langik jo bumi.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Patolongan kito"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam Namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Pancipta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jo bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:49.467288959Z",
+  "model": "glm-5.3"
+}

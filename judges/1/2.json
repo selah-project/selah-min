@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Yahweh bakato: Yehudah ka naik; caliak, alah ambo agiah ⟨את⟩ tanah ka tangannyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ka naik"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah ambo agiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ka tangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:12:12.863730990Z",
+  "model": "glm-5.3"
+}

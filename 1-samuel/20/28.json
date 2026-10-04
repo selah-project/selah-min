@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Maka Yonatan manjawek ⟨את⟩ Shaol: Dawid barek-barek maminta kapado ambo, nak pai ka Beit-Lekhem.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "maka manjawek"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "maminta barek-barek"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "maminta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekhem"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:58.438031986Z",
+  "model": "glm-5.3"
+}

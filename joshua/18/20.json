@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "jo Yarden manjadi tapiannyo ⟨את⟩ di sabalah timur; iko warisan anak-anak Binyamin manuruik babatehannyo sakaliliang, manuruik kaluargo-kaluargonyo",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "jo Yarden"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "manjadi tapiannyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "di sabalah timur"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "di sabalah"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "timur"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "manuruik babatehannyo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "manuruik kaluargo-kaluargonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:09:13.863946352Z",
+  "model": "glm-5.3"
+}

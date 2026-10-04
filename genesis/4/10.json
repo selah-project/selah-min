@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Kato urang tu: Apo nan alah ang buwek? Suaro darah saudaro ang sadang manjeruik kapado ambo dari tanah itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ang buwek"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darah"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaro ang"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "sadang manjeruik"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:53.883898444Z",
+  "model": "glm-5.3"
+}

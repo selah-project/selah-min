@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Di sinan Ambo pacuak manumbuahan ⟨את⟩ tanduak untuak Dawid, Ambo alah mamasang palito untuak Mashiakh-Ku.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "pacuak manumbuahan"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "tanduok"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "Ambo alah mamasang"
+    },
+    {
+      "surface": "נר",
+      "gloss": "palito"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "untuak Mashiakh-Ku"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:05.400111617Z",
+  "model": "glm-5.3"
+}

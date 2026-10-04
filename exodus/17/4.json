@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Moshe mancaliak kapado Yahweh, bakato: Apo ka buek ambo untuak urang banyak ko? Lai saketek lai urang tu maoto batu ka ambo.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ka buek ambo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "untuak urang banyak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek lai"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "urang tu maoto batu ka ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:40.337158579Z",
+  "model": "glm-5.3"
+}

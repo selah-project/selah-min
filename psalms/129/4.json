@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 129,
+  "translation": "Yahweh nan bana, inyo mamutuih tali-tali urang jahat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nan bana"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "inyo mamutuih"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:08.483912933Z",
+  "model": "glm-5.3"
+}

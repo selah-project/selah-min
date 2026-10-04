@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo katiko inyo marunduak diri, kamurkaan Yahweh bapaliak dari inyo, sahinggo indak mambinasakan sampai tuntas; jo di Yehuda juo ado pakaro-pakaro elok.",
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "katiko inyo marunduak diri"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bapaliak"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari inyo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kamurkaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "mambinasakan"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "sampai tuntas"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yehuda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "pakaro-pakaro"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "elok"
+    }
+  ],
+  "timestamp": "2026-10-04T08:52:16.478379241Z",
+  "model": "glm-5.3"
+}

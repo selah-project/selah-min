@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 83,
+  "translation": "Inyo bakato: Mai kito, jo kito puanguih inyo supayo indak manjadi bangso, jo namo Yisrael indak diingek lai.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Inyo bakato"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mai kito"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "jo kito puanguih inyo"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "supayo indak manjadi bangso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "diingek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:07.890551212Z",
+  "model": "glm-5.3"
+}

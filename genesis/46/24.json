@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Jo anak-anak Naftali: Yahtseel, Guni, Yetser, jo Syilem.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "Yahtseel"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "jo Guni"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "jo Yetser"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "jo Syilem"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:08.766445759Z",
+  "model": "glm-5.3"
+}

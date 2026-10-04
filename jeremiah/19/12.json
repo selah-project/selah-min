@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 19:12",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Baitu Aku ka buat untuak tampek iko, kato Yahweh, jo untuak panduduaknyo, jo untuak mambuek ⟨את⟩ kota iko sarupo Tofet.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Aku ka buat"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "untuak tampek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וליושביו",
+      "gloss": "jo untuak panduduaknyo"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "jo untuak mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota iko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "sarupo Tofet"
+    }
+  ],
+  "timestamp": "2026-10-04T06:33:38.895690508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jiko ang mambali saurang amban Ibrani, anam tahun inyo bakarajo, jo pado nan katujuah inyo kalua dapek, indak mambayia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jiko"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "ang mambali"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "saurang amban"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ibrani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "inyo bakarajo"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "jo pado nan katujuah"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "inyo kalua"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "indak mambayia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:06.568633202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo Yehonatan bakato kapado Dawid: mai, kito kalua ka ladang. Jo kaduonyo kalua ka ladang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo … bakato"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "kito kalua"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ka ladang"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "jo … kalua"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kaduonyo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ka ladang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:59.976007208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Dek itu Moshe bakato di muko Yahweh: Caliak, bibia ambo urul — jo baa caronyo Paroh ka mandanga ambo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dek itu … bakato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "urul"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "bibia"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "jo baa caronyo"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ka mandanga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:53.534148336Z",
+  "model": "glm-5.3"
+}

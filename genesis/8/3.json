@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu aia tu baliak dari ateh bumi, pai jo baliak, dan aia tu barikuang salapeh limo puluah jo saratus ari.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia tu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "jo baliak"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "barikuang"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia tu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "salapeh"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limo puluah"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "jo saratus"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:01.323880581Z",
+  "model": "glm-5.3"
+}

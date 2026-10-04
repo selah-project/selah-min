@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu Aharon mahasiekan undi-undi ateh duo kambing jantan itu: ciek undi untuak Yahweh, jo ciek undi untuak Azazel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Lalu Aharon mahasiekan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "kambing jantan itu"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "undi-undi"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "undi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "jo undi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "untuak Azazel"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:17.516702849Z",
+  "model": "glm-5.3"
+}

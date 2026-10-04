@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Katiko talingo mandanganyo, inyo taat kapado ambo; anak urang asiang mambuek-buek kapado ambo.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "katiko mandanganyo"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "talingo"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "inyo taat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak urang"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "asiang"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "mambuek-buek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:00.818773958Z",
+  "model": "glm-5.3"
+}

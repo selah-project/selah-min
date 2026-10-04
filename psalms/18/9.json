@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Naiak asok dari iduang-Nyo, jo api dari muluik-Nyo makan ⟨את⟩; bara bara manyala dari-Nyo.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asok"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dari iduang-Nyo"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "dari muluik-Nyo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "makan ⟨את⟩"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "bara bara"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "manyala"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:41.683123230Z",
+  "model": "glm-5.3"
+}

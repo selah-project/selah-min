@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Tingga baso ambo, jangan takuik, karano urang nan mancari ⟨את⟩ nyao ambo, inyo mancari juo ⟨את⟩ nyao ang, karano ang tau-tapuik jo ambo.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ jo ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyao ambo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyao ambo"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "mancari juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyao ang"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyao ang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tau-tapuik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "jo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:48.689114165Z",
+  "model": "glm-5.3"
+}

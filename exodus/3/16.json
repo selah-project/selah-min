@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Pai, kumpuanlah ⟨את⟩ tuwo-tuwo Yisrael, jo katoan kapado urang tu: Yahweh, Elohim nenek moyang awak, alah mancaliak diri-Nyo kapado ambo — Elohim Avraham, Yitskhak, jo Yaakov — bakato: Mangunjuangi bana lah Ambo mangunjuangi awak, jo ⟨את⟩ nan balaku kapado awak di Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "jo kumpuanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuwo-tuwo Yisrael"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tuwo-tuwo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jo katoan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "nenek moyang awak"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "alah mancaliak diri-Nyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "jo Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "mangunjuangi bana"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "lah Ambo mangunjuangi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awak",
+      "marks": "awak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nan balaku kapado awak"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "nan balaku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado awak"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:16.588525934Z",
+  "model": "glm-5.3"
+}

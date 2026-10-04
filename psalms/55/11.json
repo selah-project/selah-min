@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Siang jo malam urang tu mangalilili di ateh dindiangnyo, jo kajahatan jo kacacekan ado di tangah-tangahnyo.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jo malam"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "mangalilili"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "dindiangnyo"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "jo kajahatan"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "jo kacacekan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tangah-tangahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:48.457638398Z",
+  "model": "glm-5.3"
+}

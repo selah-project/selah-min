@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Bilo namonyo tatap salamo-lamonyo, di muko matohari namonyo baparanakan, jo urang banyak mambarakati ⟨dirinyo⟩; sadonyo banso-banso manyabuik inyo bahagia.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matohari"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "baparanakan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "mambarakati"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨dirinyo⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "banso-banso"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "manyabuik inyo bahagia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:56.945512405Z",
+  "model": "glm-5.3"
+}

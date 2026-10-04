@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Manyanyikan kapado Yahweh, urang-urang nan banai kapado-Nyo, jo ucapkan syukur ateh paringekan kasucian-Nyo.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "manyanyikan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "urang-urang nan banai kapado-Nyo"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "jo ucapkan syukur"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ateh paringekan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kasucian-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:52.800162340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Lah Hananyah nabi maambiak ⟨את⟩ kuk itu dari lihia Yirmeyah nabi, lalu mamcah inyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lah maambiak"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuk itu"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "kuk itu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari lihia"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "lihia"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "mamcah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:36:34.278251807Z",
+  "model": "glm-5.3"
+}

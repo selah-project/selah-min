@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo Paroh indak ka mandanga kapado kalian, maka ambo ka malatakkan ⟨את⟩ tangan ambo ateh Mitsrayim, jo ambo ka mangaluaan ⟨את⟩ bala tantara ambo, ⟨את⟩ umaik ambo, anak-anak Yisrael, dari tanah Mitsrayim, jo pangadilan-pangadilan nan gadang.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Jo indak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ka mandanga"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kapado kalian"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "maka ambo ka malatakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan ambo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan ambo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ateh Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "jo ambo ka mangaluaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bala tantara ambo"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "bala tantara ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umaik ambo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umaik ambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "jo pangadilan-pangadilan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nan gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:04.409603362Z",
+  "model": "glm-5.3"
+}

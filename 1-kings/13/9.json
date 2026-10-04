@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Karano baitulah diparentahkan ⟨את⟩ ambo dek kato Yahweh, nakato: indak kau makan roti, indak kau minum aia, jo indak kau baliak di jalan nan kau datang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dek kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kau makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "kau minum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "kau baliak"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "kau datang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:22.729177890Z",
+  "model": "glm-5.3"
+}

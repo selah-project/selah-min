@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Sanak ka makan nan lamo bana tasimpan, jo nan lamo sanak ka buek kalua karano nan baru.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "sanak ka makan"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "nan lamo"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "bana tasimpan"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "jo nan lamo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nan baru"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "sanak ka buek kalua"
+    }
+  ],
+  "timestamp": "2026-10-04T09:04:14.986874426Z",
+  "model": "glm-5.3"
+}

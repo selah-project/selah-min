@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo inyo salimuik ⟨את⟩ rumah tu — ⟨adalah⟩ balok-baloknyo, ambang-ambangnyo, jo dindiang-dindiangnyo, jo pintu-pintunyo — jo ameh, jo inyo maukia keruvim di ateh dindiang-dindiangnyo.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "jo inyo salimuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "balok-baloknyo"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ambang-ambangnyo"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "jo dindiang-dindiangnyo"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "jo pintu-pintunyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "jo inyo maukia"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "dindiang-dindiangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:50:01.222768910Z",
+  "model": "glm-5.3"
+}

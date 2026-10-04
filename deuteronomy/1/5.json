@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Di seberang Yarden, di tanah Moab, Moshe mulai manjaleaskan ⟨את⟩ Torah iko, bakato:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "mulai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "manjaleaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah iko"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:19.738883870Z",
+  "model": "glm-5.3"
+}

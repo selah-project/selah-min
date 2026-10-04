@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Satiok nan ditamukan ka ditusuk, jo satiok nan tagabuang jatuah dek padang.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nan ditamukan"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "ka ditusuk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo satiok"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "nan tagabuang"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "dek padang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:44.705006169Z",
+  "model": "glm-5.3"
+}

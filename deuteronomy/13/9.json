@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Indak ang manginduanggan inyo, jo indak ang mandanga ka inyo; indak mato ang manyayanginyo, indak ang maaf-i, jo indak ang tabui-i inyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "manginduanggan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "manyayangi"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "mato ang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "maaf-i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "tabui-i"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:57.448113162Z",
+  "model": "glm-5.3"
+}

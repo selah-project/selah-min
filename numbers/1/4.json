@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo ⟨את⟩ inyo ado urang-urang, ciek urang untuak tiok suku, saurang kapalo rumah adaik ambo-ambo inyo — inyo bana.",
+  "tokens": [
+    {
+      "surface": "וְאִתְּכֶם",
+      "gloss": "Jo ⟨את⟩ inyo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ado"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciek urang"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "untuak tiok suku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "adaik ambo-ambo inyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo bana"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:47.224841824Z",
+  "model": "glm-5.3"
+}

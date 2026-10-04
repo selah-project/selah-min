@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jiwanyo bakadiaman di dalam kabaiakan, jo beniahnyo mawarisi bumi.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "jiwanyo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "di dalam kabaiakan"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "bakadiaman"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "jo beniahnyo"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "mawarisi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:14.347418272Z",
+  "model": "glm-5.3"
+}

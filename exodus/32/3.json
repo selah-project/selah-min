@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lalu sado urang tu malapehan ⟨את⟩ galang-galang ameh nan ado di talingo mareka, jo mambaoknyo kapado Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "malapehan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galang-galang ameh"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "galang-galang"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "di talingo mareka"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "jo mambaoknyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:08.590972879Z",
+  "model": "glm-5.3"
+}

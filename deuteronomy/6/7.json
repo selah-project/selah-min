@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo ulangi-i kato-kato tu kapado anak-anak sanak, jo bacakak manganonyo, wakatu duduak di rumah sanak, wakatu bajalan di jalan, wakatu baranti jo wakatu bangkik.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "ulangi-i"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "kapado anak-anak sanak"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "bacakak"
+    },
+    {
+      "surface": "בם",
+      "gloss": "manganonyo"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "wakatu duduak"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di rumah sanak"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "wakatu bajalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "wakatu baranti"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "wakatu bangkik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:40.089919443Z",
+  "model": "glm-5.3"
+}

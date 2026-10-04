@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Bakato kapado anak-anak Yisrael, jo kokokan kapado inyo: kok kalian mailang ⟨את⟩ Yarden, ka arah tanah Kanaan,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jo kokokan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "mailang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka arah tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:50:55.987237836Z",
+  "model": "glm-5.3"
+}

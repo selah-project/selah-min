@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Tapi mareka mancubo jo mambangkak kapado ⟨את⟩ Elohim Elyon, jo kasaksiannyo indak mareka jago.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "mareka mancubo"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "mambangkak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "jo kasaksiannyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mareka jago"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:39.912266997Z",
+  "model": "glm-5.3"
+}

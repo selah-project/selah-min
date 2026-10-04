@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Yishai manurunkan ⟨את⟩ anak sulungnyo, ⟨את⟩ Eliab; jo Avinadab nan kaduo, jo Shimea nan katigo.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "Jo Yishai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak sulungnyo"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak sulungnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "jo Avinadab"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "jo Shimea"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nan katigo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:22.107076994Z",
+  "model": "glm-5.3"
+}

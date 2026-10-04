@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo Abisai anak Tseruia mangalahan ⟨את⟩ Edom di Lembah Garam — dalapan baleh ribu.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Jo Abisai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruia"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "mangalahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "di Lembah"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Garam"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "dalapan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:46:11.749160492Z",
+  "model": "glm-5.3"
+}

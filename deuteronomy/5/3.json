@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Indak jo ⟨את⟩ nenek moyang kito Yahweh mamotong ⟨את⟩ parjanjian iko, tapi ⟨את⟩ jo kito — kito, nan di siko ari ko, kito sadonyo iduik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nenek moyang kito"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "nenek moyang kito"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "mamotong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian iko"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ jo kito"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kito"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di siko"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari ko"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "kito sadonyo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:53:23.832350002Z",
+  "model": "glm-5.3"
+}

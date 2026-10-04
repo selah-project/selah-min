@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Tapi Yehoshafat bakato kapado rajo Yisrael: Caliak-i, mari kito cari kini kato Yahweh ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "cari"
+    },
+    {
+      "surface": "נא",
+      "gloss": "caliak-i"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:53:51.433863150Z",
+  "model": "glm-5.3"
+}

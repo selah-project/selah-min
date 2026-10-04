@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Dalam kaba elok urang nan tsedeq nagari bagirang, dan katiko urang jahat binaso ado ralia suka.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "dalam kaba elok"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang nan tsedeq"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "bagirang"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "dan katiko binaso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ralia suka"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:08.012288638Z",
+  "model": "glm-5.3"
+}

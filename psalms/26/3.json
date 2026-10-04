@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Karano hesed-Mu ado di muko mato ambo, jo ambo bajalan dalam kabanaan-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "jo ambo bajalan"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dalam kabanaan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:34.470967649Z",
+  "model": "glm-5.3"
+}

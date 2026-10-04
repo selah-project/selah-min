@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Kaluar Dinah, anak padusi Lea nan dilahiakannyo untuak Yaakov, untuak maliek anak-anak padusi nagari itu.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dilahiakannyo"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "untuak Yaakov"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak maliek"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "anak-anak padusi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:39.978369Z",
+  "model": "glm-5.3"
+}

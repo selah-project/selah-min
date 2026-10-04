@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Maka bangkik kapalo-kapalo kaum bapa-bapa Yahudah jo Binyamin, jo para imam, jo para Lewi, sadonyo nan ⟨את⟩ ruakhnyo dibaikan Elohim, untuak naiak mambangun ⟨את⟩ bait Yahweh nan di Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "maka bangkik"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo-kapalo"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "kaum bapa-bapa"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yahudah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "jo Binyamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "jo para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "jo para Lewi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dibaikan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakhnyo"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakhnyo"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "untuak naiak"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:29:30.509760628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Karano musim dingin urang malas indak mambajak; inyo maminta pado musim panen, tapi indak ado apo-apo.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "karano musim dingin"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "urang malas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "mambajak"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "maminta"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "pado musim panen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi indak ado"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:29.880912425Z",
+  "model": "glm-5.3"
+}

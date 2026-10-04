@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 137,
+  "translation": "Baa kito manyanyikan ⟨את⟩ lagu Yahweh di ateh tanah urang asiang?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "baa"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "kito manyanyikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lagu Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "urang asiang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:49.002099896Z",
+  "model": "glm-5.3"
+}

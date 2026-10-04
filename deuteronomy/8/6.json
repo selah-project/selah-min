@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dan kau ka mamatuik ⟨את⟩ parentah-parentah Yahweh Elohim kaamu, untuak bajalan di jalan-jalannyo jo untuak manakuik kapado ⟨את⟩-Nyo.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "dan kau ka mamatuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah-parentah Yahweh Elohim kaamu"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah-parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kaamu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuak bajalan"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di jalan-jalannyo"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "jo untuak manakuik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kapado ⟨את⟩-Nyo",
+      "marks": "Inyo (Yahweh)"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:46.092852719Z",
+  "model": "glm-5.3"
+}

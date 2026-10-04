@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Hesed ambo jo benteang ambo, kubu ambo jo nan malapeh ambo; untuak ambo paringuik, jo di Iyo ambo balinduang — nan manunduak urang ambo di bawah ambo.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed ambo"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "jo benteang ambo"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "kubu ambo"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "jo nan malapeh ambo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "paringuik"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "jo di Iyo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ambo balinduang"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "nan manunduak"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "urang ambo"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "di bawah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:13.328053625Z",
+  "model": "glm-5.3"
+}

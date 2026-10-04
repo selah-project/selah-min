@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Anak-anak Kharim, tigoatuah jo duopuluah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Kharim"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "tigoatuah"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jo duopuluah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:31:31.214485572Z",
+  "model": "glm-5.3"
+}

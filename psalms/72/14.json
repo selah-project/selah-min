@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Dari panindasan jo dari kajahatan inyo tbusakan nyao mareka, jo mahal darah mareka di mato nyo.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "dari"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "jo dari kajahatan"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "tbusakan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyao mareka"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "jo mahal"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "darah mareka"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di mato nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:45.621854789Z",
+  "model": "glm-5.3"
+}

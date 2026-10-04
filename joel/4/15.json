@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Mataari jo bulan manjadi galok, jo bintang-bintang mahapuih kainarangannyo.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Mataari"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "jo bulan"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "manjadi galok"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "jo bintang-bintang"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "mahapuih"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "kainarangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:25.058060128Z",
+  "model": "glm-5.3"
+}

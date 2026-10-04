@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 100,
+  "translation": "Palayanilah ⟨את⟩ Yahweh jo raso ria; masuaklah ka mukonyo jo sorak nyanyian.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "palayanilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "jo raso ria"
+    },
+    {
+      "surface": "באו",
+      "gloss": "masuaklah"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ka mukonyo"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "jo sorak nyanyian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:58.280924772Z",
+  "model": "glm-5.3"
+}

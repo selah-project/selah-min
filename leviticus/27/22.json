@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Dan jikok inyo manyucikan ⟨את⟩ ladang nan dibalinyo — nan indak tamasuak ladang ampunannyo — untuak Yahweh,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jikok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ladang"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "nan dibalinyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "dari ladang"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ampunannyo"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "manyucikan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:28.383781107Z",
+  "model": "glm-5.3"
+}

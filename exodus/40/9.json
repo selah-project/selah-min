@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo kau ambiak ⟨את⟩ minyak urapan tu, jo urapi ⟨את⟩ Mishkan tu jo ⟨את⟩ sagalo nan ado di dalamnyo; jo kau sucikan ⟨את⟩ inyo jo ⟨את⟩ sagalo pakaian-parabotnyo, supayo inyo manjadi suci.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "jo kau ambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urapan tu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan tu"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "jo urapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan tu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan ado di dalamnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ado di dalamnyo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "jo kau sucikan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Mishkan tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo pakaian-parabotnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pakaian-parabotnyo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "supayo inyo manjadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:08.201907251Z",
+  "model": "glm-5.3"
+}

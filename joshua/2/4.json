@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Padusi itu maambiak ⟨את⟩ duo urang laki-laki itu lalu manyuruakan urang tu, lalu bakato: Sungguah, urang laki-laki itu tibo kapado ambo, tapi ambo indak tau dari ma urang tu datang.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Padusi itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duo urang laki-laki itu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang laki-laki itu"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "lalu manyuruakan urang tu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Sungguah"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang laki-laki itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tau"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "dari ma"
+    },
+    {
+      "surface": "המה",
+      "gloss": "urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:05:08.756210095Z",
+  "model": "glm-5.3"
+}

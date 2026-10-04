@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "kapado urang Kanaan di timur jo di lauik, jo urang Emori, jo urang Heti, jo urang Perizi, jo urang Yebusi di pagunuangan, jo urang Hewi di bawah Hermon, di tanah Mitspa.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "di timur"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "jo di lauik"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "jo urang Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "jo urang Heti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "jo urang Perizi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "jo urang Yebusi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pagunuangan"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "jo urang Hewi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-10-04T05:08:08.281109472Z",
+  "model": "glm-5.3"
+}

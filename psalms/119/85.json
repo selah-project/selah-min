@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Urang nan sombong alah manggali lubang siha untuak ambo, nan indak manuruik Torah-Mu.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "alah manggali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "urang nan sombong"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "lubang siha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "manuruik Torah-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:29.259085854Z",
+  "model": "glm-5.3"
+}

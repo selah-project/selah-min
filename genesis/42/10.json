@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Urang tu bakato kapadonyo: Indak, tuan ambo, tapi hamba-hamba ambo iolah urang nan tibo untuak mambali makanan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "urang tu bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "hamba-hamba ambo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "untuak mambali"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:17.064802856Z",
+  "model": "glm-5.3"
+}

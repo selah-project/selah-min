@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Rancak pipi dikau jo pilin-pilin, liuik dikau jo manik-manik.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "rancak"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "pipi dikau"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "jo pilin-pilin"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "liuik dikau"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "jo manik-manik"
+    }
+  ],
+  "timestamp": "2026-10-04T08:14:41.631452092Z",
+  "model": "glm-5.3"
+}

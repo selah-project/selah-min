@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Tatapi dalam Torah Yahweh kana kahandaknyo, jo dalam Torah-Nyo inyo manggumam siang jo malam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tatapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "dalam Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "kana kahandaknyo"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "jo dalam Torah-Nyo"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "manggumam"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jo malam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:03.425666723Z",
+  "model": "glm-5.3"
+}

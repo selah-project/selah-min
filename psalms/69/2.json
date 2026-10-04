@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Selamatkan ambo, Elohim, karano aia alah tibo sampai ka jiwo.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "selamatkan ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "באו",
+      "gloss": "alah tibo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:31.721726067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Tapi Elohim ka manembak inyo jo anak dai; tibo-tibo jadilah luko-luko inyo.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "tapi Elohim ka manembak inyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "jo anak dai"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "tibo-tibo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "luko-luko inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:51.368088304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Shelomah panggih ⟨את⟩ Yahweh ⟨itu⟩, baraja bajalan sasuai jo aturan Dawid apaknyo; hanyo di tampek-tampek tinggi inyo masih manyambiaik jo mambaok dupa.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "panggih"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "baraja bajalan"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "sasuai jo aturan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "di tampek-tampek tinggi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "manyambiaik"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "jo mambaok dupa"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:46.424018828Z",
+  "model": "glm-5.3"
+}

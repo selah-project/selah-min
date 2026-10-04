@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 70,
+  "translation": "Biarlah baliak ateh balakang tampok urang nan mangecek tu, nan bakato: Haa, haa!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "biarlah baliak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "balakang tampok"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "urang nan mangecek tu"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Haa"
+    },
+    {
+      "surface": "האח",
+      "gloss": "haa"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:22.391198520Z",
+  "model": "glm-5.3"
+}

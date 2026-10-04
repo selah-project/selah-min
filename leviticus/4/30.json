@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Imam maambiak sabarek darahnyo jo jarinyo, jo mambaoknyo ka ateh tanduak mazbah kurban bakaran, jo ⟨את⟩ sadonyo darahnyo inyo tuang ka dasa mazbah tu.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "sabarek darahnyo"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "jo jarinyo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mambaoknyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "tanduak"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadonyo darahnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "inyo tuang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "dasa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:28.364528132Z",
+  "model": "glm-5.3"
+}

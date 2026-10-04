@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu rakyat kalua jo marampok ⟨את⟩ kamp Aram, jadi ciek saah tapuang lamak batargo satuo syikal, jo duo saah barli batargo satuo syikal, sasuai kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "marampok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamp Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "ciek saah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tapuang lamak"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "batargo satuo syikal"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "jo duo saah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "barli"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "batargo satuo syikal"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sasuai kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:59:05.314414811Z",
+  "model": "glm-5.3"
+}

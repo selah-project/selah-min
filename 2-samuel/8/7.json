@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dan Dawid maambiak ⟨את⟩ parisa-parisa ameh nan ado kapado hamba-hamba Hadadezer, dan mambaokinyo ka Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parisa-parisa ameh"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "parisa-parisa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ado"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "mambaokinyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ka Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T05:36:43.202288832Z",
+  "model": "glm-5.3"
+}

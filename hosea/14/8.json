@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Urang-urang nan duduak di bawah linduangannyo ka baliak; inyo ka mahiduikan ⟨את⟩ padi, jo bakambang sarupo anggur; kagoriahannyo sarupo anggur Lubnan.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "ka baliak"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "urang-urang nan duduak"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "di bawah linduangannyo"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ka mahiduikan"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "padi",
+      "marks": "padi"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "jo bakambang"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "sarupo anggur"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "kagoriahannyo"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "sarupo anggur (minuman)"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:48.890013971Z",
+  "model": "glm-5.3"
+}

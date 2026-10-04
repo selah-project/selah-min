@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Lido ambo manjawi jo kato-Mu, karano sagalo parentah-Mu tsedeq.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "manjawi jo"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lido ambo"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kato-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parentah-Mu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:38.085418964Z",
+  "model": "glm-5.3"
+}

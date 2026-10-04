@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Lalu urang tu manabueh ladang, mananam kebun anggur, lalu mambaok buah hasia panen.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "lalu manabueh"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "mananam"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "kebun anggur"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "lalu mambaok"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "hasia panen"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:42.198145943Z",
+  "model": "glm-5.3"
+}

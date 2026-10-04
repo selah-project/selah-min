@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Karano bukak sajo bukak ⟨את⟩ tangan angkia kapado inyo, jo utangkan sajo utangkan inyo sacukuiknyo jo kakurangannyo nan kurang kapado inyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "bukak sajo"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "bukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan angkia"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan angkia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "jo utangkan sajo"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "utangkan inyo"
+    },
+    {
+      "surface": "די",
+      "gloss": "sacukuiknyo"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "jo kakurangannyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:02.004796994Z",
+  "model": "glm-5.3"
+}

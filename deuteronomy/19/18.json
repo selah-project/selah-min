@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 19:18",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Dan para hakim manyalidiki jo saba; dan basonyo saksi itu saksi palsu, alah manjadi palsu tahadok saudaronyo.",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "manyalidiki"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "para hakim"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "jo saba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan basonyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "palsu"
+    },
+    {
+      "surface": "העד",
+      "gloss": "saksi itu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "palsu"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "alah manjadi"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "tahadok saudaronyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:51.280011193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 19:7",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo inyo tau ⟨tampek-tampek⟩ nan tanang, jo kota-kota urang tu inyo rusak, jo tanah jo isinyo manjadi tanduih dek suara aumnyo.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "tau jo inyo"
+    },
+    {
+      "surface": "אלמנותיו",
+      "gloss": "⟨tampek-tampek⟩ nan tanang"
+    },
+    {
+      "surface": "ועריהם",
+      "gloss": "jo kota-kota urang tu"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "rusak inyo"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "manjadi jo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "jo isinyo"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "dek suara"
+    },
+    {
+      "surface": "שאגתו",
+      "gloss": "aumnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:53:58.152747785Z",
+  "model": "glm-5.3"
+}

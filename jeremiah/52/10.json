@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "Lalu rajo Babel maimba ⟨את⟩ anak-anak Tsidkiahu di matoinyo surang, jo ⟨את⟩ sadolah pangulu Yehuda pun diimba inyo di Rivlah.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "maimba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Tsidkiahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "di matoinyo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadolah pangulu Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadolah"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "diimba"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "di Rivlah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:46:56.990019753Z",
+  "model": "glm-5.3"
+}

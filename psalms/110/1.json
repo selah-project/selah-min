@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 110,
+  "translation": "Mazmur untuak Dawid. Kato Yahweh kapado tuan ambo: Duduaklah di suok ambo, sampai ambo mambuek musuahmu manjadi umpak kaki-mu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kapado tuan ambo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Duduaklah"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "di suok ambo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ambo mambuek"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuahmu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "umpak"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "kaki-mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:26.481537635Z",
+  "model": "glm-5.3"
+}

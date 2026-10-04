@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Shalum manurunkan ⟨את⟩ Yekamyah, jo Yekamyah manurunkan ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "jo Shalum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamyah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamyah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "jo Yekamyah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-10-04T08:39:58.865720569Z",
+  "model": "glm-5.3"
+}

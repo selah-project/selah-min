@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu urang tu ma ambiak ⟨את⟩ nan diparintahkan dek Moshe ka muko Khemah Parjumpu'an, jo sadoalah jamaah dakek mandakek, lalu tagak di muko Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ma ambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan diparintahkan dek Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparintahkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Parjumpu'an"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "dakek mandakek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:38.405396525Z",
+  "model": "glm-5.3"
+}

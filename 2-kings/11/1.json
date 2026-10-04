@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Karano Athalia, mandeh Akhazia, mancaliak baso anaknyo alah mati, inyo bangkik jo mangancuaan ⟨את⟩ sagalo katurunan karajaan.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Karano Athalia"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mandeh"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Akhazia"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "מת",
+      "gloss": "lah mati"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "inyo bangkik"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "mangancuaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo katurunan karajaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajaan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:59:48.973490180Z",
+  "model": "glm-5.3"
+}

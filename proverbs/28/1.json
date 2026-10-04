@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Lari urang-urang jahat walau indak ado nan mangujuak, tapi urang-urang tsedeq amuah sarupo anak singo.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "lari"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "walau indak ado"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "nan mangujuak"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "tapi urang-urang tsedeq"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "sarupo anak singo"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "amuah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:09.830533791Z",
+  "model": "glm-5.3"
+}

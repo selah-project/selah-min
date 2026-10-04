@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu dinamoi Elohim darek nan kariang tu Bumi, jo tampek takumpuangnyo aia dinamoi Laut-Laut; lalu dicaliak dek Elohim baso elok.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu dinamoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "kapado darek nan kariang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Bumi"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "jo kapado tampek takumpuangnyo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dinamoi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Laut-Laut"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lalu dicaliak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:57.766667141Z",
+  "model": "glm-5.3"
+}

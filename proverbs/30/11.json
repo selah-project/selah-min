@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Ado ciek angkatan nan maleduik amaknyo, jo ⟨את⟩ ibunyo indak diberkahi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amaknyo"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "maleduik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibunyo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "memberkahi"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:56.130270171Z",
+  "model": "glm-5.3"
+}

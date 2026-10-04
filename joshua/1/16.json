@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo inyo tu manjawek kapado ⟨את⟩ Yehosua, bakato: Sadonyo nan kau parentahkan kapado kito, kito karajoan, jo ka ma tampek pun kau ma utuih kito, kito pai.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "jo inyo tu manjawek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "kau parentahkan kapado kito"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kito karajoan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ma tampek pun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "kau ma utuih kito"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "kito pai"
+    }
+  ],
+  "timestamp": "2026-10-04T05:04:47.827959317Z",
+  "model": "glm-5.3"
+}

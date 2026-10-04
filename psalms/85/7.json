@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 85,
+  "translation": "Ndak baraka Ang baliak mambiduik kami, sampai urang Ang bagia di dalam Ang?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ndak baraka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ang"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "mambiduik kami"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "sampai urang Ang"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bagia"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di dalam Ang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:01.798176392Z",
+  "model": "glm-5.3"
+}

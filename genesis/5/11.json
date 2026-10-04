@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Maka sagalo ari-ari Enosh manjadi sambilan ratus limo taun, lalu inyo maningga.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "sambilan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maningga"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:55.440431212Z",
+  "model": "glm-5.3"
+}

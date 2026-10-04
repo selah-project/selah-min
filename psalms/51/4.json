@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Labiah-labiah basuah ambo dari pangaja-an ambo, jo dari doso ambo sucikan ambo.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "labiah-labiah"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "basuah ambo"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "dari pangaja-an ambo"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "jo dari doso ambo"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "sucikan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:43.048425190Z",
+  "model": "glm-5.3"
+}

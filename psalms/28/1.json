@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Untuak Dawid. Kapado Engkau, Yahweh, aku manyeru; batu ambo, jan lai bungjuak kapado ambo; bia bukik lai, kok diam sanapeh dari ambo, mako ambo manjadi sarupo jo urang nan turun ka lubang.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuak Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku manyeru"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "bungjuak"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bia"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "diam"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sanapeh dari ambo"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "mako ambo manjadi sarupo jo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "urang nan turun"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ka lubang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:52.753205632Z",
+  "model": "glm-5.3"
+}

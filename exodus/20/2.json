@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Ambo ⟨ialah⟩ Yahweh, Elohim ⟨ka⟩, nan alah mambaok ⟨ka⟩ kalua dari tanah Mitsrayim, dari rumah pambaajo.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ⟨ka⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "alah mambaok ⟨ka⟩ kalua"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "pambaajo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:11.572173430Z",
+  "model": "glm-5.3"
+}

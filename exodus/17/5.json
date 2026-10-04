@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lalu Yahweh bakato kapado Moshe: Pindah di mungko urang tu, jo ambiak jo ⟨את⟩ ambo sajo dari tuo-tuo Yisrael, jo tungkakmu nan kau pukua jo inyo ⟨את⟩ batang aia — ambiak di tanganmu, jo pai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pindah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di mungko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "jo ambiak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jo ambo"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "dari tuo-tuo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "jo tungkakmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "kau pukua"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batang aia"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "batang aia"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ambiak"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di tanganmu"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "jo pai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:16.698827368Z",
+  "model": "glm-5.3"
+}

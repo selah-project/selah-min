@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Inyo bajalan dari taun ka taun, mangaliliangi Beit-El, Gilgal, jo Mitzpah, dan mangadili ⟨את⟩ Yisrael ⟨את⟩ sado tampek-tampek iko.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "dari"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ka taun"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "mangaliliangi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "jo Mitzpah"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "dan mangadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado tampek-tampek iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "tampek-tampek"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:14.673496322Z",
+  "model": "glm-5.3"
+}

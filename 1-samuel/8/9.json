@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dan kini dangaan suaranyo; namun iko pun, basaksi bana ka inyo, jo baokan ka inyo adaik rajo nan ka mamarintah ateh inyo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dangaan"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "suaranyo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "namun iko pun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "העד",
+      "gloss": "basaksi"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "basaksi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "jo baokan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "adaik"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ka mamarintah"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ateh inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:16.914552431Z",
+  "model": "glm-5.3"
+}

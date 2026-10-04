@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Manusia kalua untuak karajonyo, jo untuak palanjaannyo sampai patang ari jo sanjo.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "untuak karajonyo"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "jo untuak palanjaannyo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "patang ari jo sanjo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:18.681647673Z",
+  "model": "glm-5.3"
+}

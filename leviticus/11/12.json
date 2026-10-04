@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Sagalo nan indak punyo sirip jo sisiknyo di aia — inyo pambancian untuak sanak.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "לו",
+      "gloss": "punyo"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "sirip"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "jo sisik"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di aia"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "pambancian"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:17.156608171Z",
+  "model": "glm-5.3"
+}

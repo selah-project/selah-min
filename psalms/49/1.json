@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Untuak pandiri; mazmur dapek anak-anak Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak pandiri"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dapek anak-anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:50.340884658Z",
+  "model": "glm-5.3"
+}

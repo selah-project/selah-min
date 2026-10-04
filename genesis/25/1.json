@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Avraham manambah lai, jo bakawin jo saurang bini, namonyo Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "manambah lai"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "bakawin jo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "saurang bini"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:22.692308181Z",
+  "model": "glm-5.3"
+}

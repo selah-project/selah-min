@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Ambo lah bengkok, lah tunduak bana sampai sangajo; satiok ari ambo bajalan jo dukacito.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "ambo lah bengkok"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "lah tunduak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangajo bana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "jo dukacito"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ambo bajalan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:46.491017637Z",
+  "model": "glm-5.3"
+}

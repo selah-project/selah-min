@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Yahweh mambuek batal rancangan bangso-bangso, inyo manggagalkan mungkinan kaum-kauak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "mambuek batal"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "rancangan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "manggagalkan"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mungkinan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kaum-kauak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:14.999449951Z",
+  "model": "glm-5.3"
+}

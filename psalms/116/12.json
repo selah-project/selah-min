@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Apo nan ka ambo baliakan kapado Yahweh, ateh sado kabaiakannyo kapado ambo?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ka ambo baliakan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "kabaiakannyo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:53.294280962Z",
+  "model": "glm-5.3"
+}

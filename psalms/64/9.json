@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Jo inyo mambuek inyo tasanduang; ateh inyo surang lidaahnyo — sagalo nan caliak ka inyo maiyo kapalo.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "mambuek inyo tasanduang"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ateh inyo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidaahnyo"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "manggoyang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nan caliak"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:52.382217166Z",
+  "model": "glm-5.3"
+}

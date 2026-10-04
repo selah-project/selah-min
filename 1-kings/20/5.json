@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 20:5",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Utusan-utusan itu baliak jo bakato: Begini kato Ben-Hadad: Karano ambo alah mangirim kapado tuan, bakato: Perak tuan, ameh tuan, bini-bini tuan, jo anak-anak tuan — kapado ambo tuan agiah.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Begini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado tuan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "perak tuan"
+    },
+    {
+      "surface": "וזהבך",
+      "gloss": "ameh tuan"
+    },
+    {
+      "surface": "ונשיך",
+      "gloss": "bini-bini tuan"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "anak-anak tuan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tuan agiah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:13:38.561421077Z",
+  "model": "glm-5.3"
+}

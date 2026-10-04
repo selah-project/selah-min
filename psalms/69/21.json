@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Aib alah mampecah ati ambo, jo ambo taserak; ambo mangharokan ⟨urang nan⟩ manyancangkan, tapi indak ado, jo urang nan manyanangkan, tapi indak tapatuih.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "aib"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "alah mampecah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "jo ambo taserak"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ambo mangharokan"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "manyancangkan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi indak ado"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "jo urang nan manyanangkan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ambo tapatuih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:07.210256012Z",
+  "model": "glm-5.3"
+}

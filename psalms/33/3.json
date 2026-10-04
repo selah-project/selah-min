@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Nyanyikanlah ⟨untuak-Nyo⟩ lagu baru; pabueklah elok main ⟨alat tali⟩ jo taruan tangih.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Nyanyikanlah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨untuak-Nyo⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "pabueklah elok"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "main ⟨alat tali⟩"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "jo taruan tangih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:49.364252884Z",
+  "model": "glm-5.3"
+}

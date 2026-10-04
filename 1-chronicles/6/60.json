@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "⟨את⟩ Khukok jo ⟨את⟩ tampek pataranannyo, ⟨את⟩ Rekhob jo ⟨את⟩ tampek pataranannyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khukok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Khukok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tampek pataranannyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tampek pataranannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rekhob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tampek pataranannyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tampek pataranannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:11.116283339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo ambo juo alah mandanga ⟨את⟩ rarok anak-anak Yisrael, nan dipebudak-an dek Mitsrayim; jo ambo ingek ⟨את⟩ parjanjian ambo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo ... juo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "alah mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rarok anak-anak Yisrael"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "rarok"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "dipebudak-an dek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "jo ambo ingek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian ambo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:54.276929345Z",
+  "model": "glm-5.3"
+}

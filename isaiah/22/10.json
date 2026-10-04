@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Dan ⟨את⟩ rumah-rumah Yerushalayim kalian manghituang, jo kalian mambongkaran rumah-rumah untuak manguahek dindiang.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah-rumah Yerushalayim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "kalian manghituang"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "jo kalian mambongkaran"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "untuak manguahek"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "dindiang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:45.585127308Z",
+  "model": "glm-5.3"
+}

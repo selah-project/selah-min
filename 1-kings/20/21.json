@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Rajo Yisrael kalua, mamukua ⟨את⟩ kudo-kudo jo ⟨את⟩ kareta-kareta, jo manimbul Aram dangan pukulan nan gadang.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mamukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kudo-kudo"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kudo-kudo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kareta-kareta"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kareta-kareta"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "manimbul"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pukulan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:53:50.467787167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Kito marejo di dalam panyalamatan angkau, jo jo namo Elohim kito kito mangibarkan bendera; Yahweh mamenuhi sagalo pamintaan angkau.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "kito marejo"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "di dalam panyalamatan angkau"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "jo jo namo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "kito mangibarkan bendera"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "mamenuhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "pamintaan angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:46.042250209Z",
+  "model": "glm-5.3"
+}

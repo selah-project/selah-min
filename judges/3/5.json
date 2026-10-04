@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Urang Yisrael tingga di tangah-tangah urang Kanaan, urang Heti, urang Amori, urang Perizi, urang Hiwi, jo urang Yebusi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "urang Heti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "jo urang Amori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "jo urang Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "jo urang Hiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "jo urang Yebusi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:12:32.541445108Z",
+  "model": "glm-5.3"
+}

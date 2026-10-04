@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Ciek kerub di ujuang nan ciek iko, jo ciek kerub di ujuang nan ciek nan lain; dari kaporét itu inyo mambuek ⟨את⟩ kerubim-kerubim tu di duo ujuangnyo.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "di ujuang"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nan ciek iko"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "jo kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "di ujuang"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nan ciek nan lain"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporét itu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubim-kerubim tu"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubim-kerubim tu"
+    },
+    {
+      "surface": "משני",
+      "gloss": "di duo"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "ujuangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:18.164065012Z",
+  "model": "glm-5.3"
+}

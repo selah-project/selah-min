@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo Yahweh, inyo-lah nan bajalan di muko angka; inyo ka ado basamo angka, inyo indak ka malamahkan angka jo indak ka maninggakan angka; jangan takuik jo jangan tawang.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Jo Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo-lah"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nan bajalan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di muko angka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka ado"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo angka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "ka malamahkan angka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "ka maninggakan angka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo jangan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tawang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:03:18.045999786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Yahweh alah basumpah kapado Dawid jo kabanaran, inyo indak ka baliak dari pado itu: dari buah paruik kau Aku ka latak untuak di ateh takhta untuak kau.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "alah basumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kapado Dawid"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "jo kabanaran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ka baliak"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "dari pado itu"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "dari buah"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "paruik kau"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "Aku ka latak"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "di ateh takhta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:16.938393714Z",
+  "model": "glm-5.3"
+}

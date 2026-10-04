@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Sia bagi ambo di langik? Jo basamo Angkau, indak ado nan kaingini ambo di bumi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi ambo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "jo basamo Angkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nan kaingini ambo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:25.270494818Z",
+  "model": "glm-5.3"
+}

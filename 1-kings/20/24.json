@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo bueklah ⟨את⟩ kato ko: tanggalan rajo-rajo tu, masiang-masiang dari tampeknyo, jo lapeh pangawa-pangawa di tampek mareka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kato ko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bueklah"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "tanggalan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masiang-masiang"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "dari tampeknyo"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "lapeh"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "pangawa-pangawa"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "di tampek mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T05:53:50.471262125Z",
+  "model": "glm-5.3"
+}

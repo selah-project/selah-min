@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Yahweh bakato kapado Moshe sasudah matinyo duo anak Aharon, katiko urang tu dakek ka hadapan Yahweh, lalu urang tu mati.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matinyo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "katiko urang tu dakek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "lalu urang tu mati"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:26.315834176Z",
+  "model": "glm-5.3"
+}

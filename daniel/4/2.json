@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Mimpi ambo lansuang manyauik, jo mambuek ambo takuik; jo pikiiran-pikiaran di ateh tampek lalok ambo, jo pancaliakan kapalo ambo, mahieuik ambo.",
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "mimpi"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "ambo calaliak"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "jo mambuek ambo takuik"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "jo pikiiran-pikiaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "tampek lalok ambo"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "jo pancaliakan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo ambo"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "mahieuik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:29:44.656305640Z",
+  "model": "glm-5.3"
+}

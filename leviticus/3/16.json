@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Imam mambakaannyo di ateh mezbah — makanan pambaokan api, bau nan manimbu; sado lemak ko untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "mambakaannyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di ateh mezbah"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "pambaokan api"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nan manimbu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:24.970681417Z",
+  "model": "glm-5.3"
+}

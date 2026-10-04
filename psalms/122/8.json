@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 122,
+  "translation": "Karano dunsanak-dunsanak ambo jo kawan-kawan ambo, ambo ka mambahaso kini: shalom ado di dalam ⟨kau⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dunsanak-dunsanak ambo"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "jo kawan-kawan ambo"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ambo ka mambahaso"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di dalam ⟨kau⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:45.671787870Z",
+  "model": "glm-5.3"
+}

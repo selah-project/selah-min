@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo kaua ka taruah ⟨את⟩ duo jalinan ameh itu pado duo liliang itu, di ujuang-ujung dada tu.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "kaua ka taruah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duo jalinan ameh itu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "jalinan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "liliang itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ujuang-ujung"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "dada tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:40.146612913Z",
+  "model": "glm-5.3"
+}

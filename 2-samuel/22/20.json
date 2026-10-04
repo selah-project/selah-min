@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Dan Inyo mambaok ambo kalua ka tampek nan lueh; Inyo malapehan ambo, karano Inyo maraso sanang kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dan Inyo mambaok kalua"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ka tampek nan lueh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Inyo malapehan ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Inyo maraso sanang"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:43:28.263037091Z",
+  "model": "glm-5.3"
+}

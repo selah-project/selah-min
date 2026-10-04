@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 75,
+  "translation": "Jo sagalo tanduak urang nan jahat ka ambo potong; nan tatinggi tanduak urang nan banar.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "tanduak"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang nan jahat"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "ka ambo potong"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "nan tatinggi"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tanduak"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang nan banar"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:17.964143681Z",
+  "model": "glm-5.3"
+}

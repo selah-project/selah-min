@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Baliaklah ka ceceak ambo; caliak, ambo mancurahkan ruakh ambo kapado kamo, ambo mambari tahu kato-kato ambo ⟨את⟩-kamo.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "ka ceceak ambo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ambo mancurahkan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado kamo"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ambo"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ambo mambari tahu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato ambo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:07.103651232Z",
+  "model": "glm-5.3"
+}

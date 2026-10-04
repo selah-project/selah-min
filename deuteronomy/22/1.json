@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Indak sanak caliak ⟨את⟩ kabau dunsanak atau ⟨את⟩ anak domba nan tasasek, lalu bapura-pura indak tau tantang inyo; pasti sanak baliakan inyo kapado dunsanak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "sanak caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabau"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kabau"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dunsanak"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak domba"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "nan tasasek"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "jo bapura-pura indak tau"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "tantang inyo"
+    },
+    {
+      "surface": "השב",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "sanak baliakan inyo"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kapado dunsanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:58:49.482059754Z",
+  "model": "glm-5.3"
+}

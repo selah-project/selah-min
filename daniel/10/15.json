@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Wakatu inyo bakato jo ambo kato-kato sarupo ko, ambo maagiah muko ambo ka arah tanah, jo ambo bakdiam.",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "wakatu inyo bakato"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "kato-kato sarupo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ambo maagiah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko ambo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka arah tanah"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "jo ambo bakdiam"
+    }
+  ],
+  "timestamp": "2026-10-04T08:31:26.254329078Z",
+  "model": "glm-5.3"
+}

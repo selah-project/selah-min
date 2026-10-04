@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Zebulun indak manguasai ⟨את⟩ panduduak Kitron jo ⟨את⟩ panduduak Nahalal, lalu panduduak Kanaan tingga di tangah-tangahnyo, dan urang tu manjadi pambiayo upeti.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "manguasai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panduduak Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "panduduak Nahalal"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu tingga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "panduduak Kanaan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tangah-tangahnyo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan urang tu manjadi"
+    },
+    {
+      "surface": "למס",
+      "gloss": "pambiayo upeti"
+    }
+  ],
+  "timestamp": "2026-10-04T05:12:03.633324559Z",
+  "model": "glm-5.3"
+}

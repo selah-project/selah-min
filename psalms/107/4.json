@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Inyo tasasek di padang raso, di tanah kariang di jalan; kampuang untuak tingga indak inyo tamuán.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "tasasek"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang raso"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "di tanah kariang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kampuang"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "untuak tingga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "tamuán"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:27.293250923Z",
+  "model": "glm-5.3"
+}

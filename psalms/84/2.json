@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 84,
+  "translation": "Ma kadiangan Mishkan-Mu, Yahweh Tsebaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "kadiangan"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "Mishkan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:40.975163273Z",
+  "model": "glm-5.3"
+}

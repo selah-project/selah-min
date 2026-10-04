@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jalan urang bodoh luruih di matonyo surang, tapi nan mandanga ka nasihat, urang bijak.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "luruih"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matonyo surang"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "tapi nan mandanga"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "ka nasihat"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "urang bijak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:39.464906285Z",
+  "model": "glm-5.3"
+}

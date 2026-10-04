@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Daun nan tadiaok dek angin kok Waang gera, jo ⟨את⟩ jerami kariang kok Waang jaga?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "daun"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "nan tadiaok dek angin"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "Waang gera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jerami kariang"
+    },
+    {
+      "surface": "קש",
+      "gloss": "jerami"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kariang"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "Waang jaga"
+    }
+  ],
+  "timestamp": "2026-10-04T08:06:41.500737532Z",
+  "model": "glm-5.3"
+}

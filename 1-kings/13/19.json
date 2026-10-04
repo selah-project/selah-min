@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Lalu inyo baliak basamo ⟨את⟩ inyo, lalu makan roti di rumahnyo, jo minum aia.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Lalu inyo baliak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "basamo inyo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "lalu makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di rumahnyo"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "jo minum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:29.129689018Z",
+  "model": "glm-5.3"
+}

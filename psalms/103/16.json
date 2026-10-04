@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Karano angin maantainyo, kudian inyo indak ado lai, jo tampeknyo indak maantainyo lai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "maantainyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "indak ado lai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "mangana inyo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tampeknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:32.943964926Z",
+  "model": "glm-5.3"
+}

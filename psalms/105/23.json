@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Lalu Yisrael masuak ka Mitsrayim, jo Yaakov pai marantau di tanah Kham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lalu masuak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "jo Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "pai marantau"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:46.893692470Z",
+  "model": "glm-5.3"
+}

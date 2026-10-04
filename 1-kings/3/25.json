@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu rajo tu bakato: Pacuak ⟨את⟩ anak nan iduik tu manjadi duo, jo bari ⟨את⟩ satangah untuak nan ciek jo ⟨את⟩ satangah untuak nan ciek lai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "pacuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak nan iduik tu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nan iduik"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "manjadi duo"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "jo bari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satangah"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "satangah"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "untuak nan ciek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "satangah"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "satangah"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "untuak nan ciek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:41.944488265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Karano di tangan urang tu ado rancana jahaik, jo tangan siunyo panuah dek suap.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "di tangan urang tu"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "rancana jahaik"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "jo tangan siunyo"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "panuah"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suap"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:02.797503178Z",
+  "model": "glm-5.3"
+}

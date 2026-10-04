@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Lalu inyo mangukua ⟨את⟩ balai gapuro, nan ka arah rumah: saabatang kaneh.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "lalu inyo mangukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balai gapuro"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "balai"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "nan ka arah rumah"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "saabatang kaneh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sabatang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:04:08.865590921Z",
+  "model": "glm-5.3"
+}

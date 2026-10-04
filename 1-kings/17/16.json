@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Kadai tapuang tu indak abih, jo tumang minnyak tu indak kurang, manuruik kato Yahweh nan Iyo ucapkan dek tangan Eliyahu.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "kadai"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "tapuang tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "abih"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "jo tumang"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minnyak tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "manuruik kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ucapkan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dek tangan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:59.559523801Z",
+  "model": "glm-5.3"
+}

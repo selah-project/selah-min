@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo karajoanlah ⟨את⟩ papan-papan untuak Mishkan: kayu sitim, nan tagak.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo karajoanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "untuak Mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nan tagak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:02.170785264Z",
+  "model": "glm-5.3"
+}

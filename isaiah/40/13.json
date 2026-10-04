@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Siapo nan mangukua ⟨את⟩ ruakh Yahweh, jo urang nan manasihati-Nyo nan maaja itu kapado-Nyo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapo nan"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "mangukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jo urang nan"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "manasihati-Nyo"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "maaja itu kapado-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:18:05.219850017Z",
+  "model": "glm-5.3"
+}

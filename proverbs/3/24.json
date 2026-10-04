@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Kok angku baringkok, indak angku takajuik; jo alah baringkok, lorok angku manjadi lamak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kok"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "angku baringkok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "angku takajuik"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "jo alah baringkok"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "manjadi lamak"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "lorok angku"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:39.836600310Z",
+  "model": "glm-5.3"
+}

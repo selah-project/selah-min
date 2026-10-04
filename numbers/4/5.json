@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Dan katiko kemah-kemah parauik pai, Aharon jo anak-anaknyo masuak, jo urang tu manurunan ⟨את⟩ langik-langik panebih, urang tu manyalimuikinyo jo ⟨את⟩ Aron saaksi-kasaksian iko.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jo anak-anaknyo"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "katiko...parauik pai"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kemah-kemah"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "manurunan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langik-langik panebih"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "langik-langik panebih"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "panebih"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "manyalimuikinyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron saaksi-kasaksian"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "saaksi-kasaksian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:29.010811404Z",
+  "model": "glm-5.3"
+}

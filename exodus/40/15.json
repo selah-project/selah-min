@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo diurapi inyo, sarupo alah pernah ka urapi ⟨את⟩ apaknyo, jo inyo manjadi imam kapado Ambo; jo urapan mareka ka manjadi imam salamo-lamonyo bagi katurunan mareka.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "jo diurapi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ in yo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ka urapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apaknyo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "jo manjadi imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado Ambo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "jo ka manjadi"
+    },
+    {
+      "surface": "להית",
+      "gloss": "untuak manjadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mareka"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "urapan mareka"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "imam"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "bagi katurunan mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:03.867974386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Elasah manurunkan ⟨את⟩ Sismai, jo Sismai manurunkan ⟨את⟩ Shallum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Jo Elasah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismai"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismai"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "jo Sismai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-10-04T08:39:58.316641464Z",
+  "model": "glm-5.3"
+}

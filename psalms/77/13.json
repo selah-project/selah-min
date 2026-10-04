@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Ambo ka mangulek sado karajo-Mu, jo tantuangan-Mu ambo bacakap.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "ambo ka mangulek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "karajo-Mu"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "jo tantuangan-Mu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ambo bacakap"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:08.091684717Z",
+  "model": "glm-5.3"
+}

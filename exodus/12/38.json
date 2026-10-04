@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo juo urang rami nan bacampua naiak basamo ⟨את⟩ inyo, jo kambiang jo lombu, tampek taranak nan sangaik banyak.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nan bacampua"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rami"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (anak-anak Yisrael)"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "jo kambiang"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "jo lombu"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "taranak"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "sangaik banyak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:25.409741615Z",
+  "model": "glm-5.3"
+}

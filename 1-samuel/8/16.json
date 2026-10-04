@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo ⟨את⟩ amba-amba laki-laki kalian, jo ⟨את⟩ amba-amba padusi kalian, jo ⟨את⟩ pamuda-pamuda kalian nan elok, jo ⟨את⟩ keledai-keledai kalian inyo ambiak, jo inyo paraliah untuak karajonyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amba-amba laki-laki kalian"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "amba-amba laki-laki kalian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amba-amba padusi kalian"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "amba-amba padusi kalian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pamuda-pamuda kalian"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "pamuda-pamuda kalian"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "keledai-keledai kalian"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "keledai-keledai kalian"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "inyo ambiak"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "jo inyo paraliah"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "untuak karajonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:01.831477485Z",
+  "model": "glm-5.3"
+}

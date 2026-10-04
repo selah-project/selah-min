@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Akokah sanak mangukomi ⟨את⟩ inyo urang tu? Akokah sanak mangukomi, anak manusia? Pabuek inyo urang tu tau ⟨את⟩ parbuatan jijik datuak-niniek inyo.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "mangukomi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo urang tu"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "mangukomi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parbuatan jijik"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "parbuatan jijik"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "datuak-niniek inyo"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "pabuek inyo urang tu tau"
+    }
+  ],
+  "timestamp": "2026-10-04T09:19:08.534319008Z",
+  "model": "glm-5.3"
+}

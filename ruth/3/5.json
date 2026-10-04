@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Deknyo bakato kapadonyo: Sagalo nan Awak kato, ka Ambo buek.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "Awak kato"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ka Ambo buek"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:04.521016578Z",
+  "model": "glm-5.3"
+}

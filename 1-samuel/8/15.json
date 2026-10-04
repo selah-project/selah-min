@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo beniah kalian jo kebun anggur kalian inyo ambiak saparsepuahnyo, jo inyo agiah kapado saris-sarisnyo jo kapado amba-ambanyo.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "jo beniah kalian"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "jo kebun anggur kalian"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "inyo ambiak saparsepuahnyo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "jo inyo agiah"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "kapado saris-sarisnyo"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "kapado amba-ambanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:01.831285685Z",
+  "model": "glm-5.3"
+}

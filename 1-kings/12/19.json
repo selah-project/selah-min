@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Dan Yisrael mahingki dari rumah Dawid sampai ari ko.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "mahingki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:49:56.973276458Z",
+  "model": "glm-5.3"
+}

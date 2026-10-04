@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Dan dari inyo tu lai kau ambiak, jo kau lempa inyo tu ka tangah api, jo kau baka inyo tu jo api; dariinyo ka kalua api ka saluruah rumah Yisrael.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "dan dari inyo tu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kau ambiak"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "jo kau lempa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ inyo tu",
+      "marks": "ka tangah api"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tangah"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "jo kau baka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo tu",
+      "marks": "jo api"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dariinyo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ka kalua"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T06:49:42.460475963Z",
+  "model": "glm-5.3"
+}

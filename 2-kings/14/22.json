@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Inyo nan mambangun ⟨את⟩ Eilot, jo mangambalikannyo kapado Yehudah, sasudah rajo lalok basamo apak-apaknyo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "mangambalikannyo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kapado Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "apak-apaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:07.289391271Z",
+  "model": "glm-5.3"
+}

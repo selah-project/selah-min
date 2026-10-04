@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo tangan Yahweh manjadi barek ka urang-urang Ashdod, jo inyo marusak urang tu, jo manabok urang tu jo bengkak-bengkak — ⟨את⟩ Ashdod jo ⟨את⟩ bateh-batehnyo.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "jo manjadi barek"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "urang-urang Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "jo marusak urang tu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "jo manabok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "urang-urang Ashdod"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "jo bengkak-bengkak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bateh-batehnyo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "bateh-batehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:25:05.132102327Z",
+  "model": "glm-5.3"
+}

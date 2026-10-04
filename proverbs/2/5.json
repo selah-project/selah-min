@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Mako kau ka pahami takuik kapado Yahweh, jo pangatahuan tantang Elohim kau ka tamukan.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "mako"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "pahami"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "jo pangatahuan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tamukan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:42.307690986Z",
+  "model": "glm-5.3"
+}

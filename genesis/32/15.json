@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Kambiang batino duoa ratus jo kambiang jantan duo puluah, biri-biri batino duoa ratus jo dusun duo puluah.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "kambiang batino"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duoa ratus"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "jo kambiang jantan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "biri-biri batino"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duoa ratus"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "jo dusun"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:03:52.031323326Z",
+  "model": "glm-5.3"
+}

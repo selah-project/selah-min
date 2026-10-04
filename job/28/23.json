@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Elohim mamahami jalaninyo, jo Inyo tau ⟨את⟩ tampeknyo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "mamahami"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "jalaninyo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo Inyo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampeknyo"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "tampeknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:09:58.262777797Z",
+  "model": "glm-5.3"
+}

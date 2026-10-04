@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo ⟨את⟩ Yeuts, jo ⟨את⟩ Sokhya, jo ⟨את⟩ Mirmah — iko lah anak-anaknyo, kapalo-kapalo kaum aba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Sokhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sokhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko lah"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo-kapalo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "kaum aba"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:01.507964400Z",
+  "model": "glm-5.3"
+}

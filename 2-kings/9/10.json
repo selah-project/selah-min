@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ⟨את⟩ Izebel anjiang-anjiang ka makan di paruihan Yizreel, jo indak ado nan mangubuaannyo; lalu dibukaknyo pintu tu, jo inyo lari.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ka makan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "anjiang-anjiang"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "di paruihan"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "nan mangubuaannyo"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "lalu dibukaknyo"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pintu tu"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "jo inyo lari"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:14.821727229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Susu lamak jo madu inyo makan, supayo inyo tau manolak nan jahat jo mamiliah nan elok.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "susu lamak"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "jo madu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "inyo makan"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "supayo inyo tau"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "manolak"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nan jahat"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "jo mamiliah"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "nan elok"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:24.207052241Z",
+  "model": "glm-5.3"
+}

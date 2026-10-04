@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Urang Zip bangkik pai di muko Saul; Dawid jo urang-urangnyo ada di gurun Maon, di Araba, di sabalah kanan Yeshimon.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "pai"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "urang Zip"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "jo urang-urangnyo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maon"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "di Araba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sabalah kanan"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Yeshimon"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:40.290373299Z",
+  "model": "glm-5.3"
+}

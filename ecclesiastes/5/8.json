@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo labo tanah ⟨adolah⟩ untuak sagalanyo — rajo ⟨nan⟩ diado dek ladang.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "jo labo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "untuak sagalanyo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "adolah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "deh ladang"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "diado"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:38.639173033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "aluf Kenaz, aluf Teman, aluf Mibtsar.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "aluf"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenaz"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "aluf"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Teman"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "aluf"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Mibtsar"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:56.571779842Z",
+  "model": "glm-5.3"
+}

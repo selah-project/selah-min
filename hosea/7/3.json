@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo kajahatan inyo inyo manyanangkan rajo, jo dusto-dusto inyo pangulu-pangulu.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "jo kajahatan inyo"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "inyo manyanangkan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "jo dusto-dusto inyo"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "pangulu-pangulu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:35.703065706Z",
+  "model": "glm-5.3"
+}

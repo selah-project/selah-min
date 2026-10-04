@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dek itu ambo lai mangadu ⟨את⟩ sanak, kato Yahweh, jo ⟨את⟩ cucu-cucu sanak ambo mangadu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dek itu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "mangadu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanak"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "cucu-cucu sanak"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "mangadu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:16:27.858133204Z",
+  "model": "glm-5.3"
+}

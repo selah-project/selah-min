@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 57,
+  "translation": "Bangunlah, kamuliaan ambo; bangunlah, nevel jo kinnor; ambo ka mambangunkan fajar.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamuliaan ambo"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "jo kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ambo ka mambangunkan"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:49.992445035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo latakkan ⟨את⟩ inyo di bawah randak mazbeach, di tapi bawahnyo; jo jariang tu ado sampai ka satangah tinggi mazbeach.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "jo latakkan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "di bawah randak mazbeach"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "randak"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbeach"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "di tapi bawahnyo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "jo jariang tu ado"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "jariang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "satangah tinggi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbeach"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:02.264779929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo ⟨את⟩ biriang tu baok ambo potong-potong manuruik potongannyo, jo basuah ambo isinyo jo tungkai kaki nyo, jo taruih ambo taruah ka ateh potongannyo jo ka ateh kapalonyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "biriang tu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "biriang tu"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "baok ambo potong-potong"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "manuruik potongannyo"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "jo basuah ambo"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "isinyo"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "jo tungkai kaki nyo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "jo taruih ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "potongannyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ka ateh"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:40.782352990Z",
+  "model": "glm-5.3"
+}

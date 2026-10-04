@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 54,
+  "translation": "Caliek, Elohim adolah panolong ambo; Adonai ⟨ado⟩ basamo urang-urang nan managak nyao ambo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "caliek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "panolong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "basamo urang-urang nan managak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyao ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:01.555020708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 24:23",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Maka Dawid baa kapado Shaul, jo Shaul pai ka rumahnyo, sadangkan Dawid jo urang-urangnyo naiak ka kubu.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "maka baa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kapado Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "jo pai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "jo Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "jo urang-urangnyo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "kubu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:38.828550233Z",
+  "model": "glm-5.3"
+}

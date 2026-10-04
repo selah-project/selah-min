@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 126,
+  "translation": "Baliaklah, wahai Yahweh, ⟨את⟩ pambalian kami, sarupo anak-aia di Nagab!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Baliaklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pambalian kami"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "pambalian kami"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "sarupo anak-aia"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "di Nagab"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:30.529009116Z",
+  "model": "glm-5.3"
+}

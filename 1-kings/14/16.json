@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo inyo manyarahan ⟨את⟩ Yisrael dek doso-doso Yerobeam, nan inyo buek, jo nan mambuek ⟨את⟩ Yisrael badoso.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "manyarahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "dek"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "doso-doso"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "badoso"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo nan"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "mambuek badoso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:33.580287765Z",
+  "model": "glm-5.3"
+}

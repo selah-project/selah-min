@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim Tsebaot, baliau baliakkan kami; sinarkan muko Dahulu, mako kami sadio disalamaikan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "baliau baliakkan kami"
+    },
+    {
+      "surface": "האר",
+      "gloss": "sinarkan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko Dahulu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "mako kami sadio disalamaikan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:14.758229163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Inyo mangirim dari ateh, inyo maambiak ambo, inyo manariak ambo kalua dari aia nan banyak.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "maambiak ambo"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "manariak ambo kalua"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "dari aia"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:56.799287700Z",
+  "model": "glm-5.3"
+}

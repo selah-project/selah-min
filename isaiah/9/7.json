@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Kato lah dikirim Adonai ka dalam Yaakov, jo itu jatuah ka Yisrael.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lah dikirim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ka dalam Yaakov"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "jo itu jatuah"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ka Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T06:10:16.767435689Z",
+  "model": "glm-5.3"
+}

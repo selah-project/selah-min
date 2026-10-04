@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Yahweh alah mambaok kalua ⟨את⟩ tsedeq kito; marilah kito, jo kito caritoan di Tzion ⟨את⟩ karya Yahweh, Elohim kito.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "alah mambaok kalua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsedeq kito"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "tsedeq kito"
+    },
+    {
+      "surface": "באו",
+      "gloss": "marilah kito"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "jo kito caritoan"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karya Yahweh Elohim kito"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    }
+  ],
+  "timestamp": "2026-10-04T06:47:19.420816567Z",
+  "model": "glm-5.3"
+}

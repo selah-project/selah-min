@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Dan Kotz mambahiakan ⟨את⟩ Anub jo ⟨את⟩ haTzoveva, jo kaluargo-kaluargo Akharkhel, anak Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Kotz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mambahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haTzoveva"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "haTzoveva"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "kaluargo-kaluargo"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Akharkhel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:02.547761338Z",
+  "model": "glm-5.3"
+}

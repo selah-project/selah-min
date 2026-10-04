@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Takanang galak ambo bakato: gilo; jo tanang ria: ape ko inyo buek?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "takanang galak"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "gilo"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "jo tanang ria"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ape"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inyo buek"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:04.136123289Z",
+  "model": "glm-5.3"
+}

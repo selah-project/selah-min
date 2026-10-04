@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Sado nan lamak di bumi ka makan jo manyambah di mukonyo; sado nan turun ka dabu ka balutu di mukonyo — jo ⟨untuak⟩ nyawonyo indak dibarikan iduik baliak.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "ka makan"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "jo manyambah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "nan lamak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ka balutu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "nan turun ka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "jo nyawonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "dibarikan iduik baliak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:44.968056071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu urang banyak bakato kapado Yehosyua: ⟨את⟩ Yahweh, Elohim kito, kito layani, jo ka suaronyo kito danga.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh, Elohim kito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "kito layani"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "jo ka suaronyo"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kito danga"
+    }
+  ],
+  "timestamp": "2026-10-04T05:11:22.376564162Z",
+  "model": "glm-5.3"
+}

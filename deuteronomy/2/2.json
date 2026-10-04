@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Yahweh bakato kapado ambo, mangecek:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:45.642094Z",
+  "model": "glm-5.3"
+}

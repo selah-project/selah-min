@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 128,
+  "translation": "Lagu naiak-naiakan. Bauntunglah satiok urang nan takuik kapado Yahweh, nan bajalan di jalan-Nyo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naiak-naiakan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Bauntunglah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok urang"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nan takuik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nan bajalan"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di jalan-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:49.775569847Z",
+  "model": "glm-5.3"
+}

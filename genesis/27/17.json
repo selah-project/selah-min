@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Lalu inyo maagiah ⟨את⟩ lamak-lamak jo ⟨את⟩ roti nan alah inyo buek ka tangan Yaakov, anaknyo.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamak-lamak"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "lamak-lamak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "roti"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "buek"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:21.109326752Z",
+  "model": "glm-5.3"
+}

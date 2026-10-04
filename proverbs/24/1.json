@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Janga iri hati ka urang nan jahat, jo janga panginkan untuak ado basamo ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janga"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "iri hati"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nan jahat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo janga"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "panginkan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "untuak ado"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:27:10.995511240Z",
+  "model": "glm-5.3"
+}

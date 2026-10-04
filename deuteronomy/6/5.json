@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo urang tu musti mangasihi ⟨את⟩ Yahweh, Elohimnyo, jo sado atinyo, jo sado napasnyo, jo sado kakuatannyo.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "urang tu musti mangasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimnyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "napasnyo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "kakuatannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:40.089546600Z",
+  "model": "glm-5.3"
+}

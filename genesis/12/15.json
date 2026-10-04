@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Panghulu-panghulu Paroh juo nampak ⟨את⟩ inyo, dan mampuji ⟨את⟩ inyo di hadapan Paroh, lalu padusi itu diambiak ka rumah Paroh.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "nampak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Sarai)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "panghulu-panghulu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "mampuji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Sarai)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "lalu diambiak"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:03.088906356Z",
+  "model": "glm-5.3"
+}

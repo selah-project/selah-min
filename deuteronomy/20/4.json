@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "karano Yahweh, Elohim awak, Ido nan bajalan basamo awak, untuak baparang untuak awak manghadokan musuah awak, untuak manyalamaik-an awak ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim awak"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Ido nan bajalan"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "basamo awak"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "untuak baparang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak awak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "manghadokan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuah awak"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "untuak manyalamaik-an"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:58:09.707803268Z",
+  "model": "glm-5.3"
+}

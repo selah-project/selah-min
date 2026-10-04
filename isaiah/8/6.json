@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Karano bangso iko alah manolak ⟨את⟩ aia Syiloakh nan mangalia lambek-lambek, jo maraso sanang jo ⟨את⟩ Retzin jo anak Remalyahu;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "manolak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aia Syiloakh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aia"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "Syiloakh"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "nan mangalia"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "lambek-lambek"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "maraso sanang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retzin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retzin"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "jo anak"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:40.008907977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "Katiko Doeg urang Edom tibo, lalu inyo mabaritahukan ⟨את⟩ kapado Saul jo bakato kapadonyo: Dawid alah tibo ka rumah Akhimelekh.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "katiko tibo"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "urang Edom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "lalu inyo mabaritahukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapado Saul"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelekh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:25.080061731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo ⟨את⟩ duo buah kundiak, jo ⟨את⟩ lemak nan ado di atehnyo, nan ado di pinggang, jo ⟨את⟩ sirip hati di ateh hati — di sampiang kundiak dipisahan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duo buah kundiak"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buah kundiak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ado di atehnyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pinggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sirip hati"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "sirip hati"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hati"
+    },
+    {
+      "surface": "על",
+      "gloss": "di sampiang"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kundiak"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "dipisahan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:03.525977170Z",
+  "model": "glm-5.3"
+}

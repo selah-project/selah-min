@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Biaro kato-kato muluik ambo jo pareso-pareso ati ambo manjadi kasanangan di hadapan-Mu, Yahweh, batu ambo jo nan manebaskan ambo.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "biaro manjadi"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "kasenangan"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik ambo"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "jo pareso-pareso"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu ambo"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "jo nan manebaskan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:44.057359956Z",
+  "model": "glm-5.3"
+}

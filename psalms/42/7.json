@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Elohim ambo, ateh ambo bareh ati ambo mandapek; dek karano itu ambo ingek ka Dikau dari tanah Yarden jo Hermon-Hermon, dari gunuang Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bareh ati ambo"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "mandapek"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dek karano itu"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ambo ingek ka Dikau"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "jo Hermon-Hermon"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dari gunuang"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:45.486444806Z",
+  "model": "glm-5.3"
+}

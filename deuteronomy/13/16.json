@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Pukuihlah sanang ⟨את⟩ panduduak koto itu jo muncuak padang; taruaklah ⟨את⟩ inyo jo ⟨את⟩ sado nan ado di dalamnyo jo ⟨את⟩ binatang taranaknyo jo muncuak padang.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "pukuihlah"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panduduak koto itu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "koto"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "jo muncuak"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "taruaklah sanang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo — koto itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado nan ado di dalamnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ado di dalamnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "binatang taranaknyo"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "binatang taranaknyo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "jo muncuak"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:25.441131654Z",
+  "model": "glm-5.3"
+}

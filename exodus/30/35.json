@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Dan angkau mambuek ⟨את⟩ inyo manjadi ukuok: racikan, karejo pancacak wang, digarami, barasiah, suci.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan angkau mambuek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ukuok"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ukuok"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "racikan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karejo"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "pancacak wang"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "digarami"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "barasiah"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:13.799263979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lalu mareka mamarintahkan ⟨את⟩ urang Binyamin, mangecekan: Pergilah, jo tingga bakuak di kabun-kabun anggur.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "lalu mareka mamarintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Binyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecekan"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "jo tingga bakuak"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "di kabun-kabun anggur"
+    }
+  ],
+  "timestamp": "2026-10-04T05:22:35.276920209Z",
+  "model": "glm-5.3"
+}

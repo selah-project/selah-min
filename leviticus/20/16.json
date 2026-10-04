@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo padusi nan mandakek ka sado binatang untuak bakabun jo ⟨את⟩ inyo — kau bunuah ⟨את⟩ padusi itu jo ⟨את⟩ binatang itu; pasti mati urang tu dibunuah, darahnyo di atehnyo.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "jo padusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "mandakek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "untuak bakabun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (binatang itu)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "kau bunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padusi itu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "binatang itu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang itu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti mati"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "urang tu dibunuah"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:49.747269722Z",
+  "model": "glm-5.3"
+}

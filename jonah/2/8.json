@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Katiko napeh ambo lai lolo ateh ambo, ambo ingek ⟨את⟩ Yahweh, jo doa ambo masuak ka Angkau, ka heikhal kadusan-Mu.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "katiko lai lolo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napeh ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "ambo ingek"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "jo masuak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Angkau"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikhal"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kadusan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:56.800658021Z",
+  "model": "glm-5.3"
+}

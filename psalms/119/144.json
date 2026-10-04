@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Tsedeq adolah kasaksian-Kasaksian-Mu salamo-lamonyo; bia ambo mangarati, supayo ambo iduik.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "kasaksian-Kasaksian-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "bia ambo mangarati"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "supayo ambo iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:11.710595293Z",
+  "model": "glm-5.3"
+}

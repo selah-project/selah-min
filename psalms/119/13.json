@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Jo bibir ambo mamarito sadoalah hukum-hukum dari muluik-Mu.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "jo bibir ambo"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "mamarito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "muluik-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:21.269896995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Inyo mandahului ambo pado ari kasusahan ambo, jo Yahweh manjadi panopang untuak ambo.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "mandahului ambo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "kasusahan ambo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "panopang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:56.799668647Z",
+  "model": "glm-5.3"
+}

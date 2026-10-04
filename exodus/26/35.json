@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Dan sanak harus maatur ⟨את⟩ meja tu di lua tirai, jo ⟨את⟩ palito tu di muko meja, di sampiang salatan Mishkan; jo meja tu sanak taruih di sampiang utara.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "sanak harus maatur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "palito"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "palito"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "sampiang"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "salatan"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "jo meja tu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sanak taruih"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "sampiang"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:06.924428080Z",
+  "model": "glm-5.3"
+}

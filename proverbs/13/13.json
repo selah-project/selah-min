@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Si nan mamandang randah kato, bakeh inyo balabiah; tapi nan takuik ka mitsvah, inyo dibariahan.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "mamandang randah"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ka kato"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "balabiah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "tapi nan takuik"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "mitsvah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dibariahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:56.352884165Z",
+  "model": "glm-5.3"
+}

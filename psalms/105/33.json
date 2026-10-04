@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Inyo mambukak anggur yo jo tin jo, jo marusak batu-batu di parik yo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "anggur yo"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "jo tin jo"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "marusak"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "di parik yo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:59.239284271Z",
+  "model": "glm-5.3"
+}

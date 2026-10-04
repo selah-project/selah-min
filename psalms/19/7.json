@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Dari ujuung langik tampak kaluanyo, jo putarannyo sampai ka ujuung-ujunyo; indak ado nan tasuruang dari panehnyo.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "dari ujuung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "tampak kaluanyo"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "jo putarannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "ujuung-ujunyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "nan tasuruang"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "dari panehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:34.079518532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 148,
+  "translation": "Pujilah inyo, sadoalah malaikat-Nyo; pujilah inyo, sadoalah bala tantang-Nyo.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Pujilah inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaikat-Nyo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "bala tantang-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:55.908700142Z",
+  "model": "glm-5.3"
+}

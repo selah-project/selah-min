@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Elohim, lagu baru ambo ka nyanyikan untuak Sanak, jo nebal sapuluah tali ambo ka mainkan untuak Sanak.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ambo ka nyanyikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak Sanak"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "jo nebal"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sapuluah tali"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ambo ka mainkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak Sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:37.234586894Z",
+  "model": "glm-5.3"
+}

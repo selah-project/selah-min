@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Supayo bumi indak muntahkan ⟨את⟩ awak awak pulo katiko awak awak manyehkannyo, sarupo ⟨את⟩ inyo alah muntahkan ⟨את⟩ bangso nan ado di muko awak awak.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "muntahkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awak awak",
+      "marks": "awak awak"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "katiko awak awak manyehkannyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (bumi)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "alah muntahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ado di muko awak awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:10.135102888Z",
+  "model": "glm-5.3"
+}

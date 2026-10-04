@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 149,
+  "translation": "Pujian-pujian tinggi ka El ado di liyau urang tu, jo padang bamilah duo di tangan urang tu.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "pujian-pujian tinggi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "di liyau urang tu"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "jo padang"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "bamilah duo"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "di tangan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:38.698760088Z",
+  "model": "glm-5.3"
+}

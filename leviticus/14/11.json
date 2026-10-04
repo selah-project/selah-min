@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Lalu imam nan manyucikan itu mandirikan ⟨את⟩ urang nan ka disucikan jo ⟨את⟩ sagalo paraokek tu di muko Yahweh, di muko pintu Kemah Patamuan.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "lalu mandirikan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "nan manyucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "nan ka disucikan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo paraokek tu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di muko pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:36.134157171Z",
+  "model": "glm-5.3"
+}

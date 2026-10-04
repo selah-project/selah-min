@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Yahweh kaluar sarupo urang gagah, sarupo urang parang inyo mangedarkan sumo; inyo manjeruak, bahkan manguak, ateh musuah-musuah inyo batindak gagah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "sarupo urang gagah"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sarupo urang"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "parang"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "mangedarkan"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "sumo"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "manjeruak"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "manguak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuah-musuah inyo"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "batindak gagah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:03.584357426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Kayin mangatahui ⟨את⟩ binyinyo, maka inyo manganduang, jo malahiaan ⟨את⟩ Khanokh; jo inyo manjadi pambangun koto, lalu maagiah namo koto itu sarupo jo namo anaknyo, Khanokh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "mangatahui"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binyinyo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "binyinyo"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "maka inyo manganduang"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "malahiaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo inyo manjadi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pambangun"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "koto"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu maagiah namo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "koto itu"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "sarupo jo namo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:43.772761149Z",
+  "model": "glm-5.3"
+}

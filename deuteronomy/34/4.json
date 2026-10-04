@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 34:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo Yahweh bakato kapadonyo: Iko adolah tanah nan alah ambo ijan kapado Avraham, kapado Yitskhak jo kapado Yaakov, nan bakato: Kapado beniahmu ambo ka maagiahnyo. Ambo alah manunjuakannyo kapado mato awak, tapi awak indak akan malewatinyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "alah ambo ijan"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kapado Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kapado Yitskhak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "jo kapado Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "kapado beniahmu"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ambo ka maagiahnyo"
+    },
+    {
+      "surface": "הראיתיך",
+      "gloss": "ambo alah manunjuakannyo kapado"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mato awak"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "tapi ka sinan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "akan malewatinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:03:11.982653576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Untuk sisi kaduo Mishkan, ka arah utara, inyo mambuek duo puluah papan.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "untuak sisi kaduo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kaduo"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "papan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:26.624236637Z",
+  "model": "glm-5.3"
+}

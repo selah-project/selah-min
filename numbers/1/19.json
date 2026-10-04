@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sarupo nan diparentahkan Yahweh kapado ⟨את⟩ Moshe, baliau mancacek inyo di padang gurun Sinai.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "mancacek inyo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:47.401620362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Angkau mangareh kapalo-kapalo Livyatan; angkau mambaginyo manjadi makanan untuak bangso, untuak binatang gurun.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "mangareh"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo-kapalo"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livyatan"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "angkau mambaginyo"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "untuak bangso"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "untuak binatang gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:59.559154011Z",
+  "model": "glm-5.3"
+}

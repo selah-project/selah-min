@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Karano panezangan mambuek urang pandai gilo, jo hadiah mambinasoan ⟨את⟩ ati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "panezangan"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "mambuek gilo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "urang pandai"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "mambinasoan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "hadiah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:42.252166327Z",
+  "model": "glm-5.3"
+}

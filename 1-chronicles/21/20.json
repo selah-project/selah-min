@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Wakatu itu Ornan bapaliak, jo nampak ⟨את⟩ utusan itu; kaampek anaknyo basamo inyo manyuruak diri. Samantaro Ornan sadang manampi gandum.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bapaliak"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utusan itu"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "utusan itu"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "kaampek"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "manyuruak diri"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "samantaro Ornan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "sadang manampi"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gandum"
+    }
+  ],
+  "timestamp": "2026-10-04T08:46:07.300531767Z",
+  "model": "glm-5.3"
+}

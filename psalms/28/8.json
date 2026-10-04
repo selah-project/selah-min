@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Yahweh kakuatan untuak inyo urang, jo kubu kasalamatan untuak nan diurapi-Nyo, inyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "untuak inyo urang"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "jo kubu"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kasalamatan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "nan diurapi-Nyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:27.189955847Z",
+  "model": "glm-5.3"
+}

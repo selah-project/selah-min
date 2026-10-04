@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Yahweh, patangihonlah doa ambo, jo saroan ambo ka Sanak buliah tibo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "patangihonlah"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ambo"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "jo saroan ambo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Sanak"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "buliah tibo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:48.574966007Z",
+  "model": "glm-5.3"
+}

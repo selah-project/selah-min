@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jago lidahmu dari jaek, jo bibia mu dari mangecek tipu dayo.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "jago"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "lidahmu"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dari jaek"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "jo bibia mu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dari mangecek"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tipu dayo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:25.729618180Z",
+  "model": "glm-5.3"
+}

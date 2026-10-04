@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Inyo maaga sagalo tulang-tulangnyo; ciek pun dari tulang itu indak patah.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "maaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "tulang-tulangnyo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "dari tulang itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "patah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:14.156366589Z",
+  "model": "glm-5.3"
+}

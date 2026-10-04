@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Yahweh kabarimoan ⟨את⟩ urang-urang nan takuik kapado-Nyo, ⟨את⟩ urang-urang nan mangarokan hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "kabarimoan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang nan takuik kapado-Nyo"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "urang-urang nan takuik kapado-Nyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang nan mangarokan hesed-Nyo"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "urang-urang nan mangarokan"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:42.881275667Z",
+  "model": "glm-5.3"
+}

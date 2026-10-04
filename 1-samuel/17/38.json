@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo Saul mamakaian ⟨את⟩ Dawid jo pakaiannyo, lalu mamasang helm tambago di kapalonyo, jo mamakaian ⟨את⟩ inyo jo zirah.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "mamakaian"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "jo pakaiannyo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "lalu mamasang"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "helm"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "jo mamakaian"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (Dawid)"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "zirah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:58.221268514Z",
+  "model": "glm-5.3"
+}

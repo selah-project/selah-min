@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Baiak hikmah basamo warisan, jo mambaok labiah untuak urang nan mandapek caliak matoari.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "jo mambaok labiah"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "untuak urang nan caliak"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:31.229688368Z",
+  "model": "glm-5.3"
+}

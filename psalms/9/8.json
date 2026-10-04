@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo Yahweh duduak salamanyo; inyo alah mandirian takhta-Nyo untuak hukum.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Jo Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduak"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "alah mandirian"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "untuak hukum"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhta-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:45.483405061Z",
+  "model": "glm-5.3"
+}

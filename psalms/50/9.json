@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Indak ambo ambiak dari rumahnyo ⟨dari angkau⟩ jawi, dari kandang-kandangnyo ⟨dari angkau⟩ kambing jantan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ambo ambiak"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "dari rumahnyo ⟨dari angkau⟩"
+    },
+    {
+      "surface": "פר",
+      "gloss": "jawi"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "dari kandang-kandangnyo ⟨dari angkau⟩"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kambing jantan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:30.948520184Z",
+  "model": "glm-5.3"
+}

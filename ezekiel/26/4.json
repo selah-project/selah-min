@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo inyo pa-rusak'an tampek Tsof, jo runtuhan manara-manaranyo; jo ambo mangaruak dabunyo dari tampek tu, jo ambo ma-aga' inyo ⟨את⟩ manjadi batu kapa lua.",
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "jo inyo pa-rusak'an"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsof"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "jo runtuhan"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "manara-manaranyo"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "jo ambo mangaruak"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "dabunyo"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "dari tampek tu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "jo ambo ma-aga' inyo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Tsof)"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "kapa lua"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "batu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:57:02.970533151Z",
+  "model": "glm-5.3"
+}

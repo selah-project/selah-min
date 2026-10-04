@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 122,
+  "translation": "Karano ka sinolah moyang-moyang nak, suku-suku naiak, suku-suku Yah, manuruik kasaksian untuak Yisrael, untuak maagiah puji kapado namo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "ka sinolah"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "untuak Yisrael"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "untuak maagiah puji"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "kapado namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:32.130666134Z",
+  "model": "glm-5.3"
+}

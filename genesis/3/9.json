@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lapek itu Yahweh Elohim maantaangan ⟨את⟩ manusia, jo bakato kapadonyo: Di ma ang?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maantaangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨את⟩ manusia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "di ma ang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:49.200768387Z",
+  "model": "glm-5.3"
+}

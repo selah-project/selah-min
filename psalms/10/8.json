@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Inyo duduak mambuek ago di pakampuan; di tampek curi inyo mambunuah urang nan indak badoso; matonyo mamantau urang nan basadio mandapek urang kasaik.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "duduak mambuek ago"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "di pakampuan"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "pakampuan"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "di tampek curi"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "mambunuah"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "urang nan indak badoso"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matonyo"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "urang nan basadio mandapek urang kasaik"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "mamantau curi-curi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:01.157895547Z",
+  "model": "glm-5.3"
+}

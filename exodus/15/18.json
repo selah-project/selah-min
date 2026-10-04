@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Yahweh barajo sapanjang umua jo sasalanyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "barajo"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sapanjang umua"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo sasalanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:48.507538524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 30:8",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo inyo ka tau baso ambo Yahweh, katiko ambo mambuek api di Mitsrayim, jo sadoalah nan manolongnyo ka patah.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Jo inyo ka tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "katiko ambo mambuek"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "jo ka patah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "nan manolongnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:58:39.695386433Z",
+  "model": "glm-5.3"
+}

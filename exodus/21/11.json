@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo kok nan tigo iko indak inyo buek untuaknyo, mako inyo kalua indak mambayia, indak ado pitih.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jo kok"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "nan tigo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buek"
+    },
+    {
+      "surface": "לה",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "mako inyo kalua"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "indak mambayia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pitih"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:01.455815750Z",
+  "model": "glm-5.3"
+}

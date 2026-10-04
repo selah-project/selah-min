@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo rajo bakato kapadonyo: Apo nan ka jo ambo? Inyo bakato: Sungenyo ambo padusi balu, jo laki ambo alah mati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo rajo bakato"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nan ka jo ambo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sungenyo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "padusi"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "balu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "alah mati"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "laki ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:46.403708675Z",
+  "model": "glm-5.3"
+}

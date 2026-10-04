@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Mordekhai maagiah tahu kapadonyo ⟨את⟩ sagalo nan alah tajadi kapadonyo, jo ⟨את⟩ jumlah pitih perak nan katakan Haman untuak manimbang ka parmatoan rajo ateh urang Yahudi, untuak mambinasoan mareka.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "maagiah tahu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan alah tajadi kapadonyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "alah tajadi kapadonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "jumlah pitih perak"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "jumlah"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pitih perak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "untuak manimbang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "parmatoan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "ateh urang Yahudi"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "untuak mambinasoan mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:23.439788567Z",
+  "model": "glm-5.3"
+}

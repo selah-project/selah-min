@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo Hamor bakato-kato jo ⟨את⟩ inyo, nan kato: Shekhem anak ambo, nyawonyo takaik jo anak padusi kalian; mokoi kalian agiah ⟨את⟩ inyo kapadonyo untuak bini.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Jo bakato-kato"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jo ⟨את⟩ inyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan kato"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "takaik"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawonyo"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "jo anak padusi kalian"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mokoi kalian"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Dinah)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "untuak bini"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:38.260155195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Karano namo Yahweh kaok ambo sampaik; baa gala gadang kapado Elohim ambo den.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kaok ambo sampaik"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "baa gala"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kapado Elohim ambo den"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:51.698962657Z",
+  "model": "glm-5.3"
+}

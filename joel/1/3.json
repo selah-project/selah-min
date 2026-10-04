@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Takanakan iko kapado anak-anak kalian, jo anak-anak kalian kapado anak-anaknyo, jo anak-anaknyo kapado angkatan nan lain.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "kapado anak-anak kalian"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "Takanakan"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "jo anak-anak kalian"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kapado anak-anaknyo"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "jo anak-anaknyo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kapado angkatan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nan lain"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:22.597267061Z",
+  "model": "glm-5.3"
+}

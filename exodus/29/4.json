@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo ⟨את⟩ Aharon jo ⟨את⟩ anak-anaknyo kau paikankan ka muko pintu Khemah Parpatungan, jo kau basuah ⟨את⟩ urang tu jo aia.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "kau paikankan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muko pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Parpatungan"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "jo kau basuah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ urang tu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "jo aia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:46.331586661Z",
+  "model": "glm-5.3"
+}

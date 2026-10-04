@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Iko generasi urang nan mancari ⟨inyo⟩, nan mancari muko-Mu — Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generasi"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "mancari ⟨inyo⟩"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "nan mancari"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:40.698727766Z",
+  "model": "glm-5.3"
+}

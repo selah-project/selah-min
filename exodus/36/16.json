@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Inyo mangabek ⟨את⟩ limo ampangan tasabuik surang, jo ⟨את⟩ anam ampangan tasabuik surang.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "inyo mangabek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limo ampangan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limo"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ampangan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tasabuik surang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anam ampangan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ampangan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tasabuik surang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:33.686215698Z",
+  "model": "glm-5.3"
+}

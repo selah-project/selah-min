@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo baa kok kalian mabarek-barekan ⟨את⟩ ati kalian, sarupo Mitsrayim jo Paroh mabarek-barekan ⟨את⟩ ati mareka? Indakkah, sangkok Iyo malakoki mareka, mareka manyuruan urang itu pai, jo urang itu pai?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "jo baa kok"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "kalian mabarek-barekan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati kalian"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ati kalian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "mabarek-barekan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "jo Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati mareka"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ati mareka"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "indakkah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sangkok"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "malakoki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mareka"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "mareka manyuruan urang itu pai"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "jo urang itu pai"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:11.097167599Z",
+  "model": "glm-5.3"
+}

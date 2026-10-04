@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Paliahan hinoan ambo nan takuik ambo, karano hukum-hukum-Mu elok.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Paliahan"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "hinoan ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "takuik ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "elok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:29.581396591Z",
+  "model": "glm-5.3"
+}

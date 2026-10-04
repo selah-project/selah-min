@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Kapado pamimpiñ nyanyian, ateh Ayelet ha-Syahar, mizmor dek Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kapado pamimpiñ nyanyian"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayelet"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ha-Syahar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dek Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:44.327635676Z",
+  "model": "glm-5.3"
+}

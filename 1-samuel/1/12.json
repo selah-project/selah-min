@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Dan tajadi, katiko inyo lamonyo baruaik di muko Yahweh, Eli mangamat ⟨את⟩ muluiknyo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan tajadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "lamonyo"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "baruaik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mangamat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muluiknyo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "muluiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:22:46.555695787Z",
+  "model": "glm-5.3"
+}

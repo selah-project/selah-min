@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lalu Yahweh bakato kapado Moshe, nan bunyinyo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bunyinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:59.754907160Z",
+  "model": "glm-5.3"
+}

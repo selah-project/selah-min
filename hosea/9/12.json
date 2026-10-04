@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Walau pun inyo manggadangkan ⟨את⟩ anak-anak nyoi, ambo ka mambaok ilang inyo dari manusio; karano woi juo untuak inyo katiko ambo maila dari nyoi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "walau"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "manggadangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak nyoi"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anak nyoi"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "ambo ka mambaok ilang inyo"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dari manusio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "woi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak inyo"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "katiko ambo maila"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dari nyoi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:15.554050600Z",
+  "model": "glm-5.3"
+}

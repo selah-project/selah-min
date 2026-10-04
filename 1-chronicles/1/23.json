@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "jo ⟨את⟩ Ofir, jo ⟨את⟩ Khavilah, jo ⟨את⟩ Yobab; sadonyo iko anak-anak Yoktan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ofir"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Khavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Khavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yobab"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yobab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:39:43.153533539Z",
+  "model": "glm-5.3"
+}

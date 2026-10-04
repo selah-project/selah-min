@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Iko namo-namo anak-anak Aharon, para imam nan diurapi, nan tangannyo alah dipanuahi untuak manjadi imam.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "nan diurapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dipanuahi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuak manjadi imam"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:46.878622785Z",
+  "model": "glm-5.3"
+}

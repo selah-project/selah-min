@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Ado sasuatu nan dapek dikatokan urang: Caliak, iko baru? Alah lamo inyo ado samanjak zaman-zaman dahulu, nan ado sabalun kito.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Ado"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sasuatu"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "nan dapek dikatokan urang"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Alah lamo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "samanjak zaman-zaman dahulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "sabalun kito"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:20.174129206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jadi katiko rajo mandanga ⟨את⟩ kato-kato kitab Torah tu, inyo mamacah ⟨את》 pakaiannyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "katiko mandanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "mamacah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannyo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:04:07.925916874Z",
+  "model": "glm-5.3"
+}

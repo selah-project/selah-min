@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 53,
+  "translation": "Elohim dari langik mancalon ka bawah ka anak-anak Adam, untuak caliak adokoh ado nan bapandai, nan mancari ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langik"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "mancalon ka bawah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak caliak"
+    },
+    {
+      "surface": "היש",
+      "gloss": "adokoh ado"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nan bapandai"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:11.285713740Z",
+  "model": "glm-5.3"
+}

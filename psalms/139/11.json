@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Jikok ambo bakato: pastilah gelap ka manuduah ambo, malam pun cahayo di sakaliliang ambo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אך",
+      "gloss": "pastilah"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "ka manuduah ambo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "malam pun"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahayo"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "di sakaliliang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:30.205872947Z",
+  "model": "glm-5.3"
+}

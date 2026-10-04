@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 97,
+  "translation": "Karano Sanjo, Yahweh, Elyon di ateh saluruah bumi, sangaik lah tinggi Sanjo di ateh sado tuhan-tuhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sanjo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "lah tinggi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:17.338000163Z",
+  "model": "glm-5.3"
+}

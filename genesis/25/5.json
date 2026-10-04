@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo Avraham maagiah ⟨את⟩ sagalo nan ado pado inyo kapado Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan ado pado inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ado pado inyo"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kapado Yitskhak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:52.233160922Z",
+  "model": "glm-5.3"
+}

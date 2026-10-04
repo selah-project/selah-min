@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Yahweh, Elohim ambo, ka Angkau ambo balinduang; salamatkan ambo dari sagalo urang nan mampalotok ambo, jo palapeh ambo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka Angkau"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ambo balinduang"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salamatkan ambo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "urang nan mampalotok ambo"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "jo palapeh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:45.301363167Z",
+  "model": "glm-5.3"
+}

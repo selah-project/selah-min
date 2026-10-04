@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lot kalua kapado inyo di muncuang ⟨the⟩ pintu, jo ditutuik pintu di balakangnyo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "di muncuang pintu"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "jo pintu"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ditutuik"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "di balakangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:21.507554998Z",
+  "model": "glm-5.3"
+}

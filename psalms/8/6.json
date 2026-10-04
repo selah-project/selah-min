@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Kau mahasiannyo kurang saketek dari Elohim, jo kamuliaan jo kahormatan kau mahiannyo.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "kau mahasiannyo kurang"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "dari Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "jo kamuliaan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "jo kahormatan"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "kau mahiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:29.081633147Z",
+  "model": "glm-5.3"
+}

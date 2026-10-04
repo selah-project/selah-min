@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 27:27",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo susu kambiang cukuik untuak makananmu, untuak makanan isi rumahmu, jo pangiduik untuak pambantu-pambantu padusi awak.",
+  "tokens": [
+    {
+      "surface": "ודי",
+      "gloss": "cukuik"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kambiang"
+    },
+    {
+      "surface": "ללחמך",
+      "gloss": "untuak makananmu"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "untuak makanan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "isi rumahmu"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "pangiduik"
+    },
+    {
+      "surface": "לנערותיך",
+      "gloss": "untuak pambantu-pambantu padusi awak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:07.082401528Z",
+  "model": "glm-5.3"
+}

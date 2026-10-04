@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Paman Shaúl bakato: Katakanlah kapado ambo, apo nan dikatokan Shemuel kapado kalian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "paman"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dikatokan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado kalian"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:30.588323542Z",
+  "model": "glm-5.3"
+}

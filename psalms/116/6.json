@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Yahweh mahago urang nan polos; ambo tarendah, jo Inyo manyalamaikan ambo.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "mahago"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "urang nan polos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ambo tarendah"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "jo kapado ambo"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "manyalamaikan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:26.031352879Z",
+  "model": "glm-5.3"
+}

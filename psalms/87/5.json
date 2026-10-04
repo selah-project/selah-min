@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 87,
+  "translation": "Jo tantang Tsiyon akaik dikatoan: urang ciek jo urang ciek lai lah dilahiaan di sinan; jo Elyon surang akaik managakkan inyo.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "jo tantang Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akaik dikatoan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang ciek"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jo urang ciek lai"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lah dilahiaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo inyo surang"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "akaik managakkan inyo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:06.966524579Z",
+  "model": "glm-5.3"
+}

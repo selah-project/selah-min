@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Yahweh lai bakato kapado Moshe, manjadio:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lai bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "manjadio"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:27.702562493Z",
+  "model": "glm-5.3"
+}

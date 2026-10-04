@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Demi namo-Mu, Yahweh, amponlah pangkalangan ambo, karano gadang inyo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "amponlah"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "pangkalangan ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:11.354637397Z",
+  "model": "glm-5.3"
+}

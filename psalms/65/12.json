@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Kau mamahiak duo baleh kabaikatan-Mu, jo jalan tapak-Mu manatih kamakmuran.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "Kau mamahiak"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "duo baleh"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "kabaikatan-Mu"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "jo jalan tapak-Mu"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "manatih"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "kamakmuran"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:04.109963579Z",
+  "model": "glm-5.3"
+}

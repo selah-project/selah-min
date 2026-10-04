@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Elohim mancaliak ⟨את⟩ urang Israel, jo Elohim tau.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:16.924470973Z",
+  "model": "glm-5.3"
+}

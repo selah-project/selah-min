@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 76,
+  "translation": "Di sanapeh dibueknyo baliak anak panah bakunas api, pahlawan jo padang jo paparangan. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "di sanapeh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "dibueknyo baliak"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "bakunas api"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "anak panah"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "jo padang"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "jo paparangan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:21.184146656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 76,
+  "translation": "Jo manjadi di Shalem soknyo, jo tampek tingganyo di Tzion.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo manjadi"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "di Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "soknyo"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "jo tampek tingganyo"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tzion"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:21.183992085Z",
+  "model": "glm-5.3"
+}

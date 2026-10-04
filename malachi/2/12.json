@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 2:12",
+  "book": "malachi",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Yahweh ka mamutiak urang nan bana mambueknyo — nan manjago jo nan manjawek — dari khemah-khemah Yaakov, bahkan inyo nan maâga minkha kapado Yahweh Tsebaot.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "ka mamutiak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "mambueknyo"
+    },
+    {
+      "surface": "ער",
+      "gloss": "nan manjago"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "jo nan manjawek"
+    },
+    {
+      "surface": "מאהלי",
+      "gloss": "dari khemah-khemah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ומגיש",
+      "gloss": "nan maâga"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:20.354772605Z",
+  "model": "glm-5.3"
+}

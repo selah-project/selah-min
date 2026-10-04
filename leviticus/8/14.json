@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lapeh itu inyo mandakek-an ⟨את⟩ lombu korban doso itu, lalu Aharon jo anak-anaknyo malatakan ⟨את⟩ tangannyo di ateh kapalo lombu korban doso itu.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "mandakek-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lombu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lombu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban doso"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "malatakan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jo anak-anaknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannyo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lombu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban doso"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:51.701747274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 118,
+  "translation": "Yahweh untuak ambo, indak ambo takuik; apo nan dapek manusia buek kapado ambo?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ambo takuik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dapek ... buek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:08.049118309Z",
+  "model": "glm-5.3"
+}

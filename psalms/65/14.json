@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Kawanan domba mamakaian padang rumput, jo lambah-lambah disalimuik padi; inyo mambuek sorak-sorai, bahkan manyanyi.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "mamakaian"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "kawanan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "lambah-lambah"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "disalimuik"
+    },
+    {
+      "surface": "בר",
+      "gloss": "padi"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "mambuek sorak-sorai"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "manyanyi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:49.145177388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 58,
+  "translation": "Urang-urang jahat lah tabalah dari rahim; lah tasasaik dari peruik, pamuiak-pamuiak kebohongan.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "lah tabalah"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dari rahim"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "lah tasasaik"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dari peruik"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pamuiak-pamuiak"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kebohongan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:37.578258576Z",
+  "model": "glm-5.3"
+}

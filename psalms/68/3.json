@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Sarupo asok diampok urang, ampoklah ⟨inYO⟩; sarupo lilin manyarak di muko api, buek urang-urang jahat ilang dari muko Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "sarupo diampok"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asok"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ampoklah ⟨inYO⟩"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "sarupo manyarak"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "lilin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:48.202517783Z",
+  "model": "glm-5.3"
+}

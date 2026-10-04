@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lalu Yehonatan manambah sumpah kapado ⟨את⟩ Dawid, dek kasiahnyo kapado ⟨את⟩ inyo, karano inyo mangasihi inyo jo kasiah nyawonyo surang.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "lalu manambah"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "dek kasiahnyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "kasiah"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawonyo"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "inyo mangasihi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:17.527626134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 131,
+  "translation": "Lagu nan manujuik, untuak Dawid. Yahweh, ati ambo indak mangecek, jo mato ambo indak maikek tinggi, jo ambo indak bajalan pado parkaro-parkaro gadang jo parkaro-parkaro ajaib nan labiah dari ambo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nan manujuik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "maiek tinggi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "pado parkaro-parkaro gadang"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "jo parkaro-parkaro ajaib"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nan labiah dari ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:20.663106426Z",
+  "model": "glm-5.3"
+}

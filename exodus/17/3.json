@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Urang banyak tu dahago di sinan akan aia, dan urang banyak tu manggaduah ateh Moshe, urang tu bakato: Baa kok ko awak San angkek ambo kalua dari Mitsrayim, untuak mambunuah ⟨את⟩ ambo jo ⟨את⟩ anak-anak ambo jo ⟨את⟩ taranak ambo dek dahago?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "dahago"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "למים",
+      "gloss": "akan aia"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "manggaduah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "urang tu bakato"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Baa kok"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "awak San angkek ambo kalua"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "untuak mambunuah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak ambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taranak ambo"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "taranak ambo"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "dek dahago"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:40.337003588Z",
+  "model": "glm-5.3"
+}

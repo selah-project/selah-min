@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Yahweh bakato kapado Moshe, lapehnyo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lapehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:41.511679841Z",
+  "model": "glm-5.3"
+}

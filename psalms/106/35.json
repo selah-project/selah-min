@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Lalu inyo bacampua jo bangso-bangso asiang, jo baraja pabuatan urang tu.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "bacampua"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "jo bangso-bangso asiang"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "baraja"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "pabuatan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:17.772002139Z",
+  "model": "glm-5.3"
+}

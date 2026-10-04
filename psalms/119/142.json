@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Tsuḍeq-Mu adolah tsedeq salamo-lamonyo, jo Torah-Mu adolah kabanaran.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "tsuḍeq-Mu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "jo Torah-Mu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kabanaran"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:11.710328757Z",
+  "model": "glm-5.3"
+}

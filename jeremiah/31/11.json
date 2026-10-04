@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Karano Yahweh alah manebaskan ⟨את⟩ Yaakov, jo alah manaluakannyo dari tangan nan labiah kuaik dari inyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "alah manebaskan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "jo alah manaluakannyo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "nan labiah kuaik"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:36:38.583021570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Tapi Yahweh manguatkan ⟨את⟩ ati Paro, dan inyo indak sangajo maagiah mereka pai.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "manguatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "sangajo"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "maagiah mereka pai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:54.362342460Z",
+  "model": "glm-5.3"
+}

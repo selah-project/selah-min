@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Angkau kasado musti disunat ⟨את⟩ dagiang kulub angkau, jo itu manjadi tando parjanjian di antaro Aku jo angkau kasado.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "angkau kasado musti disunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiang kulub angkau"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "kulub angkau"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo itu manjadi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tando"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "di antaro Aku"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "jo di antaro angkau kasado"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:43.012662950Z",
+  "model": "glm-5.3"
+}

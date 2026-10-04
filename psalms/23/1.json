@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Mazmur untuak Dawid. Yahweh gembalo ambo, ambo indak ka kakurangan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "gembalo ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "ka kakurangan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:44.511884500Z",
+  "model": "glm-5.3"
+}

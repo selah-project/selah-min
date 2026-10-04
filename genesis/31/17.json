@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Maka bangkiklah Yaakov, jo inyo maangkek ⟨את⟩ anak-anaknyo jo ⟨את⟩ bini-binyo, ka ateh onto-onto.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bangkiklah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bini-binyo"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "bini-binyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "onto-onto"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:23.586608679Z",
+  "model": "glm-5.3"
+}

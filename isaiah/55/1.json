@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Oi, sagalo nan haus, maiaklah ka aia, jo nan indak punyo perak, maiaklah, baliolah jo makanlah; maiaklah baliolah indak jo perak jo indak jo harago, anggau jo susu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Oi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "nan haus"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "maiaklah"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ka aia"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo nan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "לו",
+      "gloss": "punyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "maiaklah"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "baliolah"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "jo makanlah"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "jo maiaklah"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "baliolah"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "indak jo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "jo indak jo"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "harago"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggau"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "jo susu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:54.284404676Z",
+  "model": "glm-5.3"
+}

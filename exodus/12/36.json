@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo Yahweh maagiah ⟨את⟩ baresekati urang tu di mato urang Mitsrayim, sahinggo urang tu maagiah inyo; jo inyo mandapek-sanak urang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Jo Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baresekati urang tu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "baresekati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "urang tu maagiah inyo"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "inyo mandapek-sanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:27.711482434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Sarupo mimpí katiko urang bangun dari lalok — Adonai, katiko Engkau bangun, bayangan urang tu Kau hino.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Sarupo mimpí"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "katiko urang bangun dari lalok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "katiko bangun"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "bayangan urang tu"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "Kau hino"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:22.955563413Z",
+  "model": "glm-5.3"
+}

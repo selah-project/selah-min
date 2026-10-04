@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Angkek lah ⟨את⟩ kapalo saluruah jamaah anak-anak Yisrael manuruik marga-marga inyo, manuruik rumah adaik ambo-ambo inyo, dalam jumolah namo — satiok urang laki-laki, ciek-ciek urang.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Angkek lah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalo saluruah jamaah anak-anak Yisrael"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "manuruik marga-marga inyo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "manuruik rumah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "adaik ambo-ambo inyo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "dalam jumolah"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "urang laki-laki"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "ciek-ciek urang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:47.224483160Z",
+  "model": "glm-5.3"
+}

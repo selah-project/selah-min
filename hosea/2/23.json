@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo tajadilah pado ari itu: ambo ka manjawek — kato Yahweh — ambo manjawek ⟨את⟩ langik, dan inyo ka manjawek ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jo tajadilah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ambo ka manjawek"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ambo manjawek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langik"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "והם",
+      "gloss": "dan inyo"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ka manjawek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:50.536961901Z",
+  "model": "glm-5.3"
+}

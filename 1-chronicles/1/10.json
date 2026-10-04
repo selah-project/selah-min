@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Kush manurunkan ⟨את⟩ Nimrod; inyolah nan mulo manjadi urang gagah di bumi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "jo Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyolah"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mulo"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "urang gagah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:10.363993692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Rajo-rajo bumi badiri kuaik, jo panghulu-panghulu bakumpua basamo, malawan Yahweh jo malawan Mashiakh-Nyo.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "badiri kuaik"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "jo panghulu-panghulu"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "bakumpua"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "על",
+      "gloss": "malawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo malawan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiakh-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:37.397427719Z",
+  "model": "glm-5.3"
+}

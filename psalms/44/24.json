@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Bangun, baa nyo lalok, Adonai? Tagaklah, jan abieh awak salamanyo.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Bangun"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa nyo"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Tagaklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "abieh awak"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:07.413752153Z",
+  "model": "glm-5.3"
+}

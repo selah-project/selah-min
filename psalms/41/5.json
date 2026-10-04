@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Ambo bakato: Yahweh, basiahilah ambo, ubekilah jiwo ambo, karano ambo alah babuat doso kapado-Mu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "basiahilah ambo"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "ubekilah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwo ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "babuat doso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:37.655896723Z",
+  "model": "glm-5.3"
+}

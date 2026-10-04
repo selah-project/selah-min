@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 15:6",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo parang tajadi antaro Rekhabeam jo antaro Yerobeam salamo sagalo ari iduiknyo.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "jo parang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tajadi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antaro"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabeam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "iduiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:52:13.514510918Z",
+  "model": "glm-5.3"
+}

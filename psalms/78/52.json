@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Inyo mambaok kalua urangnyo sarupo kambiang, mambimbiang inyo sarupo kawanan di gurun.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "mambaok kalua"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sarupo kambiang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "urangnyo"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "mambimbiang inyo"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "sarupo kawanan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:38.121003686Z",
+  "model": "glm-5.3"
+}

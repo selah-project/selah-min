@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Di tangan-Nyo ado nyawa sagalo nan iduik, jo ruakh sagalo dagiang manusia.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangan-Nyo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nan iduik"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "jo ruakh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T08:05:31.989414806Z",
+  "model": "glm-5.3"
+}

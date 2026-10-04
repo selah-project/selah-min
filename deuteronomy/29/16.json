@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Kalian alah caliak ⟨את⟩ bando-bando jijiknyo jo ⟨את⟩ patuang-patuangnyo, kayu jo batu, perak jo ameh, nan ado jo inyo urang tu.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "kalian alah caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bando-bando jijiknyo"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "bando-bando jijik inyo urang tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "patuang-patuangnyo"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "patuang-patuang inyo urang tu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "jo ameh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "jo inyo urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:58.289525150Z",
+  "model": "glm-5.3"
+}

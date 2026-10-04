@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ambo kaagungan ⟨את⟩ Dikau jo ati nan luruih, katiko ambo balaja hukum-hukum tsedeq-Mu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ambo kaagungan Dikau"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "jo luruih"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "katiko ambo balaja"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedeq-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:59.102623283Z",
+  "model": "glm-5.3"
+}

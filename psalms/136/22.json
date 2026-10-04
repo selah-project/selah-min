@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "Pusako untuak Yisrael, ambo-nyo nan mangabadian, karano salamonyo hesed Nyo.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "pusako"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "untuak Yisrael"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ambo-nyo nan mangabadian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:09.603145147Z",
+  "model": "glm-5.3"
+}

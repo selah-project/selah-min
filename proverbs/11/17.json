@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Urang nan mambari hesed mambuek ⟨adolah⟩ nyawanyo sanang, tapi urang nan mahek dagiangnyo surang adolah urang nan kakuasan.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "mambari"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "tapi mahek"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "urang nan kakuasan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:52.367745802Z",
+  "model": "glm-5.3"
+}

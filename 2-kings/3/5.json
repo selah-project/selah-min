@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Maka sangai sasudah Achav mati, rajo Moab mambarontak kapado rajo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka sangai"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "sasudah mati"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "mambarontak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kapado rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:56.308879384Z",
+  "model": "glm-5.3"
+}

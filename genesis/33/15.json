@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Lalu Esav bakato: Bialah ambo tinggakan sajo sajo urang nan basamo ⟨את⟩ ambo basamo sanak. Tapi inyo bakato: Untuak apo iko? Anggaplah ambo lah mandapek anugerah di mato tuan ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "bialah ambo tinggakan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bialah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo sanak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "basamo ⟨את⟩ ambo",
+      "marks": "urang-urang nan basamo ambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tapi inyo bakato"
+    },
+    {
+      "surface": "למה",
+      "gloss": "untuak apo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ambo mandapek"
+    },
+    {
+      "surface": "חן",
+      "gloss": "anugerah"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:01.547149157Z",
+  "model": "glm-5.3"
+}

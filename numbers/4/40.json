@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo jadi jumlah nan dihituang mareka, manuruik kaluargo-kaluargo mareka, manuruik rumah ayah-ayah mareka: duo ribu anam ratus tigo puluah.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "jo jadi"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "jumlah nan dihituang mareka"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "manuruik kaluargo-kaluargo mareka"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "manuruik rumah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ayah-ayah mareka"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duo ribu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "tigo puluah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:30.308618659Z",
+  "model": "glm-5.3"
+}

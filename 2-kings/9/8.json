@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo hilang sagalo rumah Ahab, jo Aku kaakan mamungkai dari Ahab laki-laki nan majan kaniang ka dindiang, nan dipanjaro jo nan ditinggaan, di Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "jo hilang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "jo Aku kaakan mamungkai"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "dari Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "nan majan kaniang"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ka dindiang"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "jo nan dipanjaro"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "jo nan ditinggaan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:47.428798193Z",
+  "model": "glm-5.3"
+}

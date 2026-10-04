@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "Baitu juo Elohim ka manganciah ang salamanyo, ka marampeh ang jo maambiak ang dari khemah ang, jo mancabuik aka ang dari bumi urang nan iduik. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "ka manganciah ang"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "ka marampeh ang"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "jo maambiak ang"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "dari khemah ang"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "jo mancabuik aka ang"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urang nan iduik"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:25.292117538Z",
+  "model": "glm-5.3"
+}

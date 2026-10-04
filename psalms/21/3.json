@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Kakanduang atinyo lah Wak bari kapadonyo, jo panyubo bibianyo indak Wak tahankan. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "kakanduang"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "lah Wak bari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "jo panyubo"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "bibianyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "Wak tahankan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:28.609419347Z",
+  "model": "glm-5.3"
+}

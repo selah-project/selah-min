@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lapeh inyo talapeh ⟨את⟩ bajunyo, mamakai baju nan lain, jo mambao kalua ⟨את⟩ dabu tu ka lua kampuang, ka tampek nan barasiah.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "talapeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajunyo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "bajunyo"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "mamakai"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "baju"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "mambao kalua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dabu"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "lua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampuang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nan barasiah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:42.450638554Z",
+  "model": "glm-5.3"
+}

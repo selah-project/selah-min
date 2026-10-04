@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo Yahweh bakato kapado Aharon, nak kato:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nak kato"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:56.806091671Z",
+  "model": "glm-5.3"
+}

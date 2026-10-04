@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 82,
+  "translation": "Tapi sabatulah, sarupo manusia sanak akan mati, jo sarupo ciek dari para pangulu sanak akan jatuah.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "tapi sabatulah"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "sarupo manusia"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "sanak akan mati"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "jo sarupo ciek dari"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "sanak akan jatuah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:56.723340809Z",
+  "model": "glm-5.3"
+}

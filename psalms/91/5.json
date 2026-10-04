@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Kau indak akan takuik dek katuju-takutan malam, indak juo dek padang nan tabang pado siang ari,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kau takuik"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "katuju-takutan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "padang"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "nan tabang"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "pado siang ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:44.393930429Z",
+  "model": "glm-5.3"
+}

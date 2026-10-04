@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "maka Yahweh, Elohimmu, maubek ⟨את⟩ kabalikanmu, jo marinahan kamu; dan inyo baliak mangumpuakan kamu dari sagalo bangso-bangso nan alah mampasiahan kamu kasitu Yahweh, Elohimmu.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "maka maubek baliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabalikanmu"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "kabalikanmu"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "jo marinahan kamu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dan baliak"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "mangumpuakan kamu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "mampasiahan kamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kasitu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:52.487248352Z",
+  "model": "glm-5.3"
+}

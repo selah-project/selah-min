@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Lalu inyo manangkok ⟨את⟩ rajo itu, jo mambaok ⟨את⟩ inyo kapado rajo Babel, ka Rivlah, jo inyo mambicarokan ⟨את⟩ jo inyo pangadilan.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "manangkok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo itu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo itu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "ka Rivlah"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "mambicarokan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jo inyo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pangadilan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:36.260138443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Bariahan ambo ⟨את⟩ bini-bini ambo jo ⟨את⟩ anak-anak ambo, nan alah ambo karajokan untuak ⟨את⟩ sanak jo dek mareka; supayo ambo pai — karano sanak tau ⟨את⟩ karajo-karajo ambo nan ambo karajokan untuak sanak.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "bariahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini-bini ambo"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "bini-bini ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak ambo"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "anak-anak ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "alah ambo karajokan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sanak"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "jo dek mareka"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "supayo ambo pai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karajo-karajo ambo"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "karajo-karajo ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ambo karajokan untuak sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:03:11.973985668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Elohim ⟨adoalah⟩ untuak kito El nan mambao palapehan-palapehan, jo kapado Yahweh Adonai ado jalan-jalan kalua dari kamatian.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "untuak palapehan-palapehan"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "jo kapado Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למות",
+      "gloss": "dari kamatian"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "jalan-jalan kalua"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:06.973984815Z",
+  "model": "glm-5.3"
+}

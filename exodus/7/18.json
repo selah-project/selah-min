@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 7:18",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo ikan-ikan nan ado di batang aia tu ka mati, jo batang aia tu ka babaun, jo urang Mitsrayim ka basusah lai untuak minum aia dari batang aia tu.",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "jo ikan-ikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan ado"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "di batang aia tu"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ka mati"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "jo ka babaun"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "batang aia tu"
+    },
+    {
+      "surface": "ונלאו",
+      "gloss": "jo ka basusah lai"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "untuak minum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "batang aia tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:12.442474409Z",
+  "model": "glm-5.3"
+}

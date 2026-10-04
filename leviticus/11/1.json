@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Yahweh bacakap kapado Moshe jo kapado Aharon, nak bakato kapado urang tu:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bacakap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nak bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:49.315802447Z",
+  "model": "glm-5.3"
+}

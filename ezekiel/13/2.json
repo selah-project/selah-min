@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 13:2",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Anak manusia, ubanbilah nabi-nabi Yisrael nan babanabi, jo katakan kapado nabi-nabi nan babanabi dari ati surang-surang: Talingokan kato Yahweh!",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "ubanbilah babanabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nan babanabi"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jo katakanlah"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "kapado nabi-nabi"
+    },
+    {
+      "surface": "מלבם",
+      "gloss": "dari ati surang-surang"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "talingokanlah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:51:02.806719997Z",
+  "model": "glm-5.3"
+}

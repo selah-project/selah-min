@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Urang tu barusuak kapado-Nyo; bukannyo anak-anak-Nyo, calaknyo tu; sabuah katurunan nan bengkok jo balilik-lilik.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "barusuak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado-Nyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukannyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anak-Nyo"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "calaknyo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "bengkok"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "jo balilik-lilik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:27.362509826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 34:20",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo rajo mamarintahkan ⟨את⟩ Khilqiyahu, jo ⟨את⟩ Akhikam anak Shafan, jo ⟨את⟩ Avdon anak Mikha, jo ⟨את⟩ Shafan panulih itu, jo ⟨את⟩ Asaya hamba rajo, sangajo:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khilqiyahu"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khilqiyahu"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Akhikam"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Akhikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Shafan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "panulih itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Asaya"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangajo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:00:12.452840260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Dan kalau kau buek mazbah batu untuak Aku, jan kau bangun ⟨את⟩ inyo jo batu pahat, karano kalau padangmu diangkek ka atehnyo, inyo manjadi tabanjia.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan kalau"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kau buek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak Aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "kau bangun"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (batu pahat)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "batu pahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "padangmu"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "diangkek"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ka atehnyo"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "manjadi tabanjia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:04.834747453Z",
+  "model": "glm-5.3"
+}

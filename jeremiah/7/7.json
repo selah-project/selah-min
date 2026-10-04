@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "mako Aku ka mambuek kalian tingga ⟨את⟩ di tampek iko, di tanah nan Aku alah agiah kapado niniak muyang kalian, dari samulo sampai salamanyo-lamanyo.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "mako Aku ka mambuek tingga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku alah agiah"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "kapado niniak muyang kalian"
+    },
+    {
+      "surface": "למן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "samulo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo-lamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:28:09.201416023Z",
+  "model": "glm-5.3"
+}

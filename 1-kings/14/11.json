@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Nan mati dari Yarovoam di kota, dimakan dek anjiang-anjiang; jo nan mati di ladang, dimakan dek buruang langik; karano Yahweh alah bakato.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "nan mati"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "dari Yarovoam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dek anjiang-anjiang"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "jo nan mati"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dek buruang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alah bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:06.242406838Z",
+  "model": "glm-5.3"
+}

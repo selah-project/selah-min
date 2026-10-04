@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Urang-urang Parosh, duo ribu saratus tujuah puluah duo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duo ribu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuah puluah"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "duo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:31:53.799325973Z",
+  "model": "glm-5.3"
+}

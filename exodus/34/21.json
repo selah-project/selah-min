@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Anam ari kau bakarajo, tapi pado ari nan katuju kau Shabat; pado maso mambajak jo pado maso maambiak paneh kau Shabat.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Anam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "kau bakarajo"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "tapi pado ari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nan katuju"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "kau Shabat"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "pado maso mambajak"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "jo pado maso maambiak paneh"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "kau Shabat"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:34.044532787Z",
+  "model": "glm-5.3"
+}

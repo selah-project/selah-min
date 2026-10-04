@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Elohim, katiko Engkau kalua di muko umat-Mu, katiko Engkau bajalan malalui gurun — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "katiko Engkau kalua"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "katiko Engkau bajalan"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "malalui gurun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:00.119498921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Ambo ka bajalan di mukonyo, jo nan bengkak-bengkok ambo lantuak; pintu-pintu tambago ambo pacah, jo palang-palang basi ambo potong.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ka bajalan"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "jo nan bengkak-bengkok"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "ambo lantuak"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "ambo pacah"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "jo palang-palang"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "basi"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "ambo potong"
+    }
+  ],
+  "timestamp": "2026-10-04T06:20:52.930684172Z",
+  "model": "glm-5.3"
+}

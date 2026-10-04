@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "jo ⟨את⟩ urang Hiwi, jo ⟨את⟩ urang Arki, jo ⟨את⟩ urang Sini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Hiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "urang Hiwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "urang Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "urang Sini"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:32.385038809Z",
+  "model": "glm-5.3"
+}

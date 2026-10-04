@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Dan inyo tingga untuak mancobo dek iannyo ⟨את⟩ Yisrael, untuak mangatahui apo iannyo mandanga ⟨את⟩ parentah-parentah Yahweh nan diperintahkannyo kapado ⟨את⟩ nenek moyang iannyo jo tangan Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dan inyo tingga"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "untuak mancobo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dek iannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuak mangatahui"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "apo iannyo mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah-parentah"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah-parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nenek moyang iannyo"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nenek moyang iannyo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "jo tangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T05:12:34.999541741Z",
+  "model": "glm-5.3"
+}

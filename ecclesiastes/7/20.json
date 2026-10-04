@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Karano indak ado urang buliah di bumi nan bana mambuek elok jo indak basalah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang buliah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "basalah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:15.279948603Z",
+  "model": "glm-5.3"
+}

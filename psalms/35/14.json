@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Sarupo kawan, sarupo dunsanak ambo, ambo bajalan; sarupo urang bakabuang untuak ibunyo, muram ambo manyuruak diri.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "sarupo kawan"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "sarupo dunsanak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ambo bajalan"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "sarupo urang bakabuang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "untuak ibu"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "muram"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "ambo manyuruak diri"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:24.665488044Z",
+  "model": "glm-5.3"
+}

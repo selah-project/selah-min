@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Lah babaunyo, lah buruak luko-luko ambo dek kabodoan ambo.",
+  "tokens": [
+    {
+      "surface": "הבאישׁוּ",
+      "gloss": "lah babaunyo"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "lah buruak"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "luko-luko ambo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dek"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "kabodoan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:46.490876336Z",
+  "model": "glm-5.3"
+}

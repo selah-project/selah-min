@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Pikabarek gurun lauik: sarupo angin pusek di Nagab untuak lalu — dari gurun inyo datang, dari tanah nan mambangankan.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "pikabarek"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "sarupo angin pusek"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "di Nagab"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "untuak lalu"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "dari gurun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "nan mambangankan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:50.179433854Z",
+  "model": "glm-5.3"
+}

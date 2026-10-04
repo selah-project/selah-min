@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo kau tulih di ateh batu-batu ⟨את⟩ sagalo kato-kato Torah iko, manjalehan bana.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "jo kau tulih"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kato-kato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "באר",
+      "gloss": "manjalehan"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:52.441345045Z",
+  "model": "glm-5.3"
+}

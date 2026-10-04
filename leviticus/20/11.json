@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo urang nan balayua jo ⟨את⟩ bini apaknyo — katanjang aurat apaknyo inyo alah Manyalahan — kaduonyo pasti dibunuah, darahnyo ado di badan mareka.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "balayua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini apaknyo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "katanjang aurat"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "Manyalahan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti dibunuah"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "pasti dibunuah"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kaduonyo"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di badan mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:05.302274043Z",
+  "model": "glm-5.3"
+}

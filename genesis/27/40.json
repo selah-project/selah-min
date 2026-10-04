@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo jo padang ang ka iduik, jo ⟨את⟩ saudaramu ang ka patuahi; jo katiko ang malapeh diri, ang ka tanggaleh jo mandamnyo dari tangkak ang.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "padang ang"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ang ka iduik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saudaramu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ang ka patuahi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo ka tajadi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "ang malapeh diri"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "ang ka tanggaleh"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "jo mandamnyo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "tangkak ang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:37.159338340Z",
+  "model": "glm-5.3"
+}

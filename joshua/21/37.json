@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kedemot jo ⟨את⟩ padang rumputnyo, jo ⟨את⟩ Mefa'at jo ⟨את⟩ padang rumputnyo — koto-koto ⟨shall be four⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumputnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumputnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Mefa'at"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumputnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumputnyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:12.098224212Z",
+  "model": "glm-5.3"
+}

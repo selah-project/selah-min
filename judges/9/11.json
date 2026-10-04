@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu bakato arba kapado inyo urang tu: A mesti tinggakan ⟨את⟩ manihnyo ambo jo ⟨את⟩ hasia ambo nan elok, jo pai tagoyang-goyang di ateh kaju-kaju?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo urang tu"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "arba"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "a mesti tinggakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manihnyo ambo"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "manihnyo ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hasia ambo nan elok"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "hasia ambo"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "jo pai"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "tagoyang-goyang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kaju-kaju"
+    }
+  ],
+  "timestamp": "2026-10-04T05:14:57.285295857Z",
+  "model": "glm-5.3"
+}

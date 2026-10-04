@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo ⟨את⟩ kulik anak kambiang batinu inyo salimpuikan ka tangannyo jo ka lihianyo nan licin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kulik anak kambiang"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "anak kambiang"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "batinu"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "salimpuikan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "nan licin"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "lihianyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:14.888961705Z",
+  "model": "glm-5.3"
+}

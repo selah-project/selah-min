@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo Elihu alah manunggu ⟨את⟩ Iyob jo kato-kato, karano urang tu labiah tuo umua dari inyo.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Jo Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "manunggu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "jo kato-kato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "labiah tuo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari inyo"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "umua"
+    }
+  ],
+  "timestamp": "2026-10-04T08:12:00.033300757Z",
+  "model": "glm-5.3"
+}

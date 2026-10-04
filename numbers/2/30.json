@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo bala tantaranyo, jo urang-urang nan didata dari inyo, limo puluah tigo ribu jo ampek ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "jo bala tantaranyo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "jo urang-urang nan didata dari inyo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "jo limo puluah"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "jo ampek"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:03.347479652Z",
+  "model": "glm-5.3"
+}

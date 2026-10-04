@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Tabal seperti lemak ati nyo; tapi ambo takicuah dalam Torah-Mu.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "tabal"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "seperti lemak"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ati nyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah-Mu"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "takicuah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:15.170812773Z",
+  "model": "glm-5.3"
+}

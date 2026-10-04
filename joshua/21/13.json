@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo kapado anak-anak Aharon si imam inyo mareh ⟨את⟩ kuta palarian untuak pamunuah, ⟨את⟩ Khevron jo ⟨את⟩ padang rumpuiknyo, jo ⟨את⟩ Livnah jo ⟨את⟩ padang rumpuiknyo.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "jo kapado anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "si imam"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "inyo mareh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuta palarian untuak pamunuah"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "palarian"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pamunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Livnah"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:13.051226229Z",
+  "model": "glm-5.3"
+}

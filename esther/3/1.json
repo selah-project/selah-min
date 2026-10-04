@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Sasudah kajadian-kajadian itu, rajo Achashverosh mamuliaan ⟨את⟩ Haman, anak Hamdata si Agagi, jo mangangkeknyo, sarato manampekkan ⟨את⟩ kurisinyo di ateh sado pangarah nan ado jo ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kajadian-kajadian"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "mamuliaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "si Agagi"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "jo mangangkeknyo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "sarato manampekkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurisinyo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kurisinyo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "pangarah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:08.083426811Z",
+  "model": "glm-5.3"
+}

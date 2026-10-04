@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo adiak padusinyo Hamolekhet malahiakan ⟨את⟩ Ishod, jo ⟨את⟩ Aviezer, jo ⟨את⟩ Makhlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "jo adiak padusinyo"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamolekhet"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Aviezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Makhlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Makhlah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:25.897591222Z",
+  "model": "glm-5.3"
+}

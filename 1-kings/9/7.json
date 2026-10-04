@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 9:7",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Maka ambo akan mamutuih ⟨את⟩ Yisrael dari muko tanah nan alah ambo agiah kapado inyo tu; jo ⟨את⟩ rumah nan alah ambo sucikan untuak namok ambo, ambo akan awokan dari muko ambo; jo Yisrael manjadi pabandojo jo ndayo di antaro sado umat.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "maka ambo akan mamutuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah ambo agiah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "alah ambo sucikan"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "untuak namok ambo"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ambo akan awokan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo manjadi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "pabandojo"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "jo ndayo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di antaro sado"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "umat"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:43.734112606Z",
+  "model": "glm-5.3"
+}

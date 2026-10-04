@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Urang tu indak ingek ⟨את⟩ tangan-Nyo, ari katiko la mambabas inyo dari musuah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ingek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-Nyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangan-Nyo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "mambabas"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:23.634026037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Mako Khazael rajo Aram maningga, jo Ben-Hadad anaknyo manjadi rajo manggantian inyo.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Mako Khazael maningga"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Khazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "jo manjadi rajo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "-Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "manggantian inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:13.402021847Z",
+  "model": "glm-5.3"
+}

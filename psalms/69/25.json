@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Tuangkan ka ateh inyo kaamaraan-Mu, jo kabaraehan angku-Mu manyarang inyo.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Tuangkan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka ateh inyo"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kaamaraan-Mu"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "jo kabaraehan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "angku-Mu"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "manyarang inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:42.702244084Z",
+  "model": "glm-5.3"
+}

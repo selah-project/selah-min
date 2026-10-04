@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 6:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo api di ateh mazbah tu dapek baka taruih di dalamnyo, indak buliah dipadaman; jo imam tu mamasang kayu di atehnyo satiok pagi, satiok pagi, jo inyo manyusun ⟨את⟩ korban bakaran di atehnyo, jo mambakar di atehnyo lemak-lemak korban sajati.",
+  "tokens": [
+    {
+      "surface": "והאש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah tu"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "dapek baka taruih"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "buliah dipadaman"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "jo mamasang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam tu"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "satiok pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "satiok pagi"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "jo manyusun"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "jo mambakar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "חלבי",
+      "gloss": "lemak-lemak"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "korban sajati"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:25.675256544Z",
+  "model": "glm-5.3"
+}

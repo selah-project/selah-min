@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu Yahweh bakato kapado Moshe: Masuaklah kapado Paroh, karano ambo alah mambarek ⟨את⟩ atinyo jo ⟨את⟩ ati para pangawanyo, supayo ambo malatakkan tando-tandoku iko di tangah-tangah inyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuaklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "alah mambarek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atinyo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para pangawanyo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "malatakkan"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tando-tandoku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tangah-tangah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:39.853182268Z",
+  "model": "glm-5.3"
+}

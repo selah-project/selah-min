@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 130,
+  "translation": "Ambo mangarokok Yahweh, mangarokok ⟨ito⟩ nafasku, jo kato-Nyo ambo marantoi.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "mangarokok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "mangarokok"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafasku"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "jo kato-Nyo"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ambo marantoi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:22.886303117Z",
+  "model": "glm-5.3"
+}

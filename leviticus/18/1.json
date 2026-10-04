@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Yahweh bakato kapado Moshe, nan bakato:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:26.929993572Z",
+  "model": "glm-5.3"
+}

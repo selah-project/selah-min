@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Karano sio di langik dapek dandiangan jo Yahweh? Sio nan sarupo jo Yahweh di antaro anak-anak El?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sio"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "dapek dandiangan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "jo Yahweh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "nan sarupo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "jo Yahweh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "di antaro anak-anak"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:05.793857295Z",
+  "model": "glm-5.3"
+}

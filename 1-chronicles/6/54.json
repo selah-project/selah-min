@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "jo ⟨את⟩ Ayalon jo ⟨את⟩ tanah sakitarnyo, jo ⟨את⟩ Gat-Rimon jo ⟨את⟩ tanah sakitarnyo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanah sakitarnyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah sakitarnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanah sakitarnyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah sakitarnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:28.128673470Z",
+  "model": "glm-5.3"
+}

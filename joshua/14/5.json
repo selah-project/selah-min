@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Sarupo nan diparintahkan Yahweh kapado ⟨את⟩ Moshe, baa itu urang Yisrael mangece, jo urang tu mambagi ⟨את⟩ tanah.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baa itu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mangece"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "jo urang tu mambagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:08:19.812445883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Lalu Dawid mailangkan ⟨את⟩ sagalo nan ambiak dek Amalek, jo ⟨את⟩ kaduo biniinyo Dawid palapeh.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "mailangkan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan ambiak dek Amalek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ambiak dek urang tu"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kaduo biniinyo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaduo"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "biniinyo"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "palapeh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T05:33:35.273712671Z",
+  "model": "glm-5.3"
+}

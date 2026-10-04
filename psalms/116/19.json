@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Di halaman-halaman rumah Yahweh, di tangah-tangah awak, wa Yerushalayim. Pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "di halaman-halaman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "di tangah-tangah awak"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:49.067348150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Inyo mandirikan kasaksian di Yaakov, jo Torah ditaruahnyo di Yisrael, nan diparentahkan-Nyo kapado ⟨את⟩ urang tuo kito, supayo inyo mambaritahukan inyo kapado anak-anaknyo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mandirikan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "di Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "jo Torah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ditaruah"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parentahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tuo kito"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "urang tuo kito"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "supayo mambaritahukan inyo"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kapado anak-anaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:25.772977700Z",
+  "model": "glm-5.3"
+}

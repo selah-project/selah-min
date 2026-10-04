@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Ambo, ambo surang, nan mahapuih ⟨את⟩ pambalakangmu dek karano ambo surang; jo dosamu indak ka ambo ingek.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "surang"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "mahapuih"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "pambalakangmu"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "dek karano ambo"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "jo dosamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ambo ingek"
+    }
+  ],
+  "timestamp": "2026-10-04T09:15:32.353741564Z",
+  "model": "glm-5.3"
+}

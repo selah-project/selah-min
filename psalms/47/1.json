@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Untuak pamimpin musiak, untuak anak-anak Qorakh, sabuah mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak pamimpin musiak"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "untuak anak-anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorakh"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:04.428647153Z",
+  "model": "glm-5.3"
+}

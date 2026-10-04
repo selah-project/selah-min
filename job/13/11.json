@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Indakkah kajayoannyo mambuek ⟨את⟩ kalian takuik, jo katakutannyo jatuah ateh kalian?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Indakkah"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "kajayoannyo"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "mambuek takuik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "jo katakaan nyo"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ateh kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T08:06:01.370081158Z",
+  "model": "glm-5.3"
+}

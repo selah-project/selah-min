@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "jo bakato kapado inyo manuruik nasihek anak-anak mudo, katoannyo: Apak ambo alah mamamateh ⟨את⟩ kuk ikuak awak sanak, jo ambo maagiah tambah kapado kuk ikuak awak sanak; apak ambo alah mamacu ⟨את⟩ awak sanak jo cambuak, jo ambo ka mamacu ⟨את⟩ awak sanak jo kalajengking.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "manuruik nasihek"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "anak-anak mudo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katoannyo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apak ambo"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "alah mamamateh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuk ikuak awak sanak"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kuk ikuak awak sanak"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "maagiah tambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kuk ikuak awak sanak"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apak ambo"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "alah mamacu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awak sanak",
+      "marks": "awak sanak"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "jo cambuak"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ka mamacu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awak sanak",
+      "marks": "awak sanak"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "jo kalajengking"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:09.600433582Z",
+  "model": "glm-5.3"
+}

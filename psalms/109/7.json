@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Katiko inyo diadili, balaia inyo urang basalah, jo doanyo manjadi duso.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Katiko inyo diadili"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "balaia"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang basalah"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "jo doanyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "duso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:59.637383834Z",
+  "model": "glm-5.3"
+}

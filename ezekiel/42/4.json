@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Jo di muko ruang-ruang tu ado jalan leba sapuluah hinggo ka arah dalam, jalan ciek hinggo; jo mungko-mungkonyo ka arah utara.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "jo di muko"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "ruang-ruang tu"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hinggo"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "dalam"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ciek hinggo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "jo mungko-mungkonyo"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "ka arah utara"
+    }
+  ],
+  "timestamp": "2026-10-04T07:03:47.760832991Z",
+  "model": "glm-5.3"
+}

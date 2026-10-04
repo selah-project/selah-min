@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Anak-anak laki-laki Shim'on manuruik kaum adaiknyo: dari Nemuel, kaum adaik ha-Nemueli; dari Yamin, kaum adaik ha-Yamini; dari Yakhin, kaum adaik ha-Yakhini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak-anak laki-laki"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "manuruik kaum adaiknyo"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "dari Nemuel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kaum adaik"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "ha-Nemueli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "dari Yamin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kaum adaik"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ha-Yamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "dari Yakhin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kaum adaik"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "ha-Yakhini"
+    }
+  ],
+  "timestamp": "2026-10-04T04:47:29.519847470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo Aku akan manyucikan ⟨את⟩ Ohel Moed jo ⟨את⟩ mezbah; jo ⟨את⟩ Aharon jo ⟨את⟩ anak-anaknyo Aku sucikan untuak manjadi imam bagi-Ku.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "Aku akan manyucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ohel Moed"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "mezbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "Aku sucikan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuak manjadi imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:32.450462430Z",
+  "model": "glm-5.3"
+}

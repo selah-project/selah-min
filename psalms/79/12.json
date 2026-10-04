@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 79,
+  "translation": "Jo baliakanlah ka tatanggo kito tujuah kali kali ka pangkuahan inyo — hinonyo nan inyo mahinakan ka-Mu, Adonai.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Jo baliakanlah"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ka tatanggo kito"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "tujuah kali kali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "pangkuahan inyo"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "hinonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "mahinakan ka-Mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:26.490710794Z",
+  "model": "glm-5.3"
+}

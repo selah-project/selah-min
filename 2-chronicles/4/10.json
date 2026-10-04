@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo ⟨את⟩ laut tu inyo tampekannyo di sabalah bahu sonan, ka arah timua, bakatobak jo arah salatan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "laut tu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut tu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inyo tampekannyo"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "di sabalah bahu"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sonan"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ka arah timua"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "bakatobak"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "jo arah salatan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:49:38.928088024Z",
+  "model": "glm-5.3"
+}

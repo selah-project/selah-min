@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 122,
+  "translation": "Lagu nak naik, dari Dawid. Sanang bana ambo katiko urang tu bakato kapado ambo: Ka rumah Yahweh kito pai.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nak naik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dari Dawid"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Sanang bana ambo"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "katiko urang tu bakato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "kito pai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:32.130104563Z",
+  "model": "glm-5.3"
+}

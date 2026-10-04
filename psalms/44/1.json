@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Ka pandugo nyanyian, dek anak-anak Korakh, maskil ⟨syair panuntuik⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ka pandugo nyanyian"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dek anak-anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakh"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    }
+  ],
+  "timestamp": "2026-10-04T07:30:01.182475707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Urang tu ka manyaua jo bakato: Tangan ambo indak manyubarahkan ⟨את⟩ darah ko, jo mato ambo indak mancaliaknyo.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ka manyaua"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "tangan ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "manyubarahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah ko"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "jo mato ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "mancaliaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:45.623000675Z",
+  "model": "glm-5.3"
+}

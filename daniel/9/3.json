@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu ambo mukakan ⟨את⟩ muko ambo kapado Adonai, ⟨nan⟩ Elohim, untuak maimplorkan doa jo pamohonan, jo barpuaso, jo kain sak, jo dabu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ambo mukakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko ambo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "untuak maimplorkan"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "jo pamohonan"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "jo barpuaso"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "jo kain sak"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "jo dabu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:30:16.222504257Z",
+  "model": "glm-5.3"
+}

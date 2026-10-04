@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo sar pangadok manunjuakan ⟨את⟩ Yosef untuak tadapek jo urang tu, lalu inyo malayani ⟨את⟩ urang tu; jo urang tu tingga babarapo ari dalam panjagoan.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "manunjuakan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "pangadok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jo ⟨את⟩ urang tu"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "malayani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "babarapo ari"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "dalam panjagoan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:07:36.026027363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Yahweh bakato kapado Avraham: Baa ko iko Sarah tatawa, bakato: Ambo bania-bania akan badanak, padahal ambo alah tuo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "tatawa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "האף",
+      "gloss": "banar-kok"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "banar-banar"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "akan badanak"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "padahal ambo"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "alah tuo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:11.525390094Z",
+  "model": "glm-5.3"
+}

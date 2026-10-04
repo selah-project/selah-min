@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Mato ambo alah mancaliak urang nan mangintai ambo; dalam urang nan bangkik malawan ambo, urang nan malakuak jahat — talingo ambo mandanganyo.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "lah mancaliak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Mato ambo"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "urang nan mangintai ambo"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "dalam urang nan bangkik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "malawan ambo"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "urang nan malakuak jahat"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "mandanganyo"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "talingo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:23.034019854Z",
+  "model": "glm-5.3"
+}

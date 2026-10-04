@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 113,
+  "translation": "Nan mailia diri untuak mancaliak ⟨di⟩ langik jo ⟨di⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "Nan mailia diri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak mancaliak"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨di⟩ langik"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "jo ⟨di⟩ bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:53.606788315Z",
+  "model": "glm-5.3"
+}

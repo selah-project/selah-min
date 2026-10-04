@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Inyo mangirim surang laki-laki di muko mareka — Yosef, nan dijua sabagai hamba.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di muko mareka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "surang laki-laki"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sabagai hamba"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "dijua"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:58.406095793Z",
+  "model": "glm-5.3"
+}

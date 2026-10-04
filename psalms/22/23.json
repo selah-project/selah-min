@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Ambo ka kabaan ⟨את⟩ namo-Mu kapado sudaro-sudaro ambo, di tangah jemaah ambo ka pujia kau.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ambo ka kabaan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kapado sudaro-sudaro ambo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ambo ka pujia kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:10.502233143Z",
+  "model": "glm-5.3"
+}

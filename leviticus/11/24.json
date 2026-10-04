@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo dek ala-ala iko kalian manjadi koto: sagalo nan manyantuah bangkainyo manjadi koto sampai sanjo.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "jo dek ala-ala iko"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "kalian manjadi koto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nan manyantuah"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "bangkainyo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "manjadi koto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sanjo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:19.769752364Z",
+  "model": "glm-5.3"
+}

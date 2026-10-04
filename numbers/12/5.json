@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu Yahweh turun dalam tiang awan, jo tagak di mungko pintu khemah, lalu manyeru Aharon jo Miryam, dan kaduonyo kalua.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "lalu turun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "dalam tiang"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "jo tagak"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mungko pintu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu manyeru"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "jo Miryam"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "lalu kalua"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kaduonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:43:07.821858610Z",
+  "model": "glm-5.3"
+}

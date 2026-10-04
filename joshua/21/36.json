@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo dari matoangan Reuben: ⟨את⟩ Betser jo padang rumpuiknyo, ⟨את】 Yahats jo padang rumpuiknyo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "jo dari matoangan"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yahats"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahats"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:03.907443671Z",
+  "model": "glm-5.3"
+}

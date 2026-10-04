@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu Ibtsan mati, jo inyo dikubuaan di Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikubuaan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-10-04T05:18:35.533336655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 7:9",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Sagalo iko batu-batu nan maha, manuruik ukuran batu gazit, digerigi jo gerigi, dari dalam jo dari lua, jo dari paraktek sampai ka tefakot, jo dari lua sampai ka laman gadang.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "nan maha"
+    },
+    {
+      "surface": "כמדת",
+      "gloss": "manuruik ukuran"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "batu gazit"
+    },
+    {
+      "surface": "מגררות",
+      "gloss": "digerigi"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "jo gerigi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari dalam"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "jo dari lua"
+    },
+    {
+      "surface": "וממסד",
+      "gloss": "jo dari paraktek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "הטפחות",
+      "gloss": "tefakot"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "jo dari lua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:22.159144725Z",
+  "model": "glm-5.3"
+}

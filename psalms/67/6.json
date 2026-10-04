@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 67,
+  "translation": "Umat-umat mamanjikan puji kapado San, Elohim; umat-umat mamanjikan puji kapado San, sadoalahnyo.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "mamanjikan puji kapado San"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "mamanjikan puji kapado San"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadoalahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:27.544036376Z",
+  "model": "glm-5.3"
+}

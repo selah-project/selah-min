@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Bakato pulo Avimelekh kapado Avraham: Apo nan kau caliak, sampai kau buek ⟨את⟩ pakarajoan iko?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato pulo"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "nan kau caliak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kau buek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakarajoan iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakarajoan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:32.817295776Z",
+  "model": "glm-5.3"
+}

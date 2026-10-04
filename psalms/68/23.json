@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Adonai alah bakato: Dari Bashan ambo baliakan, ambo baliakan ⟨inyo⟩ dari lubuak-lubuak lauik.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "alah bakato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "dari Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ambo baliakan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ambo baliakan"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "dari lubuak-lubuak"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:06.974379172Z",
+  "model": "glm-5.3"
+}

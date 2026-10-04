@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Pado wakatu itu Yehosyua baliak, jo inyo mandapek ⟨את⟩ Hatsor, jo ⟨את⟩ rajonyo inyo pukua jo padang, karano Hatsor pado maso lampau inyo ⟨adalah⟩ kapalo sagalo karajoan-karajoan iko.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pado wakatu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "jo inyo mandapek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "rajonyo"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "rajonyo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "pukua"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "jo padang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "pado maso lampau"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "karajoan-karajoan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:07:54.115404215Z",
+  "model": "glm-5.3"
+}

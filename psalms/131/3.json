@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 131,
+  "translation": "Baniahlah, o Yisrael, kapado Yahweh, dari kini sampai salamanyo.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Baniahlah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dari kini"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:20.663543878Z",
+  "model": "glm-5.3"
+}

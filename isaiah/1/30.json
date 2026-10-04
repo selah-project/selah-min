@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Karano sanak ka manjadi sarupo kayu tarbinto nan daunnyo layua, jo sarupo kabun nan indak ado aia untuaknyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "sanak ka manjadi"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "sarupo kayu tarbinto"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "layua"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "daunnyo"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "jo sarupo kabun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "לה",
+      "gloss": "untuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:59.140373049Z",
+  "model": "glm-5.3"
+}

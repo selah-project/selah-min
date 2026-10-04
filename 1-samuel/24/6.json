@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo tajadilah sasudah itu, ati Dawid mamukek inyo, karano inyo lah mahapeh ⟨את⟩ sayok nan punyo Shaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo tajadilah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mamukek"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "mahapeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayok"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "sayok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "punyo Shaul"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:29.471326801Z",
+  "model": "glm-5.3"
+}

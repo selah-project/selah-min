@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 150,
+  "translation": "Pujui Inyo dek kabaranian-kabaranian-Nyo; pujui Inyo sasuai jo kasadang-gadangannyo.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pujui Inyo"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "dek kabaranian-kabaranian-Nyo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujui Inyo"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sasuai jo"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kasadang-gadangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:29.633633091Z",
+  "model": "glm-5.3"
+}

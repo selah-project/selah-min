@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Maka inyo sarupo batang kayu nan ditanam dapek aliran aia, nan buahnyo baan pado wakatunyo, jo daunnyo indak layu, jo sagalo nan inyo karajoan barhasil.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "maka inyo"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "sarupo batang kayu"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "nan ditanam"
+    },
+    {
+      "surface": "על",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "aliran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahnyo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "baan"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "pado wakatunyo"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "jo daunnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "layu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "inyo karajoan"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "barhasil"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:03.425812354Z",
+  "model": "glm-5.3"
+}

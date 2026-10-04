@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Kulik ambo jo dagiang ambo malarak ka tulang ambo, jo ambo lapeh jo kulik gigi ambo.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "ka kulik ambo"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "jo ka dagiang ambo"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "malarak"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ka tulang ambo"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "jo ambo lapeh"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "jo kulik"
+    },
+    {
+      "surface": "שני",
+      "gloss": "gigi ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:27:58.327396245Z",
+  "model": "glm-5.3"
+}

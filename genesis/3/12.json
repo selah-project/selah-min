@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo manusia bakato: Padusi nan ang barih jo ambo, inyo nan maagiah ambo dari kayu itu, jo ambo makan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ang barih"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "jo ambo makan"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:49.201441642Z",
+  "model": "glm-5.3"
+}

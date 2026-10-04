@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Anak-anak rajo ado di antaro nan kimuliaanmu; bini rajo tagak di suok mu, babaleh ameh murni Ophir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "nan kimuliaanmu"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "bini rajo"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "di suok mu"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "babaleh ameh murni"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophir"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:25.994628398Z",
+  "model": "glm-5.3"
+}

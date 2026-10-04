@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu Uriyah lalok di mungko rumah rajo, jo ⟨את⟩ sadoalah amba-amba tuannyo, dan inyo indak turun ka rumahnyo.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di mungko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah amba-amba tuannyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "amba-amba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuannyo"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:37:54.116371298Z",
+  "model": "glm-5.3"
+}

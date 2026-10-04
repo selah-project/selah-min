@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Maka di wakatu urang ang malewati ⟨את⟩ Yarden, urang ang tagakkan ⟨את⟩ batu-batu iko, nan ambo parentahkan ⟨את⟩ kapado urang ang ari inni, di gunuang Eival, jo lapi ⟨את⟩ urang tu jo kapua.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "maka"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "di wakatu urang ang malewati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "urang ang tagakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu iko"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "parentahkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kapado urang ang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari inni"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunuang"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "jo lapi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "batu-batu iko"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "jo kapua"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:14.871519515Z",
+  "model": "glm-5.3"
+}

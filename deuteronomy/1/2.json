@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sabaleh ari parjalanan dari Khoreb, liauik gunuang Seir, sampai ka Kadesh-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sabaleh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dari Khoreb"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "liauik"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:06.287776014Z",
+  "model": "glm-5.3"
+}

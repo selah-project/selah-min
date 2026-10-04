@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Kapado nan mamimpin suaro, ateh Shoshannim, untuak anak-anak Korach, maskil, nyanyian kasiah-kasiah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kapado nan mamimpin suaro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "untuak anak-anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "kasiah-kasiah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:00.224071285Z",
+  "model": "glm-5.3"
+}

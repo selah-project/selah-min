@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Mako urang itu taserak ka saluruah tanah Mitsrayim untuak maumpuak patah padi untuak ⟨mengganti⟩ jerami.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "taserak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang itu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka saluruah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "untuak maumpuak"
+    },
+    {
+      "surface": "קש",
+      "gloss": "patah padi"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "untuak jerami"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:02.984122336Z",
+  "model": "glm-5.3"
+}

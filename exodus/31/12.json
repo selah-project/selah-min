@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Lapeh itu Yahweh mangecek kapado Moshe, bakato:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lapeh itu mangecek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:35.819356311Z",
+  "model": "glm-5.3"
+}

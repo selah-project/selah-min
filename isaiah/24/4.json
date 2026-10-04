@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Bakabuang, layu bumi, maloyo, layu dunia, maloyo pulo nan tinggi dari urang bumi.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "bakabuang"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "layu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "maloyo"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "layu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "maloyo pulo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "nan tinggi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:46.438589265Z",
+  "model": "glm-5.3"
+}

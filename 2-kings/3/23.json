@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Urang tu bakato: Darah ko! Rajo-ajo pasti alah saling mambunuah, saurang mahantam ⟨את⟩ kawannyo; kok kini, maikek rampasan, Moab!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "urang tu bakato"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pasti alah mambunuah"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "saling mambunuah"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "rajo-ajo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mahantam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawannyo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kawannyo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kok kini"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "maiek rampasan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:37.338245664Z",
+  "model": "glm-5.3"
+}

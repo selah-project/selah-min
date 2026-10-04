@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Sasudah ⟨את⟩ inyo salasai bakato kapadonyo, Elohim naik dari ateh Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "salasai"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "naik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:44.771657102Z",
+  "model": "glm-5.3"
+}

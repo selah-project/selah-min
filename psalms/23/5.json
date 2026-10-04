@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Engkau manyusun di muko ambo ⟨meja⟩, di muko urang nan manindih ambo; Engkau maminjak ambo jo minyak, kapalo ambo; cawan ambo penuah.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Engkau manyusun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "urang nan manindih ambo"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "Engkau maminjak"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo ambo"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "cawan ambo"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "penuah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:42.984756095Z",
+  "model": "glm-5.3"
+}

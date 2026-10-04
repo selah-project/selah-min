@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Karano urang — sai urang — nan maumpeti apaknyo jo mandehnyo, pasti dibunuah; apaknyo jo mandehnyo inyo maumpeti, darahnyo ado di badannyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sai urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "maumpeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apaknyo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "mandehnyo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mandehnyo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti dibunuah"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pasti dibunuah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "jo mandehnyo"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "maumpeti"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di badannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:05.301766396Z",
+  "model": "glm-5.3"
+}

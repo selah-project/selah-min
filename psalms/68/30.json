@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Dari istanamu nan di ateh Yerushalayim, rajo-rajo mambaok hadiah untuak Dikau.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "istanamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak Dikau"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "שי",
+      "gloss": "hadiah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:54.954395420Z",
+  "model": "glm-5.3"
+}

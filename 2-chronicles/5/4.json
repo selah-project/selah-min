@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Kok tibo tu sado tuo-tuo Yisrail masuak, jo urang Lewi mangangkuik ⟨את⟩ Tabut tu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kok tibo tu masuak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tuo-tuo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrail"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "jo mangangkuik"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Lewi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tabut tu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Tabut tu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:50:46.197489590Z",
+  "model": "glm-5.3"
+}

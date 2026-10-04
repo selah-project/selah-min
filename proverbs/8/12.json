@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Ambo, hikmah, baadok jo kaânda-an, jo ilimu kaânda-an bakeh rundiangan ambo jumpai.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "baadok"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "jo kaânda-an"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "jo ilimu"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "rundiangan"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ambo jumpai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:03.530286384Z",
+  "model": "glm-5.3"
+}

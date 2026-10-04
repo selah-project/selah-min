@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Sabab ang Elohim nan manjadi kubu ambo — baa kok pabuangan ambo? Baa kok ambo bajalan maranduah di bawah panindasan musuah?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "kubu ambo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "pabuangan ambo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "maranduah"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ambo bajalan"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "di bawah panindasan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:32.199750743Z",
+  "model": "glm-5.3"
+}

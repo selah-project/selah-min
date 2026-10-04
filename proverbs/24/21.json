@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Anak ambo, takuaiklah kapado ⟨את⟩ Yahweh jo kapado rajo; jan bakawanan jo urang nan suka barubah.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "takuaiklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "jo kapado rajo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "urang nan suka barubah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "bakawanan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:19.469756096Z",
+  "model": "glm-5.3"
+}

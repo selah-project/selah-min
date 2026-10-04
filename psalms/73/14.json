@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Jo ambo tasakik sapanjang ari, jo sangko-sangko ka ambo satiok pagi.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Jo ambo"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "tasakik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "jo sangko-sangko ka ambo"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "satiok pagi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:30.162051998Z",
+  "model": "glm-5.3"
+}

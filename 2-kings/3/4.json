@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Mesha rajo Moab saurang pataranak domba, dan inyo mambayia kapado rajo Yisrael saratus ribu domba jo saratus ribu domba jantan, basarato wuaknyo.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Jo Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "saurang pataranak domba"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "jo mambayia"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kapado rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "jo saratus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "wuak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:23.914840863Z",
+  "model": "glm-5.3"
+}

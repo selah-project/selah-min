@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Gid'on tibo ka Yarden, malintasnyo — inyo jo tigo ratus urang nan basamo ⟨את⟩ inyo — panek, namun taruih mangejar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gid'on"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ka Yarden"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "malintasnyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "jo tigo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "basamo ⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "panek"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "namun taruih mangejar"
+    }
+  ],
+  "timestamp": "2026-10-04T05:16:00.406943184Z",
+  "model": "glm-5.3"
+}

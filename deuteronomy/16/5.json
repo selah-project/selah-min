@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Indak dapek ☂kau manyambiaeh ⟨את⟩ Paskah di ciek dari gapuro-gapuromu, nan Yahweh Elohim-mu agiah ka ☂kau.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "manyambiaeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paskah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "di ciek dari"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "gapuro-gapuromu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka kau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:41.688270229Z",
+  "model": "glm-5.3"
+}

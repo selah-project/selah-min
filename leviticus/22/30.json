@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Pado ari itu inyo musti dimakan; jangan kalian biaan siso dari inyo sampai pagi; ambo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "inyo musti dimakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "kalian biaan siso"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari inyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:28.444838720Z",
+  "model": "glm-5.3"
+}

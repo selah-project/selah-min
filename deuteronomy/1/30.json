@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim sanak, nan bajalan di muko sanak — Iyo la nan akan bajuo untuak sanak, sasudah jo sagalonyo nan alah inyo buek kapado ⟨את⟩ sanak di Mitsrayim, di mato sanak surang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim sanak"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nan bajalan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di muko sanak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Iyo la"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "nan akan bajuo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak sanak"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sasudah jo sagalonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah buek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanak"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "di mato sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:54.728479563Z",
+  "model": "glm-5.3"
+}

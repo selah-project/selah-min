@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Nazar-nazar Diah ado di ateh ambo, wahai Elohim; ambo akan mambaia ⟨את⟩ parsembahan syukur kapado Diah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "di ateh ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nazar-nazar Diah"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ambo akan mambaia"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "parsembahan syukur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado Diah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:31.410077931Z",
+  "model": "glm-5.3"
+}

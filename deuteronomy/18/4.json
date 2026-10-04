@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Hasia patamo padi kau, anggur kau, jo minyak kau, jo hasia patamo wol kawan domba-domba kau — kau agiah kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "hasia patamo"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "padi kau"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "anggur kau"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "jo minyak kau"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "jo hasia patamo"
+    },
+    {
+      "surface": "גז",
+      "gloss": "wol"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "kawan domba-domba kau"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kau agiah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:58:42.029446416Z",
+  "model": "glm-5.3"
+}

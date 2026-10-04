@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Rajo-rajo balatentara lari baindeak, lari baindeak, jo nan tingga di rumah mambagi rampasan.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Rajo-rajo"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "balatentara"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "lari baindeak"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "lari baindeak"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "jo nan tingga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "mambagi"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rampasan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:01.364145299Z",
+  "model": "glm-5.3"
+}

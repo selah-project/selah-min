@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jauahkan dari ateh ambo tagak-ndā; dek gancang tangan-ndā ambo alah lanyok.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "jauahkan"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "dari ateh ambo"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "tagak-ndā"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "dek gancang"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-ndā"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "alah lanyok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:02.288276511Z",
+  "model": "glm-5.3"
+}

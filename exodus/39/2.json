@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jo inyo mambuek ⟨את⟩ efod: ameh, takhelet, argaman, tolaat syani, jo shesh nan dipilin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "takhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jo argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "jo tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "syani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jo shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "nan dipilin"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:25.983319051Z",
+  "model": "glm-5.3"
+}

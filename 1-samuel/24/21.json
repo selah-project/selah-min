@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo kini, binaso, ambo tau bana baso sanak pasti manjadi rajo, jo karajoan Yisrael ka tagak di tangan sanak.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "binaso"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "sanak pasti mamarentah"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "ka tagak"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di tangan sanak"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "karajoan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:38.824571120Z",
+  "model": "glm-5.3"
+}

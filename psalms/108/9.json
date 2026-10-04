@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 108,
+  "translation": "Giléad dipunyo ambo, Minasye dipunyo ambo, jo Efrayim kakuatan kapalo ambo, Yehudah panatap hukum ambo.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "dipunyo ambo"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giléad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dipunyo ambo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Minasye"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "jo Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo ambo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "panatap hukum ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:53.704032161Z",
+  "model": "glm-5.3"
+}

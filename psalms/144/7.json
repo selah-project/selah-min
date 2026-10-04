@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Lapeh tangan-Mu dari ateh; lapeaskan ambo, jo salamat-an ambo dari aia nan banyak, dari tangan anak-anak urang asiang.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Lapeh"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "lapeaskan ambo"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "jo salamat-an ambo"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "dari aia"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "urang asiang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:35.127971673Z",
+  "model": "glm-5.3"
+}

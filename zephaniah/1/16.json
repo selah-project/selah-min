@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Ari shofar jo sorak-sorai, ateh koto-koto nan bakuat, jo ateh suduik-suduik nan tinggi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "jo sorak-sorai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "nan bakuat"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "suduik-suduik"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "nan tinggi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:21:43.257006252Z",
+  "model": "glm-5.3"
+}

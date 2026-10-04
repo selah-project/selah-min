@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Kapado Awa inyo maiak-auak: \"Elohim awak, awak — Yisrael — alah mangana Awak!\"",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Kapado Awa"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "inyo maiak-auak"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim awak"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "awak alah mangana Awak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:25.015550237Z",
+  "model": "glm-5.3"
+}

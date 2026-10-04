@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu anak Paro bakato kapadonyo: Lah, pai. Lalu pai lah padusi mudo tu, jo manggia ⟨את⟩ ibu anak tu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "pai lah"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "padusi mudo"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "manggia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibu anak tu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:32.499004167Z",
+  "model": "glm-5.3"
+}

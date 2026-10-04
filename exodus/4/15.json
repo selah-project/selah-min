@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo kau mangecek kapadonyo, jo kau maagiah ⟨את⟩ kato-kato tu ka dalam muluiknyo; jo Ambo ka ado samo muluikmu jo samo muluiknyo, jo Ambo maajaan ⟨את⟩ kaduonyo ⟨את⟩ nan musti kito karajokan.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "jo kau mangecek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "jo kau maagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato tu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato tu"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ka dalam muluiknyo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "jo Ambo"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ka ado"
+    },
+    {
+      "surface": "עם",
+      "gloss": "samo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "muluikmu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jo samo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "muluiknyo"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "jo Ambo maajaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kaduonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan musti kito karajokan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "musti kito karajokan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:24.491169408Z",
+  "model": "glm-5.3"
+}

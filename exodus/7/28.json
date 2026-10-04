@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo Ye'or ka bagondah jo kodok, jo inyo ka naiak jo masuak ka rumah awak, ka kamar lalok awak, jo ka ateh ranjang awak, ka rumah ambo-ambo awak, jo ka umaik awak, ka tungku awak, jo ka pangulek adonan awak.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "ka bagondah"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Ye'or"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "kodok"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "ka naiak"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "jo masuak"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ka rumah awak"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "ka kamar"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "lalok awak"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ka ateh"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "ranjang awak"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "ka rumah"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ambo-ambo awak"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "jo ka umaik awak"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "ka tungku awak"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "jo ka pangulek adonan awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:40.999949926Z",
+  "model": "glm-5.3"
+}

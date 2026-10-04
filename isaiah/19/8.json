@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo pancari ikan ka bakabuang duko, sagalo nan mambuang pancing di batang aia ka banaiah duko, jo nan mambantangkan jaring di ateh muko aia ka laniah.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "ka bakabuang duko"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "pancari ikan"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ka banaiah duko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "nan mambuang"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "di batang aia"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "pancing"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "jo nan mambantangkan"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "jaring"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ka laniah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:19.416487157Z",
+  "model": "glm-5.3"
+}

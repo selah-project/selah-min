@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jadi ambo bapaliak, ambo, untuak mambuek putuih asa ⟨את⟩ ati ambo ateh saluruah kasiak nan ambo kasiak di bawah matoari.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "Jadi ambo bapaliak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "untuak mambuek putuih asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati ambo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "kasiak"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "nan ambo kasiak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:58.529466919Z",
+  "model": "glm-5.3"
+}

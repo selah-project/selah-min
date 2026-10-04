@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 93,
+  "translation": "Yahweh alah bajajo, galehong lah inyo mamakai, Yahweh mamakai kakuasoan, mangikek pinggang ⟨dirinyo⟩; bahkan dunia tagak kuek, indak lah taganjak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bajajo"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "galehong"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "mamakai"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "mamakai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuasoan"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "mangikek pinggang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "tagak kuek"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "taganjak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:57.594344315Z",
+  "model": "glm-5.3"
+}

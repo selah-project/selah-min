@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu inyo tibo kapado mintuo padusinyo, lalu ⟨inyo⟩ bakato: Sia dikau, anak ambo? Lalu inyo caritokan kapadonyo ⟨את⟩ sagalo nan alah dibaok urang itu kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "lalu inyo tibo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mintuo padusinyo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "את",
+      "gloss": "dikau",
+      "marks": "anak ambo"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "lalu inyo caritokan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah dibaok"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang itu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:29:03.972835820Z",
+  "model": "glm-5.3"
+}

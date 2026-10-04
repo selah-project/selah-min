@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Ambo ka masuak ka rumah ang jo bakaran-bakaran, ambo manunaikan kapado ang nazar-nazar ambo.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ka masuak"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ka rumah ang"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "jo bakaran-bakaran"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "manunaikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ang"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "nazar-nazar ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:18.757642122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Karano inyo manyuruakkan ambo di dalam pondoknyo pado hari kajahatan, inyo manyuruakkan ambo di tampek rahasia khemahnyo, di ateh batu inyo mandirikan ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "inyo manyuruakkan ambo"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "di dalam pondoknyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado hari"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "inyo manyuruakkan ambo"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di tampek rahasia"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "khemahnyo"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "di ateh batu"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "inyo mandirikan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:44.612913819Z",
+  "model": "glm-5.3"
+}

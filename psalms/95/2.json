@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 95,
+  "translation": "Kito mahadok mukonyo jo pujian syukur, jo nyanyian kito buniak kareh kapado-Nyo.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "kito mahadok"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "jo pujian syukur"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "jo nyanyian"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "kito buniak kareh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:47.694428460Z",
+  "model": "glm-5.3"
+}

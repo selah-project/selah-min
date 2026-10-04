@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Kamudian dipulangkan baliak ⟨את⟩ Moshe jo ⟨את⟩ Aharon ka hadapan Paroh, jo inyo bakato kapado kaduonyo: Pergilah, balayokapado ⟨את⟩ Yahweh, Elohim sanak-allu; iyo — apo juo nan ka pai tu?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "dipulangkan baliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado kaduonyo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "balayok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim sanak-allu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "apo juo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "nan ka pai tu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:23.022203848Z",
+  "model": "glm-5.3"
+}

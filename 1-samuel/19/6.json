@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo Sha'ul manuruikkan suaro Yehonatan, jo Sha'ul basumpah: \"Dek Yahweh nan iduik, inyo indak ka dibunuah.\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "manuruikkan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "jo basumpah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nan iduik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dek"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "indak ka dibunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:47.526110640Z",
+  "model": "glm-5.3"
+}

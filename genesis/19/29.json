@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 19:29",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo tajadi katiko Elohim mangancuakan ⟨את⟩ koto-koto padang tu, Elohim ingek kapado ⟨את⟩ Avraham, jo inyo ma utuih ⟨את⟩ Lot dari tangah-tangah kabanruakan tu, katiko dibaliakannyo ⟨את⟩ koto-koto nan Lot tingga di sinan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo tajadi"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "katiko mangancuakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koto-koto"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "padang tu"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ingek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "jo ma utuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tangah-tangah"
+    },
+    {
+      "surface": "ההפכה",
+      "gloss": "kabanruakan tu"
+    },
+    {
+      "surface": "בהפך",
+      "gloss": "katiko dibaliakannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koto-koto"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:48.544647652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Adonai, bukaklah bibia ambo, mako muncuang ambo mangumandangkan pujian-Mu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibia ambo"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "bukaklah"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "jo muncuang ambo"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "mangumandangkan"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "pujian-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:47.780783337Z",
+  "model": "glm-5.3"
+}

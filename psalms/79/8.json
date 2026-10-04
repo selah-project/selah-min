@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 79,
+  "translation": "Jan baraso kapado kito kalupusan-kalupusan nan lampau; capek-capek lah raso pandangaNyo maju manjumpai kito, karano kito alah lamah sangaik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "baraso"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado kito"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "kalupusan-kalupusan"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "nan lampau"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "capek-capek"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "lah maju manjumpai kito"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "raso pandangaNyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "kito alah lamah"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:14.350759670Z",
+  "model": "glm-5.3"
+}

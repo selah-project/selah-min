@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Di leba dindiang halaman, ka arah timur, di hadokan tampek tapisa jo di hadokan bangunan — lisyah-lisyah.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "di leba"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "dindiang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "arah"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "timur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadokan"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "tampek tapisa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadokan"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "bangunan"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "lisyah-lisyah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:03:06.069673938Z",
+  "model": "glm-5.3"
+}

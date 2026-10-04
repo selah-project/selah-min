@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Maka Iyov iduik sasudah iko saratuah jo ampek puluah taun, jo inyo caliak ⟨את⟩ anak-anak laki inyo jo ⟨את⟩ anak-anak laki dari anak-anak laki inyo, ampek angkatan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "maka iduik"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratuah"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "jo ampek puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "jo inyo caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak laki inyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anak laki inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak laki dari anak-anak laki inyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak laki dari"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anak laki inyo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "angkatan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:15:03.885698418Z",
+  "model": "glm-5.3"
+}

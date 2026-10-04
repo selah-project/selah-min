@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo Yahweh ma utuih ka dalam urang tu ⟨את⟩ ular-ular nan baka, lalu inyo ma gigiak ⟨את⟩ urang tu, jo banyak urang dari Yisrael mati.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ma utuih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ka dalam urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ular-ular nan baka"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "ular-ular"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "nan baka"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "lalu inyo ma gigiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "jo mati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "dari Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:03.621613841Z",
+  "model": "glm-5.3"
+}

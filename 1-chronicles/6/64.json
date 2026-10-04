@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo ⟨את⟩ Kedemot jo ⟨את⟩ padang rumpuiknyo, jo ⟨את⟩ Mefa'at jo ⟨את⟩ padang rumpuiknyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padang rumpuiknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Mefa'at"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padang rumpuiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:40.442341026Z",
+  "model": "glm-5.3"
+}

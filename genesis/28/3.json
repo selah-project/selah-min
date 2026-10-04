@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo El Shaddai maberkahi ⟨את⟩ ang, mambuek ang babuah, manambah ang, inggaklah ang manjadi kumpulan bangso-bangso.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jo El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "maberkahi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ang",
+      "marks": "ang"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "jo mambuek ang babuah"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "jo manambah ang"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "inggaklah ang manjadi"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "manjadi kumpulan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangso-bangso"
+    }
+  ],
+  "timestamp": "2026-10-04T04:03:11.583843954Z",
+  "model": "glm-5.3"
+}

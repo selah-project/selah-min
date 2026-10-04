@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Iko lah anak-anak Esav, jo iko lah pangulu-pangulu mareka; inyo lah ⟨itu⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "pangulu-pangulu mareka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:14.026359070Z",
+  "model": "glm-5.3"
+}

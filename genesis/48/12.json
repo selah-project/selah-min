@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Lapek Yosef mangaluaan ⟨את⟩ kaduo anak itu dari antaro lutuik apaknyo, lalu inyo sujud mukonyo ka tanah.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mangaluaan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kaduo anak itu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari antaro"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "lutuiknyo"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "sujud"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:44.712107512Z",
+  "model": "glm-5.3"
+}

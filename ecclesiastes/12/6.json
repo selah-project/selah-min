@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Sabalun tali perak taputuih, jo mangkuak ameh pacah, jo kandia pacah di mato aia, jo roda taputuih jato ka lubang.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sabalun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nan⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "taputuih"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tali"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "jo pacah"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mangkuak"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "jo pacah"
+    },
+    {
+      "surface": "כד",
+      "gloss": "kandia"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "mato aia"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "jo taputuih jato"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "roda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "lubang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:20.159679742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 83,
+  "translation": "Baitu juo arrakan inyo jo badai-Mu, jo angin ribuik-Mu guntuangan inyo.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "arrakan inyo"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "jo badai-Mu"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "jo angin ribuik-Mu"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "guntuangan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:02.359029448Z",
+  "model": "glm-5.3"
+}

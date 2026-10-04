@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lah abih aia dari kirabu itu, lalu inyo mambuang ⟨את⟩ anak itu di bawah ciek danga-danga.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "lah abih"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia itu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "kirabu itu"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "inyo mambuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak itu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "danga-danga"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:49.755984962Z",
+  "model": "glm-5.3"
+}

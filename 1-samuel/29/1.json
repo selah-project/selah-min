@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Urang Pelishtim mangumpuakan ⟨את⟩ sagalo kampa mareka ka Afeq, sadang Yisrael basarang di mato aia nan ado di Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "mangumpuakan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kampa mareka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kampa mareka"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "ka Afeq"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "sadang Yisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "basarang"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "di mato aia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "ado di Yizreel"
+    }
+  ],
+  "timestamp": "2026-10-04T05:33:29.273332405Z",
+  "model": "glm-5.3"
+}

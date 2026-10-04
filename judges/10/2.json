@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Inyo mahakimi ⟨את⟩ Yisrael dua puluah tigo tahun, lalu inyo maningga dan dikubuaan di Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "mahakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluah"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maningga"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikubuaan"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "di Shamir"
+    }
+  ],
+  "timestamp": "2026-10-04T05:16:09.408909739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jiko sanak baliak, Yisrael, kato Yahweh, baliaklah kapado Ambo, jo jiko sanak mambuang jigalan-sanak dari muko Ambo, sanak ndak ka taguncang.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jiko"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "sanak baliak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado Ambo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jo jiko"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "mambuang"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "jigalan-sanak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari muko Ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndak"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "taguncang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:27:53.295834957Z",
+  "model": "glm-5.3"
+}

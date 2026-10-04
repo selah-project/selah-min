@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo Hiram mangiriman ⟨את⟩ hamba-hambanyo di ateh kapa-kapa itu — urang-urang kapa nan pandai lauik — basamo hamba-hamba Shelomoh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangiriman"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "באני",
+      "gloss": "di ateh kapa-kapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanyo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "nan pandai"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:49:20.847377760Z",
+  "model": "glm-5.3"
+}

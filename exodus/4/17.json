@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo ⟨את⟩ tungkek ko ambiaklah di tanganmu, nan dangan inyo ang buaik ⟨את⟩ tando-tando itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Jo ⟨את⟩",
+      "marks": "tungkek ko"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tungkek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ambiaklah"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di tanganmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "buaik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dangan inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tando-tando itu"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "tando-tando"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:39.068776042Z",
+  "model": "glm-5.3"
+}

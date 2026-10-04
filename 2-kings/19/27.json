@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Duduaknyo, kaluanyo, jo masuaknyo, Aku tau, jo ⟨את⟩ garik amarahnyo kapado Aku.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "duduaknyo"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "kaluanyo"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "masuaknyo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Aku tau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "garik amarahnyo"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "garik amarahnyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado Aku"
+    }
+  ],
+  "timestamp": "2026-10-04T06:04:11.764940609Z",
+  "model": "glm-5.3"
+}

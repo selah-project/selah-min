@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Maka Khanun maambiak ⟨את⟩ ambo-ambo Dawid, dikaciaknyo satangah jangguik urang tu, dipotongnyo ⟨את⟩ pakaiannyo di satangah, sampai pinggulnyo, lalu diusirnyo ⟨urang tu⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Khanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambo-ambo Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ambo-ambo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "dikaciak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satangah jangguiknyo"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "satangah"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "jangguik"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "dipotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannyo"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "di satangah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "pinggul"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "diusirnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:37:18.687558111Z",
+  "model": "glm-5.3"
+}

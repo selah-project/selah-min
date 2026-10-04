@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo bangso ditumpas dek bangso, jo kota dek kota, karano Elohim alah mangusuikannyo jo sado kasanangan.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "ditumpas"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "dek bangso"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "jo kota"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dek kota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "mangusuikannyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasanangan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:53:45.216762654Z",
+  "model": "glm-5.3"
+}

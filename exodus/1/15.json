@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu rajo Mitsrayim bakato kapado dukun bayi urang Ibrani — nan namo nan ciek Shifrah, jo namo nan kaduo Puah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kapado dukun bayi"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "urang Ibrani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifrah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:51.434962125Z",
+  "model": "glm-5.3"
+}

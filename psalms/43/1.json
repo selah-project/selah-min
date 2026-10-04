@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Hukumlah ambo, Elohim, jo bacokoklah parkaro ambo dari bangso nan indak batakwa, dari urang panipu jo urang panindas — malapehan ambo.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "hukumlah ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "jo bacokoklah"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "parkaro ambo"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "dari bangso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "batakwa"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari urang"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "panipu"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "jo urang panindas"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "malapehan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:32.199455500Z",
+  "model": "glm-5.3"
+}

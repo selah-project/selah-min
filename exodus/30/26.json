@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo jo inyo kau urapi ⟨את⟩ Khemah Patamuan jo ⟨את⟩ Peti Patunjuakan.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "jo kau urapi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khemah Patamuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועעד",
+      "gloss": "Patamuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Peti Patunjuakan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Peti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Patunjuakan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:15.978802262Z",
+  "model": "glm-5.3"
+}

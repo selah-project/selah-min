@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Yehudah naik, jo Yahweh agiah ⟨את⟩ urang Kanaan jo urang Perizi ka tangan urang tu; urang tu mamukul inyo di Bezek — sapuluah ribu urang.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lalu naik"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jo agiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "jo urang Perizi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ka tangan urang tu"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "urang tu mamukul inyo"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "di Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:12:12.864474651Z",
+  "model": "glm-5.3"
+}

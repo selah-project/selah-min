@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Dan dari sungai itu ang minum, jo ⟨את⟩ gagak-gagak ambo alah mamarintahkan untuak maàgiah makan kau di siniko.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "dari sungai itu"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ang minum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gagak-gagak"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "gagak-gagak"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ambo alah mamarintahkan"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "untuak maàgiah makan kau"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di siniko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:52:08.409992539Z",
+  "model": "glm-5.3"
+}

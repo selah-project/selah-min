@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Karano ambo susah jo miskin, jo ati ambo taluko di dalam diri ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עני",
+      "gloss": "susah"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jo miskin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "jo ati ambo"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "taluko"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di dalam diri ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:02.013202797Z",
+  "model": "glm-5.3"
+}

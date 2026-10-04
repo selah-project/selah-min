@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 143,
+  "translation": "Ambo marantangkan tangan ambo kapado-Mu; jiwa ambo sarupo tanah nan laluah untuak-Mu. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "ambo marantangkan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan ambo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa ambo"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "sarupo tanah"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "nan laluah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak-Mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:08.846436793Z",
+  "model": "glm-5.3"
+}

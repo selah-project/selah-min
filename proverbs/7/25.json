@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Janga maagiak ati<span>×<\/span> ka jalan-jalannyo, janga sasat di laluan-laluannyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janga"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "maagiak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "jalan-jalannyo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janga"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "sasat"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "di laluan-laluannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:03.971859033Z",
+  "model": "glm-5.3"
+}

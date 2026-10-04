@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Dan untuak mangumpuakan ⟨את⟩ jamaah, kalian maniaiup, tapi indak manyarukan.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "untuak mangumpuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamaah"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "kalian maniaiup"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "manyarukan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:19.896117282Z",
+  "model": "glm-5.3"
+}

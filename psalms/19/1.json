@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Untuak ⟨nan mamimpin⟩, mazmur untuak Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak ⟨nan mamimpin⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:24.127317047Z",
+  "model": "glm-5.3"
+}

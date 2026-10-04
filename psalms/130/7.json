@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 130,
+  "translation": "Barek Yisrael marantoi kapado Yahweh, karano ado pad Yahweh hesed, jo banyak basamo-Nyo pambabeasan.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Barek marantoi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ado pad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "jo banyak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo-Nyo"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "pambabeasan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:22.886713957Z",
+  "model": "glm-5.3"
+}

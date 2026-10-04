@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Nan bengkok indak dapek dibantuak luruih, jo nan kurang indak dapek dihituang.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "nan bengkok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "dibantuak luruih"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "jo nan kurang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "dihituang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:27.595353332Z",
+  "model": "glm-5.3"
+}

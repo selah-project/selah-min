@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 84,
+  "translation": "Yahweh Elohim Tsebaot, patangangan doh sumbayang ambo; tolong pakanaiik, wa Elohim Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "patangangan doh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sumbayang ambo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tolong pakanaiik"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:59.595000293Z",
+  "model": "glm-5.3"
+}

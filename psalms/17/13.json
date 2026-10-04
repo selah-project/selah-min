@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Bangunlah, Yahweh, maju tadah mukonyo, tunduakkan inyo; palapeh ateh nafsaku dari urang jaah, padangmu.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "maju tadah"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "tunduakkan inyo"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "palapeh ateh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsaku"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "dari urang jaah"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "padangmu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:20.574165143Z",
+  "model": "glm-5.3"
+}

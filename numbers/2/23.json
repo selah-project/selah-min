@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "jo pasukannyo, urang-urang nan dihituang: limo jo tigo puluah ribu jo ampek ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "jo pasukannyo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "urang-urang nan dihituang"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "limo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "jo tigo puluah"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "jo ampek"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:58.147977048Z",
+  "model": "glm-5.3"
+}

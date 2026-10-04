@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 63,
+  "translation": "Baa baitu sirah pakaianmu, jo pakaiannyo sarupo urang nan manciak anggur di padampalan?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "baa baitu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "pakaianmu"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "jo pakaiannyo"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "sarupo urang nan manciak"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "anggur di padampalan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:23:38.754281774Z",
+  "model": "glm-5.3"
+}

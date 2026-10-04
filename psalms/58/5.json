@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 58,
+  "translation": "Racunnyo sarupo racun ular, sarupo pethen nan tuli nan mahapuih talingonyo.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "racunnyo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mareka"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "racun"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ular"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "pethen"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "nan tuli"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "mahapuih"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "talingonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:28.370080706Z",
+  "model": "glm-5.3"
+}

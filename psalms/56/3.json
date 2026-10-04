@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Urang nan munsuahi ambo mandangaam ambo satiok ari, karano banyak nan baparang lawan ambo, wahai Nan Tatinggi.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "mandangaam"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "urang nan munsuahi ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "nan baparang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lawan ambo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wahai Nan Tatinggi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:16.972039129Z",
+  "model": "glm-5.3"
+}

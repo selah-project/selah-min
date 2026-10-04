@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 20:14",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo inyo malalui sado suku-suku Yisrael inggo Avelah, Beit Maakha, jo sado urang Bari; jo inyo bakumpua, jo datang juo sasudahnyo.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "jo inyo malalui"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sado"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "Avelah"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "jo Beit"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "הברים",
+      "gloss": "urang Bari"
+    },
+    {
+      "surface": "ויקלהו",
+      "gloss": "jo inyo bakumpua"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "jo datang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sasudahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:42:05.568019823Z",
+  "model": "glm-5.3"
+}

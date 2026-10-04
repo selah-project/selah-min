@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Katiko Adonai mambasuahi ⟨את⟩ kotoran anak-anak padusi Tsiyon, jo ⟨את⟩ darah Yerushalayim dipasiahan dari tangah-tangahnyo, jo ruakh hukum jo ruakh pambakaran.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "mambasuahi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kotoran anak-anak padusi Tsiyon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "kotoran"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak padusi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "darah Yerushalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "dipasiahan"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "dari tangah-tangahnyo"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "jo ruakh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "jo ruakh"
+    },
+    {
+      "surface": "בער",
+      "gloss": "pambakaran"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:11.462951589Z",
+  "model": "glm-5.3"
+}

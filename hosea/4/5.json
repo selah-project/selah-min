@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo kau ka tasungkuah pado ari ko, jo nabi juo tasungkuah mandapek kau pado malamnyo; jo ambo mambinasoan induak kau.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "jo kau ka tasungkuah"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pado ari ko"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "jo tasungkuah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mandapek kau"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pado malamnyo"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "jo ambo mambinasoan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "induak kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:10.697706154Z",
+  "model": "glm-5.3"
+}

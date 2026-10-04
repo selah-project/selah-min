@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo Avraham bakato tantang Saroh, bininyo: inyo adolah adiaknyo. Kudian Abimelekh, rajo Gerar, mangirim urang, jo maambiak ⟨את⟩ Saroh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tantang"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saroh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bininyo"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "adolah adiaknyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "jo mangirim urang"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "jo maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saroh"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saroh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:01.219050669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Katiko kau dakek ka ciek kota untuak baparang malawannyo, maka sarukan damai kapadonyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "kau dakek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "untuak baparang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "malawannyo"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "mako sarukan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "damai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:34.551528072Z",
+  "model": "glm-5.3"
+}

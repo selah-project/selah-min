@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Dan dilatakannyo ⟨את⟩ bangkainyo di kubuannyo, lalu mareka manangih atoknyo sambia bakato: Aduhai, sanak laki-laki ambo!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "dilatakannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangkainyo"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "bangkainyo"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "di kubuannyo"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "mareka manangih"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atoknyo"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "aduhai"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sanak laki-laki ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:02.407329275Z",
+  "model": "glm-5.3"
+}

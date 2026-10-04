@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Di balakang jo di muko Engkau mapepeh ambo, jo manangkan tangan-Mu di ateh ambo.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "di balakang"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "jo di muko"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "Engkau mapepeh ambo"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "jo manangkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di ateh ambo"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "tangan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:25.902047682Z",
+  "model": "glm-5.3"
+}

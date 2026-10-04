@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 1:10",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo inyo ⟨adolah⟩ amba-amba Sanak jo bangso Sanak, nan alah Sanak tebusan jo kakuatan Sanak nan gadang, jo jo tangan Sanak nan kuaik.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "amba-amba Sanak"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "jo bangso Sanak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "alah Sanak tebusan"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "jo kakuatan Sanak"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "jo tangan Sanak"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "nan kuaik"
+    }
+  ],
+  "timestamp": "2026-10-04T08:35:17.942660066Z",
+  "model": "glm-5.3"
+}

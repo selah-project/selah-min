@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Tapi kalau sanak indak mandanga ka Ambo, jo indak karajokan ⟨את⟩ sagalo parintah-parintah iko:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tapi kalau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "sanak mandanga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka Ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sanak karajokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo parintah-parintah iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "parintah-parintah"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:44.638172194Z",
+  "model": "glm-5.3"
+}

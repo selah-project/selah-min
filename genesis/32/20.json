@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo inyo mamarintahkan juo ⟨את⟩ nan kaduo, juo ⟨את⟩ nan katigo, jo juo ⟨את⟩ sado nan jalan di balakang kawanan-kawanan itu, kato-nyo: Manuruik kato ko ang ka mangecek kapado Esav katiko ang manamui ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan kaduo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan katigo"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nan katigo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado nan jalan di balakang kawanan-kawanan itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "nan jalan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di balakang"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "kawanan-kawanan itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato-nyo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "manuruik kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "ang ka mangecek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "katiko ang manamui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (Esav)"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:36.091549482Z",
+  "model": "glm-5.3"
+}

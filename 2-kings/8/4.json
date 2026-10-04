@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo rajo sadang mangecek kapado Gechazi, pelayan urang Elohim tu, nak mangato: Cubo bicarokanlah kapado ambo ⟨את⟩ sagalo kaba gadang nan alah dikarajokan dek Elisha.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "jo rajo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sadang mangecek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "pelayan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nak mangato"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "bicarokanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "cubo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kaba gadang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "kaba gadang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dikarajokan"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    }
+  ],
+  "timestamp": "2026-10-04T05:59:40.244049593Z",
+  "model": "glm-5.3"
+}

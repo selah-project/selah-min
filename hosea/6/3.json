@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo kito ka mangatahui, kito ka mandapek untuak mangatahui ⟨את⟩ Yahweh; kaluanyo tapasang sarupo fajar, jo inyo ka tibo ka kito sarupo ujan, sarupo ujan musim lamonyo nan manyiram bumi.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "jo kito ka mangatahui"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "kito ka mandapek"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuak mangatahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "sarupo fajar"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tapasang"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "kaluanyo"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "inyo ka tibo"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "sarupo ujan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kito"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "sarupo ujan musim lamonyo"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "manyiram"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:11.016372630Z",
+  "model": "glm-5.3"
+}

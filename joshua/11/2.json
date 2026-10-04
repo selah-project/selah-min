@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "jo kapado rajo-rajo nan di utara, di pagunuangan jo di Araba, di salatan Kinerot jo di Syefela, jo di daerah Dor di tapi lauik.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "di utara"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pagunuangan"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "jo di Araba"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "di salatan"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinerot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "jo di Syefela"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "jo di daerah"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "di tapi lauik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:08:08.280924727Z",
+  "model": "glm-5.3"
+}

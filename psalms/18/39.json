@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Ambo mahancurkan urang tu, sampai indak dapek bangkik; urang tu jatuah di bawah kaki ambo.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "Ambo mahancurkan urang tu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "urang tu jatuah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kaki ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:45.580622833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 127,
+  "translation": "Sangaik baruntuang urang nan mangisi ⟨את⟩ sarok panahnyo jo inyo; inyo indak ka mariwok, karano inyo mangecek ⟨את⟩ musuah-musuah di gapuro.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sangaik baruntuang"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mangisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarok panahnyo"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "sarok panahnyo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mariwok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuah-musuah"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "musuah-musuah"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di gapuro"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:58.214791541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 3:24",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Sasudah inyo, Binnui anak Khenadad manguatkan ⟨את⟩ ukuran nan kaduo, dari rumah Azaryah sampai ka suduik janjang jo sampai ka suduik(tiak).",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "sasudah inyo"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "manguatkan"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Binnui"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "Khenadad"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ukuran"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "suduik janjang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo sampai ka"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "suduik(tiak)"
+    }
+  ],
+  "timestamp": "2026-10-04T08:35:43.413641191Z",
+  "model": "glm-5.3"
+}

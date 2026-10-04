@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Ambo ka mamuji ⟨את⟩ Yahweh nan alah maàgiah nasihat kapado ambo; baa, pado malam-malam ginjal ambo maàgiah palajaran kapado ambo.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Ambo ka mamuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "alah maàgiah nasihat kapado ambo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "baa"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "pado malam-malam"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "maàgiah palajaran kapado ambo"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ginjal ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:04.592711043Z",
+  "model": "glm-5.3"
+}

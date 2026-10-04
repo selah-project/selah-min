@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Jo Ambo kaagiahang kasih sayang kapado sanang, jo inyo ka basiah sayang kapado ⟨את⟩ sanang, jo mambaliakan ⟨את⟩ sanang ka tanah sanang.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Jo Ambo kaagiahang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado sanang"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "kasih sayang"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "jo inyo ka basiah sayang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanang",
+      "marks": "sanang"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "jo mambaliakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanang",
+      "marks": "sanang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tanah sanang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:18:36.407302375Z",
+  "model": "glm-5.3"
+}

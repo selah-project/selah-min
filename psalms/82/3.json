@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 82,
+  "translation": "Hakum urang lamah jo anak yatim; urang tasisiah jo urang miskin — patuikkan ⟨kapadonyo⟩.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Hakum"
+    },
+    {
+      "surface": "דל",
+      "gloss": "urang lamah"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "jo anak yatim"
+    },
+    {
+      "surface": "עני",
+      "gloss": "urang tasisiah"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "jo urang miskin"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "patuikkan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:04.457762749Z",
+  "model": "glm-5.3"
+}

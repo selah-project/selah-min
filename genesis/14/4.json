@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Duo baleh taun urang tu manjadi hamba ⟨את⟩ Kedarlaomer, lalu pado taun katigo baleh urang tu mambarontak.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Duo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "manjadi hamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "lalu katigo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "mambarontak"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:21.712999991Z",
+  "model": "glm-5.3"
+}

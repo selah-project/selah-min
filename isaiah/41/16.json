@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Kau ka manampi inyo, jo ruakh maangkek inyo, jo angin puyuah manyebar ⟨את⟩ inyo; jo kau ka bagiria dalam Yahweh, dalam Nan Suci Yisrael kau ka mamuji.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "kau ka manampi inyo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "jo ruakh"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "maangkek inyo"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "jo angin puyuah"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "manyebar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "jo kau"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "ka bagiria"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "dalam Yahweh"
+    },
+    {
+      "surface": "בקדושׁ",
+      "gloss": "dalam Nan Suci"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "kau ka mamuji"
+    }
+  ],
+  "timestamp": "2026-10-04T06:18:47.926652090Z",
+  "model": "glm-5.3"
+}

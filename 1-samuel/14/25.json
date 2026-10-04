@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo sado urang nagari tu masuak ka utan, jo ado madu di ateh muko ladang.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "urang nagari"
+    },
+    {
+      "surface": "באו",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ka utan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo ado"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:42.553458173Z",
+  "model": "glm-5.3"
+}

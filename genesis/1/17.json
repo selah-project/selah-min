@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Elohim mamiliah ⟨את⟩ sadanginyo di rakik langik, untuak manyinarkan ateh bumi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mamiliah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sadanginyo (cakayo-cakayo tu)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "di rakik"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "untuak manyinarkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:20.153904300Z",
+  "model": "glm-5.3"
+}

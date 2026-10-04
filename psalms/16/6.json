@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Garih-garih batas jatuah kapado ambo di tampek-tampek nan lamak; baa, pusako nan rancak banar ateh ambo.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "garih-garih batas"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "di tampek-tampek nan lamak"
+    },
+    {
+      "surface": "אף",
+      "gloss": "baa"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "pusako"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "nan rancak banar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:04.592538661Z",
+  "model": "glm-5.3"
+}

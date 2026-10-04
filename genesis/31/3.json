@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Lalu Yahweh bakato kapado Yaakov: Baliaklah ka tanah nenek moyang ang, ka tampak kalahiran ang, jo ambo ka ado basamo ang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "nenek moyang ang"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ka tampak kalahiran ang"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "jo ambo ka ado"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo ang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:02.731209759Z",
+  "model": "glm-5.3"
+}

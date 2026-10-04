@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Satiok laki-laki di antaro imam-imam dapek makan ⟨את⟩-nyo; di tampek nan suci inyo dimakan; inyo ⟨is⟩ suci dari nan paliang suci.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "di antaro imam-imam"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "dapek makan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "dari nan paliang suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:20.264936744Z",
+  "model": "glm-5.3"
+}

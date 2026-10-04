@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo indak urang manghituang ⟨את⟩ urang-urang nan urang barikan kapadonyo ⟨את⟩ pitih perak itu untuak diagiah kapado urang-urang nan mangarajokan karya tu, karano jo bana urang tu bakarajo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "urang manghituang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang-urang itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "urang barikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitih perak itu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pitih perak itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "di tangan urang tu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuak diagiah"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "kapado urang-urang nan mangarajokan"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "karya tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "jo bana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "bakarajo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:16.265269197Z",
+  "model": "glm-5.3"
+}

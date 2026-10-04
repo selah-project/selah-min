@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo kakuatan sanak ka habih sia-sia, jo bumi sanak indak ka maagiah ⟨את⟩ hasilnyo, jo pohon di bumi indak ka maagiah buahnyo.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "jo ka habih"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "kakuatan sanak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ka maagiah"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "bumi sanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilnyo"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "hasilnyo"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "jo pohon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:04:37.954998540Z",
+  "model": "glm-5.3"
+}

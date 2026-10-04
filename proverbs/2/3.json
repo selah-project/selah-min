@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "bana, kok ka bino sanak manggia, jo ka pangarati sanak maagiah suaro sanak;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ka bino"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "sanak manggia"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ka pangarati"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sanak maagiah"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suaro sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:35.873969054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu inyo buek ⟨את⟩ halaman bagian dalam: tigo bareh batu tarahek, jo sa-bareh balok tarahek kayu aro.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "lalu inyo buek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halaman bagian dalam"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "bagian dalam"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "bareh"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "batu tarahek"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "jo sa-bareh"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "balok tarahek"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "kayu aro"
+    }
+  ],
+  "timestamp": "2026-10-04T05:47:43.816944005Z",
+  "model": "glm-5.3"
+}

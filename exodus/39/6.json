@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jo urang tu mambuek ⟨את⟩ batu syoham nan dililik, basangok ameh, dipahat jo pahatan cap manuruik namo-namo anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "jo urang tu mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu syoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "syoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "dililik"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "basangok"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "dipahat"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "pahatan"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "cap"
+    },
+    {
+      "surface": "על",
+      "gloss": "manuruik"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:30.314925469Z",
+  "model": "glm-5.3"
+}

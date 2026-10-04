@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "nak Elohim caliak ⟨את⟩ nak padusi manusia, baitu rancak urang tu, lalu urang tu maambiak untuak surang-surang bini dari sagalo nan dipiliah.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nak padusi manusia"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "nak padusi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "rancak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak surang-surang"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "bini"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "dipiliah"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:16.626729068Z",
+  "model": "glm-5.3"
+}

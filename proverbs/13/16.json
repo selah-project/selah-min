@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Tiok urang cadiak babuek jo ilimu, tapi urang bodoh nyebokan kabodohan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tiok"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "urang cadiak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "babuek"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "jo ilimu"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "tapi urang bodoh"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "nyebokan"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kabodohan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:56.353461241Z",
+  "model": "glm-5.3"
+}

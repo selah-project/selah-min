@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Tapi inyo maninggakan ⟨את⟩ nasihat urang gaek-urang gaek nan alah inyo barek, lalu bamusyawarah jo ⟨את⟩ anak-anak mudo nan gadang basamo inyo, nan tagak di mukonyo.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Tapi inyo maninggakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasihat"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "urang gaek-urang gaek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "lah inyo barek"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "lalu bamusyawarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak mudo"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "anak-anak mudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "gadang basamo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:32.616288575Z",
+  "model": "glm-5.3"
+}

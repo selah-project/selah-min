@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Jo inyo alah maisi inyo ⟨אתו⟩ jo ruakh Elohim: dalam hikmah, dalam pancaliaan, jo dalam kailmuan, jo dalam saluruah karojo.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "jo maisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ruakh Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "dalam hikmah"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "dalam pancaliaan"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "jo dalam kailmuan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo dalam saluruah"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "karojo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:24.849549829Z",
+  "model": "glm-5.3"
+}

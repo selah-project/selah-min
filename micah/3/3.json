@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Urang tu makan dagiang umat ambo, jo kulik urang tu dibuka dari badannyo; tulang-tulangnyo urang tu ancuan, jo inyo ditabakan sarupo dalam kuali, sarupo dagiang di tangah kuali gadang.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "jo urang tu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "makan"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat ambo"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "jo kulik urang tu"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "dari badannyo"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "dibuka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulang urang tu"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "tulang-tulang urang tu"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ancuan"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ditabakan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "dalam kuali"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "sarupo dagiang"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kuali gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:14:20.903286621Z",
+  "model": "glm-5.3"
+}

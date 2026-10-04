@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "dek wabah nan bajalan dalam galok, dek bencano nan mahancuekan pado tangah ari.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "dek wabah"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "dalam galok"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "nan bajalan"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "dek bencano"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "nan mahancuekan"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "pado tangah ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:44.394179853Z",
+  "model": "glm-5.3"
+}

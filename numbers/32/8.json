@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Begini nan dilakuan dek apak-apak ang, katiko ambo mangirim ⟨את⟩ inyo dari Kadesh-Barnea untuak caliak ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "begini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nan dilakuan"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "dek apak-apak ang"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "katiko ambo mangirim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Kadesh-Barnea"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:49:22.654459523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "karano urang-urang mandanga ⟨את⟩ namo ang nan gadang, jo ⟨את⟩ tangan ang nan kuaik, jo lengan ang nan tarentang, lalu inyo datang jo babuah pamintaan ka rumah ko—",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "urang-urang mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo ang"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo ang"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tangan ang"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan ang"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "nan kuaik"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "jo lengan ang"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "nan tarentang"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "lalu datang"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "jo babuah pamintaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:49:35.498210228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Yahweh duduak di ateh banjia bandang; Yahweh duduak manjadi rajo salamanyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "di ateh banjia bandang"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduak"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "duduak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "manjadi rajo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:02.680343626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Urang Ibrani mangarami ⟨את⟩ Yarden ka tanah Gad jo Gilead; tapi Shaol alun tibo di Gilgal, jo sado urang banyak gatah-gatah mangikuiknyo.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Urang Ibrani"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "mangarami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "jo Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "tapi Shaol"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "alun tibo"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "di Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "gatah-gatah"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mangikuiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:25:30.093092453Z",
+  "model": "glm-5.3"
+}

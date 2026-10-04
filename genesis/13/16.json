@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo Ambo akan mambuek ⟨את⟩ beniah ang sarupo dabu bumi — kok urang dapek manghituang dabu bumi, mako beniah ang juo dapek dihituang.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Jo Ambo akan mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beniah ang"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniah ang"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "sarupo dabu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "manghituang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dabu bumi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniah ang"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "dapek dihituang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:02.691501269Z",
+  "model": "glm-5.3"
+}

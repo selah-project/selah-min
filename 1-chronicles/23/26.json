@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo juo untuak urang Levi: indak lai paralu mamikua ⟨את⟩ Mishkan jo ⟨את⟩ sagalo pakaian-nyo untuak bagian pancaritoannyo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "untuak urang Levi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado lai"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "mamikua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo pakaian-nyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pakaian-nyo"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "untuak bagian pancaritoannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:47:07.220852802Z",
+  "model": "glm-5.3"
+}

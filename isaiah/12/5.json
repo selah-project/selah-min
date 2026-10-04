@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Bunyikanlah ⟨muzik⟩ kapado Yahweh, karano Ia alah buek kamegahan; dikana iko di saluruah bumi.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Bunyikanlah ⟨muzik⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "kamegahan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah buek"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "dikana"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di saluruah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:04.902168841Z",
+  "model": "glm-5.3"
+}

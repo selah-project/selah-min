@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jagoan awak urang tu ⟨את⟩ kato ko sabagai patokan untuak awak jo untuak anak-anak awak, salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Jagoan awak urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato ko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "sabagai patokan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak awak"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "jo untuak anak-anak awak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:57.404597562Z",
+  "model": "glm-5.3"
+}

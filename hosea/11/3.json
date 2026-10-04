@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Dan ambo, ambo maaja Efrayim bajalan, maambiak inyo di lanjañ-lanjañnyo; tapi inyo indak tau baso ambo manyamahan inyo.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "dan ambo"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "ambo maaja bajalan"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "maambiak inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "lanjañ-lanjañnyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "inyo tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ambo manyamahan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:46.477419601Z",
+  "model": "glm-5.3"
+}

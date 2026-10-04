@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lalu inyo mamarintahkan ⟨את⟩ urang tu, bakato: Begitu kalian ucapkan kapado tuanku, kapado Esau: Begitu bakato hamba sanak, Yaakov: Basamo Lavan ambo marantau, dan ambo tingga sampai kini.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "urang tu (parintah dituju ka inyo)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "כה",
+      "gloss": "begitu"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "kalian ucapkan"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kapado tuanku"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kapado Esau"
+    },
+    {
+      "surface": "כה",
+      "gloss": "begitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba sanak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ambo marantau"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dan tingga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:39.099198923Z",
+  "model": "glm-5.3"
+}

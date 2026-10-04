@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Inyo maimbak ⟨את⟩ sagalo imam bamah nan ado di sinan di ateh mazbeak-mazbeak tu, jo mambaka ⟨את⟩ tulang-tulang urang di atehnyo, lalu inyo baliak ka Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "maimbak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo imam bamah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mazbeak-mazbeak"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "mambaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulang urang"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang-tulang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:26.362494455Z",
+  "model": "glm-5.3"
+}

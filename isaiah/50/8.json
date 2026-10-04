@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Dakek ⟨adolah⟩ nan mambari ambo unsu; sia nan mahadang ⟨את⟩ ambo? Tagaklah kito basamo; sia nan mampunyoi parkaro jo ambo? Mandakeklah inyo kapado ambo.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "nan mambari ambo unsu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "mahadang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "ambo"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "tagaklah kito"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "nan mampunyoi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "parkaro ambo"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "mandakeklah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:22:21.668385821Z",
+  "model": "glm-5.3"
+}

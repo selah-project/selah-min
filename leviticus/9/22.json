@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Aharon mangangkek ⟨את⟩ tangannyo ka arah urang banyak, lalu maberkati inyo; lalu inyo turun dari mambuek kurban doso jo kurban bakaran jo kurban slamet.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "lalu mangangkek"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "lalu maberkati inyo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "lalu turun"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "dari mambuek"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban doso"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "jo kurban bakaran"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "jo kurban slamet"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:34.806315828Z",
+  "model": "glm-5.3"
+}

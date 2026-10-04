@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Karano Ezra alah masiak atinyo untuak mancaliak ⟨את⟩ Torah Yahweh, jo untuak mangarajokannyo, jo untuak mangaja di Yisrael katantuan jo hukum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "masiak"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "untuak mancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah Yahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "jo untuak mangarajokannyo"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "jo untuak mangaja"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "חק",
+      "gloss": "katantuan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jo hukum"
+    }
+  ],
+  "timestamp": "2026-10-04T08:33:07.168220930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 4:6",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo ambo juo alah maagiah kito barasiahan gigi di sagalo kuto-kuto kito, jo kakurangan roti di sagalo tampek-tampek kito; tapi kito indak baliak ka ambo, kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo ambo juo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah maagiah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado kito"
+    },
+    {
+      "surface": "נקיון",
+      "gloss": "barasiahan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "kuto-kuto kito"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "jo kakurangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "מקומתיכם",
+      "gloss": "tampek-tampek kito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:11:26.759104458Z",
+  "model": "glm-5.3"
+}

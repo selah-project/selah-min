@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Bajannah urang nan indak mahituuang Yahweh kapadonyo kajahatannyo, jo indak ado tipu daya dalam ruakhnyo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bajannah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "mahituuang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "dalam ruakhnyo"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "tipu daya"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:06.822490351Z",
+  "model": "glm-5.3"
+}

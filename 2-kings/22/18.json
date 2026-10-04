@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 22:18",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo kapado rajo Yehuda, nan mangutusan ⟨את⟩ kamu untuak mananyo kapado ⟨את⟩ Yahweh, basonyo kamu ka bakato kapadonyo: basonyo bakato Yahweh, Elohim Yisrael: mangenai kato-kato nan sanak alah danga —",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "nan mangutusan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "untuak mananyo kapado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "basonyo"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kamu ka bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "basonyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "sanak alah danga"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:26.443289975Z",
+  "model": "glm-5.3"
+}

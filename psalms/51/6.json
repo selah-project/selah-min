@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Kapado Kau, hanyo kapado Kau, ambo babusa, jo nan jahat di mato Kau ambo karajoan, supayo Kau tsadek dalam kato Kau, Kau barasiah dalam pangadilan Kau.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kapado Kau"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ambo babusa"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "jo nan jahat"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mato Kau"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ambo karajoan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "Kau tsadek"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "dalam kato Kau"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "Kau barasiah"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "dalam pangadilan Kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:55.235451946Z",
+  "model": "glm-5.3"
+}

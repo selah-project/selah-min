@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Moshe jo Aharon maambiak ⟨את⟩ urang-urang iko, nan alah dinamo-namo dek namonyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jo Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang iko"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "alh dinamo-namo"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "dek namonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:47.401172364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Lalu datang anak-anak Yisrael untuak mambali, di tangah-tangah urang-urang nan tibo, karano ado kalaparan di tanah Kanaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "lalu datang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "untuak mambali"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "urang-urang nan tibo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:26.399428820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 34:4",
+  "book": "job",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Kito pilih untuak kito hukum nan tapiliah, kito tau di antaro kito apo nan elok.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "נבחרה",
+      "gloss": "nan tapiliah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kito"
+    },
+    {
+      "surface": "נדעה",
+      "gloss": "kito tau"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "di antaro kito"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nan elok"
+    }
+  ],
+  "timestamp": "2026-10-04T08:12:34.229887403Z",
+  "model": "glm-5.3"
+}

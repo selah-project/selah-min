@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Elohim batahta atas bangso-bangso, Elohim duduak atas takhta kasucian-Nyo.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "batahta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduak"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kasucian-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:07.023609338Z",
+  "model": "glm-5.3"
+}

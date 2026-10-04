@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Manindas urang miskin untuak manambah hartonyo surang, maagiah kapado urang kaya — hanyo untuak ka miskin pulo.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "manindas"
+    },
+    {
+      "surface": "דל",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "untuak manambah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo surang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "kapado urang kaya"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "untuak ka miskin pulo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:27.849377599Z",
+  "model": "glm-5.3"
+}

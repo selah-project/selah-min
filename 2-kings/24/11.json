@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Dan Nebukhadnetsar, rajo Babel, tibo ka koto tu, sadang para hambanyo manyarangnyo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dan inyo tibo"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukhadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "koto tu"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "dan para hambanyo"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "manyarang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:46.666198201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Tanah nan buah-buahan inyo mambuek manjadi tanah uyah, dek kaburukoan urang-urang nan tingga di sinan.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "nan buah-buahan"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "manjadi tanah uyah"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "dek kaburokoan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "urang-urang nan tingga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:38.147091265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Nasib buruak ka manimpo urang nan manjadi panangguang untuak urang asiang, tapi nan mambanci patukuakan tangan raso aman.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "nasib buruak"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ka manimpo"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ערב",
+      "gloss": "manjadi panangguang"
+    },
+    {
+      "surface": "זר",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "tapi nan mambanci"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "patukuakan tangan"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "raso aman"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:43.760855781Z",
+  "model": "glm-5.3"
+}

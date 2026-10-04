@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Janga inyo bakato dalam atinyo: Aha, nafs kito! Janga inyo bakato: Kito alah manalannyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janga"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dalam atinyo"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nafs kito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Janga"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "manalannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:55.235928332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Jo ambo akan mangancuangkan musuahnyo di muko mukonyo, jo urang nan banci kapadonyo ambo akan mamukulnyo.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "jo ambo akan mangancuangkan"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "di muko mukonyo"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "musuahnyo"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "jo urang nan banci kapadonyo"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "ambo akan mamukulnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:34.934349475Z",
+  "model": "glm-5.3"
+}

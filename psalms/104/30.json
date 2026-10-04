@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Mangiriman ruakh ⟨Nyo⟩, inyo dijadian; jo mambaruih muko tanah.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "mangiriman"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruakh ⟨Nyo⟩"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "dijadian"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "mambaruih"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:53.503364316Z",
+  "model": "glm-5.3"
+}

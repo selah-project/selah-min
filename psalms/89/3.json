@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Karano alah bakato ambo: salamo-lamonyo hesed dibangun; di langik ado Kau mamuliaan kasatiaan-Mu di inyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "alah bakato ambo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "dibangun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "Kau mamuliaan"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kasatiaan-Mu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:17.321069536Z",
+  "model": "glm-5.3"
+}

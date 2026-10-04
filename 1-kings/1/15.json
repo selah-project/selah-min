@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Bat-Sheva masuak ka rajo, ka biliknyo — rajo alah tuo sabana tuo — jo Avishag urang Shunem mangabdi ka ⟨את⟩ rajo.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Lalu ... masuak"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "ka biliknyo"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "jo rajo"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sabana"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "jo Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "urang Shunem"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "mangabdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:26.932585106Z",
+  "model": "glm-5.3"
+}

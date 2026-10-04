@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo mangapo ang mailakan ⟨את⟩ ati anak-anak Yisrael dari malinteh ka bumi nan alah diagiah Yahweh kapado inyo?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "jo mangapo"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "ang mailakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "dari malinteh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "alah diagiah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:49:22.654287559Z",
+  "model": "glm-5.3"
+}

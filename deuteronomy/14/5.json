@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Rusa jantan, kijang, yakhmur, aqo, disyon, teo, jo zamer.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "rusa jantan"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "kijang"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "yakhmur"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "aqo"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "disyon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "teo"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "zamer"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:38.890891264Z",
+  "model": "glm-5.3"
+}

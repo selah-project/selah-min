@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Kosong inyo mangato, saurang urang jo ⟨את⟩ kawannyo; bibia nan lamak, jo ati jo ati, inyo mangato.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "inyo mangato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawannyo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kawannyo"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bibia"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "nan lamak"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "jo ati"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "jo ati"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "inyo mangato"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:38.776387555Z",
+  "model": "glm-5.3"
+}

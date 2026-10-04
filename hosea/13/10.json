@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Di ma kini rajo angkau, untuak malastari angkau di sagalo kota angkau, jo pangadili angkau, nan angkau pernah bakato: Barikan ambo saurang rajo jo pangulu?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "rajo angkau"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "untuak malastari angkau"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "kota angkau"
+    },
+    {
+      "surface": "וושפטיך",
+      "gloss": "jo pangadili angkau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "angkau pernah bakato"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "barikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "saurang rajo"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "jo pangulu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:16.114316001Z",
+  "model": "glm-5.3"
+}

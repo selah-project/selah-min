@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "jo ⟨את⟩ urang-urang nan baliak dari manda Yahweh, urang nan indak mancari ⟨את⟩ Yahweh, indak mancaliak inyo",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang-urang nan baliak"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "urang-urang nan baliak"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "dari manda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "urang nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "mancaliak inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:17:43.512693076Z",
+  "model": "glm-5.3"
+}

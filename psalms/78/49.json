@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Inyo mangirim kapado inyo ⟨את⟩ manyalo mukonyo, kabancekan, jo kamurkaan, jo kasausam — utusan-utusan nan jahat dikirim.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "manyalo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "kabancekan"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "jo kamurkaan"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "jo kasausam"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "dikirim"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "nan jahat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:38.120426120Z",
+  "model": "glm-5.3"
+}

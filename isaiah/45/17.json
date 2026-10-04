@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Yisrael alah salamaik dek Yahweh, patolongan nan kato abadi; indak ka malu jo indak ka tadih kalian sampai umua nan salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "alah salamaik"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "dek Yahweh"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "patolongan"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "nan kato abadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "ka malu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "ka tadih"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "umua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nan salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:20:50.358030742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Inyo maarah-arahkan, tapi indak ado panolong; ka Yahweh, tapi Iyo indak manjawab inyo.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "inyo maarah-arahkan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi indak ado"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "panolong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Iyo manjawab inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:43:40.919719148Z",
+  "model": "glm-5.3"
+}

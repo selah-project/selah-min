@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Yahweh manyangkuang inyo di ateh lambeang panyakik; saluruah tampatu baraliangnyo angkau baliak dalam sakiknyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "manyangkuang inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "lambeang"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "panyakik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "tampatu baraliangnyo"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "angkau baliak"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "dalam sakiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:43.167038862Z",
+  "model": "glm-5.3"
+}

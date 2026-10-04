@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Tapi ⟨את⟩ Binyamin, sudaro Yosef, indak Yoakov maanta jo ⟨את⟩ sudaro-sudaronyo, karano inyo bakato: Sanang mando ka inyo musibah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sudaro"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudaro-sudaronyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sudaro-sudaronyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "mando ka inyo"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "musibah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:43.560964802Z",
+  "model": "glm-5.3"
+}

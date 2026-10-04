@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Kalau sanak indak mangirim, kamo indak ka turun, karano urang tu alah bakato kapado kamo: kamo indak ka mancaliak mukonyo, kacuali saudaro kamo ⟨את⟩ basamo kamo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "indak"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kapado kamo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kacuali"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudaro kamo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ basamo kamo",
+      "marks": "saudaro kamo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:16.798595322Z",
+  "model": "glm-5.3"
+}

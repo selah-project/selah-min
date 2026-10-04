@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo inyo bakato: Ambiaklah untuak ambo cawan nan baru, jo taruahlah garam di sinan; urang tu maambiaknyo ka inyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ambiaklah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "cawan"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "baru"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "taruahlah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "garam"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:41.951633751Z",
+  "model": "glm-5.3"
+}

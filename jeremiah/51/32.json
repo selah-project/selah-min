@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Jo jalan-sampeang lah ditangkok, jo ⟨את⟩ rawa-rawa lah dibaka jo api, jo urang-urang baparang lah gataiah.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "jo jalan-sampeang"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "ditangkok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rawa-rawa"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "rawa-rawa"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "jo urang-urang"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "baparang"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "gataiah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:46:25.092014922Z",
+  "model": "glm-5.3"
+}

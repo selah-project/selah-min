@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Jo tsedeq Dikau, Elohim, sampai ka tampek tinggi; nan alah Dikau buek kaja-kaja gadang; Elohim, sia nan sarupo jo Dikau?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "jo tsedeq Dikau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "tampek tinggi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Dikau alah buek"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "kaja-kaja gadang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nan sarupo jo Dikau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:51.490424088Z",
+  "model": "glm-5.3"
+}

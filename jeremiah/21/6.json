@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo ambo ka mambunuah ⟨את⟩ panduduak kota ko, ⟨את⟩ urang jo ⟨את⟩ binatang — dek wabah gadang inyo ka mati.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ka mambunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panduduak kota ko"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "binatang"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dek wabah"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "inyo ka mati"
+    }
+  ],
+  "timestamp": "2026-10-04T09:16:27.104348557Z",
+  "model": "glm-5.3"
+}

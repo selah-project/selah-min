@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo panduduak Yebus bakato ka Dawid: San indak ka masuak ka sinan. Tapi Dawid mamaruntuak ⟨את⟩ kuto Tsion — inyo adolah kuta Dawid.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yebus"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ka Dawid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ka masuak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ka sinan"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "tapi mamaruntuak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuto Tsion"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "kuto"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T08:43:00.412781598Z",
+  "model": "glm-5.3"
+}

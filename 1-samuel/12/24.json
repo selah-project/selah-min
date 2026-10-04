@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Hanyo: takuiklah kapado ⟨את⟩ Yahweh, jo palayani ⟨את⟩ inyo bana-bana jo sado ati sanak suduah; karano caliaklah ⟨את⟩ nan alah aluinkan gadang basamo sanak suduah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "takuiklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "jo palayani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (Yahweh)"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "bana-bana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ati sanak suduah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "caliaklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan alah aluinkan gadang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "aluinkan gadang"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "basamo sanak suduah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:24.983431886Z",
+  "model": "glm-5.3"
+}

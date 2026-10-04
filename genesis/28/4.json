@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo inyo maagiah kapado ang ⟨את⟩ berkek Avraham, untuak ang jo untuak katurunan ang basamo ⟨את⟩ ang, supayo ang mawarisi ⟨את⟩ tanah tampek ang marantau, nan alah diagiah Elohim kapado Avraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "jo inyo maagiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkek Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkek"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak ang"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "jo untuak katurunan ang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "basamo ⟨את⟩ ang"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "supayo ang mawarisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah tampek ang marantau"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "tampek ang marantau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "alah diagiah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kapado Avraham"
+    }
+  ],
+  "timestamp": "2026-10-04T04:03:11.584017174Z",
+  "model": "glm-5.3"
+}

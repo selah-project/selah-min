@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo Dawid bajalan bijak ⟨adalah⟩ di sagalo jalannyo, jo Yahweh basamo inyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo ... bajalan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalannyo"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "bijak"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "jo Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:32.252954658Z",
+  "model": "glm-5.3"
+}

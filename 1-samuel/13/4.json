@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo sado Yisrael mandanga bakato: Saul alah malangkoki ⟨את⟩ pos Plishtim, jo Yisrael alah manjadi bau indak sanak di mato Plishtim; lalu urang banyak bakato bakato sasudah Saul di Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "lah malangkoki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pos Plishtim"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "pos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "manjadi bau indak sanak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "di mato Plishtim"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "lalu bataríak bakato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "di Gilgal"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:48.393305261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Maka Yehoahas mambari baa ka ⟨את⟩ muko Yahweh, jo Yahweh mandanga kasuahnyo, karano nampak kapadonyo ⟨את⟩ panihikan Yisrael, karano rajo Aram alah mananih ⟨את⟩ urang tu.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "mambari baa ka muko"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "jo mandanga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kasuahnyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nampak kapadonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panihikan Yisrael"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "panihikan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "mananih"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-04T06:01:20.544603940Z",
+  "model": "glm-5.3"
+}

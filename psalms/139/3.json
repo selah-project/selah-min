@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Jalan ambo jo baralek ambo Engkau alah manyakek; jo sagalo lorang ambo Engkau lah akrab.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "jalan ambo"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "jo baralek ambo"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "Engkau alah manyakek"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "lorang ambo"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "Engkau lah akrab"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:22.283674365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lahia saurang anak laki-laki, jo inyo maagiah ⟨את⟩ namonyo Gershom, karano inyo bakato: urang asiang ambo ⟨הייתי⟩ di bumi nan balain.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "lahia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "jo inyo maagiah namo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "גר",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "nan balain"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:40.601442265Z",
+  "model": "glm-5.3"
+}

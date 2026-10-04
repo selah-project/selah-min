@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo ⟨את⟩ anak-anaknyo kau dakekkan, lalu kau salin-salinyokan inyo jo kuttonet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "kau dakekkan"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "kau salin-salinyokan inyo"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kuttonet"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:53.742340325Z",
+  "model": "glm-5.3"
+}

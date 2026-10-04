@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 111,
+  "translation": "Kadangan alah diagiah kapado urang-urang nan takuik kapado-Nyo; ⟨inyo⟩ mangana salamo-lamonyo parjanjian-Nyo.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "kadangan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "alah diagiah"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kapado urang-urang nan takuik kapado-Nyo"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "mangana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "parjanjian-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:12.716453026Z",
+  "model": "glm-5.3"
+}

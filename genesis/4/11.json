@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Dan kini, taateh ang dari tanah itu, nan alah mambukak ⟨את⟩ muluiknyo untuak manarimo ⟨את⟩ darah saudaro ang dari tangan ang.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "taateh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "alah mambukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muluiknyo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "muluiknyo"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "untuak manarimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah saudaro ang"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darah"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaro ang"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "dari tangan ang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:53.884117904Z",
+  "model": "glm-5.3"
+}

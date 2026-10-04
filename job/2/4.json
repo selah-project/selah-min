@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu hasatan manjawek ⟨את⟩ Yahweh jo bakato: 'Kulik untuak kulik, sagalo nan dipunyoi saurang urang ka inyo agiah untuak nyawonyo.'",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "manjawek"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "dipunyoi saurang urang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ka inyo agiah"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:48.527839173Z",
+  "model": "glm-5.3"
+}

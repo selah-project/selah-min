@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo ari nan katuju ⟨adolah⟩ Shabat untuak Yahweh, Elohim kau; indak kau buek sagalo karajo — kau, anak laki-laki kau jo anak padusi kau, amba laki-laki kau jo amba padusi kau, binatang kau, jo urang rantau kau nan ado di gapura-gapura kau.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "jo ari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nan katuju"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kau buek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "jo anak laki-laki kau"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "jo anak padusi kau"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "amba laki-laki kau"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "jo amba padusi kau"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "jo binatang kau"
+    },
+    {
+      "surface": "ויגרך",
+      "gloss": "jo urang rantau kau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "di gapura-gapura kau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:39.468924983Z",
+  "model": "glm-5.3"
+}

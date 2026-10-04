@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo Kush baranakkan ⟨את⟩ Nimrod; inyo muloi manjadi urang gagah di bumi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "jo Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "baranakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "החל",
+      "gloss": "muloi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "urang gagah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:56.661989300Z",
+  "model": "glm-5.3"
+}

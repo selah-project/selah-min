@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Jo dari puncak gunuang-gunuang zaman dulu, jo kamuliaan bukik-bukik nan samanjak.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "jo dari puncak"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "zaman dulu"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "jo kamuliaan"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bukik-bukik"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nan samanjak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:24.418442408Z",
+  "model": "glm-5.3"
+}

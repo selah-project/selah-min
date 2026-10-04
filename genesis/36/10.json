@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Iko namo-namo anak Esav: Elifaz, anak Adah bini Esav; Reuel, anak Basmat bini Esav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:58.229499833Z",
+  "model": "glm-5.3"
+}

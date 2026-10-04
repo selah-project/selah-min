@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Jo inyo malataak ⟨את⟩ anak-anak padusi tauah jo ⟨את⟩ anak-anaknyo di muko, jo ⟨את⟩ Lea jo anak-anaknyo di balakang, jo ⟨את⟩ Rahel jo ⟨את⟩ Yosef nan paliang balakang.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "malataak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak padusi tauah"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "anak padusi tauah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "jo anak-anaknyo"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "di balakang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "nan paliang balakang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:43.100267879Z",
+  "model": "glm-5.3"
+}

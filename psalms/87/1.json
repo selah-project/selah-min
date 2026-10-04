@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 87,
+  "translation": "Untuak urang Korah, mazmur, nyanyian. Dasanyo adolah di gunuang-gunuang suci.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "untuak urang"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "dasanyo"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "di gunuang-gunuang"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:04.352481687Z",
+  "model": "glm-5.3"
+}

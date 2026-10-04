@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Lah Zilpah, amba-amba padusi Lea, malahiakan saurang anak laki-laki untuak Yaakov.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpah"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "amba-amba padusi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "untuak Yaakov"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:53.273315426Z",
+  "model": "glm-5.3"
+}

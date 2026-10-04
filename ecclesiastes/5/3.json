@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Katiko kau bajanji nazar kapado Elohim, jan lambek mambayanyo, karano indak ado kasukoan pado urang-urang bodo; ⟨את⟩ nan kau janji, bayia.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "kau bajanji"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nazar"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "lambek"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "mambayanyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kasukoan"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "pado urang-urang bodo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan kau janji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "kau janji"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "bayia"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:34.350204918Z",
+  "model": "glm-5.3"
+}

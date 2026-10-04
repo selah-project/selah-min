@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lalu Avraham maambiak ⟨את⟩ kayu bakaran nan ka ateh, jo manaruihnyo di ateh Yitskhak anaknyo; inyo maambiak di tangannyo ⟨את⟩ api jo ⟨את⟩ pisau, lalu kaduonyo bajalan basamo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu maambiak"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayu bakaran nan ka ateh"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bakaran nan ka ateh"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "jo manaruihnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "api"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pisau"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "pisau"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lalu bajalan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kaduonyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:32.706535106Z",
+  "model": "glm-5.3"
+}

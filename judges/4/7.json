@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 4:7",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Aku ka manarik kapadonyo — ka kau — ka batang aia Kishon: ⟨את⟩ Sisera, panglima baluak Yavin, jo ⟨את⟩ kareta-nyo, jo ⟨את⟩ karamuang-nyo; jo Aku ka manyarahkannyo ka dalam tanganmu.",
+  "tokens": [
+    {
+      "surface": "ומשכתי",
+      "gloss": "ka manarik"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka kau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "batang aia"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisera"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "baluak"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yavin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kareta-nyo"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "kareta-nyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "karamuang-nyo"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "karamuang-nyo"
+    },
+    {
+      "surface": "ונתתיהו",
+      "gloss": "ka manyarahkannyo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ka dalam tanganmu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:14:20.084681718Z",
+  "model": "glm-5.3"
+}

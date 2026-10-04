@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 9:13",
+  "book": "job",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Eloah indak mambaliahkan ⟨את⟩ murkonyo; di bawah-Nyo tunduak urang-urang nan mangato Rahab.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "mambaliahkan"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "⟨את⟩ murkonyo",
+      "marks": "murkonyo"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "di bawah-Nyo"
+    },
+    {
+      "surface": "שחחו",
+      "gloss": "tunduak"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "urang-urang nan mangato"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    }
+  ],
+  "timestamp": "2026-10-04T09:27:10.574986421Z",
+  "model": "glm-5.3"
+}

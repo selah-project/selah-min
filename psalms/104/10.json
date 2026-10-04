@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Nan mangirim mata aia di lurah-lurah; di antaro bukik-bukik inyo maalir.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Nan mangirim"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "mata aia"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "di lurah-lurah"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bukik-bukik"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "maalir"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:23.651656155Z",
+  "model": "glm-5.3"
+}

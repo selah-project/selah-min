@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Ari iko kalian kalua, di bulan Aviv.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ari iko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "di bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:37.096037049Z",
+  "model": "glm-5.3"
+}

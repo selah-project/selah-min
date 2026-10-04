@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Cari-lah Yahweh jo kakuatan-Nyo, pangaja-lah muko-Nyo satiok wakatu.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "cari-lah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "jo kakuatan-Nyo"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "pangaja-lah"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "muko-Nyo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "satiok wakatu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:58.663403082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo Aharon bakato: jan manyala muko tuan ambo; awak sanang tau ⟨את⟩ urang tu, karano inyo miah ka jahat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jo bakato"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "manyala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "muko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "awak"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ka jahat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:37.442573169Z",
+  "model": "glm-5.3"
+}

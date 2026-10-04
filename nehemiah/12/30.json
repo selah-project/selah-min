@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Imam-imam jo urang Levi manyucikan dirinyo, lalu inyo manyucikan ⟨את⟩ bangso itu, ⟨את⟩ gapuro-gapuro, jo ⟨את⟩ tembok itu.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "manyucikan dirinyo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "jo urang Levi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "lalu inyo manyucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gapuro-gapuro"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "gapuro-gapuro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tembok itu"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "tembok itu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:39:12.413654064Z",
+  "model": "glm-5.3"
+}

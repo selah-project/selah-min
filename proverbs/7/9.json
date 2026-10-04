@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Pado sambuik, pado patang ari, pado kalangkang malam jo galok.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "pado sambuik"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pado patang"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "pado kalangkang"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "jo galok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:17.673102235Z",
+  "model": "glm-5.3"
+}

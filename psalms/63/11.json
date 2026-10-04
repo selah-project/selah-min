@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 63,
+  "translation": "Urang tu ditumpahkan ka tangan padang; urang tu manjadi bagian untuak sigak.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ditumpahkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "sigak"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "manjadi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:06.323891764Z",
+  "model": "glm-5.3"
+}

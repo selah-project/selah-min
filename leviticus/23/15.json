@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo kalian maangkuak untuak diri kalian, saari sasudah Shabat itu, saari kalian mambaok ⟨את⟩ omer nan diayun-ayun, tujuah Shabat nan sampurna ⟨ito⟩ akan manjadi.",
+  "tokens": [
+    {
+      "surface": "וסספרתם",
+      "gloss": "jo kalian maangkuak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak diri kalian"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "saari sasudah"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "saari"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "kalian mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "nan diayun-ayun"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "nan sampurna"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨ito⟩ akan manjadi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:34.121289433Z",
+  "model": "glm-5.3"
+}

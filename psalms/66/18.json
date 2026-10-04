@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Kalau ambo mamandang kajahatan di ati ambo, Adonai indak ka mandanga.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kalau"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ambo mamandang"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "di ati ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ka mandanga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:14.764762118Z",
+  "model": "glm-5.3"
+}

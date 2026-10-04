@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 108,
+  "translation": "Lagu, mazmur untuak Dawid.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:59.659713793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Urang-urang tu maambiak dari makanan urang tu, tapi ⟨את⟩ muluik Yahweh indak diminta.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang-urang tu"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "dari makanan urang tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "muluik Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "diminta"
+    }
+  ],
+  "timestamp": "2026-10-04T05:06:03.476640355Z",
+  "model": "glm-5.3"
+}

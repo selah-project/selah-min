@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo mati Elimelek, laki Naemi; jo tingga inyo surang jo duo anak laki-lakinyo.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "jo mati"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "laki"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naemi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "jo tingga"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jo duo"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak laki-lakinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:54.270386654Z",
+  "model": "glm-5.3"
+}

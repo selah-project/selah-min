@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Lalu Sha'ul batanyo kapado Yahweh, tapi Yahweh indak manjawab inyo — indak jo mimpi, indak jo Urim, indak jo nabi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "lalu batanyo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "manjawab inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "indak jo"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "mimpi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "indak jo"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "indak jo"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "nabi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:33:46.158129772Z",
+  "model": "glm-5.3"
+}

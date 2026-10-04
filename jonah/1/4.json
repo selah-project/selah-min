@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Yahweh malampeaskan ruakh gadang ka lauik, inggo ado putiang gadang di lauik tu, inggo kapal tu lai mahituang-hituang untuak paca.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "jo Yahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "malampeaskan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "inggo ado"
+    },
+    {
+      "surface": "סער",
+      "gloss": "putiang"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di lauik tu"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "inggo kapal tu"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "lah mahituang-hituang"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "untuak paca"
+    }
+  ],
+  "timestamp": "2026-10-04T07:14:04.303383427Z",
+  "model": "glm-5.3"
+}

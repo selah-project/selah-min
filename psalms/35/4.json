@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Biangkalah jo riak urang nan mancari ⟨את⟩ nyaoak ambo; mundurlah urang nan mahasuik ka balakang, urang nan mamarisoan bencana untuak ambo.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Biangkalah"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "jo riak"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "urang nan mancari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyaoak ambo"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "mundurlah"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka balakang"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "urang nan mahasuik"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "urang nan mamarisoan"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bencana untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:47.411634866Z",
+  "model": "glm-5.3"
+}

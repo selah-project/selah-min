@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu ular itu bakato kapado padusi itu: Indak — mambudua kalian ka mati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ular itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mambudua mati"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kalian mati"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:34.037230143Z",
+  "model": "glm-5.3"
+}

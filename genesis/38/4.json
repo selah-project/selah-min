@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo inyo manganduang lai, jo malahian saurang anak laki-laki, jo inyo manangguang ⟨את⟩ namonyo Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "manganduang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "malahian"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "manangguang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:58.375607788Z",
+  "model": "glm-5.3"
+}

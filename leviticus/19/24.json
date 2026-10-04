@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Dan pado taun kaampek sagalo pabuahannyo manjadi suci, puja-puji untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "pado taun"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "kaampek"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "pabuahannyo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "puja-puji"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:31.613327741Z",
+  "model": "glm-5.3"
+}

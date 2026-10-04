@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo anak itu gadang, jo lah disapih; jo Avraham mambuek jamuan gadang pado ari panyapihan ⟨את⟩ Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "jo gadang"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "jo lah disapih"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "jo mambuek"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "jamuan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "panyapihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:28.242853579Z",
+  "model": "glm-5.3"
+}

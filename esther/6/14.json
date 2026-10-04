@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 6:14",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Sadang inyo lai mangecek jo inyo, tibo urang-urang sarisi rajo, jo langsuang gageh mambaok ⟨את⟩ Haman ka jamuan nan alah dibuek Ester.",
+  "tokens": [
+    {
+      "surface": "עודם",
+      "gloss": "sadang lai"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "וסריסי",
+      "gloss": "jo urang-urang sarisi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "langsuang gageh"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "jamuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "alah dibuek"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:56.126025944Z",
+  "model": "glm-5.3"
+}

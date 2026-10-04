@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Dangan asor jo dangan nevel, dangan higayon dangan kinor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "dangan"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asor"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "jo dangan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dangan"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinor"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:33.002048478Z",
+  "model": "glm-5.3"
+}

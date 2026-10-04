@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Indak inyo maiduik pado maso sial, jo pado ari-ari kalaparan inyo ka kanyang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "maiduik"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pado maso"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sial"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "jo pado ari-ari"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ka kanyang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:33.705050606Z",
+  "model": "glm-5.3"
+}

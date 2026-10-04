@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Hikmah urang nan licak adolah mangarati caro hiduiknyo, tapi kalodo urang-urang bodoh adolah panipuan.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "urang nan licak"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "mangarati"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "caro hiduiknyo"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "tapi kalodo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "urang-urang bodoh"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "panipuan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:57:16.261143396Z",
+  "model": "glm-5.3"
+}

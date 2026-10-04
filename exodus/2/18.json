@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Urang tu datang ka Reuel, amaknyo, jo inyo bakato: Baa kalian capek bana datang kini ari?",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "urang tu datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "amaknyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "baa"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "capek bana"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kini ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:35.423053113Z",
+  "model": "glm-5.3"
+}

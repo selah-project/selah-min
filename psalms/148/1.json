@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 148,
+  "translation": "Pujilah Yah, pujilah ⟨את⟩ Yahweh dari langik, pujilah inyo di tampek nan paliang tinggi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah inyo"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "di tampek nan paliang tinggi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:55.908510228Z",
+  "model": "glm-5.3"
+}

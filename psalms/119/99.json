@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Dari sagalo guru-guru ambo, ambo manjadi labiah pandai, karano kasaksian-Mu adolah parenungan untuak ambo.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "guru-guru ambo"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "ambo manjadi labiah pandai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "kasaksian-Mu"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "parenungan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:01.384880575Z",
+  "model": "glm-5.3"
+}

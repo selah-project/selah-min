@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Pado ari itu akan dikatokan kapado Yerushalayim: Jangan cangang, wahai Tsiyon; jangan lolo tanganmu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akan dikatokan"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "kapado Yerushalayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "cangang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "wahai Tsiyon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "lolo"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tanganmu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:21:08.907078475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo pado ari nan kadalapan urang tu mambaok duo borombong atau duo anak buruang dado ka imam, ka muko gua khemah patamuan.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "jo pado ari"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "nan kadalapan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "borombong"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "buruang dado"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka muko"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "gua"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:40:05.536803184Z",
+  "model": "glm-5.3"
+}

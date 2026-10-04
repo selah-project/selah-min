@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Dapek Ambo urang tu, wahai Yahweh; Engkau mahago inyo, mahago ⟨urang tu⟩ dari angkatan iko salamanyo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "mahago inyo"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "mahago urang tu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:24.081907604Z",
+  "model": "glm-5.3"
+}

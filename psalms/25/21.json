@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Kasadioan jo kabanaaran paijo ambo, karano ambo manunggu Ditu.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "kasadioan"
+    },
+    {
+      "surface": "וגשר",
+      "gloss": "jo kabanaaran"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "paijo ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "ambo manunggu Ditu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:53.329588241Z",
+  "model": "glm-5.3"
+}

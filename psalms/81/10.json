@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Jangan ado El nan asiang di dalam ⟨diri⟩ sanak, jo jangan sanak manyambah kapado El nan balain.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di dalam sanak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "nan asiang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo jangan"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "sanak manyambah"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kapado El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "nan balain"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:53.979033697Z",
+  "model": "glm-5.3"
+}

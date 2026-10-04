@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Karano sabalun anak tu tau bakato 'apak' jo 'amak', akan diangkek ⟨את⟩ kakayoan Damsyik jo ⟨את⟩ rampasan Syomron di muko rajo Asyur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sabalun"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak tu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "'apak'"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "jo 'amak'"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akan diangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakayoan Damsyik"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kakayoan"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damsyik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rampasan Syomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Syomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:23.158305952Z",
+  "model": "glm-5.3"
+}

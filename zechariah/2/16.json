@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dan Yahweh ka mawarisi ⟨את⟩ Yehuda sabagai bagian-Nyo di ateh tanah nan suci, dan inyo ka mamiliah baliak Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "dan ka mawarisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "sabagai bagian-Nyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "dan ka mamiliah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:18:53.842333105Z",
+  "model": "glm-5.3"
+}

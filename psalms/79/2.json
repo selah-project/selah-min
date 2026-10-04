@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 79,
+  "translation": "Inyo alah maagiah ⟨את⟩ mayik para hamba-Mu sabagai makanan untuak buruang-buruang langik, dagiang urang-urang setia-Mu untuak binatang buas di bumi.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "lah maagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayik para hamba-Mu"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "mayik"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "para hamba-Mu"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "sabagai makanan"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "untuak buruang-buruang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "urang-urang setia-Mu"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "untuak binatang buas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:29.362959124Z",
+  "model": "glm-5.3"
+}

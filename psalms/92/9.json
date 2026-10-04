@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Tapi Angkau, Yahweh, di katinggian salamanyo-lamanyo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tapi Angkau"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "di katinggian"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "salamanyo-lamanyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:23.033478609Z",
+  "model": "glm-5.3"
+}

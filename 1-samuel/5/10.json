@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Lalu urang tu maanta ⟨את⟩ Tabut Elohim ka Ekron; katiko Tabut Elohim tiba di Ekron, urang Ekron manjerik bakato: Urang tu mambaok kaliliang ka ambo ⟨את⟩ Tabut Elohim Yisrael, untuak mambunuah ambo jo ⟨את⟩ bangso ambo!",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "lalu urang tu maanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tabut Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "ka Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mako katiko"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "katiko tiba"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "di Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "manjerik"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "urang Ekron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "mambaok kaliliang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tabut Elohim Yisrael"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "untuak mambunuah ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bangso ambo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bangso ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:48.988747454Z",
+  "model": "glm-5.3"
+}

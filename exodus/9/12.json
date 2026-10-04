@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Dan Yahweh manguaikkan ⟨את⟩ ati Paroh, dan inyo indak mandangaokan juo inyo, sangajo jo nan alah dikato Yahweh kapado Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dan manguaikkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandangaokan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sangajo jo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:40.023230486Z",
+  "model": "glm-5.3"
+}

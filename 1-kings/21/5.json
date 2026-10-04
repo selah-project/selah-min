@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Kamudian Izebel bininyo datang kapadonyo, jo bakato kapadonyo: Apo ko, kok ruakhmu lah muruang, jo ang indak makan roti?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bininyo"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruakhmu"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "muruang"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "jo ang indak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:32.872125822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo panah jo busur ⟨urang⟩ masuak ka sinan, karano onai jo duri manjadi saluruh nagari itu.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "jo panah"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "jo busur"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka sinan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "onai"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "jo duri"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari itu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:31.901387420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Urang nan manyambalihek syukur managakan ambo, jo urang nan mamaratian jalaninyo, ka ambo patunjuakkan ka inyo kasalamatan dari Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "manyambalihek"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "syukur"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "managakan ambo"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo mamaratian"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalaninyo"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ka ambo patunjuakkan ka inyo"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "kasalamatan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dari Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:39.238421565Z",
+  "model": "glm-5.3"
+}

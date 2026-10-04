@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Tapi angkau — urang nan sapantun ambo, kawan karabat ambo, jo kawan nan siauik jo ambo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tapi angkau"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "nan sapantun ambo"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "kawan karabat ambo"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "jo kawan nan siauik jo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:07.233455141Z",
+  "model": "glm-5.3"
+}

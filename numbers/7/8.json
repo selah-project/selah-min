@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo ⟨את⟩ ampek kandarang jo ⟨את⟩ lapan lembu inyo agiah kapado anak-anak Merari, manuruik karajonyo, di bawah tangan Itamar, anak Aharon, imam tu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Jo ⟨את⟩",
+      "marks": "ampek kandarang"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "kandarang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "lapan lembu"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "lapan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inyo agiah"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kapado anak-anak"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "manuruik"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "karajonyo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di bawah tangan"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:39:32.245936392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Inyo mangutuih kabakeh-gelap, lamo jadi galap, jo urang tu indak manantang ⟨את⟩ kato-Nyo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Inyo mangutuih"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kabakeh-gelap"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "lamo jadi galap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "manantang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-Nyo"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "kato-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:17.228164682Z",
+  "model": "glm-5.3"
+}

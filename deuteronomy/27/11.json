@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Lalu Moshe mamarentahkan ⟨את⟩ ka bangso itu pado ari itu pulo, nak kato:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mamarentahkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka bangso itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu pulo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nak kato"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:27.695638969Z",
+  "model": "glm-5.3"
+}

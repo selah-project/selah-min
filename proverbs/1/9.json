@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Karano inyo rangkaian bagur di kapalamu, jo ranti-ranti di lihiamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "rangkaian"
+    },
+    {
+      "surface": "חן",
+      "gloss": "bagur"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "di kapalamu"
+    },
+    {
+      "surface": "וַעֲנָקִים",
+      "gloss": "jo ranti-ranti"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "di lihiamu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:17.942834660Z",
+  "model": "glm-5.3"
+}

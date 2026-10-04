@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Yahweh mamatikan jo manghiduik, manurunkan ka Sheol jo manaiakkan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "mamatikan"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "jo manghiduik"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "manurunkan ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "jo manaiakkan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:22:48.666790777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Karano pinggang ambo lah panuah rabuah, indak ado kasaimbangan dalam dagiang ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "pinggang ambo"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "lah panuah"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "rabuah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "kasaimbangan"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "dalam dagiang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:46.491163058Z",
+  "model": "glm-5.3"
+}

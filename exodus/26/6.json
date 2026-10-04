@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo kau buek limapuluah kail ameh, jo kau sambuang ⟨את⟩ tirai-tirai tu, ciek jo nan ciek lain, jo kail-kail tu, sahinggo Mishkan tu manjadi ciek.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo kau buek"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limapuluah"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kail"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "jo kau sambuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirai-tirai tu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tirai-tirai tu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "nan ciek lain"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "jo kail-kail tu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sahinggo manjadi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan tu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:59.482843963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Pangundi jo urang upahan indak makan inyo.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "pangundi"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "jo urang upahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:06.150544662Z",
+  "model": "glm-5.3"
+}

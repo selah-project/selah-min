@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Apokah indah sarupo susu Awak mandareh ambo, sarupo keju Awak mambuek kareh ambo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Apokah indah"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "sarupo susu"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "Awak mandareh ambo"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "sarupo keju"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "Awak mambuek kareh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:05:41.987612732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Tapi kok inyo mambatalkan ⟨את⟩ inyo satalah mandanganyo, maka inyo manangguang ⟨את⟩ doso inyo itu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi kok"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mambatalkan"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "mambatalkan sacaro bana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (nazar jo ikatan itu)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "satalah"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mandanganyo"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "maka inyo manangguang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doso inyo itu"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "doso inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:49:56.954336847Z",
+  "model": "glm-5.3"
+}

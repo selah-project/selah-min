@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu rajo batanyo kapado padusi tu, jo inyo mancaritokan kapadonyo. Lalu rajo manunjuak untuaknyo saurang sida-sida, mangkatokan: Baliahkan sado nan miliknyo, jo ⟨את⟩ sado hasia ladang tu, sajak ari inyo maninggaan ⟨את⟩ tanah tu sampai kini.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "lalu batanyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kapado padusi tu"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "jo mancaritokan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lalu manunjuak"
+    },
+    {
+      "surface": "לה",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "sida-sida"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangkatokan"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "baliahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado nan miliknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "miliknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sado hasia ladang tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "hasia"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang tu"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "sajak ari"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "ininggoan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah tu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah tu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-10-04T05:59:48.304746980Z",
+  "model": "glm-5.3"
+}

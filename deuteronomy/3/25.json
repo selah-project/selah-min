@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Biasonyo ambo malewati, bambo, jo ambo caliak ⟨את⟩ tanah nan elok nan ado di sabalah Yarden, gunuang nan elok ko jo Libanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "biasonyo ambo malewati"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bambo"
+    },
+    {
+      "surface": "וואראה",
+      "gloss": "jo ambo caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah nan elok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan ado"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di sabalah"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "jo Libanon"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:28.806971582Z",
+  "model": "glm-5.3"
+}

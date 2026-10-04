@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Reuven, Shimon, Levi, jo Yehuda.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jo Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:00.660265075Z",
+  "model": "glm-5.3"
+}

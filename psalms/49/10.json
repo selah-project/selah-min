@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Agia inyo iduik taruih salamo-lamonyo, indak nyo caliak ⟨karusakan⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "agia inyo iduik"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "taruih"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nyo caliak"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "karusakan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:36.685455049Z",
+  "model": "glm-5.3"
+}

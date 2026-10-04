@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "hosea 2:21",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo pado ari itu aku maminangi kau kapado ambo salamo-lamonyo; baliak aku maminangi kau kapado ambo dalam tsedeq, jo dalam hukum, jo dalam hesed, jo dalam rakhmat.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "jo aku maminangi kau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "וארשתיך",
+      "gloss": "baliak aku maminangi kau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dalam tsedeq"
+    },
+    {
+      "surface": "ובמשפט",
+      "gloss": "jo dalam hukum"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "jo dalam hesed"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "jo dalam rakhmat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:50.536565031Z",
+  "model": "glm-5.3"
+}

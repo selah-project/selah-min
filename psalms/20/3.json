@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Inyo mangirih patolong ⟨engkau⟩ dari tampek suci, jo dari Tsiyon inyo manyangko ⟨engkau⟩:",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Inyo mangirih"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "patolong ⟨engkau⟩"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "dari tampek suci"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "jo dari Tsiyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "inyo manyangko ⟨engkau⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:33.852874486Z",
+  "model": "glm-5.3"
+}

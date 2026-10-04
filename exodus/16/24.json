@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo urang tu mambarikan ⟨את⟩ inyo sampai pagi, sarupo nan diparentahkan Moshe, jo inyo indak basipa, jo ulat indak ado ado padanyo.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "urang tu mambarikan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (manna itu)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "basipa"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "jo ulat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:30.999479150Z",
+  "model": "glm-5.3"
+}

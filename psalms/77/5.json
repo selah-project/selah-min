@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Sanak manahan kalopak mato ambo; ambo tapauik, indak dapek bakato.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "manahan"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "kalopak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "ambo tapauik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:35.128739937Z",
+  "model": "glm-5.3"
+}

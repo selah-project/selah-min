@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu inyo tagak jo maagiah barekati ⟨את⟩ sadoalah jamaah Yisrael jo suaro gadang, bakato:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Lalu inyo tagak"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "maagiah barekati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah jamaah Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T05:49:28.096168585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Apokah singgasana kaburukoan baciek jo Engkau — nan mambantuak bencana di ateh hukum?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "baciek jo Engkau"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "singgasana"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "kaburukoan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "nan mambantuak"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bencana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "חק",
+      "gloss": "hukum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:13.859759095Z",
+  "model": "glm-5.3"
+}

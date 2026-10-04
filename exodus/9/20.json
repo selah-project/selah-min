@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Nan takuik kapado ⟨את⟩ kato Yahweh, di antaro hamba Paroh, mambaok lari ⟨את⟩ hamba-hambanyo jo ⟨את⟩ taranaknyo ka dalam rumah-rumah.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "nan takuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "di antaro hamba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "mambaok lari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "taranaknyo"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "taranaknyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "dalam rumah-rumah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:05.418619061Z",
+  "model": "glm-5.3"
+}

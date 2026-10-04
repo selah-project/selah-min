@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "jo ambo alah mangisi inyo ⟨את⟩ jo ruakh Elohim, jo kabijaksanoan, jo pangarati, jo pangetahuan, jo saluruah karajo tangan.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "jo ambo alah mangisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "jo kabijaksanoan"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "jo pangarati"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "jo pangetahuan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo saluruah"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "karajo tangan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:02.956063482Z",
+  "model": "glm-5.3"
+}

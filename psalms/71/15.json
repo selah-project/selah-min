@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Muluik ambo mabaokan tsedeq-Mu, ari-ari patolongan-Mu, karano ambo indak tau maangaok imanyo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "muluik ambo"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "mabaokan"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeq-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "patolongan-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "maangaok imanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:41.278952506Z",
+  "model": "glm-5.3"
+}

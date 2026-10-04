@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo sadoalah bangso-bangso akan mangabekan inyo, jo ⟨את⟩ anaknyo, jo ⟨את⟩ anak dari anaknyo, sampai maso nagarinyo tibo, inyo juo; jo bangso-bangso nan banyak jo rajo-rajo nan gadang akan mangabekan inyo.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "jo ... mangabekan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "sadoalah bangso-bangso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anaknyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak dari anaknyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "dari anaknyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nagarinyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "akan mangabekan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "jo rajo-rajo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nan gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:17:25.385779537Z",
+  "model": "glm-5.3"
+}

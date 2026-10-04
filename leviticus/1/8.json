@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu anak-anak Aharon, para imam, manyusun ⟨את⟩ potongan-potongan tu, ⟨את⟩ kapalo jo ⟨את⟩ lamaknyo, di ateh kayu-kayu nan ado di ateh api, nan ado di ateh mizbeakh.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "lalu manyusun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potongan-potongan tu"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "potongan-potongan tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lamaknyo"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "lamaknyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan ado di"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan ado di"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeakh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:48.232399286Z",
+  "model": "glm-5.3"
+}

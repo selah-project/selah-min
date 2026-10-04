@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Dan Aku ka maagiah ⟨את⟩ rahun banso iko di mato urang Mitsrayim; jo tajadi, katiko kalian pai, kalian indak ka pai kosong.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Aku ka maagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahun"
+    },
+    {
+      "surface": "חן",
+      "gloss": "rahun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "banso"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo tajadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "kalian pai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "kalian pai"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "kosong"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:40.527926350Z",
+  "model": "glm-5.3"
+}

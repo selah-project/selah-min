@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Laju Dawid pai dari sanan, jo lapeh diri ka gua Adulam; jo bareh sudaronyo jo sagalo isi rumah apaknyo mandanga, laju turun ka sinan ka dampakinyo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Laju Dawid pai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sanan"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "jo lapeh diri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "gua"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "jo mandanga"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sudaronyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "isi rumah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "laju turun"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka dampakinyo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:55.437079795Z",
+  "model": "glm-5.3"
+}

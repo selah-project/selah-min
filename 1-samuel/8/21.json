@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Shemuel mandanga ⟨את⟩ sagalo kato-kato urang tu, jo maucapannyo ka tungkia Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lalu mandanga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kato-kato urang tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "jo maucapannyo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ka tungkia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:40.543703796Z",
+  "model": "glm-5.3"
+}

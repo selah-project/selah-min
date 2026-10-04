@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo jo ilimu bilik-bilik isi, sado kaharta nan mahal jo nan lamok.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "jo jo ilimu"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "bilik-bilik"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "isi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "הון",
+      "gloss": "kaharta"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "mahal"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "nan lamok"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:47.609060850Z",
+  "model": "glm-5.3"
+}

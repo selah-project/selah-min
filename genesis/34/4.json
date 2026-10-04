@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo Shekhem bakato kapado Hamor, apaknyo, mangecekan: ambiakkan untuak ambo ⟨את⟩ gadih ko untuak bini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecekan"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ambiakkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadih ko"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "gadih"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "untuak bini"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:39.979046586Z",
+  "model": "glm-5.3"
+}

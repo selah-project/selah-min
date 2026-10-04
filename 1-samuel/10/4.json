@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Mareka ka mananyo-an salamaik kapado kau, jo mareka ka maagiah roti ampek; ambek-aa roti tu dari tangan korang.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "ka mananyo-an salamaik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "tantang salamaik"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ka maagiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "kau ka maambek"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "dari tangan korang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:33.394215482Z",
+  "model": "glm-5.3"
+}

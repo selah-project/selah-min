@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Jikokau mancaliak pancuri, jo inyo kau bajalan, jo urang nan main bini urang lain kau bagian.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jikokau"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "pancuri"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "jo inyo kau bajalan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "urang nan main bini urang lain"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "kau bagian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:01.815335873Z",
+  "model": "glm-5.3"
+}

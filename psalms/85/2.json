@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 85,
+  "translation": "Kaadoan nyo alah kaasai Engkau, Yahweh, ateh tanah nyo; Engkau alah maimbau baliak panejaraan Yaakov.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Kaadoan nyo alah kaasai Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ateh tanah nyo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Engkau alah maimbau baliak"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "panejaraan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:45.409575326Z",
+  "model": "glm-5.3"
+}

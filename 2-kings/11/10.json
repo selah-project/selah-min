@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu Imam tu mangecek kapado sarapo-sarapo pasukan nan saratus tu ⟨את⟩ tombak jo ⟨את⟩ parisai-parisai nan punyo rajo Dawid, nan ado di rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Imam tu"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "kapado sarapo-sarapo pasukan"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "nan saratus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tombak"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "tombak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parisai-parisai"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "parisai-parisai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "punyo rajo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan ado"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:49.418012480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo sasudah inyo inyo ambiak ⟨את⟩ Maakha bant Avshalom, jo inyo malahiakan untuaknyo ⟨את⟩ Aviyah, ⟨את⟩ Attai, ⟨את⟩ Ziza, jo ⟨את⟩ Syelomith.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "sasudah inyo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakha bant Avshalom"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bant"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "melahiakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviyah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Attai"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Syelomith"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Syelomith"
+    }
+  ],
+  "timestamp": "2026-10-04T08:51:55.503452396Z",
+  "model": "glm-5.3"
+}

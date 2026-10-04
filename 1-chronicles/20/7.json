@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Dan katiko inyo mahek-heek ⟨את⟩ Yisrael, Yonatan anak Sima, sudut kanduang Dawid, mambunuah inyo.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "mahek-heek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "mambunuah inyo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Sima"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sudut kanduang"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T08:45:39.821756678Z",
+  "model": "glm-5.3"
+}

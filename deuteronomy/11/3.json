@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo ⟨את⟩ tando-tandonyo, jo ⟨את⟩ karajo-karajonyo nan inyo buek di tangah-tangah Mitsrayim kapado Paraoh, rajo Mitsrayim, jo kapado sado nagarinyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tando-tandonyo"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "tando-tandonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "karajo-karajonyo"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "karajo-karajonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inyo buek"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kapado Paraoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "jo kapado sado"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nagarinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:13.878906388Z",
+  "model": "glm-5.3"
+}

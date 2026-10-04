@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Katiko ambo manyeru, jaweklah ambo, Elohim tsedeq ambo; pado saso Kau alah mambuek lapang ambo; baralehanlah ambo, jo dangaiklah doa ambo.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "katiko ambo manyeru"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jaweklah ambo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "tsedeq ambo"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "pado saso"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "Kau alah mambuek lapang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "baralehanlah ambo"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "jo dangaiklah"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:37.452669573Z",
+  "model": "glm-5.3"
+}

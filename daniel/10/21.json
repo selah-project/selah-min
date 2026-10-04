@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 10:21",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Tetapi ambo kaagiah tau kapado kamu ⟨את⟩ nan tacatek dalam tulisan nan banar; indak ado saurang nan kuek mandampingi ambo takaik jo iko, kacuali Mikhael, pangulunyo.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "kaagiah tau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan tacatek"
+    },
+    {
+      "surface": "הרשום",
+      "gloss": "nan tacatek"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "dalam tulisan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nan banar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "מתחזק",
+      "gloss": "kuek mandampingi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "takaik jo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kacuali"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kacuali"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Mikhael"
+    },
+    {
+      "surface": "שרכם",
+      "gloss": "pangulunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:30:54.380611794Z",
+  "model": "glm-5.3"
+}

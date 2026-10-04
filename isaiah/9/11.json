@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Aram dari muko, urang Filistin dari balakang, jo inyo mamacah ⟨את⟩ Yisrael jo saluruah muluik. Satalah sagalonyo ko, amarahnyo indak baliak, jo tangannyo masih tatariak.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "urang Filistin"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "dari balakang"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "jo inyo mamacah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo saluruah"
+    },
+    {
+      "surface": "פה",
+      "gloss": "muluik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "satalah sagalonyo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "amarahnyo"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "jo masih"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "tatariak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:19.917805569Z",
+  "model": "glm-5.3"
+}

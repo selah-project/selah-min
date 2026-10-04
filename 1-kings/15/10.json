@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Ampat puluah jo ciek taun inyo batahta di Yerushalayim; namo mandehnyo Maakha, anak padusi Avishalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ampat puluah"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "jo ciek"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "batahta"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mandehnyo"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:17.457514652Z",
+  "model": "glm-5.3"
+}

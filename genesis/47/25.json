@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 47:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Jo inyo bakato: Sanang ma, inyo alah mahiduikan ambo; ambo basangek kalammuahan di mato tuan ambo, jo ambo ka jadi amba-amba Paroh.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "החיתנו",
+      "gloss": "inyo alah mahiduikan ambo"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ambo basangek"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kalammuahan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "jo ambo ka jadi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "amba-amba"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kapado Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:26.644372846Z",
+  "model": "glm-5.3"
+}

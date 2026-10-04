@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu hamba tu mambuek ⟨את⟩ tangan nyo di bawah paha Avraham tuan nyo, lalu basumpah kapado inyo tntang pakaro iko.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "lalu mambuek"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "hamba tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan nyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangan nyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "paha"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuan nyo"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "lalu basumpah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tntang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:08.593370014Z",
+  "model": "glm-5.3"
+}

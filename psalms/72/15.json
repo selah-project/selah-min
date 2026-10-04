@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Jo inyo iduik, jo mareka mangagiah ameh ka inyo dari Sheba, jo mareka badoa untuak inyo taruih-manaruih, satiok ari mareka maanta barkah kapado nyo.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jo inyo iduik"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jo mangagiah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "jo badoa"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "untuak inyo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih-manaruih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "maanta barkah kapado nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:45.622054342Z",
+  "model": "glm-5.3"
+}

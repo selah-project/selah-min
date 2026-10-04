@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jikok kau caliak kalde urang nan banci kapadonyo barabuah di bawah muatannyo, jo kok kau baraanti mambiakkannyo ⟨untuak inyo⟩ — biakan-biakanlah basamo inyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jikok"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "kau caliak"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "kalde"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "urang nan banci kapadonyo"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "barabuah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "muatannyo"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "jo kok kau baraanti"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "mambiakkannyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak inyo"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "biakan"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "biakan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:08.148569120Z",
+  "model": "glm-5.3"
+}

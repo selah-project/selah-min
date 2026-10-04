@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Kalau ado namuah tsaraat pado saurang urang, inyo musti dibaok kapado imam.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "namuah"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pado saurang urang"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "dibaok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:33.905839811Z",
+  "model": "glm-5.3"
+}

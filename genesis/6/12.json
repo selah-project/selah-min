@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Elohim maliek ⟨את⟩ bumi, jo baitulah, ai lah rusak, karano sadoalah dagiang alah marusak ⟨את⟩ jalannyo di ateh bumi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "maliek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "baitulah"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "lah rusak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "marusak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalannyo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:11.608916168Z",
+  "model": "glm-5.3"
+}

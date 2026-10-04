@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu bangkek amba-ambanyo, mambuek ciek sekongkoli, lalu mahantam ⟨את⟩ Yoas di Bet-Milo, jalan nan turun ka Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "lalu bangkek"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "amba-ambanyo"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sekongkoli"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lalu mahantam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoas"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "nan turun"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:05.045097595Z",
+  "model": "glm-5.3"
+}

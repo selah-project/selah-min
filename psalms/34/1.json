@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Untuak Dawid, katiko inyo maubah ⟨את⟩ tingkah lakunyo di muko Abimelekh, lalu inyo mambuaihnyo, jo inyo pai.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuak Dawid"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "katiko inyo maubah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tingkah lakunyo"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "tingkah lakunyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "lalu inyo mambuaihnyo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "jo inyo pai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:42.734788702Z",
+  "model": "glm-5.3"
+}

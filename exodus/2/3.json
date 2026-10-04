@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dek indak dapek lai inyo manyuruaknyo, diambiaknyo untuaknyo ciek peti dari papirus, jo dilapihnyo jo lampiang jo piciny, jo dilotaknyo ⟨את⟩ anak itu di dalamnyo, lalu dilotaknyo di tangah alang-alang, di tapi batang aia.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "manyuruaknyo"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "diambiaknyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "ciek peti"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "dari papirus"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "jo dilapihnyo"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "jo lampiang"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "jo piciny"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "jo dilotaknyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak itu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "lalu dilotaknyo"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "di tangah alang-alang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "batang aia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:40.477355683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "⟨את⟩ langik-langik tampek kumpua, ⟨את⟩ tiang-tiangnyo jo ⟨את⟩ dasanyo, jo ⟨את⟩ tuduang gapuro tampek kumpua.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langik-langik tampek kumpua"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "langik-langik"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tampek kumpua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiangnyo"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "tiang-tiangnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "dasanyo"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "dasanyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tuduang gapuro tampek kumpua"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tuduang"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tampek kumpua"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:47.485991674Z",
+  "model": "glm-5.3"
+}

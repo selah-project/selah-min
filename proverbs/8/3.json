@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dakek gapuro-gapuro, di mungko koto, di pintu masuak, inyo basorak rancak",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gapuro-gapuro"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "di mungko"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "koto"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "pintu masuak"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "basorak rancak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:33.958568200Z",
+  "model": "glm-5.3"
+}

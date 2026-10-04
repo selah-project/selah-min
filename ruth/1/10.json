@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu awak baradu bakato kapadonyo: Sungguah, jo ⟨את⟩ sanak awak baradu pulang ka umat sanak.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "Lalu awak baradu bakato"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sungguah"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jo sanak",
+      "marks": "sacaro langsuang di sampiang sanak (Naomi)"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "awak baradu pulang"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ka umat sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:06.952924586Z",
+  "model": "glm-5.3"
+}

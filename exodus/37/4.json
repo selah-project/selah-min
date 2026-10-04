@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Dibueknyo tungkek panjang dari kayu shitim, jo ditutuiknyo ⟨אתם⟩ jo ameh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dibueknyo"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "tungkek panjang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ditutuiknyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "tungkek panjang"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:07.345051852Z",
+  "model": "glm-5.3"
+}

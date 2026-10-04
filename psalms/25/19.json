@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Caliek-i musuah ambo, karano inyo lah banyak, jo urang nan banci kakerasan banci pulo kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "caliek-i"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuah ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "inyo lah banyak"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "jo urang nan banci"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kakerasan"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "banci pulo kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:04.199374768Z",
+  "model": "glm-5.3"
+}

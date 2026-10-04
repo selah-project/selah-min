@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo ratu Saba ma-caliak ⟨את⟩ satiok hikmah Shelomo, jo rumah nan inyo buek.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "lalu inyo ma-caliak"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Saba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satiok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "jo rumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inyo buek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:57.269267889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu Yahweh bakato kapado Moshe: Firaun indak ka mandanga kalian, supayo mukjizat-mukjizat-Ko batambah di bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ka mandanga"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firaun"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "batambah"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mukjizat-mukjizat-Ko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:29.666420111Z",
+  "model": "glm-5.3"
+}

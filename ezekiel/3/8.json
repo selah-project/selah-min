@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Caliak, Ambo alah mambuek ⟨את⟩ muko kau kareh balawan muko inyo, jo ⟨את⟩ dahi kau kareh balawan dahi inyo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ambo alah mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko kau"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko kau"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "kareh"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "balawan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "muko inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "dahi kau"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "dahi kau"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kareh"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "balawan"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "dahi inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:49:11.427948529Z",
+  "model": "glm-5.3"
+}

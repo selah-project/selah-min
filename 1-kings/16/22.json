@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Urang tu nan mangikuik Omri manguasai ⟨את⟩ urang tu nan mangikuik Tibni anak Ginath, lalu Tibni mati, jo Omri manjadi rajo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "manguasai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mangikuik"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mangikuik"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginath"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "manjadi rajo"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-10-04T05:52:25.485501685Z",
+  "model": "glm-5.3"
+}

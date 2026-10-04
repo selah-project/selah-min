@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo Avraham mananam sa batang tamarisko di Be'er-Syeba, jo inyo mambuek sato di sinan jo namo Yahweh, El Olam.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "mananam sa batang tamarisko"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "tamarisko"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "di Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mambuek sato"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:56.723156705Z",
+  "model": "glm-5.3"
+}

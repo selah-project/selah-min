@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Cuma darahnyo ⟨את⟩ jan awak makan; ka ateh tanah awak tuang inyo, sarupo aia.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "cuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahnyo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "awak makan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "awak tuang inyo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sarupo aia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:45.320695104Z",
+  "model": "glm-5.3"
+}

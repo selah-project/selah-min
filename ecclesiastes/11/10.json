@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo buanglah kamarahan dari ati ang, jo paiâslah kajahatan dari dagiang ang, karano maso ketek jo itam rambuik adolah sia-sia.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "jo buanglah"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kamarahan"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "dari ati ang"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "jo paiâslah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "dari dagiang ang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "maso ketek"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "jo itam rambuik"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sia-sia"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:15.698055421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Untuak pamimpin musik, jo parabik dawai, nan maaja, dek Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak pamimpin musik"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "jo parabik dawai"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nan maaja"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dek Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:25.781825897Z",
+  "model": "glm-5.3"
+}

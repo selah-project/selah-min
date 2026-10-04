@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo pado perkara iko sanak indak picayo kapado Yahweh, Elohim sanak.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "jo pado perkara iko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "indak"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "picayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:54.728844444Z",
+  "model": "glm-5.3"
+}

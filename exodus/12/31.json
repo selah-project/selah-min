@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu inyo maimbau Moshe jo Aharon pado malam itu, jo bakato: Bangkiklah, kalua lah dari tangah-tangah kaum ambo, kalian juo, anak-anak Yisrael juo; pai lah, khidmatlah kapado ⟨את⟩ Yahweh, sarupo nan alah kalian katakan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu maimbau"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kapado Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "jo kapado Aharon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pado malam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "bangkiklah"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "kalua lah"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tangah-tangah"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kaum ambo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "pai lah"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "khidmatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "sarupo nan alah kalian katakan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:47.688768545Z",
+  "model": "glm-5.3"
+}

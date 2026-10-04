@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Yahweh mamarentahkan ⟨אתך⟩ basamo angkau ⟨את⟩ barakaik dalam lamari-lamari simpananmu jo dalam sado nan ka tanganmu kirim, jo inyo mamacak barakaik atasmu di bumi nan Yahweh, Elohimmu, agiah kapado angkau.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "mamarentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩ basamo angkau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barakaik"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "barakaik"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "dalam lamari-lamari simpananmu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo dalam sado"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "nan ka tanganmu kirim"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "jo inyo mamacak barakaik atasmu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:35.881630843Z",
+  "model": "glm-5.3"
+}

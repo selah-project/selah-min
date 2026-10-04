@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu Paroh juo mangimpan urang-urang bijak jo urang-urang tukang sihie; urang-urang panyireh Mitsrayim juo mamakai ilmu sihie mareka, sarupo co itu juo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mangimpan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "urang-urang bijak"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "jo urang-urang tukang sihie"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mareka bamain"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mareka"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "panyireh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "jo ilmu sihie mareka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sarupo co itu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:05.967968445Z",
+  "model": "glm-5.3"
+}

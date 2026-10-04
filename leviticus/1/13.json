@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 1:13",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo isinyo jo kaduo larinyo dibasuah jo aia, lalu imam mambaok ⟨את⟩ sagalonyo, jo mambakaunnyo di ateh mezbah —olah ⟨ia⟩, pambakaran, bau nan mamikek kapado Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "jo isinyo"
+    },
+    {
+      "surface": "והכרעים",
+      "gloss": "jo kaduo larinyo"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "dibasuah"
+    },
+    {
+      "surface": "במים",
+      "gloss": "jo aia"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalonyo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sagalonyo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "jo mambakaannyo"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di ateh mezbah"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "pambakaran"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nan mamikek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:38.527423369Z",
+  "model": "glm-5.3"
+}

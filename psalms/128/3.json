@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 128,
+  "translation": "Bini awak bakcando kayu anggur nan babuah, di suduik-suduik rumah awak; anak-anak awak bakcando tanoman zaitun, mangaliliangi meja awak.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "bini awak"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "bakcando kayu anggur"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "nan babuah"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "di suduik-suduik"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah awak"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anak awak"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "bakcando tanoman"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mangaliliangi"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "meja awak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:39.114142724Z",
+  "model": "glm-5.3"
+}

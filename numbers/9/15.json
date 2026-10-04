@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo pado ari didirian ⟨את⟩ Mishkan, awan manutuik ⟨את⟩ Mishkan, tampek tenda kasaksian; jo pado patang ado di ateh Mishkan sarupo rupo api sampai pagi.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Jo pado ari"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "didirian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "manutuik"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "tampek tenda"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "jo pado patang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "sarupo rupo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:57.558530857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Nasihat urang sansaro awak elu-elukan, tapi Yahweh adolah palinduangannyo.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "urang sansaro"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "awak elu-elukan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "palinduangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:47.738629794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Kami alah bakasalah, jo alah mambuek kaburukoan, jo alah buek jahat, jo alah mambalang, jo alah bapaliah dari parentah-Mu jo dari hukum-Mu;",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "kami alah bakasalah"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "jo alah mambuek kaburukoan"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "jo alah buek jahat"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "jo alah mambalang"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "jo alah bapaliah"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "dari parentah-Mu"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "jo dari hukum-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:30:02.077881792Z",
+  "model": "glm-5.3"
+}

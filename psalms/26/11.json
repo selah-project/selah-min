@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Ambo, jo kaluruahan ambo balangkah; tebuihan ambo, jo baniah kasihan kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "jo kaluruahan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "balangkah"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "tebuihan ambo"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "jo baniah kasihan kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:02.797618775Z",
+  "model": "glm-5.3"
+}

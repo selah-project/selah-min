@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Supayo anak-anak Yisrael malakukan ⟨את⟩ Paskah pado wakatunyo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "supayo malakukan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paskah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "pado wakatunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:44.241653166Z",
+  "model": "glm-5.3"
+}

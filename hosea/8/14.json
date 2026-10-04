@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo Yisrael alah lupo kapado ⟨את⟩ Pambueknyo, jo inyo mambangun istano-istano; jo Yehudah alah marampa koto-koto bakuat; tapi Aku ka mangirim api ka koto-koto inyo, jo api itu makan istano-istanonyo.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "jo alah lupo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pambueknyo"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Pambueknyo"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "jo mambangun"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "istano-istano"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jo Yehudah"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "marampa"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "bakuat"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "tapi Aku ka mangirim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "ka koto-koto inyo"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "jo makan"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "istano-istanonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:57.376501343Z",
+  "model": "glm-5.3"
+}

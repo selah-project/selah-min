@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Ambo lah lambek lai jo tapukuliang sangaik; ambo mangadang dek marangok ati ambo.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "lambek"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "tapukuliang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mangadang"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "dek marangok"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:46.406904367Z",
+  "model": "glm-5.3"
+}

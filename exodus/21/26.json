@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Dan kalau saurang laki-laki mahantam ⟨את⟩ mato amba laki-lakinyo atau ⟨את⟩ mato amba padusinyo sahinggo rusak, inyo musti maagiah kaumardikaan kapadonyo karano matonyo.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dan kalau"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "mahantam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang laki-laki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mato"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "amba laki-lakinyo"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mato"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "amba padusinyo"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "sahinggo rusak"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "untuak kaumardikaan"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "inyo musti maagiah ka… (malapehannyo)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "matonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:34.587124477Z",
+  "model": "glm-5.3"
+}

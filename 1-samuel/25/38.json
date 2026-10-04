@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Dan bajalan kiro-kiro sapuluah ari sasudahnyo, Yahweh mahantam ⟨את⟩ Nabal, dan inyo mati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadi"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "kiro-kiro sapuluah"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "dan mahantam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan mati"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:50.009817171Z",
+  "model": "glm-5.3"
+}

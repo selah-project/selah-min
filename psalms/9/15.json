@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Supayo ambo Manyampaian sado pujian-pujian ⟨את⟩-Mu di gapuro-gapuro banoi Tsiyon, ambo bagembira dalam panyalamaikan-Mu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "manyampaian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "pujian-pujian-Mu"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "di gapuro-gapuro"
+    },
+    {
+      "surface": "בת",
+      "gloss": "banoi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ambo bagembira"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "dalam panyalamaikan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:46.912174048Z",
+  "model": "glm-5.3"
+}

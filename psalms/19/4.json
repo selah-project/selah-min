@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Indak ado kato, jo indak ado siapo-siapo; tanpa tadanga suaro ⟨mereka⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "siapo-siapo"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "tadanga"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "suaro mereka"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:24.127774616Z",
+  "model": "glm-5.3"
+}

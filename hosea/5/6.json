@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo kambiang-kambiangnyo jo lombongnyo inyo-nyo pai mancari ⟨את⟩ Yahweh, tapi indak tacari; inyo alah mailak dari inyo-nyo.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "jo kambiang-kambiangnyo"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "jo lombongnyo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "pai"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "tacari"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "alah mailak"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dari inyo-nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:08.256813802Z",
+  "model": "glm-5.3"
+}

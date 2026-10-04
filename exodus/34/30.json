@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo Aharon jo sagalo anak-anak Yisrael caliak ⟨את⟩ Moshe, jo bahrenyo kulik mukonyo baragiang-buruak, lapeh inyo-takuik mandakek kapadonyo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "jo … caliak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo bahrenyo"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "baragiang"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "jo inyo-takuik"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "mandakek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:36.404077022Z",
+  "model": "glm-5.3"
+}

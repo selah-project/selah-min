@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Baiak kambiang-damak kalian, baiak lembu kalian, ambiaklah, sarupo nan alah kalian katakan; pai lah, jo barekatilah ⟨את⟩ ambo juo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "kambiang-damak kalian"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "lembu kalian"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ambiaklah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "nan alah kalian katakan"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "pai lah"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "jo barekatilah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:47.689004348Z",
+  "model": "glm-5.3"
+}

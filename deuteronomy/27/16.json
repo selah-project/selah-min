@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Tarakutuah urang nan maápo-i ayahnyo jo ibunyo; jo sadoalah bangso bakato: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Tarakutuah"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "nan maápo-i"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnyo"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "jo ibunyo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:09.971419940Z",
+  "model": "glm-5.3"
+}

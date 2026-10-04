@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Kasadioan labiah baiak dari tawa, karano dek panyadioan muko ati manjadi baiak.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "labiah baiak"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kasadioan"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "dek panyadioan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muko"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "manjadi baiak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:20.561104278Z",
+  "model": "glm-5.3"
+}

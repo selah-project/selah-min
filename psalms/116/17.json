@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Kapado Engkau ambo kaoriakan kurban syukur, jo dalam Namo Yahweh ambo manyeru.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "ambo kaoriakan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "syukur"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "jo dalam Namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ambo manyeru"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:53.625434331Z",
+  "model": "glm-5.3"
+}

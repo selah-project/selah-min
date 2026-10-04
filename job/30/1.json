@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 30:1",
+  "book": "job",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Tapi kini urang-urang nan labiah mudo dari ambo mangalawak-i ambo — urang nan bapak-bapaknyo ambo paliek untuak dilatak-an baso anjiang-anjiang kawan ambo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "tapi kini"
+    },
+    {
+      "surface": "שחקו",
+      "gloss": "mangalawak-i"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "צעירים",
+      "gloss": "urang-urang nan labiah mudo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "dalam hari (umua)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מאסתי",
+      "gloss": "ambo paliek"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bapak-bapaknyo"
+    },
+    {
+      "surface": "לשית",
+      "gloss": "untuak dilatak-an"
+    },
+    {
+      "surface": "עם",
+      "gloss": "baso"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "anjiang-anjiang"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "kawan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:11:29.720248320Z",
+  "model": "glm-5.3"
+}

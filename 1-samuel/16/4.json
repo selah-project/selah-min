@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Maka Shemuel buek sadjanan ⟨את⟩ nan alah dikato Yahweh, jo inyo tibo di Beit Lechem; tatuo-tatuo kota tu gataik manamui inyo, jo inyo bakato: Damaik-kah kadaanganmu?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "maka … buek"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadjanan nan alah dikato Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alas dikato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "jo inyo tibo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "gataik"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tatuo-tatuo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota tu"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "manamui inyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "damaik-kah"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "kadaanganmu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:20.590227747Z",
+  "model": "glm-5.3"
+}

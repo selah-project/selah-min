@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jugo ka sadolah kato-kato nan dikatokan urang, jangan agiah ati sanak, supayo indak mandanga ⟨את⟩ hamba sanak nan makiak sanak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "jugo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sadolah"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "dikatokan urang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ati sanak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba sanak"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba sanak"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "nan makiak sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:57.716794538Z",
+  "model": "glm-5.3"
+}

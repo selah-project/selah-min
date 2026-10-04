@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Karano ambo akan manuang aia ka nan haus, jo aliran-aliran ka tanah kariang; ambo akan manuang ruakh ambo ka beniah awak, jo barek ambo ka katurunan awak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "ambo akan manuang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "nan haus"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "jo aliran-aliran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "tanah kariang"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "ambo akan manuang"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniah awak"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "jo barek ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "katurunan awak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:15:32.779389454Z",
+  "model": "glm-5.3"
+}

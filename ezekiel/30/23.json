@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo ambo ambaur ⟨את⟩ Mitsrayim di antaro bangso-bangso, jo ambo saba urang tu ka nagari-nagari lain.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "jo ambo ambaur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antaro bangso-bangso"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "jo ambo saba urang tu"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ka nagari-nagari lain"
+    }
+  ],
+  "timestamp": "2026-10-04T09:20:04.121063629Z",
+  "model": "glm-5.3"
+}

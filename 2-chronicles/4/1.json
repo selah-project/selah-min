@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu inyo mambuek mezbah tambago: duo puluah hasta panjangnyo, jo duo puluah hasta lebanyo, jo sapuluah hasta tingginyo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu inyo mambuek"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnyo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jo duo puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebanyo"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "jo sapuluah"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tingginyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:50:37.103418635Z",
+  "model": "glm-5.3"
+}

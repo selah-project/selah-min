@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Ambo mancari ⟨את⟩ Yahweh, jo Inyo manjawab ambo, jo dari sagalo katarik ambo Inyo palapeh ambo.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "ambo mancari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "jo Inyo manjawab ambo"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "jo dari sagalo"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "katarik ambo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "Inyo palapeh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:14.375550659Z",
+  "model": "glm-5.3"
+}

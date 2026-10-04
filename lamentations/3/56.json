@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Nyiak ambo alah Kau danga; jang kok talalok ⟨את⟩ talingo-Mu pado napak ambo, pado raung ambo.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "nyiak ambo"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Kau danga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jang kok"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "talalok"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "talingo-Mu",
+      "marks": "talingo-Mu"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "pado napak ambo"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "pado raung ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:18:35.368885060Z",
+  "model": "glm-5.3"
+}

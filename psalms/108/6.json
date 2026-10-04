@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 108,
+  "translation": "Tinggikan ⟨diri-Mu⟩, Elohim, di ateh langik, jo di ateh saluruh bumi kamuliaan-Mu!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "tinggikan ⟨diri-Mu⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kamuliaan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:10.842401108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo nan maagiah ⟨את⟩ korban-nyo pado ari patamo: Nakhsyon anak Amminadab, untuak suku Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "nan maagiah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "patamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban-nyo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korban-nyo"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhsyon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadab"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "untuak suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-04T04:40:02.388079276Z",
+  "model": "glm-5.3"
+}

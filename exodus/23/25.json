@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Dan kalian ka melayani ⟨את⟩ Yahweh, Elohim kalian, jo Inyo mangamek ⟨את⟩ roti kalian jo ⟨את⟩ aia kalian, dan Aka manguangkan panyakik dari tangah-tangah kalian.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "dan kalian ka melayani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kalian"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "jo mangamek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roti kalian"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "roti kalian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "aia kalian"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "aia kalian"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "dan Aka manguangkan"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "panyakik"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dari tangah-tangah kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:29.091701772Z",
+  "model": "glm-5.3"
+}

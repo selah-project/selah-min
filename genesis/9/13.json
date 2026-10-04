@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "⟨את⟩ panah ambo alah ambo taruah di awan, jo inyo manjadi tando parjanjian antaro ambo jo bumi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panah ambo"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "panah ambo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah ambo taruah"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "di awan"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "jo inyo manjadi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tando"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antaro ambo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:43.703231167Z",
+  "model": "glm-5.3"
+}

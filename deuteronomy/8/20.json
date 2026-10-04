@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Sarupo bangso-bangso nan Yahweh musnahan dari muko kalian — sarupo itu pulo kalian ka binaso, sabab indak kalian mandanga suaro Yahweh, Elohimnyo kalian.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "sarupo bangso-bangso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "musnahan"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dari muko kalian"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sarupo itu pulo"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "kalian ka binaso"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "kalian mandanga"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimnyo kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:47.955359029Z",
+  "model": "glm-5.3"
+}

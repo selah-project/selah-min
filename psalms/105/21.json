@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Dibueknyo inyo tuan ateh rumahnyo, jo pangarah ateh sagalo harto-bendanyo.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "dibueknyo"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ateh rumahnyo"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "jo pangarah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ateh sagalo"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "harto-bendanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:46.893362303Z",
+  "model": "glm-5.3"
+}

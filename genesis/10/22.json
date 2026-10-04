@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Anak-anak Shem: Elam, Ashur, Arpakhshad, Lud, jo Aram.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "jo Ashur"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "jo Arpakhshad"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "jo Lud"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "jo Aram"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:28.660010347Z",
+  "model": "glm-5.3"
+}

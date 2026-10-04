@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Kalau sungguah manyasani kalian manyasani ⟨אתו⟩ inyo, karano karano inyo bakatoji bakatoji kapado Aku — mandanga Aku ka mandanga takionyo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "sungguah manyasani"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "kalian manyasani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ino (jando atau anak yatim)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sungguahkok"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "bakatoji"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "bakatoji"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado Aku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "Aku ka mandanga"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "takionyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:04.766401401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Jo panjang umua Ambo mangangek an kanyangannyo, jo Ambo mancaliakan kasalamatan Ambo kapado inyo.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "umua"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "Ambo mangangek an kanyangannyo"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "jo Ambo mancaliakan"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "kasalamatan Ambo kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:37.496381517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 137,
+  "translation": "O anak padusi Babel, nan ka ditampeh — sananglah inyo nan mambaleh ka ang ⟨את⟩ balasan ang, karano ang alah mambuek ka kami.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "nan ka ditampeh"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "sananglah"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "nan mambaleh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balasan ang"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "balasan ang"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "ang alah mambuek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kami"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:09.485068402Z",
+  "model": "glm-5.3"
+}

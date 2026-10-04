@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 10:13",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu inyo baranti dari manabiatkan, lalu datang ka bama.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "baranti"
+    },
+    {
+      "surface": "מהתנבות",
+      "gloss": "manabiatkan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "datang ka"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "bama"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:30.587684791Z",
+  "model": "glm-5.3"
+}

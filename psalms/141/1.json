@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 141,
+  "translation": "Mazmur untuak Dawid. Yahweh, ambo alah manyapo Awak; capeklah kapado ambo; palakia talingo ka suaro ambo katiko ambo manyapo Awak.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ambo alah manyapo Awak"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "capeklah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "palakia talingo"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "katiko ambo manyapo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Awak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:50.838614214Z",
+  "model": "glm-5.3"
+}

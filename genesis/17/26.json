@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Di ari nan samo ko Avraham disunat, jo Yishmael anaknyo.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "samo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "disunat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "jo Yishmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:55.028862629Z",
+  "model": "glm-5.3"
+}

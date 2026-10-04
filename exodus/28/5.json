@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Dan urang tu mangambiek ⟨את⟩ ameh, ⟨את⟩ tekhelet, ⟨את⟩ argaman, ⟨את⟩ tolaat syani, jo ⟨את⟩ syesy.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "dan urang tu"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "mangambiek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ameh"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tekhelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tolaat syani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "syani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "syesy"
+    },
+    {
+      "surface": "השש",
+      "gloss": "syesy"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:31.833858280Z",
+  "model": "glm-5.3"
+}

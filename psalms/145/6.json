@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Jo kakuasaan↔ perbuatan-Mu nan mahaluo urang ka bakanjak-an, jo kabarasoan-Mu ambo ka carito-an.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "jo kakuasaan"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "perbuatan-Mu nan mahaluo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "urang ka bakanjak-an"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "jo kabarasoan-Mu"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ambo ka carito-an"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:44.817168739Z",
+  "model": "glm-5.3"
+}

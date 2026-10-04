@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo kalian baribik dari panyarangan, sarasu kota itu; jo Yahweh, Elohim kalian, ka manyarah kota itu ka tangan kalian.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "jo kalian"
+    },
+    {
+      "surface": "תקומו",
+      "gloss": "baribik"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "dari panyarangan"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "sarasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ka manyarah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kalian"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ka tangan kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T05:06:26.647438579Z",
+  "model": "glm-5.3"
+}

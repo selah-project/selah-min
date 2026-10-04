@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "jo Yirmeyahu, jo Yakhaziel, jo Yokhanan, jo Yozabad urang Gederati,",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "jo Yirmeyahu"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "jo Yakhaziel"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "jo Yokhanan"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "jo Yozabad"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "urang Gederati"
+    }
+  ],
+  "timestamp": "2026-10-04T08:43:24.294206564Z",
+  "model": "glm-5.3"
+}

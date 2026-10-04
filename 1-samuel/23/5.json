@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Lalu Dawid jo urang-urangnyo pai ka Keilah, lalu baparang manghadok urang Paliset, jo mambaok pulo ⟨את⟩ ambo-ambo mareka, jo mamukua mareka pukulan gadang; jo Dawid malapehkan ⟨את⟩ panduduak Keilah.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "jo urang-urangnyo"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ka Keilah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "lalu baparang"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "manghadok urang Paliset"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "jo mambaok pulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambo-ambo mareka"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ambo-ambo mareka"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "jo mamukua"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mareka"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pukulan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "jo malapehkan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panduduak Keilah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:52.452576013Z",
+  "model": "glm-5.3"
+}

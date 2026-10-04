@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo Achaz maambiak ⟨את⟩ perak jo ⟨את⟩ ameh nan tasadio di rumah Yahweh jo di padapekan rumah rajo, lalu mangirim kapado rajo Asyur sabagai suap.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "ameh"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nan tasadio"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "jo di padapekan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kapado rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suap"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:47.059567936Z",
+  "model": "glm-5.3"
+}

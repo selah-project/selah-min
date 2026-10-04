@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lauik saketek lai, indak ado lai urang jahat; alah kau timbo tampeknyo, indak ado inyo lai.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado lai"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "alah kau timbo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tampeknyo"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "indak ado inyo lai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:42.019635431Z",
+  "model": "glm-5.3"
+}

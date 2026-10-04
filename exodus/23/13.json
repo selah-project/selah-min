@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 23:13",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo di sagalo nan ambo kato kapado kamu, awak sandiri pai jago; jo namo elohim nan lain indak awak sabuik, indak tadanga di muncuang awak.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "jo di sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo kato"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kapado kamu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "awak sandiri pai jago"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "awak sabuik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "tadanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "muncuang awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:26.604718552Z",
+  "model": "glm-5.3"
+}

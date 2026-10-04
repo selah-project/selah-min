@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Satiok wakatu pakaian sanok pasiah putiah, jo minyak di ateh kapalo sanok janga sampai kurang.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "pasiah"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "pakaian sanok"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "putiah"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kapalo sanok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janga sampai"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "kurang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:41.919468397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Lalu Yaakov bakato kapado Lavan: Agiah ⟨את⟩ bini ambo, karano ari-ari ambo alah panuah, supayo ambo masuak kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "agiahlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini ambo"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "bini ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "alah panuah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari ambo"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "supayo ambo masuak"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:56.847499806Z",
+  "model": "glm-5.3"
+}

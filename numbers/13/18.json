@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "jo caliaklah ⟨את⟩ tanah itu, aok inyo, jo ⟨את⟩ urang banyak nan tingga di atehnyo — kuek ⟨ia⟩, lamah ⟨ia⟩; saketek ⟨ia⟩, apo labiah banyak;",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "jo caliaklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "aok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "nan tingga"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "kuek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "lamah"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "labiah banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:42:44.579578188Z",
+  "model": "glm-5.3"
+}

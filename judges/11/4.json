@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Salamo-salamo maso, anak-anak Ammon baparang jo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "salamo-salamo maso"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "baparang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:19:20.175772096Z",
+  "model": "glm-5.3"
+}

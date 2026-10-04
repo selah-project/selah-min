@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai kami, bao aguang namo-Mu di saluruah bumi, nan alah Maâgaikan hou-Mu di ateh langik!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bao"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "aguang"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di saluruah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Maâgaikan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "hou-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:50.301453296Z",
+  "model": "glm-5.3"
+}

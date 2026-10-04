@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "mato batuka mato, gigi batuka gigi, tangan batuka tangan, kaki batuka kaki.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "batuka"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "batuka"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "batuka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "batuka"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:15.335379641Z",
+  "model": "glm-5.3"
+}

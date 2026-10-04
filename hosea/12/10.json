@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Adopun ambo iolah Yahweh, Elohim ang, dari tanah Mitsrayim; lai ambo ka mambuek ang duduak di khemah-khemah, sarupo ari-ari patamuan nan batamtuan.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "adopun ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ang"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ka ambo mambuek ang duduak"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "di khemah-khemah"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sarupo ari-ari"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan nan batamtuan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:26.179570395Z",
+  "model": "glm-5.3"
+}

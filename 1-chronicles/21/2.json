@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo Dawid bakato kapado Yoab jo kapado para pangulu kaum tu: Pai, itung ⟨את⟩ Yisrael dari Be'er-Syeba sampai ka Dan, jo bao kapadok ambo, supayo ambo tau ⟨את⟩ jumalah urang tu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum tu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Pai"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "itung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "dari"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Be'er-Syeba"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "jo bao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapadok ambo"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "supayo ambo tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jumalah urang tu"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "jumalah urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:46:12.583182059Z",
+  "model": "glm-5.3"
+}

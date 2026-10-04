@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo angan musti mamaliharo ⟨את⟩ parentah tu, jo ⟨את⟩ hukum-hukum tu, jo ⟨את⟩ pangadilan-pangadilan tu, nan ambo parentahkan kapado ang ari ko, untuak mangarajokannyo.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "angan musti mamaliharo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah tu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "parentah tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hukum-hukum tu"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hukum-hukum tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pangadilan-pangadilan tu"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "pangadilan-pangadilan tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parentahkan kapado ang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari ko"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "untuak mangarajokannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:26.189720777Z",
+  "model": "glm-5.3"
+}

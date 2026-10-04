@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Kok Yehu mangumpuakan ⟨את⟩ sagalo urang tu, dan bakato kapado urang tu: Ahab alah mangabekaan ⟨את⟩ Baal saketek; Yehu ka mangabekaan inyo bana.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "mangumpuakan"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo urang tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mangabekaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ka mangabekaan inyo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:19.586880196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Lalu Iyob manjawab ⟨את⟩ Yahweh jo bakato:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "manjawab lalu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T08:14:40.447991057Z",
+  "model": "glm-5.3"
+}

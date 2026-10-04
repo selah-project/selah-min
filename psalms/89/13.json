@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Utara jo selatan, Angkau nan manjadian kaduonyo; Tabor jo Hermon basorak-sorai sanang dalam namo-Mu.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "jo selatan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Angkau"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "manjadian kaduonyo"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "jo Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "dalam namo-Mu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "basorak-sorai sanang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:35.538748590Z",
+  "model": "glm-5.3"
+}

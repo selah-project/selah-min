@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 127,
+  "translation": "Sia-sia untuak sanak banguak pagi-pagi, lalo lareh duduak, urang nan makan roti kasusahan; baitu juo Inyo mambari lalok kapado nan kasih-Nyo.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Sia-sia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak sanak"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "banguak pagi-pagi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "banguak"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "lalo lareh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "duduak"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "urang nan makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Inyo mambari"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "kapado nan kasih-Nyo"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "lalok"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:52.064591173Z",
+  "model": "glm-5.3"
+}

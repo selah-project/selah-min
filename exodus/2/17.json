@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu datang urang-urang gamba jo mambuwek urang tu pai; bangkiklah Moshe jo manolong urang tu, jo maleleh aia kapado ⟨את⟩ kawanannyo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "lalu datang"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "urang-urang gamba"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "mambuwek urang tu pai"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "bangkiklah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "manolong urang tu"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "maleleh aia kapado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanannyo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "kawanannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:35.422856494Z",
+  "model": "glm-5.3"
+}

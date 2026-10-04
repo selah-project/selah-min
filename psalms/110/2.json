@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 110,
+  "translation": "Tongkek kakuatanmu Yahweh ka utus dari Tsiyon: bakuasolah di tangah-tangah musuahmu.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Tongkek"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kakuatanmu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ka utus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari Tsiyon"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "bakuasolah"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuahmu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:26.481788246Z",
+  "model": "glm-5.3"
+}

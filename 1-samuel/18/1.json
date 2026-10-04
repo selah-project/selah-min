@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jadi katiko Dawid salasai mangecek kapado Shaul, nyawa Yehonatan takaik jo nyawa Dawid, jo Yehonatan pancintoi inyo sarupo nyawanyo surang.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "katiko inyo salasai"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "jo nyawa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "takaik"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "jo nyawa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "jo inyo pancintoi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "sarupo nyawanyo surang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:19.221752915Z",
+  "model": "glm-5.3"
+}

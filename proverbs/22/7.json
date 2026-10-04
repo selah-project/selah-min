@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Urang kayo mamarintah urang miskin, jo urang nan maotang manjadi amba kapado urang nan mautang.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Urang kayo"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "mamarintah"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "jo amba"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "urang nan maotang"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kapado urang"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "nan mautang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:34.249676914Z",
+  "model": "glm-5.3"
+}

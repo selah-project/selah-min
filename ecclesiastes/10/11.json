@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Kalau ula manggigik balun dijampi, moko indak ado kauntungan bagi tukang jampi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "manggigik"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ula"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "balun ado"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "jampi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "moko indak ado"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kauntungan"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "bagi tukang"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "jampi"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:47.589533326Z",
+  "model": "glm-5.3"
+}

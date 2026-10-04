@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Untuak kapalo musik, untuak hamba Yahweh, untuak Dawid, nan bakato kapado Yahweh ⟨את⟩ kato-kato nyanyian iko, pado hari Yahweh malapeh ⟨את⟩ inyo dari cakap sagalo musuahnyo jo dari tangan Sha-ul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak kapalo musik"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuak hamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato nyanyian iko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado hari"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "malapeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dari cakap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuahnyo"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "jo dari tangan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:24.666742826Z",
+  "model": "glm-5.3"
+}

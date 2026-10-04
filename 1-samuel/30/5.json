@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo duo bini Dawid dibao tungguang: Ahinoam urang Yizreel, jo Abigail bini Nabal urang Karmel.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "jo duo"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "bini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "dibao tungguang"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "urang Yizreel"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "jo Abigail"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "urang Karmel"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:57.215604754Z",
+  "model": "glm-5.3"
+}

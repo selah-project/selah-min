@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Nakhshon manurunkan ⟨את⟩ Salmon, jo Salmon manurunkan ⟨את⟩ Boaz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Nakhshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmon"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmon"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "jo Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:21.860937951Z",
+  "model": "glm-5.3"
+}

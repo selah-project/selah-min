@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Karano inyo bakato: Bukannyo panglima-panglima ambo sadonyo rajo-rajo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "bukannyo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "panglima-panglima ambo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo-rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:44.995976232Z",
+  "model": "glm-5.3"
+}

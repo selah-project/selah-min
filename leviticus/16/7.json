@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo inyo mambiason ⟨את⟩ duo kambing jantan itu, lalu mandiriakannyo di muko Yahweh, di mulo pintu Tant Patamuan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "jo inyo mambiason"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duo kambing jantan itu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "kambing jantan itu"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "lalu mandiriakannyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "kaduo kambing jantan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di mulo pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:17.516073319Z",
+  "model": "glm-5.3"
+}

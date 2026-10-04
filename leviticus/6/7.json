@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo iko adolah Torah nan minkha tu: dibaoknyo ⟨את⟩ dek anak-anak Aharon di muko Yahweh, ka muko mazbah tu.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha tu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "dibaoknyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "minkha tu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:25.675932731Z",
+  "model": "glm-5.3"
+}

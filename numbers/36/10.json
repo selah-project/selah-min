@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Sarupo nan diparentahkan Yahweh kapado ⟨את⟩ Moshe, damikian pulo nan dikarajoan anak-anak padusi Tselofkhad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "damikian pulo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nan dikarajoan"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak padusi"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofkhad"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:13.728834589Z",
+  "model": "glm-5.3"
+}

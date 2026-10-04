@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Ndak tahukah sagalo urang nan karajokan kahiehek, pamakan nagari ambo, makan roti — Yahweh ndak urang tu seru?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ndak tahukah"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tahukah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "urang nan karajokan"
+    },
+    {
+      "surface": "און",
+      "gloss": "kahiehek"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "pamakan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nagari ambo"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndak"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "seru"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:02.892525565Z",
+  "model": "glm-5.3"
+}

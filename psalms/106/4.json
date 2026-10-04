@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Ingatkan ambo, Yahweh, jo kabaiakan-Mu kapado bangso-Mu; caliak lah ambo jo panyalamatan-Mu.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Ingatkan ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "jo kabaiakan-Mu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kapado bangso-Mu"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "caliak lah ambo"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "jo panyalamatan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:24.611182800Z",
+  "model": "glm-5.3"
+}

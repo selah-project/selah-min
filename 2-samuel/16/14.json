@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Laju rajo tu jo saluruah urang banyak nan ⟨את⟩ inyo tibo, lah lalo, laju inyo maambiak nafas di sinan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo saluruah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rajo tu jo urang banyak"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "lah lalo"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "maambiak nafas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:39:38.527762593Z",
+  "model": "glm-5.3"
+}

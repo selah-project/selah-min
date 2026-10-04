@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Inyo bapaling ka doa urang nan tasisiah, jo indak mangiliaikan ⟨את⟩ doanyo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "bapaling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "doa"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "urang nan tasisiah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "mangiliaikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doanyo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "doanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:34.988785341Z",
+  "model": "glm-5.3"
+}

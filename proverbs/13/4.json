@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Nafesh urang nan malas mangidam tapi indak punyo apo-apo; tapi nafesh urang nan rajin ka kanyang.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "mangidam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi indak punyo apo-apo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafesh"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "urang nan malas"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "tapi nafesh"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "urang nan rajin"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ka kanyang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:57:01.040225443Z",
+  "model": "glm-5.3"
+}

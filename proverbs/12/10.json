@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Urang tsedeq mangatahui jiwo binatangnyo; tapi kasiah urang jahat kajam.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "mangatahui"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang tsedeq"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwo"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "binatangnyo"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "tapi kasiah"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "kajam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:16.297085230Z",
+  "model": "glm-5.3"
+}

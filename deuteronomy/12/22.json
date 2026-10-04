@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Anyo sarupo災 ⟨את⟩ kijang jo ⟨את⟩ ruso dimakan, demikian pulo sanak makannyo; nan indak suci jo nan suci, basamo-samo samo dapek makannyo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "anyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kijang"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "kijang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ruso"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ruso"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian pulo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "sanak makannyo"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nan indak suci"
+    },
+    {
+      "surface": "ווהטהור",
+      "gloss": "jo nan suci"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo-samo"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "makannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:53.107563833Z",
+  "model": "glm-5.3"
+}

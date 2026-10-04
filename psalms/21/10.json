@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Ka Kau mamuek inyo-inyo sarupo tuo api pado wakatu muko-Mu; Yahweh dalam kaangek-Nyo manalan inyo, jo api mamakan inyo.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Ka Kau mamuek inyo-inyo"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "sarupo tuo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "pado wakatu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dalam kaangek-Nyo"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "manalan inyo"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "jo api mamakan inyo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:54.586170294Z",
+  "model": "glm-5.3"
+}

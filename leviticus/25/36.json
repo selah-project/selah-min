@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jangan ambiak dari inyo ⟨את⟩ bunga utang jo untuang labiah, tapi batakut-lah kapado Elohim awak, supayo saudaro iduik di sampiang awak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ambiak"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "bunga utang jo untuang labiah"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga utang"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "jo untuang labiah"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "tapi batakut-lah"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "kapado Elohim awak"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "supayo iduik"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaro"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "di sampiang awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:03.391432589Z",
+  "model": "glm-5.3"
+}

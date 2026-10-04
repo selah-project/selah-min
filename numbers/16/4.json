@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo Moshe mandanga, jo inyo basujuik jo mukonyo ka tanah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "basujud"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:44:24.192987220Z",
+  "model": "glm-5.3"
+}

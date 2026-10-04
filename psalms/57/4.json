@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 57,
+  "translation": "Inyo mangiriman dari langik jo paliharo ambo — ⟨katiko⟩ nan mahapuih ambo mangeceki. Selah. Elohim mangiriman hesed-Nyo jo kabanaran-Nyo.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "inyo mangiriman"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langik"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "jo paliharo ambo"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "mangeceki"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "nan mahapuih ambo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "mangiriman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "jo kabanaran-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:40.306906107Z",
+  "model": "glm-5.3"
+}

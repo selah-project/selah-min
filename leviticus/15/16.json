@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo urang, kok kalua dari inyo tumpahan beniah, inyo mambasuah jo aia ⟨את⟩ saluruah dagiangnyo, jo inyo najis sampai patang ari.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari inyo"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "tumpahan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "inyo mambasuah"
+    },
+    {
+      "surface": "במים",
+      "gloss": "jo aia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saluruah dagiangnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "inyo najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "patang ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:47.901006440Z",
+  "model": "glm-5.3"
+}

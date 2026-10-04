@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 108,
+  "translation": "Siapo nan maantaan ambo ka kota benteang? Siapo nan mambimbing ambo sampai ka Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "nan maantaan ambo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "benteang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "nan mambimbing ambo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:53.704473384Z",
+  "model": "glm-5.3"
+}

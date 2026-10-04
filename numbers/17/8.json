@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Maka Moshe jo Aharon tibo di muko Kemah Patamuan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "maka tibo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jo Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:43:44.807108169Z",
+  "model": "glm-5.3"
+}

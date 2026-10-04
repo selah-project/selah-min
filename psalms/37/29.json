@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Urang-urang tsedeq ka mawarisi ⟨את⟩ tanah, jo tingga salamo-lamonyo di atehnyo.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "urang-urang tsedeq"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ka mawarisi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "jo tingga"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:31.884113995Z",
+  "model": "glm-5.3"
+}

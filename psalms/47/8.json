@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Karano Elohim ⟨adolah⟩ rajo sadoalah bumi; pujilah ⟨dangan⟩ pamahaman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "dangan pamahaman"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:52.875410080Z",
+  "model": "glm-5.3"
+}

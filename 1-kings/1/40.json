@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu naiak sagalo rakyat di balakangnyo, jo rakyat basuling-suling, bakariah ria nan godang, sampai bumi pacah dek suaronyo.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "lalu naiak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "di balakangnyo"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "jo rakyat"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "basuling-suling"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "jo suling"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "bakariah"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ria"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "godang"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "lalu pacah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "dek suaronyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:05.369973866Z",
+  "model": "glm-5.3"
+}

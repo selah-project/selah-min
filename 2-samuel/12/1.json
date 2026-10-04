@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu Yahweh mangirim ⟨את⟩ Natan kapado Dawid, jo inyo tibo ka Dakakeh, jo bakato kapadonyo: Duo urang ado di ciek nagari, ciek kaya jo ciek miskin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka Dakakeh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "Duo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "urang"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ado"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di nagari"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "jo ciek"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "miskin"
+    }
+  ],
+  "timestamp": "2026-10-04T09:10:35.166646275Z",
+  "model": "glm-5.3"
+}

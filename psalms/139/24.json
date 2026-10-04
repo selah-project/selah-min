@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Caliak-la kok ado jalan panyikso dalam diri ambo, dan tuntun ambo di jalan salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Caliak-la"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "panyikso"
+    },
+    {
+      "surface": "בי",
+      "gloss": "dalam diri ambo"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "dan tuntun ambo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:43.064235026Z",
+  "model": "glm-5.3"
+}

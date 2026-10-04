@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo Absyalom indak mangecek jo Amnon, indak nan jahat indak juo nan elok, karano Absyalom banci ⟨את⟩ kapado Amnon ateh pakaro nan alah inyo lamun ⟨את⟩ Tamar adiknyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absyalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "nan jahat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "indak juo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "banci"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absyalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "kapado Amnon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "adiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:37:54.721986694Z",
+  "model": "glm-5.3"
+}

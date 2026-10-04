@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Samoga urang doso langang dari bumi, jo urang jahat indak ado lai. Barkahi, waang ati ambo, ⟨את⟩ Yahweh; pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "samoga langang"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "urang doso"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "jo urang jahat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Barkahi, waang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:42.238471996Z",
+  "model": "glm-5.3"
+}

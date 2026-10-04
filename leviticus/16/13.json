@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Dan inyo mambahi ⟨את⟩ dupa di ateh api di muko Yahweh, supayo awan dupa itu manukui ⟨את⟩ kafarat nan ado di ateh kasaksian, supayo inyo indak mati.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "mambahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dupa"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "manukui"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kafarat"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kafarat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan ado"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mati"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:59.589084492Z",
+  "model": "glm-5.3"
+}

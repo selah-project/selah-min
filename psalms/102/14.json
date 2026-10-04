@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Kau ka bangkik, mangasihi ⟨את⟩ Tzion, karano lah tibo wakatunyo untuak dikasihi, karano lah tibo wakatu nan ditantukan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ka bangkik"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "mangasihi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "untuak dikasihi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lah tibo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wakatu nan ditantukan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:34.802632555Z",
+  "model": "glm-5.3"
+}

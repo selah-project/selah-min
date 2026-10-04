@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo Elohim mambangkikan untuaknyo saurang panjalejo, ⟨את⟩ Rezon anak Eliada, nan lari dari ⟨את⟩ Hadadezer rajo Tsova, tuannyo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mambangkikan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "panjalejo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eliada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "lari"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:08.345289359Z",
+  "model": "glm-5.3"
+}

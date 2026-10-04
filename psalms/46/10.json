@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Nyo mambuek parang banaia inggo ujuang bumi, panah dibaliah, tombak dipotong, kareta-rareta dibaka jo api.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Nyo mambuek ... banaia"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "parang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inggo"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ujuang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "panah"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "dibaliah"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "dipotong"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tombak"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "kareta-rareta"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:23.318997115Z",
+  "model": "glm-5.3"
+}

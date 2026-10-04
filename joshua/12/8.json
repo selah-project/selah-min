@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Di gunuang, jo di dataran randah, jo di Araba, jo di lereang, jo di gurun, jo di Negev: urang Het, urang Amori, urang Kanaan, urang Perizi, urang Hiwi, jo urang Yebus.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "di gunuang"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "jo di dataran randah"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "jo di Araba"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "jo di lereang"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "jo di gurun"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "jo di Negev"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "urang Het"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Amori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "urang Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "urang Hiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "jo urang Yebus"
+    }
+  ],
+  "timestamp": "2026-10-04T05:07:55.146152797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo suruah Elohim bakato kapado ambo dalam lamunan: Yaakov! Jo ambo manjawab: Iyo, ambo di siko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "suruah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "dalam lamunan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jo ambo bakato"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "iyo, ambo di siko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:21.315937672Z",
+  "model": "glm-5.3"
+}

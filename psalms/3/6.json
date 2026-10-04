@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Ambo barangkang jo lalok, ambo bajaga, karano Yahweh nan manopang ambo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ambo barangkang"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "jo lalok"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ambo bajaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "nan manopang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:14.806424285Z",
+  "model": "glm-5.3"
+}

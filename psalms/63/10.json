@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 63,
+  "translation": "Tapi urang tu mancari ⟨untuak mambinasoan⟩ jiwa ambo; urang tu ka turun ka bagian paliang dalam bumi.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "tapi urang tu"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "untuak mambinasoan"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa ambo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ka turun ka"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "bagian paliang dalam"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:06.323743758Z",
+  "model": "glm-5.3"
+}

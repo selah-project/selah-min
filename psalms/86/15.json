@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 86,
+  "translation": "Tapi You, ya Adonai, adolah El nan panyayang jo penuah kamaik, lamo sabar, jo banyak hesed jo kabanaran.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tapi You"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "panyayang"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "jo penuah kamaik"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lamo"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "sabar"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "jo banyak"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "jo kabanaran"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:08.684235383Z",
+  "model": "glm-5.3"
+}

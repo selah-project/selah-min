@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 148,
+  "translation": "Pemudo jo pulo padusi perawan, urang gaek basamo anak mudo",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "pemudo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo pulo"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "padusi perawan"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "urang gaek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "anak mudo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:31.922037728Z",
+  "model": "glm-5.3"
+}

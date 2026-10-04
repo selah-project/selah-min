@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Ramu juado urang-Mu indak bana-bana, dan indak manambah kauntungan dari harago inyo.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "juado"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "urang-Mu"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "indak bana-bana"
+    },
+    {
+      "surface": "הון",
+      "gloss": "kakayoan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "manambah"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "dari harago inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:11.003151558Z",
+  "model": "glm-5.3"
+}

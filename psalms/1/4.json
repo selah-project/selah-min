@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Indak bakitu urang-urang jahat, tapi inyo sarupo dabu nan ditangkok ruakh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bakitu"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "sarupo dabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ditangkok"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:03.425951001Z",
+  "model": "glm-5.3"
+}

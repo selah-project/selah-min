@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Mako ambo ka mamagang Torah-Mu taruih-manaruih, salamo-lamonyo jo salamanyo.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "mako ambo ka mamagang"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah-Mu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih-manaruih"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:27.370059806Z",
+  "model": "glm-5.3"
+}

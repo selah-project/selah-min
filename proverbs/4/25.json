@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Mato〈nyo〉 awak tu patuik mancaliak ka muko, jo balopak mato awak tu patuik luruah di muko awak.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "mato awak tu"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "ka muko"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "patuik mancaliak"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "jo balopak mato awak tu"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "patuik luruah"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di muko awak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:49.144705317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Ati ambo bariburuih, kakuatan ambo lah mambaan ambo, jo cahayo mato ambo — inyo pun indak ado ⟨את⟩ di ambo.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Ati ambo"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "bariburuih"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "mambaan ambo"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kakuatan ambo"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "jo cahayo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "di ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:46.407392249Z",
+  "model": "glm-5.3"
+}

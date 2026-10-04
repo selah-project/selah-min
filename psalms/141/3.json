@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 141,
+  "translation": "Tagakkanlah, Yahweh, panjago di mulo ambo, jagolah pintu bibiah ambo.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Tagakkanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "panjago"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "di mulo ambo"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "jagolah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibiah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:50.838964846Z",
+  "model": "glm-5.3"
+}

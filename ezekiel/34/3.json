@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "⟨את⟩ lomak urang makan, jo ⟨את⟩ bulu urang mamakai, nan lamak-gempang urang manyambalih; kambiang-kambiang indak urang gembala.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lomak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lomak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "urang makan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bulu"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "bulu"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "urang mamakai"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "nan lamak-gempang"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "urang manyambalih"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kambiang-kambiang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "urang gembala"
+    }
+  ],
+  "timestamp": "2026-10-04T07:00:27.371699622Z",
+  "model": "glm-5.3"
+}

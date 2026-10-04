@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Yahweh ado di bait sucinyo — sunniaklah di hadapan-Nyo, sagalo bumi!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "jo Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "di bait"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sucinyo"
+    },
+    {
+      "surface": "הס",
+      "gloss": "sunniaklah"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "di hadapan-Nyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:16:37.343867427Z",
+  "model": "glm-5.3"
+}

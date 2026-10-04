@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 34:6",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Dan di koto-koto Manasye, Efrayim, jo Simeon, sampai ka Naftali, di rumah-rumah runtuahnyo, di sakitarannyo.",
+  "tokens": [
+    {
+      "surface": "ובערי",
+      "gloss": "dan di koto-koto"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasye"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "jo Efrayim"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "jo Simeon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di rumah-rumah runtuahnyo"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "rumah-rumah runtuahnyo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di sakitarannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:00:30.050218964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Semuik — bangso nan indak kuaik — tapi inyo manyiapkan makanannyo pado musim paneh.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "semuik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kuaik"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "tapi inyo manyiapkan"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "pado musim paneh"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "makanannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:36.350844271Z",
+  "model": "glm-5.3"
+}

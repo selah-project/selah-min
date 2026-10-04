@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Maka murka Aku ka manyala, jo Aku ka mambunuah ⟨אתכם⟩ kalian jo padang, jo bini-bini kalian manjadi jando, jo anak-anak kalian manjadi yatim.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "ka manyala"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "murka Aku"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "Aku ka mambunuah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "jo padang"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "bini-bini kalian"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "jando"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "jo anak-anak kalian"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "yatim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:04.766602490Z",
+  "model": "glm-5.3"
+}

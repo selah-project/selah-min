@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Manangih barendo bumi, Levanon malu jo layu; Sharoon manjadi sarupo padang gurun, jo Bashan jo Karmel manggugurkan ⟨daunnyo⟩.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Manangih"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "barendo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "malu"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "layu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Sharoon"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "sarupo padang gurun"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "manggugurkan"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "jo Karmel"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:11.362951473Z",
+  "model": "glm-5.3"
+}

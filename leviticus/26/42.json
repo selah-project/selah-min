@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Maka ambo ka mangangkan ⟨את⟩ parjanjian-Ku jo Yaakov, bahkan ⟨את⟩ parjanjian-Ku jo Yitskhak, bahkan ⟨את⟩ parjanjian-Ku jo Avraham ambo ka mangangan, jo bumi tu ambo ka mangangan.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "maka ambo ka mangangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian-Ku"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian-Ku"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian-Ku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ambo ka mangangan"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "jo bumi tu"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ambo ka mangangan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:05.106361343Z",
+  "model": "glm-5.3"
+}

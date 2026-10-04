@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jan sanak makan; ka ateh bumi sanak tuang, sarupo aia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "sanak makan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "sanak tuang"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sarupo aia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:53.107854815Z",
+  "model": "glm-5.3"
+}

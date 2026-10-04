@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Yosef bamimpi sabuah mimpi, jo inyo mancaritoannyo kapado sadangkanyo; jo urang tu batambah lai benci kapado ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "bamimpi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sabuah mimpi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mancaritoannyo"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kapado sadangkanyo"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "jo urang tu batambah lai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "banci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:58.888720373Z",
+  "model": "glm-5.3"
+}

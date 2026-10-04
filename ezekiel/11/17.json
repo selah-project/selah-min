@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 11:17",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Dek karano itu, katakan: Sarupo ko kato Adonai Yahweh: jo Aku ka mahimpun kau dari bangso-bangso, jo Aku ka maumpuak kau dari nagari-nagari nan katuju kau tasbar ka sinan, jo Aku ka maagiah ka kau ⟨את⟩ tanah Yisrael.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dek karano itu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sarupo ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "jo Aku ka mahimpun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kau",
+      "marks": "kau (objek: mahimpun)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "ואספתי",
+      "gloss": "jo Aku ka maumpuak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kau",
+      "marks": "kau (objek: maumpuak)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "nagari-nagari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נפצותם",
+      "gloss": "kau tasbar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka sinan"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "jo Aku ka maagiah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka kau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Yisrael"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T06:51:14.691523566Z",
+  "model": "glm-5.3"
+}

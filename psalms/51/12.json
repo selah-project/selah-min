@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Ciptokan di dalam ambo ati nan murni, wahai Elohim, jo ruakh nan toapeh baliakan di dalam diri ambo.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nan murni"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ciptokan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "di dalam ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "jo ruakh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "nan toapeh"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baliakan"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di dalam diri ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:41.021248059Z",
+  "model": "glm-5.3"
+}

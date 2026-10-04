@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Nokor, nak ambo, parentah ayahmu, jo jan ka tinggakan Torah mandehmu.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "nokor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nak ambo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "ka tinggakan"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mandehmu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:04.159361869Z",
+  "model": "glm-5.3"
+}

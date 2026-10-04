@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Dan kau ambiak ⟨את⟩ lumbu untuak panyucihi doso tu, lalu dibaka di tampek nan alah ditantukan dari rumah tu, di lua tampek suci.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dan kau ambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lumbu untuak panyucihi doso"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lumbu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "untuak panyucihi doso"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "lalu dibaka"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "di tampek nan alah ditantukan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dari rumah tu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "tampek suci"
+    }
+  ],
+  "timestamp": "2026-10-04T07:04:29.486256487Z",
+  "model": "glm-5.3"
+}

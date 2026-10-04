@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 9:12",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo inyo mangesahkan ⟨את⟩ kato-kato-Nyo nan inyo ucapkan ateh kami jo ateh hakim-hakim kami nan mahakimi kami, untuak mambaok ateh kami kajahatan nan gadang bana, nan indak pernah tajadi di bawah saluruah langik, sarupo nan tajadi di Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "inyo mangesahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato-Nyo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "kato-kato-Nyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "inyo ucapkan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ateh kami"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "שפטינו",
+      "gloss": "hakim-hakim kami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שפטונו",
+      "gloss": "mahakimi kami"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "untuak mambaok"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ateh kami"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "nan gadang bana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "pernah tajadi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "tajadi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:29:47.556347357Z",
+  "model": "glm-5.3"
+}

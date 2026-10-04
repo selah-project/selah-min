@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 108,
+  "translation": "Moab iolah kuali pancucian ambo; ka ateh Edom ambo lapehan salang ambo; ateh Pelistia ambo bakatoang.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kuali"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "pancucian ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ambo lapehan"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "salang ambo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelistia"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "ambo bakatoang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:53.704332154Z",
+  "model": "glm-5.3"
+}

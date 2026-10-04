@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Lalu imam manulih ⟨את⟩ laknat-laknat ko di dalam kitab, jo manguapinyo ka dalam aia pahik.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "manulih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laknat-laknat ko"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "laknat-laknat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "di dalam kitab"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "jo manguapinyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka dalam"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aia"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "pahik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:39:41.112642680Z",
+  "model": "glm-5.3"
+}

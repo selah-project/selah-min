@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim mambangun ⟨את⟩ tulang gihiang nan diambinyo dari urang tu manjadi padusi, lalu mambaoknyo ka urang tu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang gihiang"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "tulang gihiang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambinyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "manjadi padusi"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "mambaoknyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:54.434963356Z",
+  "model": "glm-5.3"
+}

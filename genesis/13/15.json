@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "karano ⟨את⟩ sagalo bumi nan ang caliak, kapado ang Ambo akan agiahnyo, jo kapado beniah ang sampai salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ang"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "akan agiahnyo"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "jo kapado beniah ang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:02.691313171Z",
+  "model": "glm-5.3"
+}

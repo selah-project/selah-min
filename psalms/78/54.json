@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Dan inyo mambaok mareka ka parik kasuciannyo, ka gunuang iko nan alah dibaliak tangan suoknyo.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "inyo mambaok mareka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "parik"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kasuciannyo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "dibaliak"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tangan suoknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:39.911822770Z",
+  "model": "glm-5.3"
+}

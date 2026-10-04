@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Katoan kapado jamaah ko, kato-Nyo: Pai lah kalian dari sakaliliang Mishkan-nyo Korakh, Datan, jo Aviram.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "katoan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato-Nyo"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "pai lah kalian"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dari sakaliliang"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkan-nyo"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakh"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "jo Aviram"
+    }
+  ],
+  "timestamp": "2026-10-04T04:43:39.556281995Z",
+  "model": "glm-5.3"
+}

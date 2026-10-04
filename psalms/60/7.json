@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Agar urang-urang kasih-Mu dilapehkan; salamatkan jo tangan suok-Mu, jo jaweklah ambo kamain.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "dilapehkan"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "urang-urang kasih-Mu"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "salamatkan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jo tangan suok-Mu"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "jo jaweklah ambo kamain"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:18.788031187Z",
+  "model": "glm-5.3"
+}

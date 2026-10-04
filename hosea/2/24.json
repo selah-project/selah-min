@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo bumi ka manjawek ⟨את⟩ gabiah, jo ⟨את⟩ aia anggur, jo ⟨את⟩ minyak zaitun, dan inyo ka manjawek ⟨את⟩ Yizreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "jo bumi"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ka manjawek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabiah"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "gabiah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aia anggur"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "aia anggur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minyak zaitun"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "minyak zaitun"
+    },
+    {
+      "surface": "והם",
+      "gloss": "dan inyo"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ka manjawek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:50.537288715Z",
+  "model": "glm-5.3"
+}

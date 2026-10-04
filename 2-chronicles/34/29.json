@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Lapeh itu rajo mangiriman urang, jo inyo mangumpuan ⟨את⟩ sadoalah urang tuo-tuo Yehuda jo Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangiriman urang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "jo mangumpuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah urang tuo-tuo Yehuda jo Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "urang tuo-tuo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jo Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:00:47.183337669Z",
+  "model": "glm-5.3"
+}

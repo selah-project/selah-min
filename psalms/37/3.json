@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Percayolah kapado Yahweh, jo bueklah kabaiak; tinggallah di bumi, jo uruihlah kasatiaan.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Percayolah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "jo bueklah"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabaiak"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "tinggallah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "jo uruihlah"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kasatiaan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:07.165527891Z",
+  "model": "glm-5.3"
+}

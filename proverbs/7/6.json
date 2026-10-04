@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Karano di jandela rumah ambo, malalui saringan jandela ambo, ambo mancaliak kalua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "di jandela"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumah ambo"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "malalui"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "saringan jandela ambo"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "ambo mancaliak kalua"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:11.041006306Z",
+  "model": "glm-5.3"
+}

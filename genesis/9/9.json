@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ambo, tingok, ambo sadang mandirikan ⟨את⟩ parjanjian ambo ⟨את⟩ jo kalian, jo ⟨את⟩ beniah kalian sasudah kalian.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tingok"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "sadang mandirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian ambo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian ambo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jo kalian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "beniah kalian"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "beniah kalian"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "sasudah kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:44.096756319Z",
+  "model": "glm-5.3"
+}

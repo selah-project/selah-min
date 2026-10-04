@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu malaika Yahweh bakato kapadonyo: Balia bali ka padusi tuanmu, jo manyiksa diri di bawah tangannyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "balia bali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "padusi tuanmu"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "jo manyiksa diri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "tangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:04.540350894Z",
+  "model": "glm-5.3"
+}

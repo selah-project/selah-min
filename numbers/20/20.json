@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo inyo bakato: Indak ang malintehi. Jo Edom kalua mahadangnyo jo rakyaik nan banyak jo tangan nan kuaik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jo inyo bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ang malintehi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "Jo kalua"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "mahadangnyo"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "jo rakyaik"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "jo tangan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "nan kuaik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:00.449295353Z",
+  "model": "glm-5.3"
+}

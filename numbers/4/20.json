@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "tapi urang tu janga masuak untuak caliak, maski sajauak ciek kaligi ⟨את⟩ nan suci tu, supayo urang tu indak mati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tapi janga"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak caliak"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "maski sajauak ciek kaligi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan suci tu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "supayo indak mati"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:36.551754110Z",
+  "model": "glm-5.3"
+}

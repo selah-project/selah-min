@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu inyo bapaliang ka balakang, mamancaliak ⟨ambo⟩, jo manjapuak ambo, jo ambo bakato: Ambo iko.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "lalu bapaliang"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka balakangnyo"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "mamancaliak ambo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "manjapuak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jo ambo bakato"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ambo iko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:34:28.887310287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo jago sanak ⟨את⟩ kato-kato parjanjian iko, jo karajoan sanak ⟨את⟩ inyo, supayo sanak mandapek kamanangan dalam ⟨את⟩ sagalo nan sanak karajoan.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "jo jago sanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato parjanjian iko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "jo karajoan sanak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato parjanjian iko"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "sanak mandapek kamanangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan sanak karajoan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "sanak karajoan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:19.325711898Z",
+  "model": "glm-5.3"
+}

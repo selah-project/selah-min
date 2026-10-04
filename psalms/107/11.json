@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "karano inyo mambangkang pado kato-kato El, jo nasihat Elyon inyo hino,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "mambangkang"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "jo nasihat"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "inyo hino"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:04.630405818Z",
+  "model": "glm-5.3"
+}

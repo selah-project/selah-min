@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Pado tahun katigo pamarintahan Yehoyakim rajo Yehudah, datanglah Nebukadnezar rajo Babel ka Yerushalayim jo mangurunginyo.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "pado tahun katigo"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "katigo"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "pamarintahan"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datanglah"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnezar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ka Yerushalayim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "jo mangurunginyo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:25:33.336667705Z",
+  "model": "glm-5.3"
+}

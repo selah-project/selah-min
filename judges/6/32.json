@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 6:32",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Pado ari tu inyo digala'i Yerubaal, karano dikatokan: Bia Baal mampaetoki jo inyo, karano inyo alah maruntuahkan ⟨את⟩ mazbahnyo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "digala'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubaal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "karano dikatokan"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "mampaetoki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "maruntuahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbahnyo"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "mazbahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:14:33.798298061Z",
+  "model": "glm-5.3"
+}

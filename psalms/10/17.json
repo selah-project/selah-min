@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Taawaik urang-urang nan randah ati alah didanga Yahweh; Kau mokokan ati inyo, Kau mamiringkan talingoan Kau ⟨untuak mandanga⟩.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "taawaik"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "urang-urang nan randah ati"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "alah didanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "Kau mokokan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ati inyo"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "Kau mamiringkan"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "talingoan Kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:18.301529185Z",
+  "model": "glm-5.3"
+}

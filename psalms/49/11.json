@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Karono inyo caliak: urang-urang pandai pun mati, basamo urang bodoh jo urang tolol binasa, jo maninggakan kakayoan urang tu kapado urang lain.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karono"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "inyo caliak"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "urang-urang pandai"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "jo urang tolol"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "jo maninggakan"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kapado urang lain"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kakayoan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:36.685599842Z",
+  "model": "glm-5.3"
+}

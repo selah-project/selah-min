@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Bumi urang tu dipanuahi katak, di kamar-kamar rajo urang tu.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "dipanuahi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "bumi urang tu"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "katak"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "di kamar-kamar"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "rajo urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:16.446716387Z",
+  "model": "glm-5.3"
+}

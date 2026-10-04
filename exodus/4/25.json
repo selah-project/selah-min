@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Tsipporah maambiak ciek batu tajam, jo mamotong ⟨את⟩ kulub anaknyo laki-laki, jo manjapuiknyo ka gariangnyo, lalu bakato: Sabananyo pulang darah waang kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "lalu maambiak"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipporah"
+    },
+    {
+      "surface": "צר",
+      "gloss": "batu tajam"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "jo mamotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulub anaknyo laki-laki"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "kulub"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknyo laki-laki"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "jo manjapuiknyo"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "ka gariangnyo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabananyo"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "pulang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "waang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:22.472003239Z",
+  "model": "glm-5.3"
+}

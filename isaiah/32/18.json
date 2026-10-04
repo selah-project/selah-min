@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 32:18",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Bangso ambo ka tingga di tampek tingga nan damai, jo di Mishkan-Mishkan nan aman, jo di tampek istirahat nan tanang.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ka tingga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bangso ambo"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "di tampek tingga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nan damai"
+    },
+    {
+      "surface": "ובמשכנות",
+      "gloss": "jo di Mishkan-Mishkan"
+    },
+    {
+      "surface": "מבטחים",
+      "gloss": "nan aman"
+    },
+    {
+      "surface": "ובמנוחת",
+      "gloss": "jo di tampek istirahat"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "nan tanang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:19.564725657Z",
+  "model": "glm-5.3"
+}

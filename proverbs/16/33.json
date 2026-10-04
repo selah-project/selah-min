@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Ka pangkuan, goroa ditampak jo ⟨את⟩, tapi sagalo pangadilannyo dari Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "ka pangkuan"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "ditampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goroa"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "goroa"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "tapi dari Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "pangadilannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:57:13.760236403Z",
+  "model": "glm-5.3"
+}

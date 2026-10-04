@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Saudaro! Indak ado urang dapek manabua saurang lai; indak dapek maagiah ka Elohim tabusaannyo.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "saudaro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "manabua"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "dapek manabua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dapek maagiah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "tabusaannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:31.569928689Z",
+  "model": "glm-5.3"
+}

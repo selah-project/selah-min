@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo ⟨את⟩ anak-anaknyo dibaok dakek, jo pakaian an inyo jo baju kuruang.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "dibaok dakek"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "jo pakaian an"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ in yo"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "baju kuruang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:03.867622847Z",
+  "model": "glm-5.3"
+}

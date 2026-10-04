@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Apo kauntuangan nan bakarajo dalam nan inyo basusah payah?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kauntuangan"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "nan bakarajo"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "dalam nan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "basusah payah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:46.557543141Z",
+  "model": "glm-5.3"
+}

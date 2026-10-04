@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 62,
+  "translation": "Di ateh Elohim ado palapeh ambo jo kamuliaan ambo, batu kakuatan ambo, tampek linduang ambo ado di Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "palapeh ambo"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "jo kamuliaan ambo"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "kakuatan ambo"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "tampek linduang ambo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ado di Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:27.102352116Z",
+  "model": "glm-5.3"
+}

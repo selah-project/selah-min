@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dan pado bulan nan kaduo, ari tujuah jo duo puluah bulan itu, kariang bumi itu.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "dan pado bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ari tujuah"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jo duo puluah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan itu"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "kariang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:38.894395949Z",
+  "model": "glm-5.3"
+}

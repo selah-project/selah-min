@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Lalu Yisrael malakek diri kapado Baal Peor, jo muncuang Yahweh manyalo mandapek Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "malakek diri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kapado Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "manyalo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "muncuang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mandapek Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:47:00.996719880Z",
+  "model": "glm-5.3"
+}

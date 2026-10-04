@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 36:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Lalu Esav maambiek ⟨את⟩ bini-bininyo, jo ⟨את⟩ anak-anaknyo, jo ⟨את⟩ anak-padusinyo, jo ⟨את⟩ sagalo nyao-nyao rumah tanggonyo, jo ⟨את⟩ taranaknyo, jo ⟨את⟩ sagalo binatangnyo, jo ⟨את⟩ sagalo harato nan alah inyo kumpuakan di tanah Kenaan; lapeh inyo pai ka tanah lain, dari muko Yaakov dunsanaknyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiek"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini-bininyo"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "bini-bininyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-padusinyo"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "anak-padusinyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo nyao-nyao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nyao-nyao"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumah tanggonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "taranaknyo"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "taranaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo binatangnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "binatangnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo harato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "harato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "kumpuakan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dunsanaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:18.213521343Z",
+  "model": "glm-5.3"
+}

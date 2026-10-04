@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Dan inyo mahakimi dunia jo tsedeq, inyo mamutuih urad kapado kaum-kaum jo keluruihan.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "dan inyo"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "mahakimi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "jo tsedeq"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "mamutuih urad"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kapado kaum-kaum"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "jo keluruihan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:42.727309734Z",
+  "model": "glm-5.3"
+}

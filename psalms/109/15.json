@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Biar tasadio di hadapan Yahweh salalu, supayo Yahweh mambaangi ingekan urang tu dari bumi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "biar tasadio"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "salalu"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "supayo mambaangi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ingekan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:43.478218406Z",
+  "model": "glm-5.3"
+}

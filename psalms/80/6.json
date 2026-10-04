@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "Angkau alah mambuek urang tu makan roti tangih, jo Angkau mamberi urang tu minum tangih sagadang tigo bagian.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "mambuek urang tu makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "tangih"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "jo mamberi urang tu minum"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "jo tangih"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "tigo bagian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:23.371612761Z",
+  "model": "glm-5.3"
+}

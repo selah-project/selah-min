@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Maka inyo bangkik, pai, jo tibo di Samaria; sadang inyo di Bet-Eked, rumah pancukua bulu urang paramo kambiang, di jalan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "maka bangkik"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samaria"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sadang inyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah pancukua"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "urang paramo kambiang"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:52.459543730Z",
+  "model": "glm-5.3"
+}

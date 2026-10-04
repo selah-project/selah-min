@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 149,
+  "translation": "Untuak mambuek kapado urang tu pangadilan nan tatulih; hadar itu untuak sado hesedio; pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "untuak mambuek"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pangadilan"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "nan tatulih"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "hadar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak sado"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hesedio"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:20.018167243Z",
+  "model": "glm-5.3"
+}

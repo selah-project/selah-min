@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Sagalo parabot tanah liek, nan ka dalamnyo ciek dari tu jatuah, sagalo nan ado di dalamnyo manjadi tameh, jo ⟨את⟩ inyo san pacahkan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tanah liek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dari tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "dalamnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "manjadi tameh"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "jo ⟨את⟩ inyo",
+      "marks": "inyo (parabot tanah liek tu)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "san pacahkan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:11.964310425Z",
+  "model": "glm-5.3"
+}

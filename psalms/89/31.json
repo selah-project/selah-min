@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Kalau anak-anaknyo mahapeh Torah-Ku, jo indak bajalan manuruik hukum-hukum-Ku,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "mahapeh"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah-Ku"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "jo manuruik hukum-hukum-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "bajalan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:17.799945892Z",
+  "model": "glm-5.3"
+}

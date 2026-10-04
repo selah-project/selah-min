@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo kau urang tarangkan ⟨את⟩ kato-kato ambo iko pado ati awak jo pado jiwa awak, jo ikakannyo sabagai tando pado tangan awak, jo jadinyo panyekek di antaro mato awak.",
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "tarangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato ambo iko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato ambo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ati awak"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo pado"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "jiwa awak"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "ikakannyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (kato-kato itu)"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "sabagai tando"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "tangan awak"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "jadinyo"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "panyekek"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mato awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:14.570275383Z",
+  "model": "glm-5.3"
+}

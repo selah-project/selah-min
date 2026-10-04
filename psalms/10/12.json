@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Bangkiklah, Yahweh! El, angkek lah tanganMu; jan lupo urang-urang miskin.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangkiklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "angkek"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganMu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lupo"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "urang-urang miskin"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:28.162459665Z",
+  "model": "glm-5.3"
+}

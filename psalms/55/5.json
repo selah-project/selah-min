@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Ati ambo bagoriang di dalam diri ambo, jo kaketak-an mauih jatuah ateh ambo.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "bagoriang"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di dalam diri ambo"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "jo kaketak-an"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mauih"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:34.952023332Z",
+  "model": "glm-5.3"
+}

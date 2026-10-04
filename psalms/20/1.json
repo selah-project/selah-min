@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Untuak kapalo musik, mazmur untuak Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak kapalo musik"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:33.852497451Z",
+  "model": "glm-5.3"
+}

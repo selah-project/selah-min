@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Kaleb bakato: Siapo nan mahantam ⟨את⟩ Kiryat-Sefer jo manangkoknyo, ka inyo ambo agiah ⟨את⟩ Akhsa anak padusi ambo manjadi bini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "mahantam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "jo manangkoknyo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ambo agiah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anak padusi ambo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "manjadi bini"
+    }
+  ],
+  "timestamp": "2026-10-04T05:11:20.547593919Z",
+  "model": "glm-5.3"
+}

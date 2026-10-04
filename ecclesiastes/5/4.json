@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Labiah elok nan indak kau bajanji, daripado bajanji lalu indak mambayia.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "labiah elok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "kau bajanji"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "daripado bajanji"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lalu indak"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "mambayia"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:34.350532500Z",
+  "model": "glm-5.3"
+}

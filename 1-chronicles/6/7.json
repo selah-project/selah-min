@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Anak-anak Kehat: Aminadab anaknyo, Korakh anaknyo, Asir anaknyo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:34.870849063Z",
+  "model": "glm-5.3"
+}

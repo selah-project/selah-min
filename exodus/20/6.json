@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "jo mambari hesed kapado ribu katurunan, kapado urang nan mangasihi Akau jo urang nan mamaga parentah-parentah-Ku.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "jo mambari"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kapado ribu katurunan"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kapado urang nan mangasihi Akau"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "jo urang nan mamaga"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah-parentah-Ku"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:35.189674943Z",
+  "model": "glm-5.3"
+}

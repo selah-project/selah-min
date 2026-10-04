@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 83,
+  "translation": "Jugo Ashur bagabuang jo inyo, inyo alah manjadi lengan untuak anak-anak Lut. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "jugo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "bagabuang"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "alah manjadi"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lengan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "untuak anak-anak"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:55.445168007Z",
+  "model": "glm-5.3"
+}

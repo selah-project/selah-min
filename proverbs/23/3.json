@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jan panggiriah makanan-makanan lamaknyo, karano inyo adolah roti nan ba Bohong.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "panggiriah"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "makanan-makanan lamaknyo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "karano inyo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "nan ba Bohong"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:34.889423137Z",
+  "model": "glm-5.3"
+}

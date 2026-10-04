@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lalu Yaakov batanyo: Katakan,kok lai, namo sanak. Inyo manjawab: Baa kok sanak batanyo namo ambo? Lalu inyo mamacakiahi ⟨את⟩ inyo di tampek tu.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "lalu Yaakov batanyo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kok lai"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo sanak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo manjawab"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "sanak batanyo"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "namo ambo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lalu inyo mamacakiahi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di tampek tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:13.562219728Z",
+  "model": "glm-5.3"
+}

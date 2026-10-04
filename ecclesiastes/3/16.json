@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lau baliak ambo caliak di bawah matoari: di tampek pangadilan, di sinan ado kaburuko; jo di tampek tsedeq, di sinan ado kaburuko.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Lau baliak"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ambo caliak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "pangadilan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kaburuko"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "jo di tampek"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kaburuko"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:45.778646395Z",
+  "model": "glm-5.3"
+}

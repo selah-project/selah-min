@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Suruahlah ⟨את⟩ Aharon jo ⟨את⟩ anak-anaknyo, lapehnyo: Iko iolah Torah olah — inyo olah nan tapeh di ateh kayu bakanyo di ateh mezbah salamo malam sampai pagi, jo api mezbah tu tingga manyala di dalamnyo.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Suruahlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lapehnyo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "kayu bakanyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "tingga manyala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:42.449938199Z",
+  "model": "glm-5.3"
+}

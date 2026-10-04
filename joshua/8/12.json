@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu inyo maambiak kiro-kiro limo ribu urang, jo manampekannyo sabagai pangasia di antaro Beit-El jo Ai, di sabalah barat koto tu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "kiro-kiro limo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "manampekannyo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "pangasia"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "sabagai pangasia"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "di sabalah barat"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "koto tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:05:58.004415874Z",
+  "model": "glm-5.3"
+}

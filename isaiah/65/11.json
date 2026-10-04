@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Tapi sanak nan mahenjo Yahweh, nan lupo ⟨את⟩ gunuang suci ambo, nan manyadioan meja untuak Gad, jo nan mahisia minuman racuak untuak Meni.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "tapi sanak"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "nan mahenjo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "nan lupo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunuang suci ambo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "suci ambo"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "nan manyadioan"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "untuak Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "jo nan mahisia"
+    },
+    {
+      "surface": "למני",
+      "gloss": "untuak Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "minuman racuak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:25:31.843384985Z",
+  "model": "glm-5.3"
+}

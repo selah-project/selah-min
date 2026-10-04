@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Bat-Sheva manyungkuik jo basujuik kapado rajo, lalu rajo bakato: Apo nan kamaokau?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "manyungkuik"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "jo basujuik"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kapado rajo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak awak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:26.933515329Z",
+  "model": "glm-5.3"
+}

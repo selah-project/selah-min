@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Elohim di dalam benteng-bentengnyo tabantu, sabagai tampek pakuburan nan tinggi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "di dalam benteng-bentengnyo"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "tabantu"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "sabagai tampek nan tinggi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:02.013820071Z",
+  "model": "glm-5.3"
+}

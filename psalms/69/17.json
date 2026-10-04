@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Jawablah ambo, Yahweh, karano elok hesed-Mu; manuruik kabanjakkan rahim-Mu, pulangkanlah muko-Mu kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Jawablah ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "manuruik kabanjakkan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahim-Mu"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "pulangkanlah muko-Mu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:41.909040668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Jo Yahweh bakato: Caliak, ado tampek ⟨את⟩ di sampiang-Ambo, jo kau ka tagak di ateh batu gadang itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo Yahweh bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ di sampiang-Ambo"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "jo kau ka tagak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "batu gadang itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:21.686617403Z",
+  "model": "glm-5.3"
+}

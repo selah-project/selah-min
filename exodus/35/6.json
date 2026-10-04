@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "jo takhelet, jo argaman, jo tolaat syani, jo syes, jo bulu kambiang.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "jo takhelet (kain biru)"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jo argaman (ungu)"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "jo tolaat (banang)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "syani (merah tabu)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jo syes (linen)"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "jo bulu kambiang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:29.764203901Z",
+  "model": "glm-5.3"
+}

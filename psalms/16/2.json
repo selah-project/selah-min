@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Ambo alah bakato kapado Yahweh: Angkau adolah Adonai ambo; kabaiak-an ambo indak ado di lua Angkau.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "angkau alah bakato"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Angkau"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "kabaiak-an ambo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "di lua Angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:56.594528869Z",
+  "model": "glm-5.3"
+}

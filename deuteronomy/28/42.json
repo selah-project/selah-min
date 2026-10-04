@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Sadonyo kajai awak jo buah tanah awak ka dikuasoi dek ⟨את⟩ balang.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "kajai awak"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "jo buah"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tanah awak"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ka dikuasoi"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "balang",
+      "marks": "balang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:40.129482163Z",
+  "model": "glm-5.3"
+}

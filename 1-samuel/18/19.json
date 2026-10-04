@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Maka katiko tibonyo wakatu mambaok ⟨את⟩ Merab, anak padusi Shaul, untuak Dawid, inyo lah dibarikan kapado Adriel urang Mehola untuak bini.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka katiko"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pado wakatu"
+    },
+    {
+      "surface": "תת",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "lah dibarikan"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "kapado Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "urang Mehola"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "untuak bini"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:20.030118766Z",
+  "model": "glm-5.3"
+}

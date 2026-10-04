@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo ⟨את⟩ Holon jo ⟨את⟩ padang rumpuiknyo, jo ⟨את⟩ Devir jo ⟨את⟩ padang rumpuiknyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Holon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Holon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:13.052225740Z",
+  "model": "glm-5.3"
+}

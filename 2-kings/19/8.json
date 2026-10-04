@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Kok Rabshakeh baliak, jo batamu ⟨את⟩ rajo Ashur sadang bajuang melawan Livnah, karano inyo alah mandanga baso inyo alah pai dari Lakhisy.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kok baliak"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "jo batamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "sadang bajuang melawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "alah mandanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "alah pai"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "dari Lakhisy"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:40.986037765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo imam manyuduik dari minyak ka lakang tangan suok imam tu surang.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "manyuduik"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כף",
+      "gloss": "lakang tangan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam tu surang"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "suok"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:28.931576267Z",
+  "model": "glm-5.3"
+}

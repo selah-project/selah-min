@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Sasudah Dawid salasai mangatuak ⟨את⟩ kurban bakaran jo ⟨את⟩ kurban slamatan, inyo maampakati ⟨את⟩ bangso itu jo Namo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "salasai"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "mangatuak"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "kurban slamatan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "maampakati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "jo Namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:57.375910613Z",
+  "model": "glm-5.3"
+}

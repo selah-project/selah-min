@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Yahweh ⟨adolah⟩ minib ambo jo cawan ambo; Inyo nan mamaduakan undi-undi ambo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "minib"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "bagian ambo"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "jo cawan ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Inyo"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "mamaduakan"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "undi-undi ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:04.592296919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Inyo bakato: Karano Ambo ka ada basamo awak, jo iko tando untuak awak, baso Ambo nan mangirim awak: katiko awak alah mangaluaan ⟨את⟩ bangso ko dari Mitsrayim, sanak sadonyo ka manyambah ⟨את⟩ Elohim di ateh bukik iko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo...bakato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ambo ka ada"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo awak"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak awak"
+    },
+    {
+      "surface": "האות",
+      "gloss": "tando"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "nan mangirim awak"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "katiko awak mangaluaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso ko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso ko"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "sanak sadonyo ka manyambah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bukik"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:57.997270647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Elohim maagiah namo kapado cahayo: Ari; jo kapado kaduduakan inyo maagiah namo: Malam. Lah jadi patang, lah jadi pagi — ari nan ciek.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maagiah namo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kapado cahayo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "jo kapado kaduduakan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "maagiah namo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lah jadi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "patang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lah jadi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nan ciek"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:27.297547026Z",
+  "model": "glm-5.3"
+}

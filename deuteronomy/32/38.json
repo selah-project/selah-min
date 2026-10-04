@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 32:38",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Nan makan lemak korban sanak, jo minum tuak ibanan sanak? Banganik lah inyo, tolonglah sanak, jadi lah palinduang sanak!",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "זבחימו",
+      "gloss": "korban sanak"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "minum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "tuak"
+    },
+    {
+      "surface": "נסיכם",
+      "gloss": "ibanan sanak"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "banganik lah"
+    },
+    {
+      "surface": "ויעזרכם",
+      "gloss": "tolonglah sanak"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "jadi lah"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "untuak sanak"
+    },
+    {
+      "surface": "סתרה",
+      "gloss": "palinduang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:07:00.094314835Z",
+  "model": "glm-5.3"
+}

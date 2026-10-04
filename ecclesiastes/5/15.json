@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo iko juo panyakik nan barek: dari sagalo sisi sarupo inyo tibo, bantuak tu inyo pai; jo apo kamanfaatannyo untuaknyo, nan bakarejo dek ruakh?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jaah"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "panyakik nan barek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "inyo tibo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bantuak tu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "inyo pai"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jo apo"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kamanfaatannyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "nan bakarejo"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "dek ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:52.644048591Z",
+  "model": "glm-5.3"
+}

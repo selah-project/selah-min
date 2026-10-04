@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Inyo bakato dalam atinyo: mampamaso inyo sagalonyo; inyo mambaka sagalo tampek patamuan El di bumi.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dalam atinyo"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "mampamaso inyo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sagalonyo"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "inyo mambaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "tampek patamuan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:46.958988738Z",
+  "model": "glm-5.3"
+}

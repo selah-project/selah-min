@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo ⟨את⟩ manaro Penuel inyo runtuakkan, jo inyo mambunuah urang tu ⟨את⟩ urang-io kota itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manaro Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "manaro"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "runtuakkan"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "jo inyo mambunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-io kota itu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "urang-io"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:15:53.278489895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo iko lah katurunan Yitskhak, anak Avraham: Avraham manjadiakan ⟨את⟩ Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manjadiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:32.973974370Z",
+  "model": "glm-5.3"
+}

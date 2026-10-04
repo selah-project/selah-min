@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo buek tongkek-tongkek untuak mazbeach tu, tongkek-tongkek kayu shitim, jo salapui ⟨את⟩ inyo jo tambago.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo buek"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "tongkek-tongkek"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "untuak mazbeach"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "tongkek"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "jo salapui"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tongkek-tongkek itu jo tambago"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambago"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:02.265031379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo ⟨את⟩ arnebet, karano inyo mambaok baliak gera, tapi kuku bajanian indak inyo bajanian — indak barasiah inyo untuak sanak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "arnebet"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "arnebet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "inyo mambaok baliak"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "tapi kuku bajanian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "inyo bajanian"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "indak barasiah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:28.280905163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Maka sanak-sanaknyo maizioi inyo; tapi ayahnyo manyimpan ⟨את⟩ kato itu.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "maizioi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sanak-sanaknyo"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ayahnyo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "manyimpan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato itu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:22.105235600Z",
+  "model": "glm-5.3"
+}

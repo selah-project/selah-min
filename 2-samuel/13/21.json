@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo rajo Dawid mandanga ⟨את⟩ sagalo kato-kato ko, jo atinyo paneh mamarik.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "jo rajo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kato-kato ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "panehtolah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mamarik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:37:54.721614550Z",
+  "model": "glm-5.3"
+}

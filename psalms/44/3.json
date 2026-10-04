@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Angkou, tangan-Mu sandiri nan maikuik sakuaso banso-banso, jo mananam inyo; maancak-an umat-umat, jo mambasuah inyo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "angkou"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "banso-banso"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "maikuik sakuaso"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "jo mananam inyo"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "maancak-an"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "jo mambusuah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:30:01.182823127Z",
+  "model": "glm-5.3"
+}

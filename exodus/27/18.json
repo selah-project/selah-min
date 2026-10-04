@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Panjang palanga saratus hasta, jo lebaannyo lima puluh baliang lima puluh, jo tingginyo lima hasta, dari linen nan dipilin, jo dasanyo tambago.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "palanga"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "jo lebaannyo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "baliang lima puluh"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "jo tingginyo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "nan dipilin"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "jo dasanyo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambago"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:58.609098365Z",
+  "model": "glm-5.3"
+}

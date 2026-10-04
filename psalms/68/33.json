@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Karajaan-karajaan bumi, manyanyilah untuak Elohim, mamuji Adonai — Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "karajaan-karajaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "manyanyilah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "untuak Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:27.328320370Z",
+  "model": "glm-5.3"
+}

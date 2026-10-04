@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Dan ambo akan mandirian ⟨את⟩ parjanjianku jo ⟨את⟩ ang; ang masuak ka dalam bahtera, ang jo anak-anak ang, bini ang, jo bini-bini anak ang jo ⟨את⟩ ang.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "dan ambo akan mandirian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjianku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjianku"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "jo ⟨את⟩ ang"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "dan ang masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahtera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "jo anak-anak ang"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "jo bini ang"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "jo bini-bini"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak ang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "jo ⟨את⟩ ang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:53.338283970Z",
+  "model": "glm-5.3"
+}

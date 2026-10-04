@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 21:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Katiko angkau kalua pai bajampuruah malawan musuah angkau, jo Yahweh, Elohim angkau, manyerahkan inyo ka tangan angkau, jo angkau mambawo tawanan inyo",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "angkau kalua"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pai bajampuruah"
+    },
+    {
+      "surface": "על",
+      "gloss": "malawan"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuah angkau"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "jo manyerahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim angkau"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ka tangan angkau"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "jo angkau mambawo tawanan"
+    },
+    {
+      "surface": "שביו",
+      "gloss": "tawanan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:47.768681508Z",
+  "model": "glm-5.3"
+}

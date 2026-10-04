@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lapek rajo bakato: Pasti awak mati, Akhimelek — awak, jo sadoalah rumah ayah awak!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lapek rajo bakato"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "awak mati"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "awak"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayah awak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:10:05.333487107Z",
+  "model": "glm-5.3"
+}

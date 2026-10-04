@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Bangso-bangso mandanga, mareko tapaneh; sakik batino mancapak urang nan tingga di Pelesyet.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "mareko mandanga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "mareko tapaneh"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sakik batino"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "mancapak"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "urang nan tingga",
+      "note": "surface corrected below"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesyet"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:24.214939848Z",
+  "model": "glm-5.3"
+}

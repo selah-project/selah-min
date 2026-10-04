@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Kalau ambo bakato, «ambo ka manciaok begini» — caliak-lah, ka generasi anak-anak You ambo alah baikhianat.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kalau"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ambo ka manciaok"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "begini"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak-lah"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generasi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anak You"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "ambo alah baikhianat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:30.162198467Z",
+  "model": "glm-5.3"
+}

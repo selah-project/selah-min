@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Kalau ⟨את⟩ parkaro iko kau buek, jo Elohim mamarentahkan kau, baa kau dapek tagak, jo sado urang banyak iko pulo ka tampeknyo masuak jo damai.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parkaro iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "parkaro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kau buek"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "jo mamarentahkan kau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "baa kau dapek"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo… pulo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "tampeknyo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "jo damai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:14.412450122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Napsu hiduik ambo taruih di tangen ambo, tapi Torah-Mu indak lapeh dari ingatan ambo.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "napsu hiduik ambo"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "di tangen ambo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "tapi Torah-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "lapeh dari ingatan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:17.069528649Z",
+  "model": "glm-5.3"
+}

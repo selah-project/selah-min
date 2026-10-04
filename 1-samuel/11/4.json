@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu tibo utusan itu di Gibea Saul, lalu manyampaian kato-kato itu ka talingo urang banyak; lalu sado urang banyak maangkek ⟨את⟩ suaronyo, jo tangih.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "lalu tibo"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "lalu manyampaian"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ka talingo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "lalu maangkek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaronyo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "suaronyo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "jo tangih"
+    }
+  ],
+  "timestamp": "2026-10-04T05:27:03.204515412Z",
+  "model": "glm-5.3"
+}

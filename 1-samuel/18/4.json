@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo Yehonatan talunggak-sarungnyo mananggaleh ⟨את⟩ jubah nan dipakainyo, jo diagiahnyo kapado Dawid, jo pakaianpanyo, sampai ka padangnyo, sampai ka busurnyo, jo sampai ka igantanyo.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "jo inyo mananggaleh pakaian"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah nan dipakainyo"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dipakainyo"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "jo diagiahnyo inyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kapado Dawid"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "jo pakaianpanyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "padangnyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "busurnyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "igantanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:19.222322378Z",
+  "model": "glm-5.3"
+}

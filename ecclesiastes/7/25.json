@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Ambo baliak pulang, ambo jo ati ambo, untuak mangatahui jo untuak manyusuri, jo mancari jo hakikek, untuak mangatahui kaburukoan kamobaan jo kabodohan nan bagilo-gilo.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "baliak pulang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "jo ati ambo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuak mangatahui"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "jo untuak manyusuri"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "jo mancari"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "jo hakikek"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "jo padoman"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "jo untuak mangatahui"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kaburukoan"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "kamobaan"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "jo kabodohan"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "kagilo-giloan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:18.299114987Z",
+  "model": "glm-5.3"
+}

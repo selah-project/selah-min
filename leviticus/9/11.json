@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ⟨את⟩ dagiang jo ⟨את⟩ kuliknyo inyo mambaka jo api, di lua pakampuangan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagiang"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuliknyo"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kuliknyo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "mambaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pakampuangan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:04:09.435994332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Dan kini, ayah ambo mamuek ka ateh karajo tokok nan bareh, dan ambo manambah ateh tokok karajo; ayah ambo maila ⟨את⟩ karajo jo cambuik, dan ambo jo kalajengking.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah ambo"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "mamuek"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ka ateh karajo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tokok"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bareh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan ambo"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "manambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "tokok karajo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah ambo"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "maila"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "karajo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "jo cambuik"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan ambo"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "jo kalajengking"
+    }
+  ],
+  "timestamp": "2026-10-04T08:52:09.241605688Z",
+  "model": "glm-5.3"
+}

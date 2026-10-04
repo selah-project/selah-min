@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo kubu kubu tanah tinggi, timbok pacalahan ang kaliliangmu, dirunuahkan, dirunuakan, dijatuahkan ka bumi, sampai ka dabu.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "jo kubu"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "tanah tinggi"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "timbok pacalahan ang"
+    },
+    {
+      "surface": "השח",
+      "gloss": "dirunuahkan"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "dirunuakan"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "dijatuahkan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka bumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:12:59.633560707Z",
+  "model": "glm-5.3"
+}

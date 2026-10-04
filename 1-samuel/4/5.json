@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jadi katiko Aron Parjanjian Yahweh tibo di kemah, sagalo Yisrael bataria bana jo taria gadang, sampai bumi bagoyang.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi katiko"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Parjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "bataria bana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "taria"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "sampai bagoyang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:19.441517468Z",
+  "model": "glm-5.3"
+}

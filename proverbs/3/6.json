@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo sado jalan sanak, katohui inyo, jo inyo ka mambana jalan-jalan sanak.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan sanak"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "katohui inyo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "ka mambana"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "jalan-jalan sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:00.456819423Z",
+  "model": "glm-5.3"
+}

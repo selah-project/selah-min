@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 17:5",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo pici tambago di ateh kapalonyo, jo baju rante batuak inyo mamakai, jo barek baju rante itu limo ribu syikal tambago.",
+  "tokens": [
+    {
+      "surface": "וכובע",
+      "gloss": "jo pici tambago"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "ושריון",
+      "gloss": "jo baju rante"
+    },
+    {
+      "surface": "קשקשים",
+      "gloss": "batuak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "mamakai"
+    },
+    {
+      "surface": "ומשקל",
+      "gloss": "jo barek"
+    },
+    {
+      "surface": "השריון",
+      "gloss": "baju rante itu"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "limo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "syikal"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambago"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:20.137009607Z",
+  "model": "glm-5.3"
+}

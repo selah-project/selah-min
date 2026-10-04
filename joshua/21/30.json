@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo dari suku Asyer: ⟨את⟩ Misyal jo ⟨את⟩ pakampungannyo, ⟨את⟩ Avdon jo ⟨את⟩ pakampungannyo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "jo dari suku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asyer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misyal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Misyal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakampungannyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pakampungannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakampungannyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pakampungannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:26.020449662Z",
+  "model": "glm-5.3"
+}

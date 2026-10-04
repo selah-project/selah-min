@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Yared iduik duo puluah anam taun jo saratus taun, lalu inyo manurunkan ⟨את⟩ Khanokh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yared"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "puluah anam"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:56.404924765Z",
+  "model": "glm-5.3"
+}

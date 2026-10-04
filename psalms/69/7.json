@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Jan malu dek ambo urang nan mangarapk-an kapado-Mu, Adonai Yahweh Tsebaot; jan tapaiahi hino dek ambo urang nan mancari Angkau, Elohim Yisrael.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "malu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "dek ambo"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "urang nan mangarapk-an kapado-Mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "tapaiahi hino"
+    },
+    {
+      "surface": "בי",
+      "gloss": "dek ambo"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "urang nan mancari Angkau"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:13.994801529Z",
+  "model": "glm-5.3"
+}

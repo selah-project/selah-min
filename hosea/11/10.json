@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Urang-urang tu ka jalan di balakang Yahweh; sangapeh inyo manguak sarupo singo, karano inyolah nan manguak, anak-anak ka gata-gata dari barat.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "di balakang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sarupo singo"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "manguak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyolah"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "manguak"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ka gata-gata"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dari barat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:15.886063364Z",
+  "model": "glm-5.3"
+}

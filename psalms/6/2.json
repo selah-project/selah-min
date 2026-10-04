@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Yahweh, unang Engkau dongok ambo dalam kamuko-Mu, jo unang Engkau palajaran ambo dalam kaambuak-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unang"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dalam kamuko-Mu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "Engkau dongok ambo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo unang"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "dalam kaambuak-Mu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "Engkau palajaran ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:24.244229811Z",
+  "model": "glm-5.3"
+}

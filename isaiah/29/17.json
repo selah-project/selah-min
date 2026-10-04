@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Apo ndak lai saketek-ketek lai, Lebanon barubah manjadi Karmel, jo Karmel dihituang manjadi rimbunan?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "apo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "saketek-ketek"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "barubah"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "לכרמEL",
+      "gloss": "manjadi Karmel"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "jo Karmel"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "manjadi rimbunan"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "dihituang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:36.273417842Z",
+  "model": "glm-5.3"
+}

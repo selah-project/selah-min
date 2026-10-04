@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ambo ka mambuek ⟨את⟩ Yerushalayim manjadi gunuang batabueak, tampek tingga anjiang gurun, jo ⟨את⟩ koto-koto Yehudah ambo ka mambueknyo rusak samestanyo, indak ado panduduak.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jo ambo ka mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "manjadi gunuang batabueak"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tampek tingga"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "anjiang gurun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "koto-koto Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ambo ka mambuek"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "rusak samestanyo"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "panduduak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:29:46.985383571Z",
+  "model": "glm-5.3"
+}

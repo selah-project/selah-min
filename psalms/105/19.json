@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Sampai wakatu tibo kato-nyo; kato Yahweh alah mancaliak inyo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kato-nyo"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "mancaliak inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:58.406495388Z",
+  "model": "glm-5.3"
+}

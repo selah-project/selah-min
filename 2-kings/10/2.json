@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Dan kini, katiko surek iko tibo kapado awak sadang, awak ado ⟨את⟩ anak-anak tuan awak, awak ado ⟨את⟩ kareta jo kudo, sarato koto bakuat jo sanjato —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "katiko tibo"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kapado awak sadang"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ awak sadang",
+      "marks": "anak-anak tuan awak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "tuan awak sadang"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ awak sadang",
+      "marks": "kareta jo kudo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "jo kudo"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "sarato koto"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "bakuat"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "jo sanjato"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:33.556030605Z",
+  "model": "glm-5.3"
+}

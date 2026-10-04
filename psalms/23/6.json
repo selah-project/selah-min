@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Sungguah, baiak jo hesed manginggia ambo sadonyo ari iduik ambo, dan ambo balansuang di rumah Yahweh sapanjang ari-ari.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sungguah"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "jo hesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "manginggia ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "iduik ambo"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "dan ambo balansuang"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:42.984999023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Ganti kasiah ambo inyo manuduah ambo, sadangkan ambo — doa.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "kasiah ambo"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "inyo manuduah ambo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "sadangkan ambo"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:11.805686958Z",
+  "model": "glm-5.3"
+}

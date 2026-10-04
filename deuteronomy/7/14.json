@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Ang ka manjadi taparakaik dari sagalo bangso: indak ka ado laki nan mandul jo bando nan mandul di antaro ang, maupun di binatang ang.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "taparakaik"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ang ka manjadi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka ado"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di antaro ang"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "laki nan mandul"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "jo bando nan mandul"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "maupun di binatang ang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:12.941056877Z",
+  "model": "glm-5.3"
+}

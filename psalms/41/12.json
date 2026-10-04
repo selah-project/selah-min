@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Dengan iko ambo tau baso Angkau maraso sanang kapado ambo, karano musuah ambo indak manyaruek ka ateh ambo.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Dengan iko"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "maraso sanang"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "manyaruek"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuah ambo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka ateh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:53.044463681Z",
+  "model": "glm-5.3"
+}

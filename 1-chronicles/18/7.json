@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Dawid maambiak ⟨את⟩ tameng-tameng ameh nan ado pado amban-amban Hadadezer, jo mambaoknyo ka Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu maambiak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tameng-tameng ameh"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "tameng-tameng"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ado"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "amban-amban"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "jo mambaoknyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ka Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:32:01.446227514Z",
+  "model": "glm-5.3"
+}

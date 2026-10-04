@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Gelap pun indak manggalek dari ang; malam manyinajo sarupo ari, gelap sarupo tarang bagi ang.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "manggalek"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari ang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sarupo ari"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "manyinajo"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "sarupo tarang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:30.206012502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Jo iko lah namo-namo pangulu Esav manuruik kaumnyo, tampeknyo, jo namonyo: pangulu Timna, pangulu Alva, pangulu Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "pangulu-pangulu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "manuruik kaumnyo"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "manuruik tampeknyo"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "jo namonyo"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:08.712731031Z",
+  "model": "glm-5.3"
+}

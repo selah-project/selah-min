@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Dahan-dahan mudo nyo ka malaju, jo gagahnyo sarupo zaitun, baunnyyo sarupo Lubnan.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "ka malaju"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "dahan-dahan mudo nyo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "sarupo zaitun"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "gagahnyo"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "jo baunnyyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "sarupo Lubnan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:48.889745968Z",
+  "model": "glm-5.3"
+}

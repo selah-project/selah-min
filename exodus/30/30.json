@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Dan ⟨את⟩ Aharon jo ⟨את⟩ anak-anaknyo angku mangurapi, dan angku manyucikan ⟨את⟩ inyo untuak manjadi imam kapado Ambo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "angku mangurapi"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "angku manyucikan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuak manjadi imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado Ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:33.091726963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 108,
+  "translation": "Nda bana Elohim alah mam buang ambo? Elohim indak pai kalua basamo jo bala tentara ambo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nda bana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "alah mam buang ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "pai kalua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "basamo jo bala tentara ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:53.704613637Z",
+  "model": "glm-5.3"
+}

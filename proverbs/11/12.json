@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Urang nan maehieh kawannyo, kurang ati; tapi urang nan barakal diam.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "maehieh"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "kawannyo"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "tapi urang"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "barakal"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "diam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:08.012537643Z",
+  "model": "glm-5.3"
+}

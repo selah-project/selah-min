@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo ambo mangirim sabalun sanak ⟨את⟩ tawon, dan inyo mangasiahan inyo dari muko sanak — duo rajo urang Amori; indak jo padang sanak, jo indak jo paneah sanak.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "jo ambo mangirim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sabalun sanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawon"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tawon"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "dan inyo mangasiahan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dari muko sanak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Amori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "jo padang sanak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "jo paneah sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:07:21.051711210Z",
+  "model": "glm-5.3"
+}

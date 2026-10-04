@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 120,
+  "translation": "Ambo urang damai; tapi katiko ambo babicaro, inyo urang tu siap paparangan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "urang damai"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "tapi katiko"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ambo babicaro"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo urang tu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "siap paparangan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:48.667113832Z",
+  "model": "glm-5.3"
+}

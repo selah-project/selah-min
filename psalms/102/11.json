@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Karano kamurkaan-Mu jo kasadio-Mu; karano Angkau alah mangangkek ambo, lalu mahumbaan ambo.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "karano"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kamurkaan-Mu"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "jo kasadio-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "Angkau alah mangangkek ambo"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "lalu mahumbaan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:12.595301754Z",
+  "model": "glm-5.3"
+}

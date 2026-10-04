@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jadi Dawid buek sarupo nan diparentahkan Elohim kapadonyo, jo inyo urang tu mambantai ⟨את⟩ pakampuan urang Palishti, dari Gibeon sampai ka Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "buek"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diparentahkan kapadonyo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "jo mambantai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakampuan urang Palishti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "pakampuan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palishti"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "dari Gibeon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:31.726022050Z",
+  "model": "glm-5.3"
+}

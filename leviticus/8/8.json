@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu inyo mamasang ka atehnyo ⟨את⟩ khoshen, lalu mamasuakan ka dalam khoshen ⟨את⟩ Urim jo ⟨את⟩ Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mamasang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka atehnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "khoshen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maagiah masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka dalam"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "khoshen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:56.735777162Z",
+  "model": "glm-5.3"
+}

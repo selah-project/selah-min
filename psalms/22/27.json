@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Urang-urang nan randah ati makan jo kanyang; urang nan mancari Yahweh mamuji Ia; ati kalian iduah salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "urang-urang nan randah ati"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "jo kanyang"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "urang nan mancari Ia"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "iduah"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ati kalian"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:33.234784973Z",
+  "model": "glm-5.3"
+}

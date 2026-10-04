@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Mako ambo kito maagiah ⟨את⟩ anak-anak padusi ambo kito kapado sanak, jo ⟨את⟩ anak-anak padusi sanak ambo kito ambiak untuak ambo kito, jo ambo kito tingga basamo sanak ⟨אתכם⟩, jo ambo kito manjadi untuak ciek umat.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Mako ambo kito maagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak padusi ambo kito"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "anak-anak padusi ambo kito"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anak padusi sanak"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "anak-anak padusi sanak"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "ambo kito ambiak"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak ambo kito"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "jo ambo kito tingga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "basamo sanak ⟨אתכם⟩"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "jo ambo kito manjadi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "untuak umat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:37.243075795Z",
+  "model": "glm-5.3"
+}

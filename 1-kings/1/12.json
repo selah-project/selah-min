@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Kok kini, lai sanak pai, ambo arek nasihat: salamaan ⟨את⟩ nyao sanak, jo ⟨את⟩ nyao anak sanak Salomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kok kini"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pai"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ambo arek nasihat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lai"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "salamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyao sanak"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyao sanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyao anak sanak Salomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyao"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anak sanak"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:27.965801634Z",
+  "model": "glm-5.3"
+}

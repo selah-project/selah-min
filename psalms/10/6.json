@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Inyo bakato di atinyo: ambo indak ka bagoyang; dari angkatan ka angkatan ambo indak ka kaadoan kasusahan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "di atinyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ka bagoyang"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ka angkatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ka angkatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nan⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kaadoan kasusahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:01.157564402Z",
+  "model": "glm-5.3"
+}

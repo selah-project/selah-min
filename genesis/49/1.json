@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Lalu Yaakov maimbau anak-anaknyo, jo bakato: Kumpuahlah kalian basamo, supayo ambo bakan kapado kalian ⟨את⟩ nan ka tajadi kapado kalian di akhia ari-ari.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maimbau"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "kumpuahlah kalian basamo"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "supayo ambo bakan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado kalian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan ka tajadi kapado kalian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ka tajadi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kapado kalian"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "di akhia"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ari-ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:58.673774962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Di tangan Engkaulah maso-maso ambo; lapehkan ambo dari tangan musuah ambo jo dari urang nan mamburu ambo.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "di tangan Engkau"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "maso-maso ambo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "lapehkan ambo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuah ambo"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "jo dari urang nan mamburu ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:30.198396128Z",
+  "model": "glm-5.3"
+}

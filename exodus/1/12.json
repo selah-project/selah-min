@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Tapi makin inyo dipaso, sacaro itu pulo inyo batambah banyak jo malompek; lalu urang tu iduak bana karano urang banyak anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Tapi makin"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "dipaso"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sacaro itu pulo"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "batambah banyak"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "jo sacaro itu pulo"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "malompek"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "lalu urang tu iduak bana"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:56.175518259Z",
+  "model": "glm-5.3"
+}

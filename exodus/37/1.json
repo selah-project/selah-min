@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu Betsalel mambuek ⟨את⟩ aron itu dari kayu shitim: duo amah satangah panjangnyo, ciek amah satangah lebanyo, jo ciek amah satangah tingginyo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron itu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron itu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "duo amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "satangah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnyo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ciek amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "satangah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebanyo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ciek amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "satangah"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tingginyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:07.343911952Z",
+  "model": "glm-5.3"
+}

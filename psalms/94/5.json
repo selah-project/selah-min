@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Umurang ⟨mereka⟩ manduduak umat-Mu, Yahweh, jo pusako-Mu ⟨mereka⟩ manyaso.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "manduduak"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "jo pusako-Mu"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "manyaso"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:11.735988962Z",
+  "model": "glm-5.3"
+}

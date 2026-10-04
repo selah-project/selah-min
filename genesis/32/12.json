@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lapehkan ambo, kiro-kiro, dari tangan sudara ambo, dari tangan Esau; karano ambo takuik kapadonyo ⟨את⟩, supayo indak inyo tibo jo mambukak ambo sarato ibu jo anak-anak.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "lapehkan ambo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiro-kiro"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sudara ambo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Esau)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "inyo tibo"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "jo mambukak ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "על",
+      "gloss": "sarato"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:31.116162893Z",
+  "model": "glm-5.3"
+}

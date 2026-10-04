@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lagi pulo Yahweh, Elohim kau, mangirim ⟨את⟩ tabuang ka dalam urang tu, sampai musnah urang nan tasisia jo urang nan malinduang diri dari muko mu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "lagi pulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabuang"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tabuang"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kau"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka dalam urang tu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "musnah"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "urang nan tasisia"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "jo urang nan malinduang diri"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari muko mu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:25.207287023Z",
+  "model": "glm-5.3"
+}

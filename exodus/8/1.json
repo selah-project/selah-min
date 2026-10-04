@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Yahweh bakato kapado Moshe: Katakan kapado Aharon: Onjakkan ⟨את⟩ tanganmu jo tungkakmu ateh sungai-sungai, ateh anak-anak sungai, jo ateh kolam-kolam, dan suruah naiak ⟨את⟩ katak-katak ateh bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Katakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Onjakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "jo tungkakmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "anak-anak sungai"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "kolam-kolam"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "dan suruah naiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katak-katak"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:08.865340639Z",
+  "model": "glm-5.3"
+}

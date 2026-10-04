@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Urang nan bajalan saleh, nan bakarajo tsedeq, jo nan mangecek kabanaran dalam atinyo.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "urang nan bajalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "saleh"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "nan bakarajo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "nan mangecek"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "dalam atinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:20.532721255Z",
+  "model": "glm-5.3"
+}

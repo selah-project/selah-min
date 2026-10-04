@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu inyo bakato: Pai jo ambo ⟨את⟩, jo caliak dalam kasungguahan ambo untuak Yahweh. Lalu urang tu manolong naiak ⟨את⟩ inyo ka dalam kareta baliau.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "jo ambo ⟨את⟩"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "jo caliak"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "dalam kasungguahan ambo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "urang tu manolong naiak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ka dalam kareta baliau"
+    }
+  ],
+  "timestamp": "2026-10-04T05:59:05.480578802Z",
+  "model": "glm-5.3"
+}

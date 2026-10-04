@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "mako Aku pun ka bajalan lawan kalian dalam bacakak, dan Aku ka mahantam ⟨את⟩ kalian, Aku sandiri, tujuah kali karano doso-doso kalian.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "mako Aku ka bajalan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "lawan kalian"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "dalam bacakak"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "dan Aku ka mahantam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sandiri pun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuah kali"
+    },
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "doso-doso kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:58.747838567Z",
+  "model": "glm-5.3"
+}

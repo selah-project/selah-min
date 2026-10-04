@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Karano hamba Sanak alah bajanji nazar katiko tingga di Geshur, di Aram, nan bakato: Kok sacaro bana Yahweh mambaok ambo baliak ka Yerushalayim, ambo akan mangabdi ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nazar"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "bajanji"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba Sanak"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "katiko tingga"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "di Geshur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "di Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "sacaro bana"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "mambaok ambo baliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ka Yerushalayim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "ambo akan mangabdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:39:28.659602902Z",
+  "model": "glm-5.3"
+}

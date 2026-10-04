@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo Novakh pai, jo manangkok ⟨את⟩ Kenat jo ⟨את⟩ kampuang-kampuangnyo, lalu inyo manamoi Novakh manuruik namonyo surang.",
+  "tokens": [
+    {
+      "surface": "ויבח",
+      "gloss": "Novakh"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "jo manangkok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kampuang-kampuangnyo"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "kampuang-kampuangnyo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu inyo manamoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novakh"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "manuruik namonyo surang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:48:51.401176984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 50:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Jo dunsanak-dunsanak Yosef caliek baso apaknyo alah mati, lalu bakato: Mungkin Yosef mambanci kito, jo pasti inyo mambaaliak ka kito ⟨את⟩ sagalo kajahatan nan alah kito buek kapado ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "caliek"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dunsanak-dunsanak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "מת",
+      "gloss": "alah mati"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Mungkin"
+    },
+    {
+      "surface": "ישטמנו",
+      "gloss": "mambanci kito"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "jo pasti mambaaliak"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "mambaaliak"
+    },
+    {
+      "surface": "لنו",
+      "gloss": "ka kito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kajahatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "kito buek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:14.695048540Z",
+  "model": "glm-5.3"
+}

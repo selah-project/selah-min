@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo Dawid bakuaso di ateh saluruah Yisrael, jo Dawid mangarajoan hukum jo tsedeq kapado saluruah kaumnyo.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "bakuaso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mangarajoan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "jo tsedeq"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado saluruah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaumnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:10:21.354270073Z",
+  "model": "glm-5.3"
+}

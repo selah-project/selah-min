@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Bahkan indak inyo bakarajo kalabiahan, tapi inyo bajalan di jalan-jalannyo.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "inyo bakarajo"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kalabiahan"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di jalan-jalannyo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "inyo bajalan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:29.745743600Z",
+  "model": "glm-5.3"
+}

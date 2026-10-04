@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Bueklah kabaikan manuruik kamaumpuian-Mu kapado ⟨את⟩ Tzion; bangunlah tabek-tabek Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "bueklah kabaikan"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "manuruik kamaumpuian-Mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "tabek-tabek"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:47.781354197Z",
+  "model": "glm-5.3"
+}

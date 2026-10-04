@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "jo ⟨את⟩ Dedan, jo ⟨את⟩ Tema, jo ⟨את⟩ Buz, jo ⟨את⟩ sagalo urang nan manggunting rambuik di suduek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo urang nan manggunting rambuik di suduek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "nan manggunting"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "suduek (rambuik)"
+    }
+  ],
+  "timestamp": "2026-10-04T06:34:44.554783002Z",
+  "model": "glm-5.3"
+}

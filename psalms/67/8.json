@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 67,
+  "translation": "Elohim mandabarakan barkek kapado kito, jo sado ujuang-ujuung bumi ma takuik kapado ⟨Dialah⟩.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "mandabarakan barkek kapado kito"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "jo ma takuik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sado ujuung-ujuung bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ujuung-ujuung"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:27.544364797Z",
+  "model": "glm-5.3"
+}

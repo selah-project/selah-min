@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Panghuni Yavesh di Gil'ad mandanga ⟨את⟩ nan alah dikerjokan urang Plishtim kapado Sha'ul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tantang itu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "panghuni"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan alah dikerjokan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "alah dikerjokan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Plishtim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kapado Sha'ul"
+    }
+  ],
+  "timestamp": "2026-10-04T05:34:30.990870750Z",
+  "model": "glm-5.3"
+}

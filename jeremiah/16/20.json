@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Bisok manusia mambuek untuak dirinyo surang tuhan-tujuan, sadangkan inyo tu bukan tuhan-tujuan?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "bisok mambuek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak dirinyo surang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tujuan"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "sadangkan inyo tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tujuan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:31:57.886696699Z",
+  "model": "glm-5.3"
+}

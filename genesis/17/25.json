@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo Yishmael anaknyo, umua tigo baleh taun katiko inyo disunat ⟨את⟩ dagiang kulupnyo.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Jo Yishmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umua"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "katiko inyo disunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiang kulupnyo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "kulupnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:55.028659793Z",
+  "model": "glm-5.3"
+}

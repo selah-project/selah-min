@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Inyi bakato kapado nyonyonyo: Kalau sajo tuan ambo ado di muko nabi nan di Shomron, pasti inyo maubek inyo dari panyakik layunyo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "inyi bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "nyonyonyo"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "kalau sajo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "maubek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Naaman)"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "dari panyakik layunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:57:40.637233672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Yahweh, baa ramai urang nan panyeso ambo! Ramai nan bangkik manantang ambo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ramai"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "urang nan panyeso ambo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Ramai"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "nan bangkik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "manantang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:16.645351086Z",
+  "model": "glm-5.3"
+}

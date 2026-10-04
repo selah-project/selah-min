@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 36:38",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Lalu Shaul mati, lalu Baal-Khanan anak Akhbor barajo manggantinyo.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "barajo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "manggantinyo"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Khanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akhbor"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:08.712420421Z",
+  "model": "glm-5.3"
+}

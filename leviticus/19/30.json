@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "⟨את⟩ Shabat-Shu den urang tu alek, jo Mishkan-Ku den urang tu barimo; ambo Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat-Shu"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabat-Shu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "den urang tu alek"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "jo Mishkan-Ku"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "den urang tu barimo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:24.532410701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Di hari katigo Avraham mangatok ⟨את⟩ matonyo, jo nampak ⟨את⟩ tampek itu dari jauah.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di hari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katigo"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "mangatok"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matonyo"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matonyo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampek itu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tampek itu"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "dari jauah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:16.557791279Z",
+  "model": "glm-5.3"
+}

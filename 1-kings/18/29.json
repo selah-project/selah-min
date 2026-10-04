@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Dan tajadi, katiko tangah ari alah lalu, inyo-iyo manubiak nabi sampai wakatu mambaok minkha, tapi indak ado suaro, indak ado nan manjawek, jo indak ado nan mamatiki.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tajadi"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "katiko ... alah lalu"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tangah ari"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "manubiak nabi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "wakatu mambaok"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "nan manjawek"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "nan mamatiki"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:10.238688941Z",
+  "model": "glm-5.3"
+}

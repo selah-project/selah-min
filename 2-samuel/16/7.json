@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Dan baitu bakato Shim'i katiko inyo mamaki: Kalua, kalua, wa laki-laki darah, laki-laki nan indak bajaso!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "dan baitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shim'i"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "katiko mamaki"
+    },
+    {
+      "surface": "צא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "צא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jo laki-laki"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "nan indak bajaso"
+    }
+  ],
+  "timestamp": "2026-10-04T05:40:07.006633883Z",
+  "model": "glm-5.3"
+}

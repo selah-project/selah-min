@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Satiok laki-laki di antaro para imam makan ⟨את⟩ inyo; inyo ⟨adolah⟩ suci sagalo nan suci.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "di antaro para imam"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sagalo nan suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:11.195399187Z",
+  "model": "glm-5.3"
+}

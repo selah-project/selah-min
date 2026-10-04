@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "⟨את⟩ Khelkat jo ⟨את⟩ pakampungannyo, jo ⟨את⟩ Rekhov jo ⟨את⟩ pakampungannyo — koto-kato ampek.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Khelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakampungannyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pakampungannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Rekhov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakampungannyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pakampungannyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "koto-kato"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:26.021705371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Urang tu mambuek tando-tando-Nyo di tangah Mesir, jo mukjizat-mukjizat di tanah Kham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "urang tu mambuek"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di tangah Mesir"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "tando-tando-Nyo"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "jo mukjizat-mukjizat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:17.228030576Z",
+  "model": "glm-5.3"
+}

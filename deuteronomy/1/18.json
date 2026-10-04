@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo ambo mamarentahkan ⟨את⟩ kapado Anda pado wakatu itu ⟨את⟩ sagalo pakaro-pakaro nan harus Anda karajokan.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "mamarentahkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kapado Anda",
+      "marks": "kapado Anda"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pado wakatu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo pakaro-pakaro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pakaro-pakaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "harus Anda karajokan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:56.870160427Z",
+  "model": "glm-5.3"
+}

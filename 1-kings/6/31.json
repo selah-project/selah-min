@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo untuak ⟨את⟩ pintu masuak Debir inyo mambuek pintu kaju zaitun; ambang jo tiang pintu saperlima.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pintu masuak Debir"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu masuak"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kaju"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ambang"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tiang pintu"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "saperlima"
+    }
+  ],
+  "timestamp": "2026-10-04T05:47:17.737563715Z",
+  "model": "glm-5.3"
+}

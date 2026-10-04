@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Elohim manunduakkan pado ari itu ⟨את⟩ Yabin rajo Kanaan di muko urang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "manunduakkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabin rajo Kanaan"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:14:39.029082552Z",
+  "model": "glm-5.3"
+}

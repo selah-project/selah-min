@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo inyo bajalan di jalan rajo-rajo Yisrael, bahkan ⟨את⟩ anaknyo inyo lantakan ka dalam api, manuruik kabancyoan bangso-bangso nan alah Yahweh usia ⟨את⟩ inyo dari muko anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "inyo bajalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaknyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "inyo lantakan ka dalam"
+    },
+    {
+      "surface": "באש",
+      "gloss": "api"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "manuruik kabancyoan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "alah Yahweh usia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "bangso-bangso"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:29.043092573Z",
+  "model": "glm-5.3"
+}

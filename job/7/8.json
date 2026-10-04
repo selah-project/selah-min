@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Mato nan alah mancaliak ambo indak ka mamati-mati ambo lai; mato-Mu ka mandapek ambo, tapi ambo indak lai ado.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "ka mamati-mati ambo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "nan alah mancaliak ambo"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mato-Mu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "וילאני",
+      "gloss": "tapi ambo indak lai ado"
+    }
+  ],
+  "timestamp": "2026-10-04T08:04:14.953318363Z",
+  "model": "glm-5.3"
+}

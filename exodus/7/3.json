@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Sadangkan ambo ka mangeraskan ⟨את⟩ ati Paroh, jo ambo ka mamansuang ⟨את⟩ tando-tando ambo jo ⟨את⟩ mujizat-mujizat ambo di tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Sadangkan ambo"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ka mangeraskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ka mamansuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tando-tando ambo"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tando-tando ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "mujizat-mujizat ambo"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mujizat-mujizat ambo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:04.409426649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo kabun anggurmu indak kau tunggak-habih, jo tiok butia(ang) nan tasisiah di kabun anggurmu indak kau kumpuak-an; untuak urang miskin jo urang rantau biok-lah biape; ambo Yahweh, Elohim kalian.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "jo kabun anggurmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "kau tunggak-habih"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "jo tiok butia(ang) nan tasisiah"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "di kabun anggurmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kau kumpuak-an"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "untuak urang miskin"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "jo urang rantau"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "biok-lah biape"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "urang miskin jo urang rantau"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:34.867971927Z",
+  "model": "glm-5.3"
+}

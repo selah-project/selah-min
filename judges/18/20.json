@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Ati imam tu manjadi sanang, lalu inyo mangambiak ⟨את⟩ efod, jo ⟨את⟩ terafim, jo ⟨את⟩ patuang ukiran, sarato pai di tangah urang banyak tu.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "manjadi sanang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mangambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "patuang ukiran"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "patuang ukiran"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "pai"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:21:49.238652263Z",
+  "model": "glm-5.3"
+}

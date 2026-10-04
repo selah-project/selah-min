@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lapehkan diri surang sarupo kijang dari tangan, jo sarupo buruang dari tangan panjiek buruang.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "lapehkan diri surang"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "sarupo kijang"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "וכצצפור",
+      "gloss": "jo sarupo buruang"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "panjiek buruang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:52.298380454Z",
+  "model": "glm-5.3"
+}

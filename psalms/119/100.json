@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Dari urang tuo-tuo, ambo labiah mamahami, karano parentah-Mu ambo manjago.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "dari urang tuo-tuo"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ambo labiah mamahami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "parentah-Mu"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ambo manjago"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:01.385130628Z",
+  "model": "glm-5.3"
+}

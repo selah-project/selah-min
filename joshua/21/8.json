@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lalu urang Yisrael maagiah kapado urang Lewi ⟨את⟩ banua-banua ko jo ⟨את⟩ padang-padang rumpuiknyo, sarupo nan diparentahkan Yahweh dek tangan Moshe, malalui undian.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "lalu maagiah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kapado urang Lewi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banua-banua ko"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "banua-banua"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang-padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "padang-padang rumpuiknyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dek tangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "malalui undian"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:25.665049648Z",
+  "model": "glm-5.3"
+}

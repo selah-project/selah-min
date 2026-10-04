@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Yahweh Elohim, jan pulangkan muko nan diurapi-San; ingeklah kapado hesed-hesed Dawid, hamba-San.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "pulangkan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "nan diurapi-San"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "ingeklah"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "kapado hesed-hesed"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-San"
+    }
+  ],
+  "timestamp": "2026-10-04T08:49:35.498489398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Banyak kali inyo malapehan inyo, tapi inyo mambangkang dalam buah pikia inyo, jo inyo tadisorak dek doso inyo.",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "inyo malapehan inyo"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "tapi inyo"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "mambangkang"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "dalam buah pikia inyo"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "jo inyo tadisorak"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "dek doso inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:57.650171207Z",
+  "model": "glm-5.3"
+}

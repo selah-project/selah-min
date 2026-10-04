@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Ambo mangiro ari-ari nan dulu, taun-taun jaman nan lalu.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ambo mangiro"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dulu"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "taun-taun"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "jaman nan lalu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:35.128952691Z",
+  "model": "glm-5.3"
+}

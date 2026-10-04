@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Sadari penuh urang nan mambanci ambo mahina ambo; urang nan gilo karano ambo alah basumpah batolak-balakang jo ambo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadari penuh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "mahina ambo"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "urang nan mambanci ambo"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "urang nan gilo karano ambo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "alah basumpah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:12.594921298Z",
+  "model": "glm-5.3"
+}

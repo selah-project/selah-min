@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 143,
+  "translation": "Buek ambo mandanga hesed-Mu pado pagi hari, karano kapado-Mu ambo baharok; baritahuan lah ka ambo jalan nan ka ambo tampeki, karano kapado-Mu ambo mangangkek jiwa ambo.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "buek ambo mandanga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi hari"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ambo baharok"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "baritahuan lah ka ambo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ka ambo tampeki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ambo mangangkek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:08.846735808Z",
+  "model": "glm-5.3"
+}

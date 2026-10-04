@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lalu rajo tu maningga, jo urang tu mambaoknyo ka Shomeron, jo urang tu mangubuakan ⟨את⟩ rajo tu di Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "lalu maningga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "jo urang tu mambaoknyo ka"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "jo urang tu mangubuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo tu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:57.960964540Z",
+  "model": "glm-5.3"
+}

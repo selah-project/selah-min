@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Jo bapak kami bakato: Baliaklah, balilah untuak kami saketek makanan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bapak kami bakato"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bapak kami"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "balilah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kami"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:20.145352518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Di tampek di ma urang manyambaliah ⟨את⟩ korban bakaran, urang manyambaliah ⟨את⟩ korban asham, jo ⟨את⟩ darahnyo urang manyipak ka ateh mezbah sakaliliang.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "urang manyambaliah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "urang manyambaliah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban asham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "korban asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "darahnyo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "urang manyipak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:08.736276620Z",
+  "model": "glm-5.3"
+}

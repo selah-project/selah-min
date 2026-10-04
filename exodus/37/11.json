@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Dan inyo malapisi ⟨את⟩ inyo jo ameh murni, dan mambuek untuaknyo rim ameh salilingnyo.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "dan inyo malapisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "ameh"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan mambuek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "rim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "salilingnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:22.616638096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Yahweh indak mamarihankan nafesh urang nan banar, tapi kahandak urang jahat inyo paiduinyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indak"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "mamarihankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafesh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang nan banar"
+    },
+    {
+      "surface": "והות",
+      "gloss": "tapi kahandak"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "inyo paiduinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:51.605756552Z",
+  "model": "glm-5.3"
+}

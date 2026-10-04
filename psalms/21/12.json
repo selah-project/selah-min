@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Karano inyo mambujuik kajahatan ka ateh Kau; inyo mancamkan buaik nan indak inyo sanggup laksanakan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "inyo mambujuik"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka ateh Kau"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "inyo mancamkan"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "buaik"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "inyo sanggup laksanakan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:54.586563883Z",
+  "model": "glm-5.3"
+}

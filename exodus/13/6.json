@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Tujuah ari ang ka makan roti indak barambang, jo pado ari nan katujuah ⟨ado⟩ pesta untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ang ka makan"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "roti indak barambang"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "jo pado ari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nan katujuah"
+    },
+    {
+      "surface": "חג",
+      "gloss": "pesta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:19.761209830Z",
+  "model": "glm-5.3"
+}

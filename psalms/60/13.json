@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Barih kapado kami tolong dari kasusahan; jo sia-sia lai palapeh dari urang.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Barih"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado kami"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "tolong"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dari kasusahan"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "jo sia-sia lai"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "palapeh"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:48.484449384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 137,
+  "translation": "Di tapi sungai-sungai Babel, di sinolah kami duduak, bahkan kami manangih, katiko kami mangana ⟨את⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "di tapi"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinolah"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "kami duduak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "kami manangih"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "katiko kami mangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:58.094382156Z",
+  "model": "glm-5.3"
+}

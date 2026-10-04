@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jadi sadoalah ari-ari Adam nan inyo iduiki iolah sambilan ratuih taun jo tigo puluah taun, lalu inyo maningga.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "jadi iolah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "iduiki"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sambilan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratuih"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "jo tigo puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu inyo maningga"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:34.563136246Z",
+  "model": "glm-5.3"
+}

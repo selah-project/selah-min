@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo ambo bakato: Sasudah inyo buek ⟨את⟩ sagalo iko, baliaklah kapado ambo — tapi inyo indak baliak. Jo adiaknyo nan pambaliak aik, Yehuda, lah caliek.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Jo ambo bakato"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "inyo buek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "lah caliek"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "pambaliak aik"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "adiaknyo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-04T06:26:54.138245735Z",
+  "model": "glm-5.3"
+}

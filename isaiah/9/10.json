@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Yahweh mahimpekannyo musuah-musuah Retson ateh inyo, jo ⟨את⟩ musuah-musuahnyo inyo pagaruak.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "mahimpekannyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuah-musuah Retson"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "musuah-musuah"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retson"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ateh inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "musuah-musuahnyo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuah-musuahnyo"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "inyo pagaruak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:19.917615236Z",
+  "model": "glm-5.3"
+}

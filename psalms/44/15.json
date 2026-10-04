@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Engkau mambuek kami manjadi pabandiangan di antaro bangso-bangso, pangujuak kapalo di antaro umat-umat.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "mambuek kami manjadi"
+    },
+    {
+      "surface": "משל",
+      "gloss": "pabandiangan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antaro bangso-bangso"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "pangujuak"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "umat-umat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:11.003519932Z",
+  "model": "glm-5.3"
+}

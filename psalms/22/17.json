@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Karano anjiang-anjiang alah mangaliliangi ambo, kumpulan urang jahat alah mangapuangi ambo; sarupo singo ⟨mamuko⟩ ⟨את⟩ tangan ambo jo ⟨את⟩ kaki ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mangaliliangi ambo"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "anjiang-anjiang"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kumpulan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "mangapuangi ambo"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "sarupo singo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan ambo"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "jo kaki ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:25.312951137Z",
+  "model": "glm-5.3"
+}

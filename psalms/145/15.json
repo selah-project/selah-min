@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Mato sadoalah mandapek kapado Sanak, jo Sanak maagiah kapado inyo ⟨את⟩ makanannyo pado wakatunyo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado Sanak"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "mandapek"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "jo Sanak"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makanannyo"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "makanannyo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "pado wakatunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:50.236472651Z",
+  "model": "glm-5.3"
+}

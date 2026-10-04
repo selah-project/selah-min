@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Jo inyo mambuek ⟨את⟩ tujuah palito inyo, jo sipuik-sipuik inyo, jo piriang abu inyo — ameh murni.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuah palito inyo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "palito inyo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "jo sipuik-sipuik inyo"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "jo piriang abu inyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:19.414859109Z",
+  "model": "glm-5.3"
+}

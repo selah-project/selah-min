@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Sasak ambo jo ka mati sajak mudo; ambo mambao kagorikan-Mu — ambo kabaluih.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Sasak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "jo ka mati"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "sajak mudo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ambo mambao"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "kagorikan-Mu"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ambo kabaluih"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:32.334943680Z",
+  "model": "glm-5.3"
+}

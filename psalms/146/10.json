@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 146,
+  "translation": "Yahweh baraja salamo-lamonyo, Elohimnyo, oi Tsiyon, samo katurunan ka katurunan — pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "baraja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimnyo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "samo katurunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ka katurunan"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:27.287573241Z",
+  "model": "glm-5.3"
+}

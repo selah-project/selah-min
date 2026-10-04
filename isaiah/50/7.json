@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Jo Adonai Yahweh manolong ambo, dek itu ambo indak tapararuah; dek itu ambo managak-an muko ambo sarupo batu kilek, jo ambo tau basonyo ambo indak ka malu.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "jo Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "manolong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "tapararuah"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ambo managak-an"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "sarupo batu kilek"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "jo ambo tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "basonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ka malu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:22:21.668212460Z",
+  "model": "glm-5.3"
+}

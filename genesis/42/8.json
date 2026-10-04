@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Jo Yosep mangana ⟨את⟩ sudaro-saudaronyo, tapi urang tu indak mangana inyo.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "mangana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudaro-saudaronyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sudaro-saudaronyo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tapi urang tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "mangana inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:26.400111925Z",
+  "model": "glm-5.3"
+}

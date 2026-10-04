@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo tajadilah pado jago pagi, bahwo Yahweh mancaliak ka pakampuangan urang Mitsrayim malalui tiang api jo awan, jo inyo manguaik ⟨את⟩ pakampuangan urang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tajadilah"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "pado jago"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "pakampuangan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "malalui tiang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "jo awan"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "manguaik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakampuangan urang Mitsrayim"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "pakampuangan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:01.139182206Z",
+  "model": "glm-5.3"
+}

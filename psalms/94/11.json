@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Yahweh mangatahui pikia-pikia manusia, karano inyo-inyo ⟨adolah⟩ sia-sia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mangatahui"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "pikia-pikia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo-inyo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sia-sia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:11.304056641Z",
+  "model": "glm-5.3"
+}

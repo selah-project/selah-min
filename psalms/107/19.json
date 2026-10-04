@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Laju inyo baseru kapado Yahweh pado kasusahan inyo, jo dari kasasahan inyo Inyo salamaikkan inyo.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "laju inyo baseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "pado kasusahan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "dari kasasahan inyo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "Inyo salamaikkan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:37.516561830Z",
+  "model": "glm-5.3"
+}

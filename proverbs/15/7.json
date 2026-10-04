@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Bibi urang bijak manyebaakan pangetahuan, tapi ati urang bodo indak baitu.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "bibi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "urang bijak"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "manyebaakan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangetahuan"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "tapi ati"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "urang bodo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:57:26.333923056Z",
+  "model": "glm-5.3"
+}

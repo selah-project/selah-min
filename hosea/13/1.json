@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Bilo Efraim bakato, gariang timbo; inyo tapangkek di Yisrael, tapi inyo badoso dek Baal, jo inyo mati.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "bilo ... bakato"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "gariang"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "tapangkek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "jo inyo badoso"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "dek Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "jo inyo mati"
+    }
+  ],
+  "timestamp": "2026-10-04T09:21:57.301350779Z",
+  "model": "glm-5.3"
+}

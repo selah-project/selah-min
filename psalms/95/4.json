@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 95,
+  "translation": "Nan di tangan-Nyo kadalaman-kadalaman bumi, jo katinggian gunuang-gunuang punyo-Nyo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangan-Nyo"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "kadalaman-kadalaman"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "jo katinggian"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "punyo-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:47.694656301Z",
+  "model": "glm-5.3"
+}

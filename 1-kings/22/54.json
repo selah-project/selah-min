@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Inyo mangabdi kapado ⟨את⟩ Baal jo sujud kapadonyo, jo mambuek ⟨את⟩ Yahweh, Elohim Yisrael, tamarah sasuai jo sagalo nan dikarajoan apaknyo.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "mangabdi kapado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "sujud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "mambuek tamarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sasuai jo sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dikarajoan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:57.593356212Z",
+  "model": "glm-5.3"
+}

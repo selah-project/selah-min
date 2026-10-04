@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Ingek-an ⟨את⟩ ari Shabat untuak manyucian-Nyo.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ingek-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ari Shabat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "untuak manyucian-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:35.190083828Z",
+  "model": "glm-5.3"
+}

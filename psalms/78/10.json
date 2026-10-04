@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Indak inyo manjago parjanjian Elohim, jo dalam Torah-Nyo inyo mailak jalan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indak"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "manjago"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "jo dalam Torah-Nyo"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "inyo mailak"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "jalan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:07.644274695Z",
+  "model": "glm-5.3"
+}

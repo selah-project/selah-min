@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo anak-anak Gomer: Asykenaz, Rifat, jo Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Jo anak-anak"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Asykenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "jo Togarma"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:56.847030092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo supayo sanak mancaritoan ka talingo anakmu jo anak anakmu baa ambo alah baramain jo Mitsrayim, jo ⟨את⟩ tando-tandoku nan ambo alah malatakkan di tangah inyo, supayo kalian mangatahui baso ambo iolah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "jo supayo"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "mancaritoan"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ka talingo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "jo anak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan ambo alah baramain jo Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "ambo alah baramain"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "jo Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tando-tandoku"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tando-tandoku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ambo alah malatakkan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di tangah inyo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "supayo kalian mangatahui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:39.853874662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lajo Yahweh Elohim mambantuak ⟨את⟩ manusia itu dari dabu tanah, jo maiangan ka iduangnyo napeh iduik, jo manusia itu manjadi jiwa nan iduik.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "Lajo mambantuak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia itu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "jo maiangan"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "ka iduangnyo"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "napeh"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo manjadi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nan iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:43.877635280Z",
+  "model": "glm-5.3"
+}

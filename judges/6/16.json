@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu Yahweh bakato kapadonyo: \"Karano Ambo ka basamo kau, dan kau ka mamukua ⟨את⟩ Midian sarupo ciek urang sajo.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ambo ka basamo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo kau"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "dan kau ka mamukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sarupo urang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "cekah sajo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:14:14.251241635Z",
+  "model": "glm-5.3"
+}

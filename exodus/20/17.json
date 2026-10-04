@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jan ingini rumah tatanggamu, jan ingini bini tatanggamu, jo laki-laki budaknyo jo padusi budaknyo, jo lembunyo jo kudanyo, jo sado nan ado pado tatanggamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "ingini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "tatanggamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "ingini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "tatanggamu"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "jo laki-laki budaknyo"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "jo padusi budaknyo"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "jo lembunyo"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "jo kudanyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "pado tatanggamu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:25.562595164Z",
+  "model": "glm-5.3"
+}

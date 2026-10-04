@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Karano ambo siap mandarato pincang, jo sanso ambo ado di muko ambo salalu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "mandarato pincang"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "siap"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "jo sanso ambo"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "di muko ambo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "salalu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:13.540096087Z",
+  "model": "glm-5.3"
+}

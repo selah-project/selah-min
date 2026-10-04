@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 96,
+  "translation": "Katoanlah di antaro bangso-bangso: Yahweh alah manjadi rajo! Bumi pun tagak kokoh, indak akan goyang; Iyo mahukumi kaum-kaum dalam katulusan.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "katoanlah"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antaro bangso-bangso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "alah manjadi rajo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pun"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "tagak kokoh"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "akan goyang"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "mahukumi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kaum-kaum"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "dalam katulusan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:16.765046309Z",
+  "model": "glm-5.3"
+}

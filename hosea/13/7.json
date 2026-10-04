@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo ambo manjadi sarupo singo untuak inyo, sarupo macan di tapi jalan ambo mangintai.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "jo ambo manjadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak inyo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "singo"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "sarupo macan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tapi jalan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ambo mangintai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:44.146054278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo ⟨את⟩ babi, karano inyo mambalah kuku tapi indak manaikkan gerah — inyo tajam untuak kalian; dagiangnyo indak buliah kalian makan, jo bangkainyo indak buliah kalian rambuoi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "babi"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "babi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "mambalah"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerah"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tajam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kalian"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kalian makan"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "jo bangkainyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kalian rambuoi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:38.891782092Z",
+  "model": "glm-5.3"
+}

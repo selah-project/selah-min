@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Pado ari kasambilan bulan tu, kalaparan manjadi barek di kota tu, jo indak ado roti untuak urang nagari tu.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "pado ari kasambilan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan tu"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "manjadi barek"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota tu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "untuak urang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:50.397433064Z",
+  "model": "glm-5.3"
+}

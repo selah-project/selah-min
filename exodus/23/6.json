@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jan kau pamiek hukum urang kasianganmu dalam sangkutannyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "pamiek"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "urang kasianganmu"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "dalam sangkutannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:08.148840895Z",
+  "model": "glm-5.3"
+}

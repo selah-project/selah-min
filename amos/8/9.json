@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 8:9",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jadi pado ari itu, kato Adonai Yahweh, Aku ka mambuek ⟨את⟩ matoari turun pado tangah ari, jo Aku ka manggokan bumi pado ari nan tarang.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "Aku ka mambuek turun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "pado tangah ari"
+    },
+    {
+      "surface": "והחשכתי",
+      "gloss": "jo Aku ka manggokan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nan tarang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:12:38.972903729Z",
+  "model": "glm-5.3"
+}

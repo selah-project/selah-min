@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 97,
+  "translation": "Yahweh alah batahta: tagembiralah bumi, bakariahlah pulau-pulau nan banyak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "alah batahta"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "tagembiralah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bakariahlah"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulau-pulau"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:31.772549828Z",
+  "model": "glm-5.3"
+}

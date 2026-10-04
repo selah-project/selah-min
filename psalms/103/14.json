@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Karano inyo mangatahui bantuak kito, inyo mangana bahasonyo kito ⟨adalah⟩ dabu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mangatahui"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "bantuak kito"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "mangana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahasonyo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:32.943635667Z",
+  "model": "glm-5.3"
+}

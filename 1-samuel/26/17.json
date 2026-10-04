@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Lalu Shaul manclangkok ⟨את⟩ suaro Dawid, jo bakato: Kok ko suaro ang, Dawid anak ambo? Lalu Dawid bakato: Suaro ambo, tuan ambo rajo.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "manclangkok"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaro Dawid"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "suaro ang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kok"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:33:50.763226589Z",
+  "model": "glm-5.3"
+}

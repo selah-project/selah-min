@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo anak-anak Yediael: Bilhan; jo anak-anak Bilhan: Yeush, jo Binyamin, jo Ehud, jo Kenana, jo Zetan, jo Tarshish, jo Akhisyahar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "jo Binyamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "jo Ehud"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "jo Kenana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "jo Zetan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "jo Tarshish"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "jo Akhisyahar"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:23.166795329Z",
+  "model": "glm-5.3"
+}

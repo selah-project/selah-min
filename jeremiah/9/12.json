@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo Yahweh bakato: Karano inyo alah maninggaan ⟨את⟩ Torah ambo nan ambo alah tarangkan di muko inyo, indak mandanga ka suaro ambo, jo indak bajalan di dalamnyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "inyo alah maninggaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah ambo"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ambo alah tarangkan"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di muko inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ka suaro ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:29:46.985863070Z",
+  "model": "glm-5.3"
+}

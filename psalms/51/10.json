@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Buek ambo mandanga ria jo lasia; supayo tulang-tulang nan alah patahkan cakapi ambo baria baliak.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "buek ambo mandanga"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ria"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "jo lasia"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "baria baliak"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang-tulang"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "nan alah patahkan cakapi ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:41.020947647Z",
+  "model": "glm-5.3"
+}

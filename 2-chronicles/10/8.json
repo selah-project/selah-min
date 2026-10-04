@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Tapi inyo mambiaan ⟨את⟩ nasihat urang tuo-tuo nan alah inyo agiah, inyo bamufakat jo ⟨את⟩ anak-anak mudo nan gadang basamo ⟨את⟩ inyo, nan tagak di mukonyo.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "mambiaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasihat urang tuo-tuo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "urang tuo-tuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "alah inyo agiah"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "bamufakat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak mudo"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "anak-anak mudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (basamo inyo)"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "nan tagak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:52:40.040662747Z",
+  "model": "glm-5.3"
+}

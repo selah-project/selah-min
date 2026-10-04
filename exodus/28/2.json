@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo angkau bulek-an baju-baju suci untuak Aharon sudaro laki-lakimu, untuak kamuliaan jo untuak kaindoahan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo angkau bulek-an"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "baju-baju"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "untuak Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sudaro laki-lakimu"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "untuak kamuliaan"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "jo untuak kaindoahan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:33.942588249Z",
+  "model": "glm-5.3"
+}

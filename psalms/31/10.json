@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Baniahi ambo, Yahweh, karano sanso untuak ambo; mato ambo lah lanyok dek kaamasan, napeh hiduik ambo jo paruik ambo.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Baniahi ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sanso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "lah lanyok"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "dek kaamasan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hapeh hiduik ambo"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "jo paruik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:24.754352889Z",
+  "model": "glm-5.3"
+}

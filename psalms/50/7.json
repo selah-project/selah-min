@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Dangaikan, umat ambo, ambo ka bakato; Yisrael, ambo ka bajanji kapado ⟨kamu⟩: Elohim, Elohim-mu, ambo-lah.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Dangaikan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat ambo"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ambo ka bakato"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ambo ka bajanji"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kapado ⟨kamu⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo-lah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:37.859930994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 76,
+  "translation": "Angku, nan mambuek galeh, angku; jo sia nan dapek tagak di muko angku sajak mahamarah angku?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "angku"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "nan mambuek galeh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angku"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jo sia"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dapek tagak"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di muko angku"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "sajak"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "mahamarah angku"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:47.905111903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Yahweh bakarajo manuruik kato Moshe, jo katak-katak itu mati dari rumah-rumah, dari laman-laman, jo dari ladang-ladang.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu Yahweh bakarajo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "manuruik kato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "jo katak-katak itu mati"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak itu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "laman-laman"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "ladang-ladang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:38.388816940Z",
+  "model": "glm-5.3"
+}

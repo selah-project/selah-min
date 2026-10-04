@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Buahnyo dari bumi Kau musnakan, jo beniahnyo dari anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "buahnyo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "Kau musnakan"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "jo beniahnyo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dari anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:54.586406029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Urang tu lai manjadi tembok untuak kito, baik malam baik siang, salamo ari kito basamo urang tu, maàgak kambiang.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "היו",
+      "gloss": "lai manjadi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "untuak kito"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baik"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baik"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "kito ado"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "basamo urang tu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "maàgak"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kambiang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:20.096105601Z",
+  "model": "glm-5.3"
+}

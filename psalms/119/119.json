@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Sigim ⟨kotor ameh⟩ Nyo mahapuih sadonyo urang jahat di bumi; dek itu ambo cinto kapado kasaksian-Nyo.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "sigim ⟨kotor ameh⟩"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Nyo mahapuih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "dek itu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ambo cinto"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kasaksian-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:19.457030588Z",
+  "model": "glm-5.3"
+}

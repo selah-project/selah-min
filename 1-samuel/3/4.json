@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Yahweh manggia ka Shemuël, dan inyo bakato: Di ambo ko.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "manggia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan inyo bakato"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Di ambo ko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:34.180126438Z",
+  "model": "glm-5.3"
+}

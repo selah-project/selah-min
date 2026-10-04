@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 112,
+  "translation": "Karano salamo-lamonyo inyo indak baganjua; urang tsedeq tinggai sabagai paringatan salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "baganjua"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "sabagai paringatan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tinggai"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang tsedeq"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:13.196269369Z",
+  "model": "glm-5.3"
+}

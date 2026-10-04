@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo kau latakkan ⟨את⟩ inyo duo barieh, anam satiok barieh, di ateh meja nan murni, di muko Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "jo kau latakkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (duo baleh kue)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "barieh"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "satiok barieh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "nan murni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:26.907683683Z",
+  "model": "glm-5.3"
+}

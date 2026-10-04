@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Karano inyo indak mamahami karya-karya Yahweh jo karya tangan-Nyo, inyo ma runtuahkan inyo, jo indak mambangkik baliak inyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "mamahami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kapado⟩"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "karya-karya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangan-Nyo"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ma runtuahkan inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "mambangkik baliak inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:27.189452039Z",
+  "model": "glm-5.3"
+}

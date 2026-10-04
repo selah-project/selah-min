@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Zanut jo anggur jo anggur baru mambiak ati awak.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "zanut"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "anggur baru"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mambiak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:43.469810596Z",
+  "model": "glm-5.3"
+}

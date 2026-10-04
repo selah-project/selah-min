@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Kato-kato Lemuel, rajo, muatan nan disampaikan ibunyo kapadonyo.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "משא",
+      "gloss": "muatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "disampaikan kapadonyo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:43.853797424Z",
+  "model": "glm-5.3"
+}

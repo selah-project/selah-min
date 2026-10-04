@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo siapo nan mambaok dari bangkai inyo urang tu, kudian inyo mancuci pakaiannyo, jo inyo najis sampai patang ari.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo siapo nan"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "dari bangkai inyo urang tu"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "inyo mancuci"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannyo"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "jo inyo najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "patang ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:34.754954974Z",
+  "model": "glm-5.3"
+}

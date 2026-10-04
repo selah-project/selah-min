@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu bakato padusi nan ciek: Tuan ambo, ambo jo padusi iko tingga di ciek rumah, jo ambo malahiakan basamo jo inyo di rumah.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "jo padusi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "ואלד",
+      "gloss": "jo ambo malahiakan"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "basamo jo inyo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:13.530099570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Sagalo urang Yehuda maambiak ⟨את⟩ Uziyahu, wakatu inyo umua anam baleh taun, jo urang tu mamanjabaiknyo ⟨אתו⟩ manggantian amaknyo Amatsyahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uziyahu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "wakatu inyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umua"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "pamanjabaiknyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "manggantian"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amaknyo"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:55:56.568346440Z",
+  "model": "glm-5.3"
+}

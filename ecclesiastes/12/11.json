@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Kato-kato urang nan pandai sarupo duri pamacik, jo sarupo paku nan ditancokan dek urang pangumpua ilimu; inyo dibari dek gembala ciek.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "urang nan pandai"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "sarupo duri pamacik"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "jo sarupo paku"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "nan ditancokan"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "pangumpua ilimu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dibari"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "dek gembala"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:13.220530828Z",
+  "model": "glm-5.3"
+}

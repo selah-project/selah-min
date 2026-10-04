@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo kau bakato: Baa ambo banci pangajaran, jo teguran ati ambo maasihi!",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "jo kau bakato"
+    },
+    {
+      "surface": "איך",
+      "gloss": "baa"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ambo banci"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pangajaran"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "jo teguran"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "maasihi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:54.953341734Z",
+  "model": "glm-5.3"
+}

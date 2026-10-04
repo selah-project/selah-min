@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Pai ka rumah urang Rekhav, jo mangecek ⟨את⟩ kapado inyo, jo towa inyo masuak ka rumah Yahweh, ka ciek dari bilik-bilik tu, jo agiah inyo minum anggur.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "urang Rekhav"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "jo mangecek"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kapado inyo",
+      "marks": "urang Rekhav"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "jo towa inyo masuak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "bilik-bilik"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "jo agiah inyo minum"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "anggur"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    }
+  ],
+  "timestamp": "2026-10-04T06:39:23.926878362Z",
+  "model": "glm-5.3"
+}

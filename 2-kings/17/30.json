@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo urang Babel mambuek ⟨את⟩ Sukot-Benot, jo urang Kut mambuek ⟨את⟩ Nergal, jo urang Khamat mambuek ⟨את⟩ Asyima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Khamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asyima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Asyima"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:56.803025810Z",
+  "model": "glm-5.3"
+}

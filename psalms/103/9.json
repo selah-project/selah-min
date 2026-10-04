@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Indak salamo-lamonyo Iyo bacokil, jo indak sadatang zaman Iyo manjago amarah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "Iyo bacokil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sadatang zaman"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Iyo manjago amarah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:16.541811435Z",
+  "model": "glm-5.3"
+}

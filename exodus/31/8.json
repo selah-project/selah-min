@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "jo ⟨את⟩ meja jo ⟨את⟩ pakakasnyo, jo ⟨את⟩ palito nan murni jo ⟨את⟩ sagalo pakakasnyo, jo ⟨את⟩ mazbeakh dupa;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "meja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakakasnyo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pakakasnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "palito nan murni"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "palito"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "nan murni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo pakakasnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "pakakasnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "mazbeakh dupa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbeakh"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "dupa"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:07.572433757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jan naiak, karano Yahweh indak ado di tangah-tangah awak, supayo awak indak ditampua di muko musuah awak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "di tangah-tangah awak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "ditampua"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuah awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:42:56.517696988Z",
+  "model": "glm-5.3"
+}

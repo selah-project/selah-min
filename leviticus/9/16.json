@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Dan inyo mandakekkan ⟨את⟩ olah tu, digarahnyo manuruik hukum nan alah ditantukan.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "mandakekkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah tu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah tu"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "digarahnyo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "manuruik hukum nan alah ditantukan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:07.382259723Z",
+  "model": "glm-5.3"
+}

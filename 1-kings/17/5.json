@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lalu inyo pai jo mangarajoan sasuai kato Yahweh; inyo pai jo duduak di tapi sungai Kerit, nan ado di muko Yarden.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lalu inyo pai"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "jo mangarajoan"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sasuai kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "inyo pai"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jo duduak"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "di tapi sungai"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:24.790723037Z",
+  "model": "glm-5.3"
+}

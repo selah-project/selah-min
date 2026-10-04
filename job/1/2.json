@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo lah lahia untuaknyo tujuah anak laki-laki jo tigo anak padusi.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "jo lah lahia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "jo tigo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak padusi"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:34.652209273Z",
+  "model": "glm-5.3"
+}

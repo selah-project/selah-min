@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Lalu Yaakov mandanga basonya inyo alah manajiskan ⟨את⟩ Dinah anak padusinyo, sadang anak-anak laki-lakinyo ⟨את⟩ jo taranaknyo ado di ladang, mako Yaakov diam sampai inyo tibo.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Lalu Yaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "basonya"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "alah manajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anak padusinyo"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sadang anak-anak laki-lakinyo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taranaknyo"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "jo taranaknyo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "mako diam"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באם",
+      "gloss": "inyo tibo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:38.259477609Z",
+  "model": "glm-5.3"
+}

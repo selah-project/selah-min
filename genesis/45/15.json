@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Lalu inyo manciumi sadonyo sudaronyo, jo manangih di ateh inyo urang tu; jo sasudah itu sudaronyo bakato-kato jo ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "manciumi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sudaronyo"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "manangih"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di ateh inyo urang tu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bakato-kato"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sudaronyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:43.623846487Z",
+  "model": "glm-5.3"
+}

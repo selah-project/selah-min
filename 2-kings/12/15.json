@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Karano kapado urang-urang nan mangarajokan karya tu inyo manyerahkan pitih itu, jo jo pitih itu urang manguekkan ⟨את⟩ bait Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "kapado urang-urang nan mangarajokan"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "karya tu"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "inyo manyerahkan pitih itu"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "jo urang manguekkan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo pitih itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:16.265085220Z",
+  "model": "glm-5.3"
+}

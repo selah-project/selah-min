@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo miroknyo ka arah jandela, lalu bakato: Siapo jo ambo? ⟨את⟩ siapo? Jo duo-tigo urang srisi manengok ka inyo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "jo miroknyo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "jandela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ jo ambo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "jo manengok"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "urang srisi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:14.139850699Z",
+  "model": "glm-5.3"
+}

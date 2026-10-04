@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 79,
+  "translation": "Tuang kamurkaán ang ka bangso-bangso nan indak mangatahui ang, jo ka karajoan-karajoan nan indak manyapo jo namo ang.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "tuang"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "kamurkaán ang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "mangatahui ang"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karajoan-karajoan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "namo ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "manyapo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:24.297793460Z",
+  "model": "glm-5.3"
+}

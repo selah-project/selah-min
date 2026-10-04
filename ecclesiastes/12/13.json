@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Akhianyo, saluruah kato alah tadanga: takuik kapado ⟨את⟩ Elohim, jo jago ⟨את⟩ parentah-Nyo, karano iko adolah kasadonyo urang.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Akhianyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "saluruahnyo"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "alah tadanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takuik kapado"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parentah-Nyo"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "parentah-Nyo"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "jago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasadonyo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "urang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:08.939770547Z",
+  "model": "glm-5.3"
+}

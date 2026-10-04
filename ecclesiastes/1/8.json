@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sadiejo kato-kato lungo, indak ado urang nan dapek manyampaikannyo; mato indak kanyang mandapek caliak, jo talingo indak panuah mandanga.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadiejo"
+    },
+    {
+      "surface": "הדבררים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "lengo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "manyampaian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kanyang"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mandapek caliak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "panuah"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "talingo"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "mandanga"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:19.145359830Z",
+  "model": "glm-5.3"
+}

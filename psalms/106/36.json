@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Lalu inyo manyambah ⟨את⟩ patuang-patuang urang tu, jo patuang tu manjadi umpan bagi inyo.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "manyambah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patuang-patuang urang tu"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "patuang-patuang urang tu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi inyo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "umpan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:17.772127864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "habakkuk 3:18",
+  "book": "habakkuk",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Tapi ambo, ambo ka basuko-suko di Yahweh, ambo ka mariaok di Elohim, palapeh ambo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahweh"
+    },
+    {
+      "surface": "אעלוזה",
+      "gloss": "basuko-suko"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "mariaok"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "palapeh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:17:00.205392794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Larek ka dabu jiwa ambo; hiduikan ambo manuruik kato-Mu.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "larek"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ka dabu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa ambo"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "hiduikan ambo"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "manuruik kato-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:39.645474025Z",
+  "model": "glm-5.3"
+}

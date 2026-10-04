@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "jo Yihud, jo Bene-Barak, jo Gat-Rimon,",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "jo Yihud"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jo Bene-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "jo Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:12.742229137Z",
+  "model": "glm-5.3"
+}

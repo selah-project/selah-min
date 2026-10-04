@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo kau buek limopuluah kailu tambago, jo kau masuakan ⟨את⟩ kailu-kailu tu ka dalam simpai-simpai tu, jo kau akaik ⟨את⟩ kemah tu, supayo manjadi ciek.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo kau buek"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kailu-kailu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limopuluah"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "jo kau masuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kailu-kailu"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "kailu-kailu"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "ka dalam simpai-simpai"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "jo kau akaik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "supayo manjadi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:53.431683134Z",
+  "model": "glm-5.3"
+}

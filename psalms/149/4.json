@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 149,
+  "translation": "Karano Yahweh sanang kapado umat-Nyo, inyo mamuliahan urang-urang nan randah diri jo kaselamatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "sanang kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "umat-Nyo"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "mameliahan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "urang-urang nan randah diri"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "jo kaselamatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:30.619887614Z",
+  "model": "glm-5.3"
+}

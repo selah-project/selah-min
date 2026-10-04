@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim nan salamatkan ambo, ari ambo manyaruak, di malam ado di muko ⟨Sanolah⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "nan salamatkan ambo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ambo manyaruak"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "di malam"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di muko ⟨Sanolah⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:17.889266513Z",
+  "model": "glm-5.3"
+}

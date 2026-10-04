@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "kacuali untuak karabatnyo nan dakek kapado inyo: untuak ibunyo, untuak apaknyo, untuak anak laki-lakinyo, untuak anak padusinyo, jo untuak sudaro laki-lakinyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kacuali"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "untuak karabatnyo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nan dakek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "untuak ibunyo"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "untuak apaknyo"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "untuak anak laki-lakinyo"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "untuak anak padusinyo"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "untuak sudaro laki-lakinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:14.218049639Z",
+  "model": "glm-5.3"
+}

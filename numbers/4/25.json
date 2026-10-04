@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo inyo ka maangkuik ⟨את⟩ langik-langik Mishkan tu, jo ⟨את⟩ khemah patamuan, jo panutuiknyo, jo panutuik kulik takhasy nan di atehnyo di ateh, jo ⟨את⟩ tirai di muluik gapuro khemah patamuan.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "jo inyo ka maangkuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langik-langik Mishkan tu"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "langik-langik"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "khemah patamuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "panutuiknyo"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "jo panutuik"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "kulik takhasy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tirai di muluik gapuro"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di muluik"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:55.975738363Z",
+  "model": "glm-5.3"
+}

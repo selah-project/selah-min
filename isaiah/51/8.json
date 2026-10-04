@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Karano sarupo kain ngengat mamakan inyo, sarupo wol ulat mamakan inyo; tapi tsedeq ambo ka ado salamo-lamonyo, jo kasalamatan ambo ka sadang katurunan-katurunan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "sarupo kain"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "mamakan inyo"
+    },
+    {
+      "surface": "עש",
+      "gloss": "ngengat"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "sarupo wol"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "mamakan inyo"
+    },
+    {
+      "surface": "סס",
+      "gloss": "ulat"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "tapi tsedeq ambo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ka ado"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "jo kasalamatan ambo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ka sadang katurunan"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "katurunan-katurunan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:22:14.774393128Z",
+  "model": "glm-5.3"
+}

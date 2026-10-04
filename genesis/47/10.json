@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Jo Yaakov mamarakiahi ⟨את⟩ Paroh, lalu kalua dari muko Paroh.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "mamarakiahi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lalu kalua"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:56.026229939Z",
+  "model": "glm-5.3"
+}

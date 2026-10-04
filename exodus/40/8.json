@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Dan angkau pasang ⟨את⟩ laman sakaliliang, dan angkau tarangkan ⟨את⟩ langitar gapuro laman itu.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "angkau pasang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laman"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "angkau tarangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langitar gapuro"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "langitar"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "laman itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:02.201539754Z",
+  "model": "glm-5.3"
+}

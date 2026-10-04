@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo kini, anak ambo, danga suaro ambo, tapek sarupo nan ambo parentah ⟨את⟩ angkau.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Jo kini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "danga"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "tapek sarupo nan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:45.967850273Z",
+  "model": "glm-5.3"
+}

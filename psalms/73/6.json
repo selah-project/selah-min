@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Dek karano itu sombong manjadi galang di lihiak inyo, kajam manyalimuti inyo sarupo pakaian.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dek karano itu"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "manjadi galang di lihiak"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "sombong"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "manyalimuti"
+    },
+    {
+      "surface": "שית",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kajam"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:23.180468167Z",
+  "model": "glm-5.3"
+}

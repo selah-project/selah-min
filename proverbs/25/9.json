@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Sangkan pasalanmu jo ⟨את⟩ kawanmu sandiri, jo rahasio urang lain jan kau ungkap.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "pasalanmu"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanmu sandiri"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kawanmu"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "jo rahasio"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "urang lain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "kau ungkap"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:54.285353101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Dangan banyaknyo kamuliaan-Mu, runtuahkan urang-urang nan bangkik malawan-Mu; Kaamu mangiriman kaamu-kaamu ← parik ← tabaok parik manyapo inyo sarupo jerami.",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "dangan banyaknyo"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "kamuliaan-Mu"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "runtuahkan"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "urang-urang nan bangkik malawan-Mu"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "Kaamu mangiriman kaamu-kaamu ← parik"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "parik-Mu"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "tabaok parik manyapo inyo"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "sarupo jerami"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:13.774817054Z",
+  "model": "glm-5.3"
+}

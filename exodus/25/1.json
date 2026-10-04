@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Lapeh itu Yahweh bakato kapado Moshe, nan mangecek:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan mangecek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:04.277233809Z",
+  "model": "glm-5.3"
+}

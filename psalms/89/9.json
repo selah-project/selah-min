@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim Tsebaot, siapo sarupo jo Angkau, nan kuaik, Yah? Jo kasatiaan Angkau mangaliliangi Angkau.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sarupo jo Angkau"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "nan kuaik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "jo kasatiaan Angkau"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "mangaliliangi Angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:34.580222965Z",
+  "model": "glm-5.3"
+}

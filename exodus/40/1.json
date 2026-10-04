@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Lalu Yahweh bakato kapado Moshe, mangecekan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecekan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:22.117006960Z",
+  "model": "glm-5.3"
+}

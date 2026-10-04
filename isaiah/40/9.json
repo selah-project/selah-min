@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 40:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Ka ateh gunuang nan tinggi naiaklah baa, hai pamaba kaba elok kapado Tzion; angkeklah jo kakuatan suaramb, hai pamaba kaba elok kapado Yerushalayim; angkeklah, jan takuik; kataanlah ka kota-kota Yehudah: Caliaklah, Elohim kalian!",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "nan tinggi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "naiaklah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "baa"
+    },
+    {
+      "surface": "מבשרת",
+      "gloss": "pamaba kaba elok"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "הרימי",
+      "gloss": "angkeklah"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "jo kakuatan"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suaramb"
+    },
+    {
+      "surface": "מבשרת",
+      "gloss": "pamaba kaba elok"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרימי",
+      "gloss": "angkeklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kataanlah"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "ka kota-kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliaklah"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T09:15:27.019352789Z",
+  "model": "glm-5.3"
+}

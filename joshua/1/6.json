@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Kuaik jo baniak, karano ang nan ka maagiah pusako ⟨את⟩ banso ko ⟨את⟩ tanah nan alah ambo baia ka datuak-niniak urang tu, untuak diagiah kapado urang tu.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "kuaik"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "jo baniak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "maagiah pusako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banso ko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "banso"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "alah ambo baia"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ka datuak-niniak urang tu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuak diagiah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:05:16.168687599Z",
+  "model": "glm-5.3"
+}

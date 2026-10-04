@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Yahweh manolong ⟨urang tu⟩ jo malapehan ⟨urang tu⟩; Inyo malapehan ⟨urang tu⟩ dari urang-urang jaah jo manyalamaikan ⟨urang tu⟩, karano urang tu balinduang ka Inyo.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "jo manolong urang tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "jo malapehan urang tu"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "malapehan urang tu"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "dari urang-urang jaah"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "jo manyalamaikan urang tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "balinduang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka Inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:54.324499176Z",
+  "model": "glm-5.3"
+}

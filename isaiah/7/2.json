@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu dinabaikan ka rumah Dawid, nan bakato: Aram alah barundiang jo Efrayim; maka baguncanglah atinyo jo ati kaumnyo, sarupo guncangnyo kayu-kayu hutan dek ruakh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dinabaikan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka rumah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "alah barundiang"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "baguncanglah"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "jo ati"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaumnyo"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "sarupo guncangnyo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu-kayu"
+    },
+    {
+      "surface": "יער",
+      "gloss": "hutan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dek"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:30.320177081Z",
+  "model": "glm-5.3"
+}

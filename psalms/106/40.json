@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Maka murka Yahweh manyalo ateh umat-Nyo, jo Iyo mandehak ⟨את⟩ pusako-Nyo.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "manyalo (murka)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "murka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ateh umat-Nyo"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "mandehak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pusako-Nyo"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "pusako-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:00.005604263Z",
+  "model": "glm-5.3"
+}

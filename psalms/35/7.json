@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Karano indak ado sababnyo urang tu manyuruak-an lubang jala urang tu untuak ambo; indak ado sababnyo urang tu manggali untuak ⟨nyawo⟩ ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "indak ado sababnyo"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "urang tu manyuruak-an"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lubang"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "jala urang tu"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "indak ado sababnyo"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "urang tu manggali"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "untuak nyawo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:43.551580745Z",
+  "model": "glm-5.3"
+}

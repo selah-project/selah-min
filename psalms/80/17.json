@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "Tapadek api, takabek; dek marah muko ambo inyo binaso.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "tapadek api"
+    },
+    {
+      "surface": "באש",
+      "gloss": "api"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "takabek"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "dek marah"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko ambo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "inyo binaso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:14.757790733Z",
+  "model": "glm-5.3"
+}

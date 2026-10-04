@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Dan kalau inyo indak mancuci ⟨pakaiannyo⟩ dan indak mandi badannyo, inyo akan manggaduah dosonyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan kalau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mancuci"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "badannyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "mandi"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "inyo akan manggaduah"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "dosonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:02.207308396Z",
+  "model": "glm-5.3"
+}

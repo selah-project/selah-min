@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo kau makan jo kanyang, jo kau mamuji ⟨את⟩ Yahweh Elohimnyo ateh tanah nan elok nan alah inyo barek kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "jo kau makan"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "jo kanyang"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "jo kau mamuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "lah inyo barek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:09.527314779Z",
+  "model": "glm-5.3"
+}

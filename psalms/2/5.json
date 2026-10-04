@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Pado wakatu itu Ia bakato kapado inyo urang tu dalam kaangehannyo, jo dalam panehnyo Ia manyuruak urang tu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "pado wakatu itu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "kapado inyo urang tu"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dalam kaangehannyo"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "jo dalam panehnyo"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "manyuruak urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:26.989176897Z",
+  "model": "glm-5.3"
+}

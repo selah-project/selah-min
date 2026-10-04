@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Kau mamarintahnyo ateh pabuatan tangan ⟨kau⟩, sagalonyo kau latakkan di bawah kaki ⟨nyo⟩.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "kau mamarintahnyo"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ateh pabuatan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan kau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalonyo"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "kau latakkan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:29.081775216Z",
+  "model": "glm-5.3"
+}

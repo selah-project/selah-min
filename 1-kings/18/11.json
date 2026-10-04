@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Dan kini ang bakato: Lah, katakan kapado tuan ang: Ito, Eliyahu ado di siko.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "kapado tuan ang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:01.026457254Z",
+  "model": "glm-5.3"
+}

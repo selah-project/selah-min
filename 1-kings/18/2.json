@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Baliau Eliyahu pai untuak tampak kapado Akhab, jo kalaparan tu barek di Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "untuak tampak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "jo kalaparan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "barek"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    }
+  ],
+  "timestamp": "2026-10-04T05:52:28.433031408Z",
+  "model": "glm-5.3"
+}

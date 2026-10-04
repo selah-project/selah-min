@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Bangkiklah, Yahweh, jangan insan bakuaso; biar bangso-bangso diadu di muko ⟨wajah⟩-Mu.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangkiklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "bakuaso"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "diadu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "על",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:53.982412068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Yahweh, tangan-Mu tadi terangkek, inyo indak nampak; inyo ka nampak dan ka tasingguang dek iri hati kapado bangso itu; bahkan api mahancuaan para musuah-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "terangkek"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "nampak"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ka nampak"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "dan ka tasingguang"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "iri hati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kapado bangso itu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "para musuah-Mu"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "mahancuaan ⟨mereka⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T06:12:49.191170055Z",
+  "model": "glm-5.3"
+}

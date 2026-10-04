@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo ka buek panutuik untuak khemah: kulik bambiang nan alah disirahan, jo panutuik kulik takhas di atehnyo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo ka buek"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "panutuik"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "untuak khemah"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "bambiang"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "nan alah disirahan"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "jo panutuik"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhas"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "di atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:02.170604500Z",
+  "model": "glm-5.3"
+}

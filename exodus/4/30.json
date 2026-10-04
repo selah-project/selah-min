@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Aharon maangkan ⟨את⟩ sagalo kato-kato nan alah dikatoan Yahweh kapado Moshe, jo inyo mambuek tando-tando tu di mato urang banyak tu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "maangkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kato-kato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikatoan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "tando-tando"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:22.753362490Z",
+  "model": "glm-5.3"
+}

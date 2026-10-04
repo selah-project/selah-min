@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Kapado Mitsrayim kami maagiah tangan, jo kapado Ashshur, supayo kanyang jo roti.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kami maagiah"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "supayo kanyang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-10-04T08:19:59.938398946Z",
+  "model": "glm-5.3"
+}

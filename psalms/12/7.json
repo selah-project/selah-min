@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Kato-kato Yahweh adolah kato-kato nan murni, sarupo perak nan diluluih dalam tanur tanah, dimurnikan tujuah kali.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "nan murni"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "nan diluluih"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "dalam tanur tanah"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "di ateh tanah"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "dimurnikan"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "tujuah kali"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:24.081674734Z",
+  "model": "glm-5.3"
+}

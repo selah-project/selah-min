@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Mako lumbuang-lumbuang sanak ka panuah sagalo, jo anggur baru ka malimpah ruah dari paanan anggur sanak.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "ka panuah"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "lumbuang-lumbuang sanak"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "jo anggur baru"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "paanan anggur sanak"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ka malimpah ruah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:42.307778155Z",
+  "model": "glm-5.3"
+}

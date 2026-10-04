@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Dek itu ambo juo alah mamulai mambantuaksan ang, mamusnakan ang, dek karano doso-doso ang.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "alah mamulai mambantuaksan"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "mambantuaksan ang"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "mamusnakan ang"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "doso-doso ang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:15:19.756369413Z",
+  "model": "glm-5.3"
+}

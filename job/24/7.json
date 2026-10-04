@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Indak bapakaian inyo bamilam malam tanjo pakaian, jo indak ado panutuik di angin sajuak.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "indak bapakaian"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "inyo bamilam malam"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tanjo"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "panutuik"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "di angin sajuak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:09:48.660623680Z",
+  "model": "glm-5.3"
+}

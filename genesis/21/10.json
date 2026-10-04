@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo bakato inyo kapado Avraham: Ousi ambo budak nambaang ko jo ⟨את⟩ anaknyo, karano indak buliah anak amba nambaang ko manarimo pusako basamo anak ambo, basamo Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jo bakato inyo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kapado Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Ousi"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "amba nambaang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anaknyo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "manarimo pusako"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "amba nambaang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:18.244884475Z",
+  "model": "glm-5.3"
+}

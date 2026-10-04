@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Muliaanlah ⟨את⟩ Yahweh jo harta sanak, jo dari partamo sagalo hasil panen sanak.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Muliaanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "jo harta sanak"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "jo dari partamo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "hasil panen sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:42.307528731Z",
+  "model": "glm-5.3"
+}

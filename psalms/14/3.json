@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Sagalonyo alah bakurang, basamo-samo urang tu alah manjadi jahik; indak ado nan mangarajokan elok, indak ado, baiak ciek pun.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "sagalonyo"
+    },
+    {
+      "surface": "סר",
+      "gloss": "alah bakurang"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo-samo"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "alah manjadi jahik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan mangarajokan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek pun"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:02.892388176Z",
+  "model": "glm-5.3"
+}

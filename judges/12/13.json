@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Sasudah inyo Abdon bin Hillel urang Piraton iyo manguji ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "manguaji"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sasudah inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "urang Piraton"
+    }
+  ],
+  "timestamp": "2026-10-04T05:18:35.923429779Z",
+  "model": "glm-5.3"
+}

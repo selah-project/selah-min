@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 6:14",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Diateh panggangeang jo minyak inyo dibuek; salasai dirandam, dibaok masuak; potongan-potongan minkha roti ka dibao — bau nan mangonyangkan kapado Yahweh.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Diateh"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "panggangeang"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "inyo dibuek"
+    },
+    {
+      "surface": "מרבכת",
+      "gloss": "dirandam"
+    },
+    {
+      "surface": "תביאנה",
+      "gloss": "dibaok masuak"
+    },
+    {
+      "surface": "תפיני",
+      "gloss": "potongan-potongan"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "roti"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ka dibao"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nan mangonyangkan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:32.082169313Z",
+  "model": "glm-5.3"
+}

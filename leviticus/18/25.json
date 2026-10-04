@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Dan bumi itu manjadi tameh, dan Aku manjapuik dosonyo atehnyo, dan bumi itu muntahkan ⟨את⟩ panduduaknyo.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "dan manjadi tameh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "dan Aku manjapuik"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "dosonyo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "dan muntahkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panduduaknyo"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "panduduaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:10.133842850Z",
+  "model": "glm-5.3"
+}

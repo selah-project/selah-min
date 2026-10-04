@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 54,
+  "translation": "Karano gunuang-gunuang bagarih, jo bukik-bukik tagageh, tapi hesed-Ku indak ka mailang dari ⟨את⟩ ang, jo parjanjian damai-Ku indak ka tagageh, kato Yahweh, nan bamurah kapado ang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "bagarih"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "jo bukik-bukik"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "tagageh"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "jo hesed-Ku"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "dari ⟨את⟩ ang",
+      "marks": "ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "mailang"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "jo parjanjian"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "damai-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tagageh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "nan bamurah kapado ang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:54.870425481Z",
+  "model": "glm-5.3"
+}

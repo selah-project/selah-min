@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo urang nan maagiah laloknyo jo binatang — pasti mati inyo dibunuah, jo ⟨את⟩ binatang itu kalian bunuah.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "laloknyo"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "jo binatang"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "inyo dibunuah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "binatang itu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang itu"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "kalian bunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:49.747090145Z",
+  "model": "glm-5.3"
+}

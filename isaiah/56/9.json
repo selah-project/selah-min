@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Sadonyo binatang ladang, maikek lai makan, sadonyo binatang di utan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "maiek"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "lai makan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "di utan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:34.965628873Z",
+  "model": "glm-5.3"
+}

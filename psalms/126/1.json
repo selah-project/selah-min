@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 126,
+  "translation": "Lagu naikan. Katiko Yahweh mambaaliak ⟨את⟩ pambalian Tsiyon, kami manjadi sarupo urang nan bamimpi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naikan"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Katiko mambaaliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pambalian Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "pambalian"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kami manjadi"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "sarupo urang nan bamimpi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:30.528332787Z",
+  "model": "glm-5.3"
+}

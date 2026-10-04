@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 59:17",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 59,
+  "translation": "Inyo mamakai tsedeq sarupo baju ranai, jo katuak kasalamatan di kapalonyo; inyo mamakai baju pambarian sabagai pakaian, jo malipek diri sarupo mantel samangat.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "mamakai"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "כשרין",
+      "gloss": "sarupo baju ranai"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "jo katuak"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "kasalamatan"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "di kapalonyo"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "inyo mamakai"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "baju"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pambarian"
+    },
+    {
+      "surface": "תלבשת",
+      "gloss": "sabagai pakaian"
+    },
+    {
+      "surface": "ויעט",
+      "gloss": "malipek diri"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "sarupo mantel"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "samangat"
+    }
+  ],
+  "timestamp": "2026-10-04T06:24:09.422805702Z",
+  "model": "glm-5.3"
+}

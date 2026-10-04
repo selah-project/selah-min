@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 46:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Ambo iko ka turun basamo ang ka Mitsrayim, jo ambo iko pulang ka naikkan ang bana-bana, jo Yosef ka manarokan tangannyo di ateh mato ang.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ambo iko"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "ka turun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo ang"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "jo ambo iko pulang"
+    },
+    {
+      "surface": "אעלך",
+      "gloss": "ka naikkan ang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pulang"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bana-bana"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "jo Yosef"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ka manarokan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mato ang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:42.656913252Z",
+  "model": "glm-5.3"
+}

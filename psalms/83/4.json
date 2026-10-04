@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 83,
+  "translation": "Dapek ⟨urang tu⟩ mahasiok rancango licik tahadap umat ⟨Engkau⟩, jo bapikia-pikia tahadap nan singitujuik dek ⟨Engkau⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tahadap"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat ⟨Engkau⟩"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "mahasiok rancango licik"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "rancango"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "jo bapikia-pikia"
+    },
+    {
+      "surface": "על",
+      "gloss": "tahadap"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "nan singitujuik dek ⟨Engkau⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:08.817999385Z",
+  "model": "glm-5.3"
+}

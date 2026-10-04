@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Ayolah kito masuak ka Mishkan-Nyo, kito manyambah ka bantalan kaki-Nyo.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "ayolah kito masuak"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "ka Mishkan-Nyo"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "kito manyambah"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "ka bantalan kaki"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:28.451248642Z",
+  "model": "glm-5.3"
+}

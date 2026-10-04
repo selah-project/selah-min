@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Lalu Yoav bangkik, pai ka Geshur, jo mambaok ⟨את⟩ Avshalom ka Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu bangkik"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "ka Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "jo mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ka Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T05:40:31.502597276Z",
+  "model": "glm-5.3"
+}

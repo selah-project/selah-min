@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Lalu inyo mangcecek urang tu, jo bakato kapado urang tu ⟨את⟩ kato-kato iko.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "mangcecek urang tu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato iko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:28.087747655Z",
+  "model": "glm-5.3"
+}

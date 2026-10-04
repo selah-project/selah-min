@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo mareka, sarupo Adam, alah malanggar parjanjian; di sinan mareka alah mangkhianati Ambo.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Jo mareka"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "sarupo Adam"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "alah malanggar"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "alah mangkhianati"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kapado Ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:48.031535408Z",
+  "model": "glm-5.3"
+}

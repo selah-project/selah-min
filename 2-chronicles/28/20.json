@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 28:20",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Lalu Tiglat-Pilneser rajo Asyur datang manantang inyo, manganiyo inyo, tapi indak mahkokuakannyo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "manantang inyo"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "Tiglat-"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "-Pilneser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "manganiyo inyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "mahkokuakannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:56:21.270894891Z",
+  "model": "glm-5.3"
+}

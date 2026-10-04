@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Urang nan tingga di Gibeon mambaco ⟨את⟩ nan alah dibuek Yehosua kapado Yeriko jo kapado Ai,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "urang nan tingga di"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mambaco"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan alah dibuek Yehosua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah dibuek"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "kapado Yeriko"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "jo kapado Ai"
+    }
+  ],
+  "timestamp": "2026-10-04T05:06:30.167973347Z",
+  "model": "glm-5.3"
+}

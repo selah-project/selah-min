@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "karano Awak mancari pambahasoan ambo, jo lacak-lacak doso ambo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "pambahasoan ambo"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "jo doso ambo"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "lacak-lacak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:06:05.362657977Z",
+  "model": "glm-5.3"
+}

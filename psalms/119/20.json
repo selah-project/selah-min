@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Jiwo ambo tapacah dek kamaniehan ka pangadilan-Mu, di satiok wakatu.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "tapacah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwo ambo"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "dek kamaniehan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "pangadilan-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di satiok"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:33.197075490Z",
+  "model": "glm-5.3"
+}

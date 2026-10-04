@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Dari galek You inyo lari; dari suaro gurau You inyo bazor-zor pai.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Dari"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "galek You"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "inyo lari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "gurau You"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "inyo bazor-zor pai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:53.279733178Z",
+  "model": "glm-5.3"
+}

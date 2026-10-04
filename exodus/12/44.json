@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Tapi satiang hamba urang nan dibali jo perak, kok alah di sunaik inyo, baru inyo buliah makan dari tu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Tapi satiang"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "nan dibali"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "jo perak"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "kok alah disunaik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "baru"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "buliah makan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dari tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:07.654792542Z",
+  "model": "glm-5.3"
+}

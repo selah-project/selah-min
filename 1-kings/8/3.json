@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu datang sagalo urang tuo-tuo Yisrael, jo para imam mangangkek ⟨את⟩ tabut tu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "lalu datang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "urang tuo-tuo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "jo mangangkek"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "tabut"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:54.010749452Z",
+  "model": "glm-5.3"
+}

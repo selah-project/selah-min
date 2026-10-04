@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo nan tasisa, anak gadih Tzion, sarupo pondok di kabun anggur, sarupo balai katiak di ladang timun, sarupo koto nan dikapuang.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "jo nan tasisa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak gadih"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "sarupo pondok"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "di kabun anggur"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "sarupo balai katiak"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "di ladang timun"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "sarupo koto"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "nan dikapuang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:02.118423470Z",
+  "model": "glm-5.3"
+}

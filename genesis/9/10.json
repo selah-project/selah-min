@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ⟨את⟩ sado nyawa nan iduik nan jo kalian, di buruang, di binatang piaraan, jo di sado binatang bumi nan jo kalian, dari sado nan kalua dari bahtera, ka sado binatang bumi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sado nyawa nan iduik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nan iduik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jo kalian"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "di buruang"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "di binatang piaraan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo di sado"
+    },
+    {
+      "surface": "חית",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jo kalian"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sado"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "nan kalua"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahtera"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sado"
+    },
+    {
+      "surface": "חית",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:44.097087534Z",
+  "model": "glm-5.3"
+}

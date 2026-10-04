@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Batu jo batu nan balain tu jijik bagi Yahweh, jo timbangan panejuk indak elok.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "jijik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "jo timbangan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "panejuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:58:51.404557561Z",
+  "model": "glm-5.3"
+}

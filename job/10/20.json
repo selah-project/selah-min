@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Indak kecek ari-ari ambo? Babarihlah, tinggakan ambo, supayo ambo sanang saketek sabalun pai.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Indak kecek"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari ambo"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Babarihlah"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "tinggakan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "ambo sanang"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    }
+  ],
+  "timestamp": "2026-10-04T08:06:26.372322604Z",
+  "model": "glm-5.3"
+}

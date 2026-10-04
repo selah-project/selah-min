@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Paroh tamarah kapado hamba-hambanyo, lalu inyo manaruahkan ⟨את⟩ ambo ka panjaro, rumah kapalo pamasak: ambo jo ⟨את⟩ kapalo roti.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "tamarah"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanyo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lalu inyo manaruahkan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "panjaro"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ka panjaro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "pamasak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kapalo roti"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-10-04T04:07:17.649759782Z",
+  "model": "glm-5.3"
+}

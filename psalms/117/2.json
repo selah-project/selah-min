@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 117,
+  "translation": "Karano hesed-Nyo kuaik ateh kami, jo kebanaan Yahweh tatap sampai salamanyo; pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "kuaik"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ateh kami"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "jo kebanaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai salamanyo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:55.854448935Z",
+  "model": "glm-5.3"
+}

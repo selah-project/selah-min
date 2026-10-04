@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Elohim mamanfaikkan urang nan surang di rumah, mangaluaan urang nan tapenjara ka dalam kamakmuran; hanyo urang nan durhaka badiam di tanah nan kariang.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "mamanfaikkan"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "urang nan surang"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "mangaluaan"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "urang nan tapenjara"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "ka dalam kamakmuran"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "urang nan durhaka"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "badiam"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "di tanah nan kariang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:00.119374872Z",
+  "model": "glm-5.3"
+}

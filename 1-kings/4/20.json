@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Yehudah jo Yisrael dabanyaknyo, sarupo dabu nan ado di tapi lauik, bak banjak; inyo makan jo minum jo bagemia.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "jo Yisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dabanyaknyo"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "sarupo dabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di tapi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "bak banjak"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "jo minum"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "jo bagemia"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:16.950009582Z",
+  "model": "glm-5.3"
+}

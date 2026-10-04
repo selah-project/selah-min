@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Anam tahun urang maijuik ⟨את⟩ tanah urang, jo urang mangumpu-an ⟨את⟩ hasilnyo.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "urang maijuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah urang"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanah urang"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "jo urang mangumpu-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilnyo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasilnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:08.789377881Z",
+  "model": "glm-5.3"
+}

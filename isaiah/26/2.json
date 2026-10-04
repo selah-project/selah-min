@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Bukaklah ⟨kamu⟩ gapuro-gapuro, supayo bangso nan banar masuak, nan maharagoi kasatiaan.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "bukaklah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gapuro-gapuro"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "supayo masuak"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nan banar"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nan maharagoi"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "kasatiaan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:22.184821831Z",
+  "model": "glm-5.3"
+}

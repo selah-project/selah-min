@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Ambo ka mahukum palanggaran urang tu jo tungkat, jo doso urang tu jo pukulan.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "ambo ka mahukum"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "jo tungkat"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "palanggaran urang tu"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "jo pukulan"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "doso urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:37.077262414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Ambo ka maapeh manusia jo binatang; ambo ka maapeh buruang langik jo ikan lauik, jo pamancik-balaku ⟨urang⟩ nan jahat; ambo ka mambahasiahan ⟨את⟩ manusia dari muko bumi, kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "ambo ka maapeh"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "jo binatang"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ambo ka maapeh"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "buruang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "jo ikan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "jo pamancik-balaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang nan jahat"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "urang nan jahat"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ambo ka mambahasiahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:17:45.113152601Z",
+  "model": "glm-5.3"
+}

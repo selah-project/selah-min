@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jan manjawek jo saksi palsu tahadok tatanggo ⟨kamu⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jan"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "manjawek"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "tatanggo ⟨kamu⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "palsu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:17.768566522Z",
+  "model": "glm-5.3"
+}

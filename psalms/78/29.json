@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 78:29",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Maka urang tu makan jo kanyang bana, jo kama urang tu ⟨inyo⟩ mambaok kapado urang tu.",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "maka urang tu makan"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "jo kanyang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ותאותם",
+      "gloss": "jo kama urang tu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:40.763351734Z",
+  "model": "glm-5.3"
+}

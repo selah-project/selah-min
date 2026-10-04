@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Kau mangunjuangi ⟨את⟩ bumi jo Kau manyiramaninyo; Kau buek inyo sangaik kaya jo kaamangan. Anak sungai Elohim panuah aia; Kau manyadioan dagiang-batanyo inyo — karano baitu Kau manyadioannyo.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "Kau mangunjuangi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "jo Kau manyiramaninyo"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "sangaik"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "Kau buek kaya jo kaamangan"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "anak sungai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "panuah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "Kau manyadioan"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "dagiang-batanyo inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "Kau manyadioannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:04.109611690Z",
+  "model": "glm-5.3"
+}

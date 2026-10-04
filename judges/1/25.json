@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu inyo manunjukkan ⟨את⟩ jalan masuak koto itu, urang tu mandampar koto itu jo ujuang padang, tapi urang laki-laki itu jo saluruah kaluarganyo urang tu malapeh-an.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "lalu inyo manunjukkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan masuak koto itu"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "jalan masuak"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "koto itu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "urang tu mandampar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koto itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "koto itu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "jo ujuang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang laki-laki itu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang laki-laki itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saluruah kaluarganyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "kaluarganyo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "urang tu malapeh-an"
+    }
+  ],
+  "timestamp": "2026-10-04T05:11:59.849731591Z",
+  "model": "glm-5.3"
+}

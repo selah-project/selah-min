@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 79,
+  "translation": "Inyo alah mahiahan darah inyo sarupo aia di sakaliliang Yerushalayim, jo indak ado nan mangubua.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "lah mahiahan"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "darah inyo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sarupo aia"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "di sakaliliang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "nan mangubua"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:29.363079750Z",
+  "model": "glm-5.3"
+}

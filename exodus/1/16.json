@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Inyo bakato: Katiko kalian manolong badan urang Ibrani lahia, jo kalalian caliak di ateh kuruah lahia — kok anak laki-laki, bunuah inyo; kok anak padusi, bia inyo iduik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Inyo bakato"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "Katiko kalian manolong badan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badan urang Ibrani"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "urang Ibrani"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "jo kalalian caliak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kuruah lahia"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "bunuah inyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "—"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "bia inyo iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:51.435163564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo sagalo pangulu propinsi, jo para akhasydarpan, jo para gubenur, jo urang-urang nan karajo untuak rajo, mareka mangangkek ⟨את⟩ urang Yahudi, karano takuik ka Mordekhai lah jatuh kapado inyo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "propinsi"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "jo para akhasydarpan"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "jo para gubenur"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "jo urang-urang nan karajo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Yahudi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "urang Yahudi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:25:42.811073522Z",
+  "model": "glm-5.3"
+}

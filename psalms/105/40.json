@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Baminta inyo, jo dibao-Nyo buruang puyuah, jo roti langik dibaka-Nyo kanyang inyo.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "baminta inyo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "jo dibao-Nyo"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "buruang puyuah"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "jo roti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "dibaka-Nyo kanyang inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:41.893800861Z",
+  "model": "glm-5.3"
+}

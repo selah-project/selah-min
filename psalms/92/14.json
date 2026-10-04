@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Ditanam di rumah Yahweh, di laman-laman Elohim kito inyo manggarah.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "ditanam"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di laman-laman"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "inyo manggarah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:19.432049120Z",
+  "model": "glm-5.3"
+}

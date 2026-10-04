@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 5:14",
+  "book": "job",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Siang ari inyo bamujo jo galok, jo pado tangah ari inyo maraba-raba sarupo di malam hari.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "siang ari"
+    },
+    {
+      "surface": "יפגשו",
+      "gloss": "inyo bamujo jo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "galok"
+    },
+    {
+      "surface": "וכלילה",
+      "gloss": "sarupo di malam"
+    },
+    {
+      "surface": "ימששו",
+      "gloss": "inyo maraba-raba"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "pado tangah ari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:04:39.195803079Z",
+  "model": "glm-5.3"
+}

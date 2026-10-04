@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu ruakh Elohim bagisia ateh Saul katiko inyo mandanga ⟨את⟩ kato-kato ko, jo iduangnyo manyalo sangaik.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "bagisia"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "katiko inyo mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato ko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "manyalo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iduangnyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:26.909860367Z",
+  "model": "glm-5.3"
+}

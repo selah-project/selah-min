@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Di ari ambo takuik, ambo pacik arek kapado-Mu.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "di ari"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ambo takuik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ambo pacik arek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:16.972140198Z",
+  "model": "glm-5.3"
+}

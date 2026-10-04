@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Sajak ikau mahal di mato ambo, ikau tapandang, jo ambo mangasihi ikau; dek itu ambo ka maagiah manusia ganti ikau, jo bangso-bangso ganti nyao ikau.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "sajak"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "ikau mahal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato ambo"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "ikau tapandang"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "mangasihi ikau"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ka maagiah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ganti ikau"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "jo bangso-bangso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyao ikau"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:07.032334906Z",
+  "model": "glm-5.3"
+}

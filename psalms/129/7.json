@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 129,
+  "translation": "Nan indak mangisi kapado tangan panen, jo pangikek jujuik indak mangisi dado-nyo.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "nan indak"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mangisi"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "kapado tangan"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "panen"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "jo dado-nyo"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "pangikek jujuik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:31.766400948Z",
+  "model": "glm-5.3"
+}

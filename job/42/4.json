@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Talingoan ambo, baa, ambo ka mangecek; ambo ka batanyo kapado-Mu, jo Engkaulah nan mambuek ambo tau.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Talingoan ambo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ka mangecek"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ambo ka batanyo kapado-Mu"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "mambuek ambo tau"
+    }
+  ],
+  "timestamp": "2026-10-04T08:14:40.448663055Z",
+  "model": "glm-5.3"
+}

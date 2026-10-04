@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Untuak Dawid. Kapado Engkau, Yahweh, ambo mangangkek jiwa ambo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuak Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kapado Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa ambo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ambo mangangkek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:22.559893340Z",
+  "model": "glm-5.3"
+}

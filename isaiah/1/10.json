@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Tangailah kato Yahweh, hai pamimpin Sodom; patangokanlah Torah Elohim kito, hai umat Amorah.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "tangailah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "pamimpin"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "patangokanlah"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:53.676859968Z",
+  "model": "glm-5.3"
+}

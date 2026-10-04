@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "jo panabuih darah manamui ⟨את⟩ inyo di lua batih kutampatan lariannyo, jo panabuih darah mambunuah ⟨את⟩ si pambunuah — indak ado darah baginyo.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "jo manamui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "si pambunuah"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "panabuih"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "batih"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutampatan lariannyo"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "kutampatan lariannyo"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "jo mambunuah"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "panabuih"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si pambunuah"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "si pambunuah"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginyo"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:01.358368132Z",
+  "model": "glm-5.3"
+}

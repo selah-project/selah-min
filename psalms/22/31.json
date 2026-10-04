@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Beniah ka mangabdi ka-Nyo; ka Adonai ka dapek dicanangkan kapado angkatan barikuiknyo.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ka mangabdi ka-Nyo"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ka dicanangkan"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kapado Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kapado angkatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:44.968206452Z",
+  "model": "glm-5.3"
+}

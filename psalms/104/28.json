@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Kok Dèn agiah ka inyo, inyo ma ambiak; kok Dèn bukak tangan Dèn, inyo kanyang jo nan elok.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "ma ambiak"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "bukak"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan Dèn"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "kanyang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jo nan elok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:09.107036822Z",
+  "model": "glm-5.3"
+}

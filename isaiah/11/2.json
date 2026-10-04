@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo ruakh Yahweh barado di atehnyo: ruakh hikmah jo pangarati, ruakh raso jo kakuatan, ruakh pangetahuan jo takuik kapado Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "barado"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "jo pangarati"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "raso"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "jo kakuatan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangetahuan"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "jo takuik kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:10:43.679385522Z",
+  "model": "glm-5.3"
+}

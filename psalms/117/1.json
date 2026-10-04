@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 117,
+  "translation": "Pujilah ⟨את⟩ Yahweh, sagalo bangso-bangso; babarikan pujian kapadonyo, sagalo umat-umat!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "babarikan pujian kapadonyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "umat-umat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:55.854135461Z",
+  "model": "glm-5.3"
+}

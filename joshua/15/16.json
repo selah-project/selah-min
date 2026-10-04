@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Lalu Kalev bakato: Sia nan mahantam ⟨את⟩ Kiryat-Sefer jo manduduaknyo, ka inyo ambo barikan ⟨את⟩ Akhsa, anak padusi ambo, manjadi bini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "mahantam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "jo manduduaknyo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ambo barikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anak padusi ambo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "manjadi bini"
+    }
+  ],
+  "timestamp": "2026-10-04T05:09:03.629743066Z",
+  "model": "glm-5.3"
+}

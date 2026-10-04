@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Dan imam mancaliak, dan basonyo kudis itu alah malaweh di kulik, mako imam mandefinisikan inyo indak suci: itu tsaraat.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan basonyo"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "alah malaweh"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "kudis"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "di kulik"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "mangharamkan inyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:07.007937580Z",
+  "model": "glm-5.3"
+}

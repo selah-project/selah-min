@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 149,
+  "translation": "Untuak maikuek rajo-rajonyo jo rantai-rantai, jo urang-urang gadang urang tu jo ganduang-ganduang basi.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "untuak maikuek"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "rajo-rajonyo"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "jo rantai-rantai"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "jo urang-urang gadang urang tu"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "jo ganduang-ganduang"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "basi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:38.699079289Z",
+  "model": "glm-5.3"
+}

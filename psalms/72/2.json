@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Inyo mangadili bangso-Mu dangan tsedeq, jo urang miskin-Mu dangan hukum.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "mangadili"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangso-Mu"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dangan tsedeq"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": ""
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "jo urang miskin-Mu"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dangan hukum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:05.381373188Z",
+  "model": "glm-5.3"
+}

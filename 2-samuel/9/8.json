@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lapeh inyo sumbayang baliak jo bakato: Apo hamba kau ko, sampai kau mamandang ka anjiang mati nan sarupo denai?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "inyo sumbayang baliak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba kau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "kau mamandang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "anjiang"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "sarupo denai"
+    }
+  ],
+  "timestamp": "2026-10-04T05:37:03.985994236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Mari pai jo caliak karya-karya Elohim, nan mambahasakan jo cindo-nyo ateh anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Mari pai"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "jo caliak"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "karya-karya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "nan mambahasakan"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "jo cindo-nyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:34.988654483Z",
+  "model": "glm-5.3"
+}

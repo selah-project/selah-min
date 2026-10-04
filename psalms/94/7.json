@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Jo bakato inyo: Yah indak ma caliak, jo Elohim nyo Yaakov indak mamanatui.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jo bakato inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ma caliak"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mamanatui"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nyo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:14.390820750Z",
+  "model": "glm-5.3"
+}

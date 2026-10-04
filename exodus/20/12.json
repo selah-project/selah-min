@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Muliakannyo ⟨את⟩ ayah kau jo ⟨את⟩ ibu kau, supayo manjadi panjang ari-ari kau di ateh tanah nan Yahweh, Elohim kau, agiah kapado kau.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Muliakannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayah kau"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayah kau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ibu kau"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibu kau"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "manjadi panjang"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ari-ari kau"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kau"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:39.469414402Z",
+  "model": "glm-5.3"
+}

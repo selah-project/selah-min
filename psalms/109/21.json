@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Tapi Ang, Yahweh Adonai, bueklah ⟨את⟩ ambo untuak namo-Mu, karano elok hesed-Mu — lapekkan ambo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tapi Ang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bueklah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "lapekkan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:02.012799570Z",
+  "model": "glm-5.3"
+}

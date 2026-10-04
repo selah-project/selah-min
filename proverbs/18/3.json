@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Waktu urang jahat tibo, tibo juo pandanggeh; jo basamo aka, aib.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "waktu ... tibo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "pandanggeh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jo basamo"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "aka"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "aib"
+    }
+  ],
+  "timestamp": "2026-10-04T07:58:28.846914834Z",
+  "model": "glm-5.3"
+}

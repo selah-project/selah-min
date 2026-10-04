@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo Yahweh ka banaikan jo urang tu sarupo nan alah inyo banaikan ka Sihon jo ka Og, rajo-rajo Emori, jo jo tanah urang tu, nan alah inyo binasoan ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ka banaikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jo urang tu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah banaikan"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "ka Sihon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "jo ka Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "jo jo tanah urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "alah binasoan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "urang tu (Sihon jo Og)"
+    }
+  ],
+  "timestamp": "2026-10-04T05:03:13.571286149Z",
+  "model": "glm-5.3"
+}

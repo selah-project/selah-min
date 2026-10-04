@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Mangumpuakan sarupo timbunan aia lauik, manyimpan dalam panyimpanannyo kadalaman-kadalaman.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Mangumpuakan"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "sarupo timbunan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aia"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "manyimpan"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "dalam panyimpanannyo"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "kadalaman-kadalaman"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:29.410601418Z",
+  "model": "glm-5.3"
+}

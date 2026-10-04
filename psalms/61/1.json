@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 61,
+  "translation": "Untuak nan mamimpin musik, ateh dawai, daw-Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak nan mamimpin musik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "dawai"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "daw-Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:26.288645923Z",
+  "model": "glm-5.3"
+}

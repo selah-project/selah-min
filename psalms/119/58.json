@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ambo alah mampa´andokan muko-Mu jo sado ati; baniahi ambo badasarkan sumba-Mu.",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "ambo alah mampa´andokan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "baniahi ambo"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "badasarkan sumba-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:38.121722952Z",
+  "model": "glm-5.3"
+}

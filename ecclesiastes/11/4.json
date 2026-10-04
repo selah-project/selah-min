@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Nak mamati-pati angin indak ka manabur beniah, jo nan maliek awan-awan indak ka manyari.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Nak mamati-pati"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ka manabur beniah"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "jo nan maliek"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "ka manyari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:34.900440240Z",
+  "model": "glm-5.3"
+}

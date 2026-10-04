@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 70,
+  "translation": "Elohim, untuak malapehkan ambo; Yahweh, untuak tolong ambo, capeklah!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "untuak malapehkan ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "untuak tolong ambo"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "capeklah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:22.390903974Z",
+  "model": "glm-5.3"
+}

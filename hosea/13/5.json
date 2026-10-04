@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Ambo lah mangenalan kau di gurun, di tanah nan kariang bakeh kamaraauik.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "lah mangenalan kau"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "nan kariang bakeh kamaraauik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:44.145619690Z",
+  "model": "glm-5.3"
+}

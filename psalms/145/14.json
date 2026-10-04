@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Yahweh managakkan sadoalah nan jatuah, jo mandirikan baliak sadoalah nan bungkuak.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "managakkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado sadoalah"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "nan jatuah"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "jo mandirikan baliak"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado sadoalah"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "nan bungkuak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:50.236328347Z",
+  "model": "glm-5.3"
+}

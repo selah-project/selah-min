@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu Moshe bakato: Bai begini kato Yahweh: Takiro-takiro tangah malam ambo kalua di tangah-tangah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Bai begini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "takiro-takiro tangah"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:53.407560719Z",
+  "model": "glm-5.3"
+}

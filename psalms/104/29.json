@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Manyuruak muko ⟨Nyo⟩, inyo tagunciang; mahabuih ruakh nyo, inyo mati, jo ka dabu nyo inyo babaliak.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "manyuruak"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko ⟨Nyo⟩"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "tagunciang"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "mahabuih"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "ruakh nyo"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "dabu nyo"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "babaliak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:53.503036733Z",
+  "model": "glm-5.3"
+}

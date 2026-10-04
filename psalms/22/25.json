@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Karano inyo indak mangino indak juo marandeh panyakik urang nan tasasio, indak manyuruak mukonyo daripadanyo; tapi katiko inyo mabaokok ka inyo, didanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "mangino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak juo"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "marandeh"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "panyakik"
+    },
+    {
+      "surface": "עני",
+      "gloss": "urang nan tasasio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "manyuruak"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanyo"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "katiko inyo mabaokok"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "didanga"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:33.234332852Z",
+  "model": "glm-5.3"
+}

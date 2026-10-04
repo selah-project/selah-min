@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Inyo mandirikan bumi di ateh dasanyo, indak ka tagoncang salamo-lamonyo, jo sataruihnypo.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "mandirikan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "dasanyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak ka"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tagoncang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo sataruihnypo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:53.279371091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Dan ambo agiah agiah ⟨את⟩ butuah itu, kato Yahweh nan elok, dan ambo agiah inyo di pinggang ambo.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "dan ambo agiah agiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butuah itu"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "butuah itu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kato nan elok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "dan ambo agiah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "pinggang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:31:58.488826205Z",
+  "model": "glm-5.3"
+}

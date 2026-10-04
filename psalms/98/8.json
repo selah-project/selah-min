@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 98,
+  "translation": "Sungai-sungai tapuak tangan, basamo gunuang-gunuang manyanyi gembira.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Sungai-sungai"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "tapuak"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "manyanyi gembira"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:28.846701749Z",
+  "model": "glm-5.3"
+}

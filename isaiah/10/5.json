@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Woi, Ashur, tungkek amarah ambo; jo tongkek nan ⟨ado⟩ di tangan urang tu inyo murka ambo.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "woi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tungkek"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "amarah ambo"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "jo tongkek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "di tangan urang tu"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "murka ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:44.994837726Z",
+  "model": "glm-5.3"
+}

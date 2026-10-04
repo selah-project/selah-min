@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 118,
+  "translation": "Sagalo bangso manuduiki ambo; dalam Namo Yahweh ambo akan mambuek inyo tarendam.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "manuduiki ambo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam Namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguah"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ambo akan mambuek inyo tarendam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:09.019718496Z",
+  "model": "glm-5.3"
+}

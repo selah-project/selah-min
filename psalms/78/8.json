@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Supayo awak indak sarupo urang tuo inyo, generasi nan bangkang jo malawan, generasi nan indak manyiapkan atinyo, jo ruakhnyo indak tapacayo kapado ⟨את⟩ El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "sarupo urang tuo inyo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generasi"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "nan bangkang"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "jo malawan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "manyiapkan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinnyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "tapacayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakhnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:25.773482485Z",
+  "model": "glm-5.3"
+}

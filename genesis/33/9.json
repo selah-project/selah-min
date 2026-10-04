@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Kok-kok bakato Esav: Ado banyak pado ambo, dunsanak ambo; bia manjadi kapado sanak nan ado pado sanak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pado ambo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dunsanak ambo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bia manjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pado sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:05.981974783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Ambo manjadi hinoan bagi urang tu; kok inyo mancaliak ambo, inyo manggoyang kapalonyo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hinoan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "inyo mancaliak ambo"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "inyo manggoyang"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kapalonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:00.035435543Z",
+  "model": "glm-5.3"
+}

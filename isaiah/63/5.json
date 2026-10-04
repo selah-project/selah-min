@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 63,
+  "translation": "Jo ambo maliek, jo indak ado panolong; jo ambo tatañ, jo indak ado panyangkok; jadi langan ambo surang nan malapehkan ambo, jo kabancen ambo — inyo surang nan manyangkokok ambo.",
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "jo ambo maliek"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "panolong"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "jo ambo tatañ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "panyangkok"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "malapehkan ambo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "langan ambo"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "jo kabancen ambo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo surang"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "manyangkokok ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:24:26.404565325Z",
+  "model": "glm-5.3"
+}

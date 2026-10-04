@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 59,
+  "translation": "Inyo baliak pado sanjo, maharuak sarupo anjiang, jo pai kaliliang kota.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "inyo baliak"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "pado sanjo"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "maharuak"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "sarupo anjiang"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "jo pai kaliliang"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:45.972804535Z",
+  "model": "glm-5.3"
+}

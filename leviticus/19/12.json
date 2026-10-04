@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo indak kaliaan basumpah jo namo-Ambo untuak dongeng, jo mah inyo [tanggungan] maha inyo manyuliki ⟨את⟩ namo Elohimmu; ambo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "kaliaan basumpah"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "jo namo-Ambo"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "untuak dongeng"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": " jo mah inyo [tanggungan] maha inyo manyuliki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo Elohimmu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:34.868312221Z",
+  "model": "glm-5.3"
+}

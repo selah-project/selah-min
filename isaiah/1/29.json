@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 1:29",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Karano inyo ka malu dek kayu-kayu tarbinto nan alah kinyo kamanai, jo ka tasingguang dek kabun-kabun nan alah kinyo piliah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ka malu"
+    },
+    {
+      "surface": "מאילים",
+      "gloss": "dek kayu-kayu tarbinto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "alah kinyo kamanai"
+    },
+    {
+      "surface": "ותחפרו",
+      "gloss": "jo ka tasingguang"
+    },
+    {
+      "surface": "מהגנות",
+      "gloss": "dek kabun-kabun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "alah kinyo piliah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:59.140055524Z",
+  "model": "glm-5.3"
+}

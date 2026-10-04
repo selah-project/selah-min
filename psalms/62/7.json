@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 62,
+  "translation": "Hanyo Inyo batu ambo jo palapeh ambo, tampek batinggi ambo; indak ambo tagoyang.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inyo"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu ambo"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "jo palapeh ambo"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "tampek batinggi ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ambo tagoyang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:27.102224645Z",
+  "model": "glm-5.3"
+}

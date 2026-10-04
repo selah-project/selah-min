@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Namun mato aia jo sumuran, tampek tampuangan aia, tatap barasiah; tapi nan manyantuah bangkai tu manjadi tameh.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "namun"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mato aia"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "jo sumuran"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "tampek tampuangan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tatap barasiah"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "barasiah"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "tapi nan manyantuah"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "bangkai tu"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "manjadi tameh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:11.965609507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 130,
+  "translation": "Lagu nan manujuik ka ateh. Dari lambah nan dalam ambo mangelokan È, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nan manujuik ka ateh"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "dari lambah nan dalam"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ambo mangelokan È"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:14.738944245Z",
+  "model": "glm-5.3"
+}

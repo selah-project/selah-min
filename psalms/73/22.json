@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Ambo baalak jo indak tau; ambo manjadi binatang di hadapan-Mu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "בער",
+      "gloss": "baalak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "di hadapan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:29.619789309Z",
+  "model": "glm-5.3"
+}

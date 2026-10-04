@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo panyaliakan-panyaliakan tigo barisan, jo cahayo basilawan cahayo, tigo kali.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "panyaliakan-panyaliakan"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "barisan"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "cahayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "basilawan"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "cahayo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:46.303015030Z",
+  "model": "glm-5.3"
+}

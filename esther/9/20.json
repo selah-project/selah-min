@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Mordekhai manulih ⟨את⟩ kato-kato iko, jo mangiriman surek-surek ka sado urang Yehudi nan di sado daerah-daerah rajo Akhasyweros, nan dakek jo nan jauah.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "lalu manulih"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "jo mangiriman"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "surek-surek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "urang Yehudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sado"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "daerah-daerah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhasyweros"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "nan dakek"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "jo nan jauah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:25:37.998723865Z",
+  "model": "glm-5.3"
+}

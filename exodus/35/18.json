@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "⟨את⟩ paku-paku Mishkan jo ⟨את⟩ paku-paku tampek kumpua, jo ⟨את⟩ tali-talinyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paku-paku Mishkan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "paku-paku"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "paku-paku tampek kumpua"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "paku-paku"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tampek kumpua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tali-talinyo"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "tali-talinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:47.486315484Z",
+  "model": "glm-5.3"
+}

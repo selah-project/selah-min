@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "jo kapado nan di Khormah, jo kapado nan di Bor-Asyan, jo kapado nan di Atakh",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "jo kapado nan di"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Khormah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "jo kapado nan di"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Bor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Asyan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "jo kapado nan di"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Atakh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:32.303489437Z",
+  "model": "glm-5.3"
+}

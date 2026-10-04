@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Urang tu manggorok ⟨את⟩ kapalonyo, jo malapeh-an ⟨את⟩ sanjatonyo, lalu maanta-an ka saluruah tanah Plishtim, supayo kabar tu dibao ka bait patuang-patuang urang tu jo kapado ⟨את⟩ bangso tu.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "urang tu manggorok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalonyo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "malapeh-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanjatonyo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sanjatonyo"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "maanta-an"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ka saluruah tanah"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "supayo kabar tu dibao"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "patuang-patuang urang tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bangso tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:34:30.988763956Z",
+  "model": "glm-5.3"
+}

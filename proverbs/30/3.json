@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo indak ambo balaja hikmah, jo pangatauan urang-urang suci indak ambo tau.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "ambo balaja"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "jo pangatauan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "urang-urang suci"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ambo tau"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:21.069627679Z",
+  "model": "glm-5.3"
+}

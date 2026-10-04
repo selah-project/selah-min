@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo Yahweh mambaliak ⟨את⟩ ruakh lauik nan sangaik kuaik, ruakh itu maangkek ⟨את⟩ balalang tu, jo mambueknyo ka Lauik Suf; indak tasiso ciek balalang pun di saluruah parateh Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "mambaliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuaik"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balalang tu"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "balalang tu"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "mambueknyo"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ka lauik"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "tasiso"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "balalang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di saluruah"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "parateh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:28.470629674Z",
+  "model": "glm-5.3"
+}

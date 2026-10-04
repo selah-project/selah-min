@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Dari laki-laki sampai padusi urang tu ka mangirim; ka lua kamp urang tu dikirim, supayo urang tu indak manajisan ⟨את⟩ kamp-kamp urang tu, tampek Ambo tingga di tangah-tangah urang tu.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "dari laki-laki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "padusi"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "urang tu ka mangirim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "lua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "urang tu dikirim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "manajisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamp-kamp urang tu"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kamp-kamp urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di tangah-tangah urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:40:12.781828186Z",
+  "model": "glm-5.3"
+}

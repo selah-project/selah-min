@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Manga Yahweh mambuang nyawak? Manga Manyuruakkan mukio dari ambo?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Manga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "mambuang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawak"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Manyuruakkan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mukio"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:32.334717725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Kapado pamimpin musik, kapado Yedutun, mazmur kapado Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kapado pamimpin musik"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "kapado Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kapado Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:46.825021183Z",
+  "model": "glm-5.3"
+}

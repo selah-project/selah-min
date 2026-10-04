@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo mareka bakato kapadonyo: Kami bamimpi, tapi indak ado panafsia ⟨את⟩-nyo. Lalu Yusuf bakato kapado mareka: Bukannyo kapado Elohim picaro tafsia? Cariokan lah ⟨נא⟩ kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "mimpi"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "kami bamimpi"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "panafsia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado mareka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukannyo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "picaro tafsia"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "cariokan lah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨нא⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:44.189802311Z",
+  "model": "glm-5.3"
+}

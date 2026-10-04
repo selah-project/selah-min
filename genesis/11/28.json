@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo Haran mati di muko Terakh ambo-nyo, di tanah kalahiannyo, di Ur Kasdim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "jo Haran mati"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakh"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ambo-nyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "kalahiannyo"
+    },
+    {
+      "surface": "באור",
+      "gloss": "di Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:45.934575214Z",
+  "model": "glm-5.3"
+}

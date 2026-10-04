@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 149,
+  "translation": "Untuak mambuek pambalasan kapado bangso-bangso, jo hukuman-hukuman kapado kaum-kaum.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "untuak mambuek"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "pambalasan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kapado bangso-bangso"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "hukuman-hukuman"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kapado kaum-kaum"
+    },
+    {
+      "surface": "אמים",
+      "gloss": " kaum-kaum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:38.698933378Z",
+  "model": "glm-5.3"
+}

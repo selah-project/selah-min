@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Inyo mambangun Tsyion jo darah, jo Yerushalayim jo kalabahan.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsyion"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "jo darah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jo Yerushalayim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "jo kalabahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:14.427173956Z",
+  "model": "glm-5.3"
+}

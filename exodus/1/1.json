@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo iko namo-namo anak-anak Yisrael nan tibo ka Mitsrayim: ⟨את⟩ Yaakov, tiok urang jo rumah tangganyo, tibo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Jo iko"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "nan tibo"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tiok urang"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "jo rumah tangganyo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tibo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:00.660038002Z",
+  "model": "glm-5.3"
+}

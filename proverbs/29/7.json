@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Urang nan banar mangatahui parkaro urang miskin, urang jahat indak mamanahi pangatahuan.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "mangatahui"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang nan banar"
+    },
+    {
+      "surface": "דין",
+      "gloss": "parkaro"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mamanahi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangatahuan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:30.771406804Z",
+  "model": "glm-5.3"
+}

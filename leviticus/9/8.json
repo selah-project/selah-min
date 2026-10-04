@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Aharon dakek mandakek ka muko mezbah, lalu manyambaliah ⟨את⟩ anak jawi korban doso nan untuak dirinyo.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dakek mandakek"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka muko"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "manyambaliah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak jawi korban doso"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "anak jawi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban doso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak dirinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:38.407039253Z",
+  "model": "glm-5.3"
+}

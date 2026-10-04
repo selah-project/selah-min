@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 142,
+  "translation": "Suaro ambo ka Yahweh ambo baseru; suaro ambo ka Yahweh ambo maminta kasih.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ambo baseru"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ambo maminta kasih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:23.631635851Z",
+  "model": "glm-5.3"
+}

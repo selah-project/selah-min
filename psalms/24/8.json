@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Sia iko, rajo nan mulio iko? Yahweh, kuaik jo gagah, Yahweh gagah dalam paparangan.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "nan mulio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "kuaik"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "jo gagah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gagah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dalam paparangan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:40.699021193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Ati urang bijak ado di sabalah suoknyo, tapi ati urang bodoh di sabalah kidaonyo.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "urang bijak"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "di sabalah suoknyo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "tapi ati"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "di sabalah kidaonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:02.390931797Z",
+  "model": "glm-5.3"
+}

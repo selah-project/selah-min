@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Awal kato-kato muluiknyo ⟨adoalah⟩ kabodoan, jo akhia muluiknyo gilo-gilo nan jahat.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "awal"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "muluiknyo"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "kabodoan"
+    },
+    {
+      "surface": "ו אחרית",
+      "gloss": "jo akhia"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "muluiknyo"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "gilo-gilo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:50.500444169Z",
+  "model": "glm-5.3"
+}

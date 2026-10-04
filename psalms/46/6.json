@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Elohim ⟨ado⟩ di tangahnyo, indak maupokan goyang; Elohim manolongnyo katiko pagi tibo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tangahnyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak maupokan"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "goyang"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "manolongnyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "katiko tibo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:47.022415298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Nan mamafkan sagalo kalancangan sanak, nan manyambuik sagalo panyakik sanak;",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "nan mamafkan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "kalancangan sanak"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "nan manyambuik"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "panyakik sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:56.125802015Z",
+  "model": "glm-5.3"
+}

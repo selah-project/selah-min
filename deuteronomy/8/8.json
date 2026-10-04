@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Tanah gandum jo jalai, jo anggur, jo pohon tin, jo delima; tanah zaitun minyak jo madu.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "jo jalai"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "jo anggur"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "jo pohon tin"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "jo delima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "jo madu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:46.093160884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Ambo mamakaian langik jo kaduduakan, jo karuik goni Ambo buek sabagai panutuiknyo.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Ambo mamakaian"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "kaduduakan"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "jo karuik goni"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "Ambo buek"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "panutuiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:23:03.792244761Z",
+  "model": "glm-5.3"
+}

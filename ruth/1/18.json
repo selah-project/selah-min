@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Nan dicaliaknyo baso Rut kokoh inyo untuak pai jo ⟨את⟩ inyo, mako inyo baranti mambicaroan kapado inyo.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nan dicaliaknyo baso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "kokoh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuak pai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "mako inyo baranti"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mambicaroan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:54.109298573Z",
+  "model": "glm-5.3"
+}

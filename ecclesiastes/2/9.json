@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo ambo manjadi gadang, jo ambo batambah labiah dari sagalo nan alah ado sabalun ambo di Yerushalayim; bahkan hikmah ambo tatap jo ambo.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "jo ambo manjadi gadang"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "jo ambo batambah labiah"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nan alah ado"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sabalun ambo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "hikmah ambo"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "tatap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:41.870558711Z",
+  "model": "glm-5.3"
+}

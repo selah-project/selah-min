@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu Yahweh Elohim mambuek untuak Adam jo untuak bininyo baju kulik, jo manganaikannyo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lalu mambuek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "untuak Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "jo untuak bininyo"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "baju"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "jo manganaikannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:39.827776840Z",
+  "model": "glm-5.3"
+}

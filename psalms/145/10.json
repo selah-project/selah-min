@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Mamujio Awak angkau, Yahweh, sagalo karanjo-angkau, jo urang kasiiah-angkau maikuiki bakahesti Awak angkau.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "mamujio Awak angkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "karanjo-angkau"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "jo urang kasiiah-angkau"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "maikuiki bakahesti Awak angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:30.919303905Z",
+  "model": "glm-5.3"
+}

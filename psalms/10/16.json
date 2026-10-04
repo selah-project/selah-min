@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Yahweh Rajo salamo-lamonyo, satasiak salamanyo; bangso-bangso alah musnah dari tanah-Nyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Rajo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "satasiak salamanyo"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "alah musnah"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dari tanah-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:57.367588613Z",
+  "model": "glm-5.3"
+}

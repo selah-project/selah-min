@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 113,
+  "translation": "Sia sarupo Yahweh, Elohim kito, nan mandiri tinggi untuak bajantan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sia"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "sarupo Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "nan mandiri tinggi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "untuak bajantan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:53.606545946Z",
+  "model": "glm-5.3"
+}

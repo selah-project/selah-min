@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu mareka mambuang ⟨את⟩ elohim nan asiang dari tangah-tangah mareka, jo mambaktikan ⟨את⟩ Yahweh; jo napas-Nyo singkek dek kasasahan Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Lalu mareka mambuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elohim nan asiang"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "nan asiang"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "dari tangah-tangah mareka"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mambaktikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "jo singkek"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "napas-Nyo"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "dek kasasahan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:15:31.952891592Z",
+  "model": "glm-5.3"
+}

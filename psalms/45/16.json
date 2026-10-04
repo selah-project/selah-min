@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Dibao masuak inyo-nyo jo ria jo basuka cita, tibo inyo-nyo ka dalam istana rajo.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "dibao masuak inyo-nyo"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "jo ria"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "jo basuka cita"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "tibo inyo-nyo"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ka dalam istana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:46.473689276Z",
+  "model": "glm-5.3"
+}

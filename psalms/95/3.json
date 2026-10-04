@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 95,
+  "translation": "Karano El nan gadang ⟨adolah⟩ Yahweh, jo rajo nan gadang di ateh sagalo elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "jo rajo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:47.694543288Z",
+  "model": "glm-5.3"
+}

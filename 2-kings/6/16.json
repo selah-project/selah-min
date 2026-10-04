@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu inyo bakato: Jan takuik, karano nan basamo ⟨את⟩ kito lobiah banyak dari pado nan basamo ⟨את⟩ inyo tu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "lobiah banyak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "jo ⟨את⟩ kito"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "dari pado nan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-10-04T05:57:08.765287117Z",
+  "model": "glm-5.3"
+}

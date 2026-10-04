@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Mazmur untuak Dawid. Yahweh, siapo nan dapek manumpang di khemah-Mu? Siapo nan tingga di gunuang suci-Mu?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "manumpang"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "di khemah-Mu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunuang"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "suci-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:20.532459537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Sasuai jo sado nan diparentahkan Yahweh kapado ⟨את⟩ Moshe, demikian pulo dibuek anak-anak Yisrael ⟨את⟩ sado pangkarajoan itu.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sasuai jo sado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian pulo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado pangkarajoan itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "pangkarajoan itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:18.833806698Z",
+  "model": "glm-5.3"
+}

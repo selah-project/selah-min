@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu dilatakkan urang tu ⟨את⟩ lemak-lemak itu di ateh dado-dado itu, lalu dibakaunnyo lemak-lemak itu di ateh mezbah.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "dilatakkan urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemak-lemak itu"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "lemak-lemak itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "dado-dado itu"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dibakaunnyo"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "lemak-lemak itu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di ateh mezbah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:37.094262841Z",
+  "model": "glm-5.3"
+}

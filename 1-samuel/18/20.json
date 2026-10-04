@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Maka Mikhalkh, anak padusi Shaul, mangasihi ⟨את⟩ Dawid, jo urang maagiah tau kapado Shaul, jo parkaro itu elok di mato nyo.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "maka mangasihi"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhalkh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "jo urang maagiah tau"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kapado Shaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "jo elok"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "parkaro itu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di mato nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:20.030312522Z",
+  "model": "glm-5.3"
+}

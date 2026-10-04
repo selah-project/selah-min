@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo Yahweh muncua di dalam khemah di dalam tiang awan, jo tiang awan itu badiri di muko pintu khemah itu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "muncua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di dalam khemah"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "di dalam tiang"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "badii"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:07:21.481957387Z",
+  "model": "glm-5.3"
+}

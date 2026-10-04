@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "satu lumbu, anak jawi, satu biri-biri jantan, satu anak domba umua satunu, untuak kurban bakaran.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "lumbu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jawi"
+    },
+    {
+      "surface": "איל",
+      "gloss": "biri-biri jantan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "umua satunu"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "untuak kurban bakaran"
+    }
+  ],
+  "timestamp": "2026-10-04T04:39:02.130287949Z",
+  "model": "glm-5.3"
+}

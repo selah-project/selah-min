@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 20:17",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lalu inyo mandakek ka padusi itu, dan padusi itu bakato: Nyo sanjek Joab? Inyo manjawab: Ambo. Padusi itu bakato kapadonyo: Tinggakek kato-kato hamba padusi ambo. Inyo bakato: Ambo tinggakek.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "mandakek"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka padusi itu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "padusi itu bakato"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Nyo sanjek"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo manjawab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "padusi itu bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Tinggakek"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "hamba padusi ambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tinggakek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:41:43.169807384Z",
+  "model": "glm-5.3"
+}

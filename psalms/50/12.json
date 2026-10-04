@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Kalau ambo lapua, indak ambo katoan kapado angkau, karano ambo punyo dunia jo kasadonyo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ambo lapua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ambo katoan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado angkau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo punyo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "jo kasadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:30.949114723Z",
+  "model": "glm-5.3"
+}

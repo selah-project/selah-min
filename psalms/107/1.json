@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Pujilah Yahweh, karano inyo elok, karano salamo-lamonyo hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:27.292700389Z",
+  "model": "glm-5.3"
+}

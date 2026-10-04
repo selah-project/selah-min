@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo ari-ari nan Shelomoh batahtahta di Yerushalayim ateh saluruah Yisrael adolah ampek puluah taun.",
+  "tokens": [
+    {
+      "surface": "ויהימים",
+      "gloss": "jo ari-ari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "batahtahta"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ampek puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-10-04T05:49:50.652434299Z",
+  "model": "glm-5.3"
+}

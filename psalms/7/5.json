@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jikok ambo mambałai jo jahat urang nan damai kapado ambo, jo malapeh urang nan manindih ambo indak babab —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jikok"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "ambo mambałai"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "urang nan damai kapado ambo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jo jahat"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "jo malapeh"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "urang nan manindih ambo"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "indak babab"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:32.120855962Z",
+  "model": "glm-5.3"
+}

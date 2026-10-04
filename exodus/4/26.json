@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu ⟨inYO⟩ mambiaannyo. Katiko itu pulan inyo bakato: pulang darah, karano sunik.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "lalu mambiaannyo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanyo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "katiko itu pulan"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "pulang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "karano sunik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:22.472260835Z",
+  "model": "glm-5.3"
+}

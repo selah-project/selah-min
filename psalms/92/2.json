@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Elok manggalakokan Yahweh, jo manyanyiangan Namo-Mu, Nan Tatinggi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Elok"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "manggalakokan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "jo manyanyiangan"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Namo-Mu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nan Tatinggi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:33.001783339Z",
+  "model": "glm-5.3"
+}

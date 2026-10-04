@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 86,
+  "translation": "Doa untuak Dawid. Tokokan talingo Dawid Yahweh, agiahlah kabakek ambo, karano ambo miskin jo fakir ambo.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Doa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Tokokan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "talingo Dawid"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "agiahlah kabakek ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jo fakir"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:44.472508670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 96,
+  "translation": "Kagagahan jo kamegahan di muko-Nyo, kakuatan jo kabanggaan di tampek sucinyo.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "kagagahan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "jo kamegahan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di muko-Nyo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "jo kabanggaan"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "di tampek sucinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:27.016286532Z",
+  "model": "glm-5.3"
+}

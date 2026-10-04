@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu Bat-Syeba bakato: Baiak, ambo ka bacarito untuak awak ka rajo tu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ka bacarito"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "untuak awak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:54.639763108Z",
+  "model": "glm-5.3"
+}

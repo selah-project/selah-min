@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Dan urang nan ka disucikan tu mancuca ⟨את⟩ bajunyo, mancukua ⟨את⟩ sagalo rambuiknyo, mandi di aia, dan inyo sucia; sasudah itu inyo masuak ka dalam pakampuangan, tapi tingga di lua khemahnyo salamo tujuah ari.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "mancuca"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "urang nan ka disucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajunyo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "bajunyo"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "mancukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo rambuiknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "rambuiknyo"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "mandi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di aia"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "sucia"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sasudah itu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka dalam"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "pakampuangan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "khemahnyo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "salamo tujuah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:28.466582443Z",
+  "model": "glm-5.3"
+}

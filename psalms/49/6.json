@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Untuak apo ambo takuik pado ari-ari jahaik, katiko awon di tumuik ambo mangaliliangi ambo?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "untuak apo"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ambo takuik"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pado ari-ari"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahaik"
+    },
+    {
+      "surface": "עון",
+      "gloss": "awon"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "di tumuik ambo"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "mangaliliangi ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:31.569678218Z",
+  "model": "glm-5.3"
+}

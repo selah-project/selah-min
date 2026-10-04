@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Lalu Yusuf bakato kapado sanak-sanaknyo: Dako lah ka ambo. Maka urang tu dakek, lalu inyo bakato: Ambo iko Yusuf, sanak urang tu nan urang tu jua ka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sanak-sanaknyo"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "dako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "urang tu dakek"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "sanak urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "urang tu jua"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:11.863499239Z",
+  "model": "glm-5.3"
+}

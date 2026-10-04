@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Anam ari sanak mangumpuakan ⟨inyo⟩, tapi pado ari nan katujuah — Shabat — indak ado ⟨inyo⟩ di situ.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Anam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "sanak mangumpuakan inyo"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "tapi pado ari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nan katujuah"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di situ"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:34.462355887Z",
+  "model": "glm-5.3"
+}

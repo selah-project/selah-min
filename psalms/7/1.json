@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Shigaion Dawid, nan inyo nyanyikan kapado Yahweh, tantang kato-kato Kush urang Benyamin.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kapado Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "inyo nyanyikan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "tantang"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benyamin"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:45.301091741Z",
+  "model": "glm-5.3"
+}

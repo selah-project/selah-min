@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Urang nan basakutu jo pancuri mambanci ⟨את⟩ dirinyo surang; sumpah kutuak inyo danga, tapi indak inyo baria tahu.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "urang nan basakutu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "pancuri"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "mambanci"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "dirinyo surang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sumpah kutuak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "inyo danga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "inyo baria tahu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:21.657565550Z",
+  "model": "glm-5.3"
+}

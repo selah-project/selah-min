@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo Shelomo manjalehan kapadonyo ⟨את⟩ satiok pabualannyo; indak ado suatu pun nan tasuruang dari rajo nan indak inyo jalehan kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "jo inyo manjalehan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satiok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "pabualannyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "suatu"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "tasuruang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "inyo jalehan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:57.267706389Z",
+  "model": "glm-5.3"
+}

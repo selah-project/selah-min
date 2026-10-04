@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Mako Ambo ka maâga muko Ambo ka urang tu jo ka kaluarganyo, jo Ambo ka mamungkuih inyo jo ⟨את⟩ sado urang nan bazina di balakangnyo, untuak bazina di balakang Molokh, dari tangah bangso urang tu.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ambo ka maâga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko Ambo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "jo ka kaluarganyo"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "jo Ambo ka mamungkuih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado urang nan bazina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "urang nan bazina"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "di balakangnyo"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "untuak bazina"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di balakang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molokh"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "dari tangah"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bangso urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:06.569920168Z",
+  "model": "glm-5.3"
+}

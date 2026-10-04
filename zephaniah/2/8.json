@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Ambo alah mandanga hinaan Moab jo umpatan anak-anak Ammon, nan alah mahino ⟨את⟩ umat ambo, jo mangedaran tahadok bateh urang tu.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ambo alah mandanga"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "hinaan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "jo umpatan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "manghino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat ambo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat ambo"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "jo mangedaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "tahadok"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "bateh urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:21:39.036369229Z",
+  "model": "glm-5.3"
+}

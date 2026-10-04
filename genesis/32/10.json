@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 32:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo Yaakov bakato: Elohim ayah ambo Avraham, jo Elohim ayah ambo Yitskhak, Yahweh nan bakato kapado ambo: Baliah ka tanah ang, jo ka tanah kalahiahan ang, dan ambo ka baiakkan ang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah ambo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "jo Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah ambo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "baliah"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "ka tanah ang"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "jo ka tanah kalahiahan ang"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "dan ambo ka baiakkan ang"
+    },
+    {
+      "surface": "עמך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:31.115804228Z",
+  "model": "glm-5.3"
+}

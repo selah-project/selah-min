@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Ambo caliak ⟨את⟩ sado urang-urang hiduik nan bajalan di bawah mataari, basamo anak nan kaduo, nan ka tagak di tampeknyo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ambo caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado urang-urang hiduik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "urang-urang hiduik"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "nan bajalan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mataari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ka tagak"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "di tampeknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:47.779403746Z",
+  "model": "glm-5.3"
+}

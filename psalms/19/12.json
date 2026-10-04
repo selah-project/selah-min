@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Baitu juo hamba-Mu diparingek jo inyo; dalam manjago inyo ado balasan gadang.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "diparingek"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "dalam manjago inyo"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "balasan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:50.664594111Z",
+  "model": "glm-5.3"
+}

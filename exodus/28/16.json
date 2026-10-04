@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Ampék suduik ⟨iah⟩ inyo jo balipek duo; sajangka panjangnyo, jo sajangka lebanyo.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ampék suduik"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨iah⟩ inyo"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "balipek duo"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "sajangka"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnyo"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "jo sajangka"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:38.973702332Z",
+  "model": "glm-5.3"
+}

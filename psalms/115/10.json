@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 115,
+  "translation": "Hei rumah Aharon, pacayolah ka Yahweh; inyo patolong jo parlinduang inyo.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "pacayolah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "patolong inyo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "jo parlinduang inyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:02.750767127Z",
+  "model": "glm-5.3"
+}

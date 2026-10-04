@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu Samuel bakato: Kumpuakan ⟨את⟩ sadoalah Yisrael ka Mitzpa, supayo ambo badoa untuak awak kapado Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "kumpuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "ka Mitzpa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "supayo ambo badoa"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "untuak awak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:45.816726480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "lalu inyo bapikia basamo panglimonyo jo urang-urang gagahnyo untuak mamanuiahi ⟨את⟩ aia mato-mato aia nan ado di lua nagari, jo urang tu manolonginyo.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "lalu inyo bapikia basamo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "panglimonyo"
+    },
+    {
+      "surface": "וגיבריו",
+      "gloss": "jo urang-urang gagahnyo"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "untuak mamanuiahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aia mato-mato aia"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "aia"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "mato-mato aia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan ado"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "jo urang tu manolonginyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:59:11.646355520Z",
+  "model": "glm-5.3"
+}

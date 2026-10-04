@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Satiok nan dipanggia jo Namo ambo, nan ambo ciptaan untuak kamuliaan ambo, nan ambo bantuak, bahkan nan ambo jadian.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "nan dipanggia"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "jo Namo ambo"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "untuak kamuliaan ambo"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "nan ambo ciptaan"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "nan ambo bantuak"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "nan ambo jadian"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:49.817179399Z",
+  "model": "glm-5.3"
+}

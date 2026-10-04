@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Iko lah katurunan Shem: Shem umua saratuih taun, jo inyo bakaroman jo ⟨את⟩ Arpakhshad, duo taun sasudah banjir gadang.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umua"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saratuih"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "bakaroman jo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "duo taun"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "banjir gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:36.881420715Z",
+  "model": "glm-5.3"
+}

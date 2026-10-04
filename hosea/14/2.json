@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Baliaklah, wa Yisrael, sampai ka Yahweh, Elohim ⟨kau⟩, karano kau tatas di dusa ⟨kau⟩.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Baliaklah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ⟨kau⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "tatas"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "di dusa ⟨kau⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:56.467428903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Pandanglah ka ambo, jo kasihanilah ambo, sarupo ado jo urang nan pancinta ka namo-Mu.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Pandanglah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "jo kasihanilah ambo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sarupo ado"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "urang nan pancinta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ka namo-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:27.761720645Z",
+  "model": "glm-5.3"
+}

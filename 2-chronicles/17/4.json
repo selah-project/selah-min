@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "karano inyo mancari kapado Elohim ayahnyo, dan bajalan manuruik parintah-parintah-Nyo, indak sarupo pabuatan Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnyo"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "manuruik parintah-parintah-Nyo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sarupo pabuatan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T08:53:01.189755460Z",
+  "model": "glm-5.3"
+}

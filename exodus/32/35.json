@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lalu Yahweh manimpa ⟨את⟩ bangso itu, dek karano urang tu alah mambuek ⟨את⟩ anak lombu tu, nan dibuek Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "manimpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mambuek urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak lombu tu"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "anak lombu tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:22.689544606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Maka Imam-imam jo nabi-nabi jo sado urang banyak mandanga ⟨את⟩ Yirmeyahu maagiah ⟨את⟩ kato-kato ko di rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Maka mandanga"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Imam-imam"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "jo nabi-nabi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "maagiah kato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato ko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:35:06.449290373Z",
+  "model": "glm-5.3"
+}

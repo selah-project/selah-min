@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Urang padusi nan ba-zina, ⟨את⟩ urang asiang nan diambiak di tampek laki-lakinyo.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "urang padusi"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "nan ba-zina"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "laki-lakinyo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "nan diambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang asiang"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "urang asiang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:52:33.365259687Z",
+  "model": "glm-5.3"
+}

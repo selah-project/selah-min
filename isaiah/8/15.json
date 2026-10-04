@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo banyak di antaro inyo tasandung, jo jatuah, jo patah, jo takabuak jo tatangkok.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "jo tasandung"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di antaro inyo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "jo jatuah"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "jo patah"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "jo takabuak"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "jo tatangkok"
+    }
+  ],
+  "timestamp": "2026-10-04T06:07:53.330372044Z",
+  "model": "glm-5.3"
+}

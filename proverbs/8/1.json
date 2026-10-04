@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Indak kaha hikmah maureka, jo pangatahuan maagiah suaronyo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "indak kaha"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "maureka"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "jo pangatahuan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "suaronyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:33.958086954Z",
+  "model": "glm-5.3"
+}

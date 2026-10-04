@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Hesed Yahweh salamo-lamonyo kaunyanyokan; ka katurunan demi katurunan akauntujuakan kasatiaan-Nyo jo muluik ambo.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kaunyanyokan"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ka katurunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "demi katurunan"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "akauntujuakan"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kasatiaan-Nyo"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "jo muluik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:17.320898970Z",
+  "model": "glm-5.3"
+}

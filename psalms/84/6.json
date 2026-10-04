@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 84,
+  "translation": "Sananglah urang nan kakuatannyo ado di Kau, jalan-jalan tu ado di ati urang tu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sananglah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo punyo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di Kau"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "di ati urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:44.602555639Z",
+  "model": "glm-5.3"
+}

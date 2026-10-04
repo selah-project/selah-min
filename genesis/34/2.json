@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo nampak dek Shekhem, anak Hamor si Khivi, pamuko nagari itu, ⟨את⟩ inyo; lalu inyo maambiak inyo, lalu inyo bajaniah jo inyo, lalu inyo mamalindungi inyo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nampak dek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Dinah)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "si Khivi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pamuko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari itu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Dinah)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "bajaniah jo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Dinah)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "mamalindungi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:39.978624291Z",
+  "model": "glm-5.3"
+}

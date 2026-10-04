@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 7:1",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Baliaklah, baliaklah, hai Si Shulamit! Baliaklah, baliaklah, supayo kito dapek mancaliak ⟨kau⟩. Apo nan ka awak caliak di Si Shulamit? Sarupo tarian di Mahanaim.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "השולמית",
+      "gloss": "Si Shulamit"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "ונחזה",
+      "gloss": "supayo kito dapek mancaliak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨kau⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "awak caliak"
+    },
+    {
+      "surface": "בשולמית",
+      "gloss": "di Si Shulamit"
+    },
+    {
+      "surface": "כמחלת",
+      "gloss": "sarupo tarian"
+    },
+    {
+      "surface": "המחנים",
+      "gloss": "di Mahanaim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:16:47.343712056Z",
+  "model": "glm-5.3"
+}

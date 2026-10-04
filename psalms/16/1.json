@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Mikhtam untuak Dawid. Ramalahan ambo, El, karano ambo balinduang kapado Angkau.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "ramalahan ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ambo balinduang"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kapado Angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:56.594298443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Ambo ⟨mandangaan⟩: jago lah muluik rajo, jo karano sumpah kapado Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "jago"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo karano"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:33.451846800Z",
+  "model": "glm-5.3"
+}

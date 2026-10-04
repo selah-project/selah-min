@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 128,
+  "translation": "Yahweh mamacakiaħ dikau dari Tzion, dan caliaklah kabaikan ⟨di⟩ Yerushalayim sapanjang ari-ari iduik dikau.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "mamacakiaħ dikau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari Tzion"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan caliaklah"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kabaikan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "iduik dikau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:54.432003254Z",
+  "model": "glm-5.3"
+}

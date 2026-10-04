@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 90,
+  "translation": "Sia nan tau kakuatan murka-Mu, jo manuruik raso takuik ⟨kapado-Mu⟩, kaamukan-Mu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nan tau"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "murka-Mu"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "jo manuruik raso takuik ⟨kapado-Mu⟩"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "kaamukan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:11.732857183Z",
+  "model": "glm-5.3"
+}

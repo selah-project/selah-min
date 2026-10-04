@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 127,
+  "translation": "Lagu naiak, untuak Shelomo. Kalau Yahweh indak mambangun ⟨את⟩ rumah, sia-sia bapariahaik urang-urang nan mambangunnyo di atehnyo; kalau Yahweh indak manjago ⟨את⟩ kota, sia-sia panjago manjago.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "untuak Shelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kalau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "bapariahaik"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "urang-urang nan mambangunnyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "manjago"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "mantai"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "panjago manjago"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:52.064347337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Nan kapado urang mati kok Engkau buek kagumangan? Kok Refaim bangkik, inyo urang tu mamuji Engkau? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "Nan kapado urang mati"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kok Engkau buek"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "kagumangan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kok"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "inyo urang tu mamuji Engkau"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:48.925112890Z",
+  "model": "glm-5.3"
+}

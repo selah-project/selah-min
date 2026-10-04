@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo bawolah ⟨את⟩ minkha nan dibuek dari benda-benda iko kapado Yahweh, jo dakekkan inyo kapado imam, jo pakaok inyo ka mazbah.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Jo bawolah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "dari benda-benda iko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "jo dakekkan inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "jo pakaok inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:19.284806184Z",
+  "model": "glm-5.3"
+}

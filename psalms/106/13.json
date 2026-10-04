@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Capek nian inyo lupo kasadapek karajanyo; indak inyo manunggu nasiaiknyo.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "capek nian"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "lupo"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "kasadapek karajanyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "manunggu"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "nasiaiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:18.091448218Z",
+  "model": "glm-5.3"
+}

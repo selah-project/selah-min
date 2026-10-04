@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu Elia maambiak ⟨את⟩ jubahnyo, diguliangnyo, lalu dipukunyo ⟨את⟩ aia tu, mako tabalah iyo ka sinji jo ka sinji, jo kaduonyo malinteh baliak di ateh tanah kariang.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubahnyo"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "jubahnyo"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "diguliangnyo"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "dipukunyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aia tu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "tabalah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ka sinji"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ka sinji"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "malinteh baliak"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kaduonyo"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "di ateh tanah kariang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:32.407114349Z",
+  "model": "glm-5.3"
+}

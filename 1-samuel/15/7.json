@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Lalu Shaul mamukua ⟨את⟩ Amalek dari Khavilah sampai ka Syur, nan ado di muko Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "lalu mamukua"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "dari Khavilah"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Syur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T05:27:56.756330787Z",
+  "model": "glm-5.3"
+}

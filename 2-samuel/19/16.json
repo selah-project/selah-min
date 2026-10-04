@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Kokitu rajo baliak, jo tibo sampai ka Yarden; urang Yehuda tibo ka Gilgal untuak pai basuo jo rajo, untuak mambaok lintaeh ⟨את⟩ rajo malewati ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kokitu rajo baliak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "jo tibo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "urang Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ka Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuak pai"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "basuo jo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "untuak mambaok lintaeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-04T05:42:09.988943726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Dan di muko Devir: duo puluah hasta panjangnyo, jo duo puluah hasta lebanyo, jo duo puluah hasta tingginyo; lalu inyo malapisinyo jo ameh murni, dan inyo malapisi mezbah tu jo kayu araz.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "dan di muko"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjangnyo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jo duo puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebanyo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jo duo puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tingginyo"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "lalu inyo malapisinyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "jo ameh"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dan inyo malapisi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "kayu araz"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:30.069488361Z",
+  "model": "glm-5.3"
+}

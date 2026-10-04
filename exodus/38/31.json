@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo ⟨את⟩ alas-alas paralatan sakaliliangnyo, jo ⟨את⟩ alas-alas gapuro paralatan, jo ⟨את⟩ sagalo pacuak Mishkan, jo ⟨את⟩ sagalo pacuak paralatan sakaliliangnyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "alas-alas paralatan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "alas-alas"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "paralatan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliangnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "alas-alas gapuro"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "alas-alas"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "paralatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo pacuak Mishkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pacuak"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo pacuak paralatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pacuak"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "paralatan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:06.131044397Z",
+  "model": "glm-5.3"
+}

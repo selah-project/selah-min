@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo untuak mamarintah siang jo malam, jo untuak mamisahan antaro cahayo jo antaro gelap; jo Elohim caliak baso elok.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "jo untuak mamarintah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "jo malam"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "jo untuak mamisahan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antaro"
+    },
+    {
+      "surface": "האור",
+      "gloss": "cahayo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "jo caliak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:20.154274419Z",
+  "model": "glm-5.3"
+}

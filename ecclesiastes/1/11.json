@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Indak ado ingatan kapado urang-urang nan dahulu; jo kapado urang-urang nan ka datang, indak ka ado ingatan tantang inyo jo urang-urang nan paliang akhir.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Indak ado"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ingatan"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "kapado urang-urang nan dahulu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "kapado urang-urang nan ka datang"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "nan ka ado"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka ado"
+    },
+    {
+      "surface": "להם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ingatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "urang-urang nan ka ado"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "nan paliang akhir"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:20.174303823Z",
+  "model": "glm-5.3"
+}

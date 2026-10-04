@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Beri kapado urang nan bijak, supayo inyo lai bijak; baritahuan kapado urang nan tsedeq, supayo inyo batambah laku.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Beri"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "kapado urang nan bijak"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "supayo inyo lai bijak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "baritahuan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kapado urang nan tsedeq"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "supayo inyo batambah"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "laku"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:58.825994077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Bagiak lah, jo jan babueh doso; katakan dalam ati sanak di ateh ranjang sanak, jo diaman. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "bagiak lah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "babueh doso"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "dalam ati sanak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "ranjang sanak"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "jo diaman"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:16.096570069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Supayo Yahweh, Elohim ang, manunjuakan kapado kito ⟨את⟩ jalan nan ka kito tampuah, jo ⟨את⟩ pakaro nan ka kito buek.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Supayo... manunjuakan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado kito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ka kito tampuah"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakaro"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ka kito buek"
+    }
+  ],
+  "timestamp": "2026-10-04T06:42:30.946735246Z",
+  "model": "glm-5.3"
+}

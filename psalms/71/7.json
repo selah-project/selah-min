@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Layaknyo tando ajaib ambo manjadi dek banyak urang, tapi Angkau lah saluto kakuatan ambo.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "Layaknyo tando ajaib"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ambo manjadi"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "dek banyak urang"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "tapi Angkau"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "saluto"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:13.065826487Z",
+  "model": "glm-5.3"
+}

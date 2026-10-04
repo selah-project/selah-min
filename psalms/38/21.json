@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo urang nan mambalieh jaho ganti elok manantang ambo, karano ambo mangujuik ⟨itu⟩ nan elok.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "jo urang nan mambalieh"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jaho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "elok"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "manantang ambo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "mangujuik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:44.821514150Z",
+  "model": "glm-5.3"
+}

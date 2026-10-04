@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Sanak — inyo rajo ambo, Elohim; parentahkan patolongan-patolongan untuak Yaakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sanak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parentahkan"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "patolongan-patolongan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:55.478117701Z",
+  "model": "glm-5.3"
+}

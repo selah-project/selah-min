@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Untuak katuo musik, untuak Dawid, mizmor, sabuah nyanyian.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak katuo musik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:48.201743598Z",
+  "model": "glm-5.3"
+}

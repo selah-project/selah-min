@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 15:22",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Lalu Menachem lalok jo niniak moyangnyo, jo Pekakhya anaknyo manjadi rajo manggantian inyo.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "niniak moyangnyo"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "manjadi rajo"
+    },
+    {
+      "surface": "פקחיה",
+      "gloss": "Pekakhya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "manggantian inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:07.199771632Z",
+  "model": "glm-5.3"
+}

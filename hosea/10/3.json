@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Karano kini mareko ka bakato: Indak ado rajo untuak kito, karano kito indak takuik kapado ⟨את⟩ Yahweh; tapi rajo tu, apo inyo dapek karajokan untuak kito?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mareko ka bakato"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "tapi rajo tu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dapek karajokan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:26.148785634Z",
+  "model": "glm-5.3"
+}

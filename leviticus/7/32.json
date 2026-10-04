@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Dan ⟨את⟩ tungkai kida tu barikanlah sabagai tarumah kapado imam, dari kurban syalam sanak suduoh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tungkai kida tu"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "tungkai"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kida"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "barikanlah"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "sabagai tarumah"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kapado imam"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "dari kurban"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "syalam sanak suduoh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:00.593263065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Inyo manyambiannyo ⟨את⟩ inyo di sisi mazbeakh, di utara, di muko Yahweh, jo anak-anak Aharon, para imam, mandaruah ⟨את⟩ darahnyo ka ateh mazbeakh sakaliliang.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "inyo manyambiannyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (binatang itu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbeakh"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "di utara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "jo mandaruah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahnyo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbeakh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:03.664412275Z",
+  "model": "glm-5.3"
+}

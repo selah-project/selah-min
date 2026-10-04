@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Jo imam-imamnyo ambo ka pakaián yeshu‘a, jo urang-urang setianyo manyanyi gembira.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "jo imam-imamnyo"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ambo ka pakaián"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "yeshu‘a"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "jo urang-urang setianyo"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "manyanyi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "gembira"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:19.241230570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Indak manuruik doso-doso kito Iyo buek kapado kito, jo indak manuruik kasalahan-kasalahan kito Iyo mambalas kapado kito.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "manuruik doso-doso kito"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Iyo buek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado kito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "manuruik kasalahan-kasalahan kito"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "Iyo mambalas"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kapado kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:16.542001349Z",
+  "model": "glm-5.3"
+}

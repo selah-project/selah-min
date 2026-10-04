@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Yahweh bajanji kapado Moshe, kato-Nyo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bajanji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato-Nyo:"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:16.993142907Z",
+  "model": "glm-5.3"
+}

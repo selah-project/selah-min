@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Untuak manembak dari tampek rahasio urang nan baniah; tibo-tibo inyo manembaknyo, jo indak inyo takuik.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "untuak manembak"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "dari tampek rahasio"
+    },
+    {
+      "surface": "תם",
+      "gloss": "urang nan baniah"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "tibo-tibo"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "inyo manembaknyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "inyo takuik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:51.367503474Z",
+  "model": "glm-5.3"
+}

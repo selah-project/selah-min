@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Dakek Yahweh kapado sadoalah nan manyapo-Nyo, kapado sadoalah nan manyapo-Nyo bana-bana.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Dakek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado sadoalah"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "nan manyapo-Nyo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado sadoalah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "manyapo-Nyo"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "bana-bana"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:48.035874097Z",
+  "model": "glm-5.3"
+}

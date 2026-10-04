@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 146,
+  "translation": "Kalua ruakhnyo, inyo baliak ka tanahnyo; pado ari itu pulang ilang sagalo rancangannyo.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "Kalua"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakhnyo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "inyo baliak"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "ka tanahnyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "sagalo rancangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:49.707040845Z",
+  "model": "glm-5.3"
+}

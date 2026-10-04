@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Tapi ambo, pado hesed-Mu ambo bahubuang; ati ambo ka bagimbira pado kasalamatan-Mu; ambo ka manyanyi kapado Yahweh, karano Inyo alah bajan baiak kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "pado hesed-Mu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ambo bahubuang"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "bagimbira"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "pado kasalamatan-Mu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ambo ka manyanyi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "bajan baiak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:15.792287032Z",
+  "model": "glm-5.3"
+}

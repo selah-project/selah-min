@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo ⟨את⟩ duo anaknyo laki-laki; namo nan ciek Gershom, karano inyo bakato: Urang asiang ambo alah manjadi di tanah nan asiang.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "duo anaknyo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "גר",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "alah manjadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "nan asiang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:32.733840557Z",
+  "model": "glm-5.3"
+}

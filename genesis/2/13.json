@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dan namo sungai nan kaduo adolah Gichon; inyolah nan mangaliliangi ⟨את⟩ sagalo tanah Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "dan namo"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inylah"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "nan mangaliliangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo tanah Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:05.561376540Z",
+  "model": "glm-5.3"
+}

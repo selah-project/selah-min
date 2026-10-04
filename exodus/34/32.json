@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Sasudah itu sagalo anak-anak Yisrael dakek, jo inyo mamarintahkan kapado inyo ⟨את⟩ sagalo nan alah dikatokan Yahweh ⟨את⟩ kapadonyo di gunuang Sinai.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "… dakek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "jo inyo mamarintahkan kapado inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan alah dikatokan Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikatokan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kapadonyo ⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunuang"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:36.405164117Z",
+  "model": "glm-5.3"
+}

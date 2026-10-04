@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Ambo bagembira jo basuka ria dalam hesed Sanak, karano Sanak alah caliak ⟨את⟩ kasusahan ambo; Sanak tau kasampikan jiwa ambo.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Ambo bagembira"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "jo basuka ria"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "dalam hesed Sanak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "Sanak alah caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasusahan ambo"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kasusahan ambo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Sanak tau"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "kasampikan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:58.407111966Z",
+  "model": "glm-5.3"
+}

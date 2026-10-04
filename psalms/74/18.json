@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Ingie-i ko: musuah lah mahino Yahweh, urang nan bodoh lah maateh namo sanak.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingie-i"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "lah mahino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nan bodoh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "lah maateh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:51.095771535Z",
+  "model": "glm-5.3"
+}

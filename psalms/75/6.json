@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 75,
+  "translation": "Jan angkek sarugo kito ka ateh tinggi, jan bacakap jo lihia kaku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "angkek"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ka ateh tinggi"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "sarugo kito"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "bacakap"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "jo lihia"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "kaku"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:00.873543003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Ambo caliak hamba-hamba bajua di ateh kudo, jo pangulu-pangulu bajalan sarupo hamba di ateh tanah.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ambo caliak"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kudo"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "jo pangulu-pangulu"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "sarupo hamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:51.509739061Z",
+  "model": "glm-5.3"
+}

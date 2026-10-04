@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "⟨את⟩ Khesbon jo ⟨את⟩ padang rumputnyo, ⟨את⟩ Ya'zer jo ⟨את⟩ padang rumputnyo — sagalo koto-koto ampek.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khesbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Khesbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumputnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumputnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'zer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ya'zer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumputnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumputnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:12.100774396Z",
+  "model": "glm-5.3"
+}

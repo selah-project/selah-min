@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo inyo manggiliangan gigi ambo jo kericak batu, inyo malangkahakan ambo dalam dabu.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "jo inyo manggiliangan"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "jo kericak batu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "gigi ambo"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "inyo malangkahakan ambo"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "dalam dabu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:18:23.264288853Z",
+  "model": "glm-5.3"
+}

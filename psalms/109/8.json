@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Bilo ari-ari hiduiknyo saketek, jo jabatannyo diambiek urang lain.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Bilo"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ari-ari hiduiknyo"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "jabatannyo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "diambiek"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "urang lain"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:59.637493424Z",
+  "model": "glm-5.3"
+}

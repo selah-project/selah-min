@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Karano ambo alah manjago jalan-jalan Yahweh, dan indak ambo barangasok dari Elohim ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "alah ambo manjago"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ambo barangasok"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "dari Elohim ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:43.033782454Z",
+  "model": "glm-5.3"
+}

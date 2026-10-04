@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Tauaik saksi-saksi kajam; nan indak ambo katahui, inyo mananyoan ka ambo.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "tauaik"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kajam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo katahui"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "mananyoan ka ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:19.638505553Z",
+  "model": "glm-5.3"
+}

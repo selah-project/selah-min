@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo inyo manulih di sinan, di ateh batu-batu tu, ⟨את⟩ salinan Torah Moshe, nan inyo tulih di muko anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "jo inyo manulih"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salinan Torah Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "salinan"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "inyo tulih"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:07:03.444424367Z",
+  "model": "glm-5.3"
+}

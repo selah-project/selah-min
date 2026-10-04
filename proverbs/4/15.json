@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Elak-elak inyo, janga malintasi inyo; piah dari inyo, jo lalu.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "elak-elak inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janga"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "malintasi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "piah"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "dari inyo"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "jo lalu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:15.019785074Z",
+  "model": "glm-5.3"
+}

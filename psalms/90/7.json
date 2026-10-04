@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 90,
+  "translation": "Karano kami habih dek bangih-Mu, dek uduik-Mu kami takaâ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "kami habih"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dek bangih-Mu"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "dek uduik-Mu"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "kami takaâ"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:33.596286010Z",
+  "model": "glm-5.3"
+}

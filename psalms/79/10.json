@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 79,
+  "translation": "Untuak apo bangso-bangso bakato: Di ma Elohim inyo? Batauankanlah di antaro bangso-bangso, di mato kito, pambalesan darah hamba-hamba-Mu nan ditumpah.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Untuak apo"
+    },
+    {
+      "surface": "יומרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Di ma"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim inyo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "Batauankanlah"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antaro bangso-bangso"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "di mato kito"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "pambalesan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hamba-Mu"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "nan ditumpah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:26.490443070Z",
+  "model": "glm-5.3"
+}

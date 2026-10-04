@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Urang nan pai manyebar gosip malansiang ⟨rahasia⟩; tapi nan setia ruakhnyo manutuik ⟨pakaro⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "urang nan manyebar gosip"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "malansiang"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨rahasia⟩"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "tapi nan setia"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakhnyo"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "manutuik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨pakaro⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:43.760463241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Sadonyo koto nan kalian agiah kapado urang Lewi — ampek puluah jo dalapan koto — ⟨את⟩ tu, jo ⟨את⟩ padang lua nyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "koto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kalian agiah"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kapado urang Lewi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ampek puluah"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "jo dalapan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "koto"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "padang lua nyo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "padang lua nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:25.830515509Z",
+  "model": "glm-5.3"
+}

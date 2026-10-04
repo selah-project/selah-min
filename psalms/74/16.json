@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Milik angkau siang, milik angkau pulo malam; angkau alah manyadioan cahayo jo mato ari.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "milik angkau"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pulo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "milik angkau"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "alah manyadioan"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "cahayo"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "jo mato ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:59.559561080Z",
+  "model": "glm-5.3"
+}

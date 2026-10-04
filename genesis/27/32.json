@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo Yitskhak amboinyo bakato kapadonyo: Siapo ang? Jo inyo manjawab: Den iyo, anak ang, anak sulung ang, Esau.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amboinyo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo manjawab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "den iyo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anak ang"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "anak sulung ang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:44.964882566Z",
+  "model": "glm-5.3"
+}

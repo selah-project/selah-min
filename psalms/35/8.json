@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Kabinaso datang kapadonyo, inyo indak tau; jo jala nan inyo tanam manangkok inyo; dalam kabinaso inyo jatuah ka dalamnyo.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "datang kapadonyo"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "kabinaso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "jo jalanyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "inyo tanam"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "manangkok inyo"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "dalam kabinaso"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "inyo jatuah"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka dalamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:43.551723303Z",
+  "model": "glm-5.3"
+}

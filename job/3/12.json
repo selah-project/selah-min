@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Ba a nok lutuik-lutuik mandapek ambo, jo baa susu, karano ambo manyusu?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ba a nok"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "mandapek ambo"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "lutuik-lutuik"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jo baa"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "susu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "ambo manyusu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:52.420776269Z",
+  "model": "glm-5.3"
+}

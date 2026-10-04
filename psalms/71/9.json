@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Jangan buang ambo di maso tuo, katiko kakuatan ambo lah habih, jangan tinggakan ambo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "buang ambo"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "di maso"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "katiko lah habih"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kakuatan ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tinggakan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:10.246756383Z",
+  "model": "glm-5.3"
+}

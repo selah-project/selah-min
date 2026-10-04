@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu inyo mangirim ⟨את⟩ galaak; itu pai jo pulang baliak, sampai aia tu kariang dari ateh bumi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galaak"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galaak"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "pai"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "pulang baliak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "kariang"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:37.808566401Z",
+  "model": "glm-5.3"
+}

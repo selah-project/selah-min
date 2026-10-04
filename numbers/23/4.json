@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Lalu Elohim basuo jo Bileam, lalu inyo bakato kapado-Nyo: ⟨את⟩ tujuah mazbeakh alah ambo susun, dan ambo alah maangkek lembu jo biriang di ateh mazbeakh.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "basuo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapado-Nyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuah mazbeakh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "mazbeakh"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "alah ambo susun"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ambo alah maangkek"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "jo biriang"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "di ateh mazbeakh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:47:18.145726199Z",
+  "model": "glm-5.3"
+}

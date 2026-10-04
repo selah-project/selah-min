@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 7:12",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Katiko inyo pai, ambo ka maambai jala ambo ateh inyo, ambo ka manuruikkan inyo sarupo buruang langik; ambo ka mahukum inyo katiko mandanga tapantangan ka kalompoknyo.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "inyo pai"
+    },
+    {
+      "surface": "אפרוש",
+      "gloss": "ambo ka maambai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ateh inyo"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "jala ambo"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "sarupo buruang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "ambo ka manuruikkan inyo"
+    },
+    {
+      "surface": "איסרם",
+      "gloss": "ambo ka mahukum inyo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "katiko mandanga"
+    },
+    {
+      "surface": "לעדתם",
+      "gloss": "ka kalompoknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:57.471501141Z",
+  "model": "glm-5.3"
+}

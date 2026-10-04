@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo Sha'ul mati, jo anak-anaknyo nan tigo, jo saluruah rumahnyo — basamo-samo inyo mati.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "nan tigo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo saluruah"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo-samo"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mati"
+    }
+  ],
+  "timestamp": "2026-10-04T08:43:39.698755170Z",
+  "model": "glm-5.3"
+}

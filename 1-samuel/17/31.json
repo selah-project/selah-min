@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 17:31",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lalu kato-kato nan dikatoan dek Dawid tu didanga, jo dibaok ka muko Sha-ul, lalu inyo maambiak Dawid.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "lalu didanga"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikatoan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "jo dibaok"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka muko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "lalu inyo maambiak Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:13.601680325Z",
+  "model": "glm-5.3"
+}

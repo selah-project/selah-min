@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Maka Mordekhai tau ⟨את⟩ sagalo nan alah tajadi, jo Mordekhai mangoyak ⟨את⟩ pakaiannyo, jo mamakai sakuak jo dabu, jo kalua ka tangah kota tu, jo manjeriah — jeriah nan gadang jo nan pahik.",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "Maka Mordekhai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "alah tajadi"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "jo mangoyak"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannyo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannyo"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "jo mamakai"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sakuak"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "jo dabu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "jo kalua"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka tangah"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota tu"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "jo manjeriah"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "jeriah"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "jo pahik"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:26.225913773Z",
+  "model": "glm-5.3"
+}

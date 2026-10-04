@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Yahweh bakato kapado ambo: Jan takuik kapadonyo, karano ka tangan ambo alah Ambo agiah ⟨את⟩ inyo, jo ⟨את⟩ saluruah rakyaiknyo, jo ⟨את⟩ nagarinyo; dan buweklah kapadonyo sarupo nan alah awak buwek kapado Sihon, rajo urang Emori, nan tingga di Heshbon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kapadonyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ka tangan ambo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah Ambo agiah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "saluruah rakyaiknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "rakyaiknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nagarinyo"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nagarinyo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan buweklah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "alah buwek"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "kapado Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "di Heshbon"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:26.504722287Z",
+  "model": "glm-5.3"
+}

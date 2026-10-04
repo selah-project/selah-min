@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Bia inyo minum, lalu lupo kamiskinannyo, jo kasaannyo indak diingek lai.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "inyo minum"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "lalu lupo"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "kamiskinannyo"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "jo kasaannyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "diingek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:36.938337726Z",
+  "model": "glm-5.3"
+}

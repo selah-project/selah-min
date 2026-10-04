@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Elohim mambuek elok kapado para panando; jo bangso itu bakambang manjadi banyak, jo manjadi sangaik kuek.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "mambuek elok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kapado para panando"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "bakambang manjadi banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "manjadi sangaik kuek"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:15.909318679Z",
+  "model": "glm-5.3"
+}

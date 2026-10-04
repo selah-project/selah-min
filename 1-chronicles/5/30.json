@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Elazar manurunkan ⟨את⟩ Pinechas, Pinechas manurunkan ⟨את⟩ Abisua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abisua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abisua"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:15.925542539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Imam mambaoknyo ka mezbah, manjapuik ⟨את⟩ kapalonyo, jo mambakaannyo di ateh mezbah; darahnyo ditatangkan di dindiang mezbah.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "mambaoknyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "manjapuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalonyo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "jo mambakaannyo"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di ateh mezbah"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "ditatangkan"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dindiang"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:38.528310284Z",
+  "model": "glm-5.3"
+}

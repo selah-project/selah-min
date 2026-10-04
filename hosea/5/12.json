@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo Ambarimo sarupo ngenggat kapado Efraim, sarupo banaang kapado isi rumah Yehudah.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Jo Ambarimo"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "sarupo ngenggat"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "kapado Efraim"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "sarupo banaang"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kapado isi rumah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:30.328760173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Yahweh bakato kapado Moshe: Masuaklah kapado Paroh, jo bakatoan kapadonyo: Co ko kato Yahweh, Elohim urang Ibrani: Lepaskanlah ⟨את⟩ umat Ko, supayo inyo mamuja ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuaklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "jo bakatoan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "co ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "urang Ibrani"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lepaslah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat Ko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat Ko"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "supayo inyo mamuja ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:58.528030145Z",
+  "model": "glm-5.3"
+}

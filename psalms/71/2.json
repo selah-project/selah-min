@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Dalam tsedeq-Mu lapekkan ambo, jo palapeh ambo; unjuakkan talingo-Mu ka ambo, jo salamatkan ambo.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Dalam tsedeq-Mu"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "lapekkan ambo"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "jo palapeh ambo"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "unjuakkan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "talingo-Mu"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "jo salamatkan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:45.383856215Z",
+  "model": "glm-5.3"
+}

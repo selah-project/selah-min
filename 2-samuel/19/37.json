@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Saketek hamba tuanku ka malewati ⟨את⟩ Yarden basamo ⟨את⟩ rajo; dan baa kok rajo mambari ambo balasan nan baitu gadang?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ka malewati"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba tuanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "dan baa kok"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "mambari ambo balasan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "balasan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:41:34.728898211Z",
+  "model": "glm-5.3"
+}

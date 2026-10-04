@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Karano Yahweh alah caliak ⟨את⟩ kasasahan Yisrael, bana pahieh, jo indak ado nan dikunci, jo indak ado nan dilapeh, jo indak ado panolong untuak Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasasahan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasasahan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "bana pahieh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "nan dikunci"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "nan dilapeh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "panolong"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "untuak Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:42.108130436Z",
+  "model": "glm-5.3"
+}

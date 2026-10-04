@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Tapi Haman manahan dirinyo, lalu masuak ka rumahnyo, jo inyo mangirim urang untuak mambaok ⟨את⟩ kawan-kawannyo jo ⟨את⟩ Zeresh biniinyo.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "manahan dirinyo"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "masuak ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mangirim urang"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawan-kawannyo"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "kawan-kawannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "biniinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:12.438698317Z",
+  "model": "glm-5.3"
+}

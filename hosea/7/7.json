@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Sado mareka paneh sarupo tungku, jo mareka makan ⟨את⟩ para pangadil mareka; sado rajo mareka jatuah, indak ado di antaro mareka nan manjapuik kapado Aku.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "sado mareka"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "paneh"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "sarupo tungku"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "jo makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pangadil mareka"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "para pangadil mareka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "rajo mareka"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nan manjapuik"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di antaro mareka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado Aku"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:18.307931974Z",
+  "model": "glm-5.3"
+}

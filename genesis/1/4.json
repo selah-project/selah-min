@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Elohim mancaliak ⟨את⟩ cahayo tu basobok elok, jo Elohim mamisahan antaro cahayo tu jo antaro gelap tu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Jo mancaliak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cahayo tu"
+    },
+    {
+      "surface": "האור",
+      "gloss": "cahayo tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "basobok"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "jo mamisahan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antaro"
+    },
+    {
+      "surface": "האור",
+      "gloss": "cahayo tu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "gelap tu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:13.329914611Z",
+  "model": "glm-5.3"
+}

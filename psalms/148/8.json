@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 148,
+  "translation": "Api jo batu es, salju jo uok, ruakh badai nan mangarajoan kato-Nyo.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Api"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "jo batu es"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "salju"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "jo uok"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "badai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mangarajoan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kato-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:08.282820199Z",
+  "model": "glm-5.3"
+}

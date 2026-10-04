@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Pasambekan <syukur-toda> kapado Elohim, jo bayia nazar-nazar <angkau> kapado Nan Tatinggi.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "pasambekan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "syukur-toda"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "jo bayia"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "kapado Nan Tatinggi"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nazar-nazar angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:05.907341130Z",
+  "model": "glm-5.3"
+}

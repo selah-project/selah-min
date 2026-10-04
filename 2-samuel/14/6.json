@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo ambo hamba padusi ko punyo duo anak laki-laki; kaduonyo bakalahi di ladang, indak ado nan mamisahan urang tu; nan ciek mamukuah ⟨את⟩ nan ciek, lalu mamatian ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "jo ambo hamba padusi kau"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "bakalahi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kaduonyo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "nan mamisahan"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "di tangah urang tu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mamukuah"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan ciek"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mamatian"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩inyo",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:46.404440253Z",
+  "model": "glm-5.3"
+}

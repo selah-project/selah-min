@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Ambo, Kohelet, parnah manjadi rajo ateh Yisrael di Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "parnah manjadi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:20.174457627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Danga, hai langik, jo pasangkan talingo, hai bumi, karano Yahweh alah bakato: Anak-anak alah ambo pabesarkan jo ambo patimbo, tapi inyo urang tu alah balaku dosa kapado ambo.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Danga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hai langik"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "jo pasangkan talingo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hai bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alah bakato"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Anak-anak"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "alah ambo pabesarkan"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "jo ambo patimbo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tapi inyo urang tu"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "alah balaku dosa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:33.841958554Z",
+  "model": "glm-5.3"
+}

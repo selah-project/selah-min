@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Ka Yahweh inyo-nyo bakhalilang, karano anak-anak nan asiang alah inyo lahiaan; kini bulan baru ka makan ⟨את⟩ inyo-nyo jo ⟨את⟩ bahagian inyo-nyo.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Ka Yahweh"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "bakhalilang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "nan asiang"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "alah inyo lahiaan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "ka makan inyo-nyo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bulan baru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahagian inyo-nyo"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "bahagian inyo-nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:08.257101501Z",
+  "model": "glm-5.3"
+}

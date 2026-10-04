@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Manunggu-bakan manunggu ambo kapado Yahweh, jo Inyo malingkuang ka arah ambo, jo mandanga tangih ambo.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "manunggu-bakan"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "manunggu ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "jo Inyo malingkuang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka arah ambo"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "jo mandanga"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "tangih ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:28.722153384Z",
+  "model": "glm-5.3"
+}

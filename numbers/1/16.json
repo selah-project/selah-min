@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Iko ⟨iyo⟩ urang nan tapanggia dari jamaah, pangulu-pangulu mato-mato nenek moyangnyo, kapalo-kapalo ribu-ribu Yisrael iyo urang tu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iko"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "urang nan tapanggia"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "pangulu-pangulu"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "mato-mato"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nenek moyangnyo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo-kapalo"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ribu-ribu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iyo urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:21.256578634Z",
+  "model": "glm-5.3"
+}

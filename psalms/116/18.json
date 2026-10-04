@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Nazar-nazar ambo kapado Yahweh ambo bayia, kini ko, di muko saluruh umat-Nyo.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "nazar-nazar ambo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ambo bayia"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini ko"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "saluruh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:53.625653022Z",
+  "model": "glm-5.3"
+}

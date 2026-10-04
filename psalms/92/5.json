@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Karano Engkau mambuek ambo sanang, Yahweh, dek karajo-Mu; ateh karajo-karajo tangan-Mu ambo basorak ria.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "Engkau mambuek ambo sanang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "dek karajo-Mu"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ateh karajo-karajo"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ambo basorak ria"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:53.050325776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu inyo maambiak ⟨את⟩ sado lemak nan ado di ateh isi paruik, jo ⟨את⟩ hiai tambahan ati, jo ⟨את⟩ duah gimbal jo ⟨את⟩ lemaknyo, lalu Moshe mambakeknyo ka ateh mazbeah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado lemak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "isi paruik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "hiai tambahan ati"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "hiai tambahan"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "duah gimbal"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duah"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "gimbal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "lemaknyo"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "lemaknyo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "mambakeknyo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ka ateh mazbeah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:51.702394964Z",
+  "model": "glm-5.3"
+}

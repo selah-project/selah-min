@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 97,
+  "translation": "Hiyo urang-urang nan cinta kapado Yahweh, bancilah kaburuko; inyo manjago nyao urang-urang nan bakti kapado-Nyo, dari tangan urang-urang durhaka inyo malapehan inyo.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "urang-urang nan cinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "bancilah"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kaburuko"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "manjago"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nyao"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "urang-urang nan bakti kapado-Nyo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang durhaka"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "inyo malapehan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:17.338348421Z",
+  "model": "glm-5.3"
+}

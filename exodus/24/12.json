@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 24:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo Yahweh bakato kapado Moshe: Naiklah ka ambo ka gunuang iko, jo tingga di sinan; mako ambo ka agiah ⟨kapado⟩ kau ⟨את⟩ luhua batu, jo Torah, jo parintah, nan alah ambo tulih untuak maajanyo inyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naiklah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ka gunuang iko"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo tingga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mako ambo ka agiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luhua batu"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "luhua"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "jo Torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "jo parintah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "alah ambo tulih"
+    },
+    {
+      "surface": "להורתם",
+      "gloss": "untuak maajanyo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:49.914532105Z",
+  "model": "glm-5.3"
+}

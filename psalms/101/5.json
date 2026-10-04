@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 101,
+  "translation": "Urang nan mamfitnah kawan-nyo di dalam rahasio, inyo ambo binasoan; nan tinggi mato jo laweh ati, inyo indak dapek ambo tahan.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "urang nan mamfitnah"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di dalam rahasio"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kawan-nyo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ambo binasoan"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mato"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "jo laweh"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "dapek ambo tahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:27.158280286Z",
+  "model": "glm-5.3"
+}

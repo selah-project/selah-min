@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 32:16",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Kiduang iko; jo anak-anak padusi bangso-bangso ka mangiduangkannyo, ka mangiduangkannyo ateh Mitsrayim jo saluruah karamaiannyo — kato Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "קינה",
+      "gloss": "kiduang"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iko"
+    },
+    {
+      "surface": "וקוננוה",
+      "gloss": "jo ka mangiduangkannyo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak padusi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "תקוננה",
+      "gloss": "ka mangiduangkannyo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "karamaiannyo"
+    },
+    {
+      "surface": "תקוננה",
+      "gloss": "ka mangiduangkannyo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Mitsrayim jo karamaiannyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:00:11.257043761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Adonai Yahweh Tsebaot — inyo nan manyantuah ⟨את⟩ bumi, lalu bumi lahia, jo sado urang nan tingga di sinyo bakabuang; jo inyo naik sadonyo sarupo yoar, lalu takandam baliak sarupo yoar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "jo Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "nan manyantuah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "lalu lahia"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "bakabuang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "urang nan tingga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinyo"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "sarupo yoar"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "takandam baliak"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "sarupo yoar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:12:55.063608353Z",
+  "model": "glm-5.3"
+}

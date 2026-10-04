@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Hanyo inyo malakek diri pado doso-doso Yerobeam anak Nevat, nan mambuek ⟨את⟩ Yisrael badoso; inyo indak maila dari itu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "pado doso-doso"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "mambuek badoso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "malakek diri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "סר",
+      "gloss": "maila"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "dari itu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:23.914665338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Ambo alah mamukul ⟨את⟩ sanak jo rusak padi jo bauak jo es, ⟨את⟩ sagalo karojo tangan sanak, tapi sanak indak baliak kapado ambo — kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "alah mamukul"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanak",
+      "marks": "sanak"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "jo rusak padi"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "jo bauak"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "jo es"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo karojo tangan sanak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karojo"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "tangan sanak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:18:05.900566141Z",
+  "model": "glm-5.3"
+}

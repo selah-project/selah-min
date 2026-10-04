@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Inyo bajalan dari ciek goy ka goy nan lain, dari ciek karajoan ka urang nan lain.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "inyo bajalan"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "dari ciek goy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "goy nan lain"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "dari ciek karajoan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nan lain"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:12.445493474Z",
+  "model": "glm-5.3"
+}

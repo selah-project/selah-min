@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Karano itu katantuan untuak Yisrael, hukum untuak Elohim-nya Yaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חק",
+      "gloss": "katantuan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "untuak Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "untuak Elohim-nya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:16.189901897Z",
+  "model": "glm-5.3"
+}

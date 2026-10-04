@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Jando jo urang rantau ⟨mereka⟩ bunuah, jo anak yatim ⟨mereka⟩ pabunoi.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "jando"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "jo urang rantau"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "bunuah"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "jo anak yatim"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "pabunoi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:11.736396310Z",
+  "model": "glm-5.3"
+}

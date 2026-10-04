@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Karano Iyo alah mamacah pintu-pintu tombago, dan palang-palang basi dipanciang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Iyo alah mamacah"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tombago"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "dan palang-palang"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "basi"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "dipanciang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:27.850713859Z",
+  "model": "glm-5.3"
+}

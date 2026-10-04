@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 106:39",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Inyo bacemar dek pabuatan inyo, jo inyo malacur dek ulah inyo.",
+  "tokens": [
+    {
+      "surface": "ויטמאו",
+      "gloss": "bacemar"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "dek pabuatan inyo"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "malacur"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "dek ulah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:00.005489295Z",
+  "model": "glm-5.3"
+}

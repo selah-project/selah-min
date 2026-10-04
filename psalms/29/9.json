@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Suaro Yahweh mambuek ruso-ruso batanak, jo mambukak utan-utanan; jo di istano-Nyo sagalonyo bakato: kaagungan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "mambuek batanak"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ruso-ruso"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "jo mambukak"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "utan-utanan"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "jo di istano-Nyo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sagalonyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaagungan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:02.680078416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Barakaik ⟨adalah⟩ ragomu jo tampuang adonanmu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakaik"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ragomu"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "jo tampuang adonanmu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:35.880987832Z",
+  "model": "glm-5.3"
+}

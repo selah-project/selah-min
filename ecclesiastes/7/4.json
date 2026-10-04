@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Ati urang bijaksano ado di rumah duko, jo ati urang bodoh di rumah kasanangan.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "urang bijaksano"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "duko"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "jo ati"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kasanangan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:20.561295030Z",
+  "model": "glm-5.3"
+}

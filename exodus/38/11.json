@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 38:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo pado sisi utara saratus hinggo, tiang-tiangnyo duo puluah, jo dasa-dasanyo duo puluah dari tambago; kait-kait tiang-tiang tu jo galang-galangnyo dari perak.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "jo pado sisi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hinggo"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "tiang-tiangnyo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "jo dasa-dasanyo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "ושקיהם",
+      "gloss": "kait-kait"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiang-tiang tu"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "jo galang-galangnyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:34.579517886Z",
+  "model": "glm-5.3"
+}

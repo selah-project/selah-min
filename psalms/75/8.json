@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 75,
+  "translation": "Karano Elohim nan mahakimi: nan ciek inyo randahkan, jo nan ciek lai inyo angkek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "nan mahakimi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "inyo randahkan"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "jo nan ciek lai"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "inyo angkek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:00.873801646Z",
+  "model": "glm-5.3"
+}

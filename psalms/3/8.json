@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Bangkiklah, wahai Yahweh, slamatkanlah ambo, wahai Elohim ambo, karano Engkau alah mamanahi ⟨את⟩ sado musuah ambo di pipi, gigi urang jahat alah Engkau pangedok.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangkiklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "slamatkanlah ambo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "Engkau alah mamanahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado musuah ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuah ambo"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "di pipi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "Engkau alah pangedok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:14.806788399Z",
+  "model": "glm-5.3"
+}

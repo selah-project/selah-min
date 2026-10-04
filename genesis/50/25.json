@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Jo Yosef mambuek ⟨את⟩ anak-anak Yisrael basumpah, nan bakato: Pasti Elohim akan mangunjuangi ⟨את⟩ urang tu, kok kalian mambaok ⟨את⟩ tulang-tulang ambo naiak dari siko.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "mambuek basumpah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "pasti mangunjuangi"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "akan mangunjuangi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ urang tu"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "kok kalian mambaok naiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulang ambo"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "tulang-tulang ambo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dari siko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:27.170536677Z",
+  "model": "glm-5.3"
+}

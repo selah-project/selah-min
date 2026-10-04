@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Habih dagiang ambo jo ati ambo; ⟨tapi⟩ Elohim ⟨adolah⟩ batu ati ambo jo bagian ambo salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "habih"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "dagiang ambo"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "jo ati ambo"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "jo bagian ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:25.270738235Z",
+  "model": "glm-5.3"
+}

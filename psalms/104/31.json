@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Bia kamuliaan Yahweh salamo-lamonyo; bia Yahweh sanang jo karajo-karajo ⟨Nyo⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bia ado"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "jo karajo-karajo ⟨Nyo⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:53.503522100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Aku diam bana, diam sapanuahnyo; aku manyipak, bahkan dari nan elok; jo panyakik ambo taruyuak.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "aku diam bana"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "diam sapanuahnyo"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "aku manyipak"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "bahkan dari nan elok"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "jo panyakik ambo"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "taruyuak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:13.543289909Z",
+  "model": "glm-5.3"
+}

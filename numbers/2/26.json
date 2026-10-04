@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo balatanjo (pasukan) nyo jo urang-urang nan tadapek dari nyo: anam puluah duo ribu jo tujuah ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "jo balatanjo (pasukan) nyo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "jo urang-urang nan tadapek"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "jo anam puluah"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "jo tujuah"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:58.018541966Z",
+  "model": "glm-5.3"
+}

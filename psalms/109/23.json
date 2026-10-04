@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Sarupo bayang nan malanduang ambo lah balalu, ambo diguncang sarupo balang.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "sarupo bayang"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "nan malanduang"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "ambo lah balalu"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ambo diguncang"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "sarupo balang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:02.013450964Z",
+  "model": "glm-5.3"
+}

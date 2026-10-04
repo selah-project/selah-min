@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Karano anam bulan Yoab tingga di sinan, inyo jo sadoalah Yisrael, sampai mahapuih sadoalah laki-laki di Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "anam"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "mahapuih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "di Edom"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:04.431121609Z",
+  "model": "glm-5.3"
+}

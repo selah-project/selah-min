@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Indak awak mahubo ⟨את⟩ Yahweh, Elohim awak, sarupo awak mahubo di Massah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "awak mahubo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim awak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "awak mahubo"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "di Massah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:46.038103978Z",
+  "model": "glm-5.3"
+}

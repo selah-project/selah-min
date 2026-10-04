@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Lalu inyo mangaluaan ⟨את⟩ suaronyo sambia manangih, inggo tadanga dek urang Mitsrayim, jo tadanga pulo dek isi rumah Paroh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mangaluaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaronyo"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "suaronyo"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "sambia manangih"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "inggo tadanga dek"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "jo tadanga pulo dek"
+    },
+    {
+      "surface": "בית",
+      "gloss": "isi rumah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:11.862827241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Karano indak salamanyo dilupokan urang miskin, pangharapan urang nan randah diri indak binaso salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "dilupokan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "pangharapan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "urang nan randah diri"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "binaso"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:53.982143926Z",
+  "model": "glm-5.3"
+}

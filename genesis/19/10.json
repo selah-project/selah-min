@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Tapi urang-urang itu malewaikan ⟨את⟩ tangan inyo, jo mambaok ⟨את⟩ Lot ka dakek inyo ka dalam rumah, jo ⟨את⟩ pintu inyo ditutuik.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "urang-urang itu malewaikan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang-urang itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan inyo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangan inyo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "jo mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka dakek inyo"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ka dalam rumah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pintu itu"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pintu itu"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "inyo ditutuik"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:10.369907554Z",
+  "model": "glm-5.3"
+}

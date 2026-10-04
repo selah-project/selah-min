@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Bukankah talingo manguji kato-kato, sarupo langik-langik muluik mamarasai raso makanan untuaknyo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "talingo"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "manguji"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "jo langik-langik muluik"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "mamarasai raso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:05:31.989690562Z",
+  "model": "glm-5.3"
+}

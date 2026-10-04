@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Api mamakan pamudo-pamudo-Nyo, dan anak gadih-Nyo indak diangkan.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "pamudo-pamudo-Nyo"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "mamakan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "anak gadih-Nyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "diangkan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:38.871553571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "jo ⟨את⟩ pakaian-pakaian karajo, jo ⟨את⟩ pakaian-pakaian nan suci untuak Aharon sang imam, jo ⟨את⟩ pakaian-pakaian anak-anaknyo untuak manjadi imam,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-pakaian karajo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-pakaian nan suci"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "untuak Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-pakaian anak-anaknyo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuak manjadi imam"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:35.819004281Z",
+  "model": "glm-5.3"
+}

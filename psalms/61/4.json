@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 61,
+  "translation": "Karano Angkau alah manjadi linduangan untuak ambo, manara kakuatan di muko musuah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Angkau alah manjadi"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "linduangan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "manara"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:26.289208401Z",
+  "model": "glm-5.3"
+}

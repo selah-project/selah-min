@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "⟨את⟩ iko sanak makan dari sagalo nan ado di aia: sagalo nan punyo sirip jo sisik di aia, di lauik jo di sungai — ⟨אתם⟩ sanak makan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sanak makan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di aia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "punyo"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "sirip"
+    },
+    {
+      "surface": "ו קשקשת",
+      "gloss": "jo sisik"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di aia"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di lauik"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "jo di sungai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sagalo nan punyo sirip jo sisik"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sanak makan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:17.155663492Z",
+  "model": "glm-5.3"
+}

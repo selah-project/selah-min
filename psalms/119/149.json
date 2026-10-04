@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Dangakan suaro ambo manuruik hesed-Mu, Yahweh; manuruik hukum-Mu hiduikkan ambo.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dangakan"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "manuruik hesed-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "manuruik hukum-Mu"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "hiduikkan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:04.812313571Z",
+  "model": "glm-5.3"
+}

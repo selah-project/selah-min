@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 63,
+  "translation": "Jadi di tampek nan suci ambo alah mancaliak Angkau, untuak maliek kaakuasan-Mu jo kamuliaan-Mu.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Jadi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tampek nan suci"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "ambo alah mancaliak Angkau"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak maliek"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kaakuasan-Mu"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "jo kamuliaan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:20.595291244Z",
+  "model": "glm-5.3"
+}

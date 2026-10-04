@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Ambo alah mandanga ⟨את⟩ nan dikatokan dek nabi-nabi, nan manubuak jo namo Ambo, bohong, mangece: Ambo bakaba, ambo bakaba.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ambo alah mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan dikatokan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dikatokan"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nan manubuak"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "jo namo Ambo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bohong"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangece"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Ambo bakaba"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ambo bakaba"
+    }
+  ],
+  "timestamp": "2026-10-04T06:35:32.420353774Z",
+  "model": "glm-5.3"
+}

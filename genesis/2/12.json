@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dan ameh nagari tu elok; ado di sinan bedolahium jo batu syoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Dan ameh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari tu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolahium"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "syoham"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:50.834399601Z",
+  "model": "glm-5.3"
+}

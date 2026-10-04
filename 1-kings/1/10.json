@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Tapi ⟨את⟩ Natan nabi tu, jo Benayahu, jo ⟨את⟩ urang-urang gagah, jo ⟨את⟩ Salomo adiknyo, indak inyo panggia.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natan nabi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "jo Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang gagah"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "urang-urang gagah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Salomo adiknyo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "adiknyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "inyo panggia"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:27.964351192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Elohim maagiah namo kapado rakia tu: Langik. Lah jadi patang, lah jadi pagi — ari nan kaduo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maagiah namo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "kapado rakia tu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Langik"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lah jadi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "patang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lah jadi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "שני",
+      "gloss": "nan kaduo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:27.298076047Z",
+  "model": "glm-5.3"
+}

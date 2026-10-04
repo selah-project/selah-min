@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Dengan apo urang mudo mambarasiahan ⟨את⟩ jalannyo? Jo mahaga iyo sasuai jo kato-Mu.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "dengan apo"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "mambarasiahan"
+    },
+    {
+      "surface": "נער",
+      "gloss": "urang mudo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalannyo"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "jalannyo"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "jo mahaga iyo"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sasuai jo kato-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:46.411173182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lalu Avraham manggarakan ⟨את⟩ tangannyo, jo maambiak ⟨את⟩ pisau tu, untuak manyambalih ⟨את⟩ anaknyo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu manggarakan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "jo maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pisau tu"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "pisau tu"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "untuak manyambalih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaknyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:45.056606881Z",
+  "model": "glm-5.3"
+}

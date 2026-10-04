@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu urang Yehuda baparang malawan Yerushalayim, jo urang tu manangkoknyo, jo mahantamnyo jo ujuang padang, jo ⟨את⟩ koto itu urang tu bakar jo api.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "lalu baparang malawan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "jo urang tu manangkoknyo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (koto itu)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "jo mahantamnyo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "jo ujuang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "koto itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "koto itu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "urang tu mangkan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    }
+  ],
+  "timestamp": "2026-10-04T05:11:46.277889081Z",
+  "model": "glm-5.3"
+}

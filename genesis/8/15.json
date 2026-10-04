@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo Elohim bapandiri kapado Noh, bakato:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "jo bapandiri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:38.894533897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Aku maminangi kau kapado ambo dalam emunah, jo kau ka mangatahui ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "aku maminangi kau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "dalam emunah"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "jo kau ka mangatahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:50.536798390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Jo takuik sadoalah manusia, jo inyo manyampaian karya Elohim, jo pakerjaannyo dipatimuah sacaro bijo.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "jo takuik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "manyampaian"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "karya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "pakerjaannyo"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "dipatimuah sacaro bijo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:52.382520232Z",
+  "model": "glm-5.3"
+}

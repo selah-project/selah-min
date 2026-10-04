@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo inyo bakato kapado ambo: Anak manusia, tagaklah di ateh kaki ang, dan Ayo maota kapado ang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tagaklah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "kaki ang"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "dan Ayo maota"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ang",
+      "marks": "ang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:47:51.703166766Z",
+  "model": "glm-5.3"
+}

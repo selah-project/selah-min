@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Tali-tali kamatian mangalilingi ambo, jo sasak-sasak Sheol manamukan ambo; kasusahan jo kadukaan ambo tamui.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "mangalilingi ambo"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatian"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "jo sasak-sasak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "manamukan ambo"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "jo kadukaan"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ambo tamui"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:29.756844529Z",
+  "model": "glm-5.3"
+}

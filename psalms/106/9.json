@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Inyo marebuah lauik Suf, jo inyo mangariang, jo inyo mamimpiakan ⟨את⟩ urang tu dalam lubuak-dalam lauik sarupo di gurun.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "marebuah"
+    },
+    {
+      "surface": "בים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "mangariang"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "mamimpiakan urang tu"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "dalam lubuak-dalam lauik"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "sarupo di gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:54.731200676Z",
+  "model": "glm-5.3"
+}

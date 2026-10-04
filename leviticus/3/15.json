@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo ⟨את⟩ duo buah kanduang kanciang, jo ⟨את⟩ lemak nan ado di atehnyo, nan ado di pinggang, jo ⟨את⟩ umbai-umbai ateh ati — basarato kanduang kanciang itu dilapehnyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "duo buah kanduang kanciang"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buah kanduang kanciang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pinggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "umbai-umbai"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "umbai-umbai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ati"
+    },
+    {
+      "surface": "על",
+      "gloss": "basarato"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kanduang kanciang"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "dilapehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:24.970124249Z",
+  "model": "glm-5.3"
+}

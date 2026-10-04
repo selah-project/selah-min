@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Awakmu ka mancari inyo, jo indak ka manamui inyo — urang-urang nan basangketo jo awakmu; inyo ka manjadi sarupo indak ado jo sarupo kosong, urang-urang nan baparang jo awakmu.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "ka mancari inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "ka manamui inyo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "urang-urang nan"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "basangketo jo awakmu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ka manjadi"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "sarupo indak ado"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "jo sarupo kosong"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "urang-urang nan"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "baparang jo awakmu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:15:45.536050099Z",
+  "model": "glm-5.3"
+}

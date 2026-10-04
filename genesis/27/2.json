@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo inyo bakato: Caliaklah, ambo alah tuo, ambo indak tau ari kamatian ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliaklah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ambo alah tuo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tau"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "kamatiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:46.053097382Z",
+  "model": "glm-5.3"
+}

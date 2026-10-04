@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "jo ⟨את⟩ sagalo rajo-rajo Arab, jo ⟨את⟩ sagalo rajo-rajo urang campua nan tingga di gurun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo rajo-rajo Arab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo rajo-rajo urang campua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "urang campua"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "nan tingga"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T06:34:44.554932056Z",
+  "model": "glm-5.3"
+}

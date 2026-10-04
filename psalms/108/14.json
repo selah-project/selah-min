@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 108,
+  "translation": "Dangan Elohim awak ka mangarajokan ⟨nan]] bahasia, jo Inyo nan ka manjakjek musuah-musuah awak.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Dangan Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "awak ka mangarajokan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨nan bahasia⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo Inyo"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "ka manjakjek"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "musuah-musuah awak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:05.242368476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Ambo ka paingek-an namomu di satiok generasi jo generasi; dek itu bangso-bangso ka mamuji kau, salamo-lamonyo jo satiok ari.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "ambo ka paingek-an"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namomu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di satiok"
+    },
+    {
+      "surface": "דר",
+      "gloss": "generasi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jo generasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "ka mamuji kau"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo satiok ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:10.558761066Z",
+  "model": "glm-5.3"
+}

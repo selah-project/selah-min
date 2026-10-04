@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo di dalam ⟨ה⟩ anggur itu ado tigo dahan, jo inyo tampak bacambah, kambangnyo naiak, jo tandannyo masak manjadi buah anggur.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "jo di dalam anggur"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "שריגים",
+      "gloss": "dahan"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "tampak bacambah"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "kambangnyo"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "masak"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "tandannyo"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "buah anggur"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:48.882003658Z",
+  "model": "glm-5.3"
+}

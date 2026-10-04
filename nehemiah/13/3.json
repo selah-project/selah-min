@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo tajadi katiko urang tu mandanga ⟨את⟩ Torah, urang tu mamisahan saluruah urang campuran dari Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo tajadi"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "katiko urang tu mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "urang tu mamisahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "urang campuran"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "dari Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T08:39:33.268688567Z",
+  "model": "glm-5.3"
+}

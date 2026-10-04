@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "jo batu-batu shoham jo batu-batu pasangan, untuak efod jo untuak khoshen",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "jo batu-batu"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "jo batu-batu"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "pasangan"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "untuak efod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "jo untuak khoshen"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:25.587196324Z",
+  "model": "glm-5.3"
+}

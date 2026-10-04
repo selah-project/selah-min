@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Syair pangajaran dek Eitan nan Ezraki.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "syair pangajaran"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "dek Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "nan Ezraki"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:17.320648987Z",
+  "model": "glm-5.3"
+}

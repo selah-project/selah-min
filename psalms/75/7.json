@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 75,
+  "translation": "Karano indak dari timua, indak dari barat, jo indak dari gurun pagunuangan, ⟨pangangkatan⟩ tu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "dari timua"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "jo dari barat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "dari gurun"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pagunuangan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:00.873675712Z",
+  "model": "glm-5.3"
+}

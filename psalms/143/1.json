@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 143,
+  "translation": "Mazmur untuak Dawid. Yahweh, dangaan doa ambo, paciek talingo kapado pangidoan ambo; dalam kasatiaan-⟨Mu⟩ jawab ambo, dalam tsedeq-⟨Mu⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dangaan"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ambo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "paciek talingo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pangidoan ambo"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "dalam kasatiaan-⟨Mu⟩"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawab ambo"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dalam tsedeq-⟨Mu⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:03.074943366Z",
+  "model": "glm-5.3"
+}

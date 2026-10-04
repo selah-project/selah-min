@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 84,
+  "translation": "Nan malewati lembah Bakha mambueknyo manjadi mato aia; ampa ujan muko manyalamuiknyo jo barakah-barakah.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "nan malewati"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Bakha"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mato aia"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "mambueknyo manjadi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ampa"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "jo barakah-barakah"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "salamuiknyo"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ujan muko"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:44.602694914Z",
+  "model": "glm-5.3"
+}

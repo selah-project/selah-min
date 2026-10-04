@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Indak tacaliak saurang urang kapado ⟨את⟩ kawannyo, jo indak bangkik saurang dari tampeknyo salamo tigo ari; tapi kapado sado anak-anak Yisrael ado cahayo di tampek tingganyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indak"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "tacaliak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawannyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kawannyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "dari tampeknyo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "kapado sado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahayo"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "di tampek tingganyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:23.914759641Z",
+  "model": "glm-5.3"
+}

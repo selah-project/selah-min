@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Yahweh surang nan mambimbiangnyo, jo indak ado El asiang basamo inyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "surang"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "nan mambimbiangnyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "asiang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:14.328202021Z",
+  "model": "glm-5.3"
+}

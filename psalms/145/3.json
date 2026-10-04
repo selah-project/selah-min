@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Gadang Yahweh, dan sangaik tapuji, dan untuak kabasaran-Nyo indak ado paneuntuuan.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Gadang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "dan sangaik tapuji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "dan untuak kabasaran-Nyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "paneuntuuan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:00.364646291Z",
+  "model": "glm-5.3"
+}

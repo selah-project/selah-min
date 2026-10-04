@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo ⟨את⟩ shafan, karano inyo mambaok baliak gera, tapi kuku bajanian indak inyo bajanian — indak barasiah inyo untuak sanak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "shafan"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "shafan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "mambaok baliak"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "tapi kuku bajanian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "inyo bajanian"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "indak barasiah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:28.280549852Z",
+  "model": "glm-5.3"
+}

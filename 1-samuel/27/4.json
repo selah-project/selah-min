@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Maka dikabaan kapado Shaul baso Dawid alah lari ka Gat, jo inyo indak manambiah lai untuak mancari inyo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "maka dikabaan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kapado Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "lah lari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "manambiah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "untuak mancari inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:34:02.756622313Z",
+  "model": "glm-5.3"
+}

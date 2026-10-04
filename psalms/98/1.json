@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 98,
+  "translation": "Mizmor. Nyanyikan untuak Yahweh lagu baru, karano inyo alah mambuek kajuatuhan; manyalamaik untuak-Nyo tangan kanan-Nyo jo langan suci-Nyo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nyanyikan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "kajuatuhan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lah mambuek"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "manyalamaik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak-Nyo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tangan kanan-Nyo"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "jo langan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "suci-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:46.063812712Z",
+  "model": "glm-5.3"
+}

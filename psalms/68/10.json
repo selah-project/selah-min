@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Udan nadabot Angkau mahoyak, wahai Elohim; pusako-Mu jo lah lalo, Angkau alah maatok kokoh inyo.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "udan"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "nadabot"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "mahoyak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "pusako-Mu"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "jo lah lalo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Angkau"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "alah maatok kokoh inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:34.755760908Z",
+  "model": "glm-5.3"
+}

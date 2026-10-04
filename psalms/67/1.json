@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 67,
+  "translation": "Untuak katuo musik, jo parallu dawai; mazmur, syair.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak katuo musik"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "jo parallu dawai"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "syair"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:22.268200393Z",
+  "model": "glm-5.3"
+}

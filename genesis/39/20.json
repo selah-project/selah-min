@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Lalu tuan Yosef ma ambiak ⟨את⟩ inyo, jo mambiaannyo ka rumah panjaro, tampek urang-urang tahanan rajo di ikok; jo inyo barado di sinan di rumah panjaro.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ma ambiak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (Yosef)"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "mambiaannyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "panjaro"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "urang-urang tahanan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "di ikok"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo inyo barado"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "panjaro"
+    }
+  ],
+  "timestamp": "2026-10-04T04:07:04.256073773Z",
+  "model": "glm-5.3"
+}

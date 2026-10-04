@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lajo utusan tu bajalan, tibo, jo malaporkan kapado Dawid ⟨את⟩ sadoalah nan disuruahkan Yoab kapadonyo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lajo bajalan"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "malaporkan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kapado Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "disuruahkan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    }
+  ],
+  "timestamp": "2026-10-04T05:37:46.959843081Z",
+  "model": "glm-5.3"
+}

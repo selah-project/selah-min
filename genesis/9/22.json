@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Cham, ayah Kenaan, caliek ⟨את⟩ katelanjangan ayahnyo, lalu inyo bacarito kapado kaduo sanaknyo di lua.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lalu caliek"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katelanjangan ayahnyo"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "katelanjangan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnyo"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "lalu bacarito"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kapado kaduo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sanaknyo"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di lua"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:27.297388911Z",
+  "model": "glm-5.3"
+}

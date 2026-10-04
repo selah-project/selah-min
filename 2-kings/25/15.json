@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo ⟨את⟩ pamadangan, jo ⟨את⟩ mangkuk-mangkuk, nan ameh sadonyo ameh, jo nan perak sadonyo perak, diambiak dek kapalo para pamunuah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pamadangan"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "pamadangan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mangkuk-mangkuk"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "mangkuk-mangkuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo nan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambiak"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "para pamunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:28.558762753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 86,
+  "translation": "Di ari kasusahan ambo ambo manggia Kaâ, karano San manjawab ambo",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di ari"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "kasusahan ambo"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ambo manggia Kaâ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "San manjawab ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:20.431027246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Barakhnyo urang-urang nan manjago pangadilan, urang nan mambuek tsedeq di satiok wakatu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "barakhnyo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "urang-urang nan manjago"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pangadilan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "urang nan mambuek"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di satiok"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:24.610980942Z",
+  "model": "glm-5.3"
+}

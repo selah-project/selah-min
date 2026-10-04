@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "«Kami marampok di Nagaba urang Kereti, jo daerah nan punyo Yehuda, jo Nagaba Kalev; jo ⟨את⟩ Tsiklag kami baka jo api.»",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "marampok"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Nagaba"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "urang Kereti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan punyo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Nagaba"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "kami baka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    }
+  ],
+  "timestamp": "2026-10-04T05:33:38.317350428Z",
+  "model": "glm-5.3"
+}

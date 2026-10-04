@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Inyo bansandar ka rumahnyo, tapi inyo indak ka tagak; inyo mancotok inyo, tapi inyo indak ka bangkik.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "bansandar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ka tagak"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "mancotok"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ka bangkik"
+    }
+  ],
+  "timestamp": "2026-10-04T08:04:28.118251773Z",
+  "model": "glm-5.3"
+}

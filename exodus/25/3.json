@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo iko ⟨את⟩ persembahan nan ka ambo ambiak dari ⟨את⟩ inyo: ameh, jo perak, jo tambaga.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Jo iko"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ka ambo ambiak"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ dari inyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "jo perak"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "jo tambaga"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:04.277676989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Kaluaanlah dari kapal itu: ang, jo bini ang, jo anak-anak ang, jo bini-bini anak-anak ang basamo ⟨את⟩ ang.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "kaluaanlah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kapal itu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "jo bini ang"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "jo anak-anak ang"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "jo bini-bini"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anak ang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "basamo ⟨את⟩ ang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:38.894683719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo sanak sadang mahutuah di lambak sanak sadang, jo bakato: Karano Yahweh banci kapado ambo urang, Inyo maagiah kalua ambo urang dari tanah Mitsrayim, untuak maagiah ambo urang ka tangan urang Amori, untuak mangancuaan ambo urang.",
+  "tokens": [
+    {
+      "surface": "ותרגנו",
+      "gloss": "jo mahutuah"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "di lambak sanak sadang"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "Karano banci kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ambo urang"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "maagiah kalua ambo urang"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuak maagiah"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ambo urang"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Amori"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "untuak mangancuaan ambo urang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:06.589665657Z",
+  "model": "glm-5.3"
+}

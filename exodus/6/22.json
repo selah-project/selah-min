@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo anak-anak Uziel: Misha-el, jo Eltsafan, jo Sitri.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uziel"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Misha-el"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "jo Eltsafan"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "jo Sitri"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:01.791883962Z",
+  "model": "glm-5.3"
+}

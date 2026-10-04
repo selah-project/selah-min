@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo kini, bapak ambo mamikua kapado sanio kokolah barek, tapi ambo kaistambah pado kokolah sanio; bapak ambo mahukum ⟨את⟩ sanio jo cambuak, tapi ambo manghukum ⟨את⟩ sanio jo kalajengking.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Jo kini"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapak ambo"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "mamikua"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kapado sanio"
+    },
+    {
+      "surface": "על",
+      "gloss": "kokolah"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "barek"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "kaistambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kokolah sanio"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapak ambo"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "mahukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanio"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "jo cambuak"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "manghukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanio"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "jo kalajengking"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:30.737035348Z",
+  "model": "glm-5.3"
+}

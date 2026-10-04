@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Elohim hakim nan tsedeq, jo El nan mamarah satiok ari.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nan tsedeq"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "nan mamarah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:52.256604104Z",
+  "model": "glm-5.3"
+}

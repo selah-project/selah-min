@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 62,
+  "translation": "Karano urang-urang nan mangumpuakannyo makan inyo, jo mamuji ⟨את⟩ Yahweh, jo urang-urang nan mahimokannyo minum inyo di laman-laman kasucian-Ku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "urang-urang nan mangumpuakannyo"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "makan inyo"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "jo mamuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "jo urang-urang nan mahimokannyo"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "minum inyo"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di laman-laman"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kasucian-Ku"
+    }
+  ],
+  "timestamp": "2026-10-04T06:24:07.512766075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Inyo maimbau-n imbauan puaso, jo maninggikan ⟨את⟩ Navot di muko urang banyak.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "maimbau-n imbauan"
+    },
+    {
+      "surface": "צום",
+      "gloss": "puaso"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "jo maninggikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:36.998153548Z",
+  "model": "glm-5.3"
+}

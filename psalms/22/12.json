@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jangan jauah dari ambo, karano kasusuahan alah dakek, karano indak ado nan manolong.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jauah"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasusuahan"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "nan manolong"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:02.663840675Z",
+  "model": "glm-5.3"
+}

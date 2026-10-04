@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Panas ati ambo di dalam diri ambo; katiko ambo mampikia, api mambaka; lalu ambo bakato jo lido ambo.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "panas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di dalam diri ambo"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "katiko ambo mampikia"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "mambaka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "jo lido ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:13.543545829Z",
+  "model": "glm-5.3"
+}

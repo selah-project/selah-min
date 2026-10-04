@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Laju Dawid bamufakaik jo para kapado nan saribu jo nan saratu, jo satiok pamimpin.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "bamufakaik"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para kapado"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "nan saribu"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "jo nan saratu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado satiok"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pamimpin"
+    }
+  ],
+  "timestamp": "2026-10-04T08:45:00.407356987Z",
+  "model": "glm-5.3"
+}

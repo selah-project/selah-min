@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Dan kabanggaan Yisrael manjawek di mukonyo, tapi inyo indak baliak ka Yahweh, Elohim inyo, jo indak mancari inyo, walaupun jo sadoalah iko.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "dan manjawek"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kabanggaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "mancari inyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:57.471213861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Sadoalah jamaah Yisrael mangerjakan ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "mangerjakan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "(Paskah — dari konteks ayaik sabalunnyo)"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:06.151056152Z",
+  "model": "glm-5.3"
+}

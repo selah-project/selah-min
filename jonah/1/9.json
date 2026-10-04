@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu bakato inyo ka mereka: urang Ibrani ambo, jo ⟨את⟩ Yahweh, Elohim langik, ambo takuik — Nnan mambuek ⟨את⟩ lauik jo ⟨את⟩ darek kariang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka mereka"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "urang Ibrani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lauik"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "darek kariang"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "darek kariang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:18.286848764Z",
+  "model": "glm-5.3"
+}

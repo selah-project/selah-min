@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 30:6",
+  "book": "job",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Di ragi-ragi nakal jujuik untuak tingga, di liang-liang dabu jo di celah-celah batu.",
+  "tokens": [
+    {
+      "surface": "בערוץ",
+      "gloss": "di ragi-ragi nakal"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "jujuik"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "untuak tingga"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "liang-liang"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "וכפים",
+      "gloss": "jo di celah-celah batu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:10:46.701094769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo ⟨את⟩ anak ngau-ngau (bat haYa'anah), jo ⟨את⟩ Tahmas, jo ⟨את⟩ Shahaf, jo ⟨את⟩ Nets manuruik janjangnyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak ngau-ngau"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ngau-ngau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "Tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shahaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "Shahaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "Nets"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "manuruik janjangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:05.691105653Z",
+  "model": "glm-5.3"
+}

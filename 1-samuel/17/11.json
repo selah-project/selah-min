@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Saul jo sadoalah Yisrael mandanga ⟨את⟩ kato-kato urang Palisitu ko, jo urang iyo taguncang ati jo takuik bana.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "urang Palisitu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "taguncang ati"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:15.072197588Z",
+  "model": "glm-5.3"
+}

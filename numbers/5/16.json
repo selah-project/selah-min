@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo imam mandakek-an ⟨את⟩ inyo, jo mambuek inyo tagak di muko Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "mandakek-an"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "jo mambuek tagak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:39:51.323720346Z",
+  "model": "glm-5.3"
+}

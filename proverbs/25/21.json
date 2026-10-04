@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Kalau musuah awak lapar, bueklah inyo makan roti, jo kalau inyo haus, bueklah inyo minum aia.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "lapar"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "musuah awak"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "bueklah inyo makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jo kalau"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "haus"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "bueklah inyo minum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:57.990870687Z",
+  "model": "glm-5.3"
+}

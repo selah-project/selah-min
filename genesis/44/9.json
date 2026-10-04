@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Sia sajo dari hamba-hambamu nan tacaliak jo ⟨את⟩-nyo, bia inyo mati, jo kito juo ka manjadi hamba tuan ambo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tacaliak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "jo ⟨את⟩-nyo"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "dari hamba-hambamu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "bia inyo mati"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kito"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "ka manjadi"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "hamba tuan ambo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "manjadi hamba-hamba"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:15.284242585Z",
+  "model": "glm-5.3"
+}

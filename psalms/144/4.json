@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Manusia disarupakan jo siasia; ari-ariannyo sarupo bayang-bayang nan lalu.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "jo siasia"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "disarupakan"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ari-ariannyo"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "sarupo bayang-bayang"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "nan lalu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:13.328368076Z",
+  "model": "glm-5.3"
+}

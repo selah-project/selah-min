@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 58,
+  "translation": "Elohim, pacahkan lah gigi-gigi mareka di dalam muangonyo, Yahweh, pacahkan lah taring anak-anak singo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "pacahkan"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "gigi-gigi mareka"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "di dalam muangonyo"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "taring"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "anak-anak singo"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "pacahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:28.370552942Z",
+  "model": "glm-5.3"
+}

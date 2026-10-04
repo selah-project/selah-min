@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 19:10",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Damikian kalian katakan kapado Hizkiahu, rajo Yehuda, bakato: Jan Elohim nan kaammu, nan kateh yakin kapado-Nyo, mambuek kau sasat, takatok: indak disarahan Yerushalayim ka tangan rajo Asyur.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "damikian"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "kalian katakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "ישאך",
+      "gloss": "mambuek kau sasat"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim nan kaammu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "yakin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kapado-Nyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takatok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "disarahan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:31.897916242Z",
+  "model": "glm-5.3"
+}

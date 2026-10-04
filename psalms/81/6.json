@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Kasaksian pado Yosef lah inyo tampekannyo, katiko inyo kalua ateh tanah Mitsrayim; bahaso nan indak ambo katahui, ambo danga.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "pado Yosef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lah inyo tampekannyo"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "katiko inyo kalua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bahaso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo katahui"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ambo danga"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:16.190160470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 95,
+  "translation": "Karano inyo Elohim kito, jo kito urang tambarannyo, jo kawan tangannyo. Ari ko, kok dalam suaronyo kito mandanga —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "jo kito"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "tambarannyo"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "jo kawan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Ari ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "dalam suaronyo"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kito mandanga"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:51.597585048Z",
+  "model": "glm-5.3"
+}

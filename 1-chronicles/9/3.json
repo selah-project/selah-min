@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Dan di Yerushalayim tingga urang dari anak-anak Yehudah, dari anak-anak Binyamin, dari anak-anak Efrayim, jo Manasye.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "jo Manasye"
+    }
+  ],
+  "timestamp": "2026-10-04T08:43:35.976540128Z",
+  "model": "glm-5.3"
+}

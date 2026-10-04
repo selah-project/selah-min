@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Karano itu urang tu bangkik jo lari pado sanjo, jo maninggakan ⟨את⟩ khemah-khemahnyo, ⟨את⟩ kudo-kudonyo, jo ⟨את⟩ kaldei-kaldeinyo — kamp itu sarupo adonyo — lalu urang tu lari untuak salamaik ⟨nyawo⟩.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "urang tu bangkik"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "lari"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "pado sanjo"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "maninggakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemah-khemahnyo"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "khemah-khemahnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kudo-kudonyo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "kudo-kudonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaldei-kaldeinyo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "kaldei-kaldeinyo"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp itu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "adonyo"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "urang tu lari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "⟨nyawo⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T05:57:57.403865566Z",
+  "model": "glm-5.3"
+}

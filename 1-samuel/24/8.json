@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo Dawid mamisiahan ⟨את⟩ urang-urangnyo jo kato-kato, indak manaruihan mareka bangkek manantang Shaul; lalu Shaul bangkek dari gua tu, jo pai sapanjang jalan.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "mamisiahan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urangnyo"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "urang-urangnyo"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "jo kato-kato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "manaruihan mareka"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "bangkek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manantang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "lalu Shaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "bangkek"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "dari gua"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "jo pai"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sapanjang jalan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:29.471661717Z",
+  "model": "glm-5.3"
+}

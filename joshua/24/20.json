@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Dek karano kok sanak maninggakan ⟨את⟩ Yahweh jo melayani tuhan-tuhan nan asiang, inyo ka baliak jo mambari bencana kapado sanak, jo mambinasoan ⟨את⟩ sanak, sasudah inyo mambari elok kapado sanak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "maninggakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "jo melayani"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "nan asiang"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "mambari bencana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "mambinasoan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanak",
+      "marks": "sanak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "mambari elok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:12:32.979682904Z",
+  "model": "glm-5.3"
+}

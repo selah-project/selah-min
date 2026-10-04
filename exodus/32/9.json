@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lalu Yahweh bakato kapado Moshe: Ambo alah caliak ⟨את⟩ bangso ko, dan caliaklah, bangso kareh batangak inyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "alah caliak ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso ko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan caliaklah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kareh"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "batangak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:47.043928473Z",
+  "model": "glm-5.3"
+}

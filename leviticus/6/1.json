@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo Yahweh bakato kapado Moshe, lapehnyo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lapehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:42.449491319Z",
+  "model": "glm-5.3"
+}

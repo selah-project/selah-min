@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 90,
+  "translation": "Gemiahkan kito sasuai jo ari-ari kau alah manyaso kito, taun-taun kito alah caliak kamalangan.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Gemiahkan kito"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "sasuai jo ari-ari"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "kau alah manyaso kito"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "taun-taun"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "kito alah caliak"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kamalangan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:29.851171666Z",
+  "model": "glm-5.3"
+}

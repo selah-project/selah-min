@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Mako inyo sanang karano tanang lah bana, jo dibaoknyo ⟨mereka⟩ ka palabuahan nan inyo kandaki.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "mako inyo sanang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "tanang lah bana"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "jo dibaoknyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "palabuahan"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "nan inyo kandaki"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:40.805292343Z",
+  "model": "glm-5.3"
+}

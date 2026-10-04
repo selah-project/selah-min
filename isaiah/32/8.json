@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Tapi urang nan basadio marancang hal-hal nan basadio, jo inyo tagak diateh hal-hal nan basadio.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "urang nan basadio"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "hal-hal nan basadio"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "marancang"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "diateh"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "hal-hal nan basadio"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tagak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:15:07.006013329Z",
+  "model": "glm-5.3"
+}

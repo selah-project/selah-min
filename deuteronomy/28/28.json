@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Yahweh mamukuih ang jo kagilaan, jo kabutunan, jo kataraguahan ati.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "mamukuih ang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "jo kagilaan"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "jo kabutunan"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "jo kataraguahan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:01.321679009Z",
+  "model": "glm-5.3"
+}

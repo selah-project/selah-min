@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu Moshe turun dari gunuang tu kapado urang banyak tu, lalu manyucikan ⟨את⟩ urang banyak tu, jo inyo mambasuah pakaian masiang-masiang.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "lalu turun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunuang tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "lalu manyucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang banyak tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "lalu mambasuah"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "pakaian masiang-masiang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:04.036086674Z",
+  "model": "glm-5.3"
+}

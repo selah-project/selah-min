@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Inyo maimbahan ⟨את⟩ anak-anak laki-laki jo ⟨את⟩ anak-anak padusi inyo kapado shaidim.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "maimbahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak laki-laki"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anak laki-laki inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anak padusi inyo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "anak-anak padusi inyo"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "kapado shaidim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:00.005089281Z",
+  "model": "glm-5.3"
+}

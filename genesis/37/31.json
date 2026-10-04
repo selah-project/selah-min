@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu urang tu maambiak ⟨את]] baju Yosef, manyambaliah saikua anak kambiang, dan manduduak ⟨את]] baju itu ka dalam darahnyo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baju Yosef"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "baju"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "manyambaliah"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "saikua anak kambiang"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kambiang"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "manduduak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baju itu"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "baju itu"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ka dalam darah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:23.571806732Z",
+  "model": "glm-5.3"
+}

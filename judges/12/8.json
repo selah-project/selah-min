@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo sasudahnyo Ibtsan dari Beit-Lekhem manjadi hakim ateh ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "manjadi hakim"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sasudahnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lekhem"
+    }
+  ],
+  "timestamp": "2026-10-04T05:19:23.912317751Z",
+  "model": "glm-5.3"
+}

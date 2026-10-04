@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Yahweh alah mampecah tongkek urang jahek, jo pasa nan mamarentah.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "alah mampecah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkek"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahek"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pasa"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "nan mamarentah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:56.892904943Z",
+  "model": "glm-5.3"
+}

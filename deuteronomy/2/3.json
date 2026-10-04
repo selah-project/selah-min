@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Cukup lai untuak kalian mangaliliangi ⟨את⟩ bukik ko; puseklah diri kalian ka utara.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "cukup lai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kalian"
+    },
+    {
+      "surface": "סב",
+      "gloss": "mangaliliangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukik ko"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bukik"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "puseklah diri"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kalian"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ka utara"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:45.642256045Z",
+  "model": "glm-5.3"
+}

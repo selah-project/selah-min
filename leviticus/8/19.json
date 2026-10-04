@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu inyo manyambelehnyo, jo Moshe manyipak-an ⟨את⟩ darahnyo ka ateh mezbah sacaro mangaliliangi.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "manyambelehnyo"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "manyipak-an"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahnyo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sacaro mangaliliangi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:35.199051551Z",
+  "model": "glm-5.3"
+}

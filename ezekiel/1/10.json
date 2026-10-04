@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Rupo muko masiang-masiang: muko manusia, jo muko singo di sabalah suok — ka ampiangnyo; jo muko kabau di sabalah kida — ka ampiangnyo; jo muko rajawali — ka ampiangnyo.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "rupo"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "muko masiang-masiang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "jo muko"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sabalah suok"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "ka ampiangnyo"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "jo muko"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kabau"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "di sabalah kida"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "ka ampiangnyo"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "jo muko"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "rajawali"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "ka ampiangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:46:35.026675997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Roti urang gagah bakeh dimakan satiok urang, makanan Inyo kirim kapado urang tu sampai kanyang.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "urang gagah"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "bakeh dimakan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "satiok urang"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kirim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sampai kanyang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:19.597824021Z",
+  "model": "glm-5.3"
+}

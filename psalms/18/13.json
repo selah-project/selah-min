@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Dari kahaminan di hadapan-Nyo, awan-awan-Nyo lalu; es batu jo bara api.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Dari kahaminan"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "di hadapan-Nyo"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "awan-awan-Nyo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "lalu"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "es batu"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "jo bara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:08.492136373Z",
+  "model": "glm-5.3"
+}

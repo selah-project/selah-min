@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 4:4",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Datanglah ka Bet-El jo bapamoso, ka Gilgal pabanyaklah pamoso, jo bao pagi-pagi kurban awak sanak, pase tigo ari persepuluahan awak sanak!",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "datanglah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויפשעו",
+      "gloss": "jo bapamoso"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "pabanyaklah"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "pamoso"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "jo bao"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "pagi-pagi"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "kurban awak sanak"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "pase tigo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "persepuluahan awak sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:11:00.219002314Z",
+  "model": "glm-5.3"
+}

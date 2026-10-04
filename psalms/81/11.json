@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Ambo ⟨adolah⟩ Yahweh, Elohim sanak, nan maangkek sanak dari tanah Mitsrayim; lawehkan muluik sanak, jo ambo ka mangisinyo.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim sanak"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "nan maangkek sanak"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "lawehkan"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "muluik sanak"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "jo ambo ka mangisinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:53.979161866Z",
+  "model": "glm-5.3"
+}

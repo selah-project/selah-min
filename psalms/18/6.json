@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Tali-tali Sheol mangaliliangi ambo, mokok-mokok kamatian mahadang ambo.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mangaliliangi ambo"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "mahadang ambo"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "mokok-mokok"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:13.106661225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jan tingga-an inyo, jo inyo ka'a maimbia kau; cinta-i inyo, jo inyo ka'a mahalok kau.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "tingga-an inyo"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "jo inyo ka'a maimbia kau"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "cinta-i inyo"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "jo inyo ka'a mahalok kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:04.627013168Z",
+  "model": "glm-5.3"
+}

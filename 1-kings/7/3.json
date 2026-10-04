@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo dilapih kayu araz dari ateh, di ateh ruang-ruang sampiang nan ado di ateh tiang-tiang, ampek puluah limo, limo baleh satiok barisan.",
+  "tokens": [
+    {
+      "surface": "וספון",
+      "gloss": "dilapih"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "kayu araz"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "ruang-ruang sampiang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ampek puluah"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "limo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "limo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "satiok barisan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:46.302745561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Urang mangatahui ⟨את⟩ Khavvah biniinyo, lalu inyo manganduang jo malahiakan ⟨את⟩ Kayin, jo bakato: Ambo alah mandapek saurang laki-laki basamo ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Urang"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mangatahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khavvah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Khavvah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "biniinyo"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "manganduang"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ambo alah mandapek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang laki-laki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:00.473969497Z",
+  "model": "glm-5.3"
+}

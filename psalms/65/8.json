@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Maamanan ribuik lauik, ribuik ombak-ombaknyo, jo karumuahan bangso-bangso.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "maamanan"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ribuik"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ribuik"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ombak-ombaknyo"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "jo karumuahan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangso-bangso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:45.617604123Z",
+  "model": "glm-5.3"
+}

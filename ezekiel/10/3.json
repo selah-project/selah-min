@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 10:3",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo kerub-kerub tagak di sabalah kanan rumah tu katiko urang tu masuak, jo awan mangisi ⟨את⟩ laman bagian dalam.",
+  "tokens": [
+    {
+      "surface": "והכרבים",
+      "gloss": "jo kerub-kerub"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "di sabalah kanan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "katiko masuak"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "jo awan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mangisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laman"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "bagian dalam"
+    }
+  ],
+  "timestamp": "2026-10-04T06:51:14.405003321Z",
+  "model": "glm-5.3"
+}

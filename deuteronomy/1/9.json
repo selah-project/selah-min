@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Ambo mangecek kapado awak sakalian pado wakatu itu, mangecek: ambo indak sanggup surang sajo mambaok ⟨את⟩ awak sakalian.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ambo mangecek"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kapado awak sakalian"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pado wakatu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "surang sajo"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awak sakalian",
+      "marks": "awak sakalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:18.626052305Z",
+  "model": "glm-5.3"
+}

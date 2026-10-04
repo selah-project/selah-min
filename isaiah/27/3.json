@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Ambo, Yahweh, nan manjagonyo; satiok wakatu ambo manyiraminyo; bia indak ado nan mangunjang inyo; malam jo ari ambo manjagonyo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "nan manjagonyo"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "satiok wakatu"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "ambo manyiraminyo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bia indak"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "mangunjang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "jo ari"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "ambo manjagonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:43.186549563Z",
+  "model": "glm-5.3"
+}

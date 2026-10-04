@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Bukankah Ang alah manaliangi inyo, jo rumahnyo, jo sagalo nan miliknyo di sagalo runteh? Karajo tangannyo Ang alah maanta, jo taranaknyo alah malimpah di bumi.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "את",
+      "gloss": "Ang"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "alah manaliangi"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "miliknyo"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "di sagalo runteh"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "Ang alah maanta"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "jo taranaknyo"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "alah malimpah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:20.715627011Z",
+  "model": "glm-5.3"
+}

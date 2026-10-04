@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo ruakh Mitsrayim habih di dalamnyo, jo rangkaian nasihatnyo Aku manelan; makonyo inyo mancari kapado elil-elil, jo kapado urang nan mambisiak, jo kapado roh-roh pangigu, jo kapado urang nan tahu bamantra.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "jo habih"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "jo rangkaian nasihatnyo"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "Aku manelan"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "jo inyo mancari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "elil-elil"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "urang nan mambisiak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "roh-roh pangigu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "urang nan tahu bamantra"
+    }
+  ],
+  "timestamp": "2026-10-04T06:12:12.011588578Z",
+  "model": "glm-5.3"
+}

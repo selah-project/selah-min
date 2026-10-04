@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Lalu Yehudah kalah di muko Yisrael, jo urang tu lari, ciek-ciek urang ka khemahnyo.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "lalu kalah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "jo lari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciek-ciek urang"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "ka khemahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:24.378655675Z",
+  "model": "glm-5.3"
+}

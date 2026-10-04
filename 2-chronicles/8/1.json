@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo sasudah duobuluah taun, katiko Shelomoh alah mambuek ⟨את⟩ rumah Yahweh jo ⟨את⟩ rumahnyo surang,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo tajadilah"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sasudah akhia"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duobuluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "rumahnyo surang"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo surang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:51:43.340833973Z",
+  "model": "glm-5.3"
+}

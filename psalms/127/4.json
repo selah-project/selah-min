@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 127,
+  "translation": "Sarupo anak panah di tangan urang gagah, baitu juo anak-anak dari maso mudo.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "sarupo anak panah"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di tangan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "urang gagah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "maso mudo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:53.073943785Z",
+  "model": "glm-5.3"
+}

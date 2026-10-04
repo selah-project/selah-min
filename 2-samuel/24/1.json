@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Baliak amarah Yahweh manyalo ka Yisrael, jo inyo mangujoah ⟨את⟩ Dawid malalui mereka, bakkato: Pergilah, hituanglah ⟨את⟩ Yisrael jo ⟨את⟩ Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "baliak manambah"
+    },
+    {
+      "surface": "אף",
+      "gloss": "amarah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "manyalo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ka Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "mangujoah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "malalui mereka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakkato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "hituanglah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:29.013814061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu Shaul bakato kapado Yonatan, anaknyo, jo kapado sadoalah amba-ambanyo, supayo mambunuah ⟨את⟩ Dawid; tapi Yonatan, anak Shaul, suka bana kapado Dawid.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "amba-ambanyo"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "supayo mambunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "tapi Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "suka"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "kapado Dawid"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:24.739669457Z",
+  "model": "glm-5.3"
+}

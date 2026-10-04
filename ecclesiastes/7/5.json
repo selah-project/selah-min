@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Elok mandanga gauah urang pandai, daripado mandanga ⟨את⟩ nyanyian urang bodoh.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "gauah"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "urang pandai"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "daripado"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "urang bodoh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:42.251820514Z",
+  "model": "glm-5.3"
+}

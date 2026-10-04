@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 141,
+  "translation": "Karano kapado-Mu, Yahweh, Adonai, mato ambo; pado-Mu ambo balinduang; jangan talunggai nyawo ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "pado-Mu"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ambo balinduang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תער",
+      "gloss": "talunggai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:02.606630590Z",
+  "model": "glm-5.3"
+}

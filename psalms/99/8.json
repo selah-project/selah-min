@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 99,
+  "translation": "Yahweh, Elohim kito, Angkau manjawek urang tu; El nan mamafie baraleh Angkau untuak urang tu, pun mambaleh ua ateh pabuatan urang tu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Angkau"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "manjawek urang tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nan mamafie"
+    },
+    {
+      "surface": "היית",
+      "gloss": "baraleh Angkau"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak urang tu"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "pun mambaleh ua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "pabuatan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:46.886934028Z",
+  "model": "glm-5.3"
+}

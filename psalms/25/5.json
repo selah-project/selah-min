@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Tuntun ambo dalam kabanaran-Mu, jo ajaan ambo, karano Engkau Elohim nan malapehkan ambo, kapado ⟨את⟩-Mu ambo mananti sapanjang ari.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Tuntun ambo"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dalam kabanaran-Mu"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "jo ajaan ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "nan malapehkan ambo"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩-Mu",
+      "marks": "kapado-Mu (tujuan dari mananti)"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ambo mananti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:06.564616121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Tasuik dipuji Yahweh, karano inyo alah mambuek hesed-Nyo luar biaso kapado ambo, di koto tapancuang.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Tasuik dipuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "alah mambuek luar biaso"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di koto"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "tapancuang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:23.992668659Z",
+  "model": "glm-5.3"
+}

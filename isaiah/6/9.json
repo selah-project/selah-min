@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Ia bakato: Lah pai, jo katakan kapado urang banyak iko: Danga bana inyo, tapi indak paham; caliak bana inyo, tapi indak tau.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ia bakato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lah pai"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jo katakan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kapado urang banyak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "danga bana inyo"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "taruih mandanga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tapi jan"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "paham"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "caliak bana inyo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "taruih mandaliok"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tapi jan"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:17.577555498Z",
+  "model": "glm-5.3"
+}

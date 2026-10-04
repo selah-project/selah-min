@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Naara malahiakan untuaknyo ⟨את⟩ Akhuza jo ⟨את⟩ Khefer jo ⟨את⟩ Temeni jo ⟨את⟩ Akhatarai; iko lah anak-anak Naara.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhuza"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Akhuza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Khefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akhatarai"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Akhatarai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:02.547459459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo untuak mambeda-bedakan antaro nan suci jo nan biaso, antaro nan najis jo nan barasiah:",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "jo untuak mambeda-bedakan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antaro"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "החל",
+      "gloss": "nan biaso"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nan najis"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "nan barasiah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:24.246843133Z",
+  "model": "glm-5.3"
+}

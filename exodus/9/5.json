@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Yahweh manantuan wakatu, bakato: Isuk Yahweh mambuek pakaro iko di bumi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "lalu manantuan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wakatu nan ditantuan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "isuk"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:14.278381827Z",
+  "model": "glm-5.3"
+}

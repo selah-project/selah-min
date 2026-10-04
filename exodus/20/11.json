@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Karano anam ari Yahweh mambuek ⟨את⟩ langik jo ⟨את⟩ bumi, ⟨את⟩ lauik jo ⟨את⟩ sagalo nan ado di dalamnyo, lalu baranti pado ari nan katuju; dek karano itu Yahweh maâmarkahi ⟨את⟩ ari Shabat jo manyucikannyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "anam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langik"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lauik"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo nan ado di dalamnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ado di dalamnyo"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "lalu baranti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nan katuju"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "karano itu"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "maâmarkahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ari Shabat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "jo manyucikannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:39.469200530Z",
+  "model": "glm-5.3"
+}

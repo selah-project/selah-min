@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Dan kok urang nan manyucikan itu menebus ⟨את⟩ rumahnyo, inyo musti manambah saparampek harago perak panilaian sanak ka atehnyo, mako rumah itu manjadi miliknyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan kok"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "urang nan manyucikan itu"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "menebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumahnyo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "inyo musti manambah"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "saparampek"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "harago perak"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "panilaian sanak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka atehnyo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mako manjadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "miliknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:32.200485299Z",
+  "model": "glm-5.3"
+}

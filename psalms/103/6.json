@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Yahweh mambuek ⟨את⟩ tsedeq jo ⟨את⟩ hukum-hukum untuak sagalo urang nan ditindih.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "jo hukum-hukum"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak sagalo"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "urang nan ditindih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:12.788157834Z",
+  "model": "glm-5.3"
+}

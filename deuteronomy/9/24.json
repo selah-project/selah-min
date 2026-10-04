@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Pambangkang kalian jo Yahweh sajak ari ambo mulai mangana ⟨את⟩ kalian.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "pambangkang"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "sajak ari"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "ambo mulai mangana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kalian",
+      "marks": "kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:22.457437730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lapeh dari itu, Yaakov mangutuih utusan-utusan di mukonyo kapado Esau, sudaronyo, ka tanah Seir, ladang Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangutuih"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sudaronyo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:20.776747798Z",
+  "model": "glm-5.3"
+}

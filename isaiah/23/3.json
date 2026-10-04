@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Di aia nan banyak, beniah Shichor, panen sungai tuh panghasilan ⟨nyo⟩; jo inyo manjadi pasa dagang bangso-bangso.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "di aia nan banyak"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "Shichor"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "panen"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "panghasilan ⟨nyo⟩"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "jo inyo manjadi"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "pasa dagang"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    }
+  ],
+  "timestamp": "2026-10-04T09:13:56.361514868Z",
+  "model": "glm-5.3"
+}

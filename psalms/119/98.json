@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Atas musuah-musuah ambo, parintah-Mu mambuek ambo labiah bijak, karano iyo satiok ari basamo ambo.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "atas musuah-musuah ambo"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "mambuek ambo labiah bijak"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "parintah-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "satiok ari"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "basamo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:15.462977987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Kalau manggadai urang manggadai pakaian sanaknyo, inggo masuaknyo matoari pulangkanlah bana kapado inyo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "חבול",
+      "gloss": "manggadai"
+    },
+    {
+      "surface": "תחבול",
+      "gloss": "urang manggadai"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sanaknyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inggo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuaknyo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "pulangkanlah bana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:11.276704879Z",
+  "model": "glm-5.3"
+}

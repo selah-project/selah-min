@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Yahweh, Elohim ambo, ka Awak ambo alah manyeru-seru, jo Awak alah manyambuahkan ambo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ambo alah manyeru-seru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Awak"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "jo Awak alah manyambuahkan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:41.717698539Z",
+  "model": "glm-5.3"
+}

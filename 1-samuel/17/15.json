@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Dawid pai pulang-baliak dari pado Shaul untuak manggembalakan ⟨את⟩ kambiang-dombanyo apaknyo di Beit Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "pulang-baliak"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari pado"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "untuak manggembalakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambiang-dombanyo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambiang-dombanyo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:33.547863102Z",
+  "model": "glm-5.3"
+}

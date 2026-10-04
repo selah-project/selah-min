@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Di ma hesed-Mu nan partamo-tamo, Adonai? Inyo lah basumpah kapado Dawid dalam kasatiaan-Mu.",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Di ma"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "nan partamo-tamo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Inyo lah basumpah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kapado Dawid"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "dalam kasatiaan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:02.901121050Z",
+  "model": "glm-5.3"
+}

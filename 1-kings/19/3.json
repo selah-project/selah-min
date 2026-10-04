@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Dek dicaliaknyo, inyo bangkik jo pai untuak nyawanyo, lalu tibo di Beer-Sheva nan ado di Yehuda, jo maninggakan ⟨את⟩ anak buahnyo di sinan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "deh dicaliaknyo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "inyo bangkik"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanyo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ado di Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "maninggakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak buahnyo"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "anak buahnyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:18.992383668Z",
+  "model": "glm-5.3"
+}

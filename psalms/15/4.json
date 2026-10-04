@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Urang nan hina dalam matoinyo inyo pandang hina, tapi ⟨את⟩ urang nan takuik kapado Yahweh inyo muleh hormat; nan alah basumpah untuak dirugiannyo surang, indak inyo ubah.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "urang nan hina"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "dalam matoinyo"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "inyo pandang hina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang nan takuik kapado Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "urang nan takuik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "inyo muleh hormat"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nan alah basumpah"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "untuak dirugiannyo surang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "inyo ubah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:20.533008257Z",
+  "model": "glm-5.3"
+}

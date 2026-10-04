@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Kok surang urang mambuek ladang atau kabun anggur tapakan, jo mangliapeh ⟨את⟩ taranaknyo, lalu taranak tu makan di ladang urang lain, dari nan tamek ladangnyo surang jo nan tamek kabunnyo surang inyo mambayia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "mambuek tapakan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "surang urang"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kabun anggur"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "jo mangliapeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taranaknyo"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "taranaknyo"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "lalu makan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "urang lain"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "nan tamek"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "ladangnyo"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "jo nan tamek"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "kabunnyo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "inyo mambayia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:59.928313467Z",
+  "model": "glm-5.3"
+}

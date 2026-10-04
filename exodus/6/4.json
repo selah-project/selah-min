@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo ambo juo alah managakkan ⟨את⟩ parjanjianku ⟨את⟩ jo urang tu, untuak maagiah kapado urang tu ⟨את⟩ tanah Kanaan, ⟨את⟩ tanah paramalatan urang tu, nan urang tu tingga sabagai urang asiang di sinan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo ambo juo"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "alah managakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjianku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjianku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jo urang tu",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuak maagiah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Kanaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah paramalatan urang tu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "paramalatan urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "tingga sabagai urang asiang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:55.699815352Z",
+  "model": "glm-5.3"
+}

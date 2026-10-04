@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ajaan ambo, Yahweh, jalan patombokan-Mu, jo ambo ka mamilihanyo sampai akhia.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ajaan ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "patombokan-Mu"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "jo ambo ka mamilihanyo"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sampai akhia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:32.910173959Z",
+  "model": "glm-5.3"
+}

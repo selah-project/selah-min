@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Bangkiklah, pai ka Nineveh, kota gadang tu, jo serukan kapadonyo ⟨את⟩ seruan nan ambo sampaikan kapado kau.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "bangkiklah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "gadang tu"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "jo serukan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seruan"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "seruan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sampaiakan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:22.348895768Z",
+  "model": "glm-5.3"
+}

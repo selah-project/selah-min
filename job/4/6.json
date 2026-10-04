@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Bukankah takuik angkokah kok katagakkan angkou, pangharapan angkou, jo kabanaran jalan angkou?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "takuik angkou"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "katagakkan angkou"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "pangharapan angkou"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "jo kabanaran"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan angkou"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:48.531958424Z",
+  "model": "glm-5.3"
+}

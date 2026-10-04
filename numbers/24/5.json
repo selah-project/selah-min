@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Mai eloknyo undiang-undiangmu, wa Yaakov, tamu-tamu tinggalmu, wa Yisrael!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mai"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "eloknyo"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "undiang-undiangmu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakov"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "tamu-tamu tinggalmu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:42.599702132Z",
+  "model": "glm-5.3"
+}

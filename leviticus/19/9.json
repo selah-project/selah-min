@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo katiko kaliaan manyikek ⟨את⟩ panen tanah kaliaan, indak kaliaan ungkai sampai habih pinggiran ladang kaliaan, jo nan jatuh dari panen kaliaan indak kaliaan puluik.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "jo katiko kaliaan manyikek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panen tanah kaliaan"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "panen"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tanah kaliaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "kaliaan ungkai sampai habih"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pinggiran"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ladang kaliaan"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "untuak disikek"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "jo nan jatuh"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "dari panen kaliaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kaliaan puluik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:34.867391849Z",
+  "model": "glm-5.3"
+}

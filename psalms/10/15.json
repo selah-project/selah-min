@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Patahkan lengan urang jahat jo urang buruak; cari bana karajahatannyo — indak ka ditamuan lai.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "patahkan"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lengan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "jo urang buruak"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "cari bana"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "karajahatannyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ditamuan lai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:57.367482655Z",
+  "model": "glm-5.3"
+}

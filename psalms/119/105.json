@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Lampu untuak pado kaki ambo kato-Mu, jo cahayo untuak jalan ambo.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "lampu"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "untuak pado kaki ambo"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kato-Mu"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "jo cahayo"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "untuak jalan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:44.401818890Z",
+  "model": "glm-5.3"
+}

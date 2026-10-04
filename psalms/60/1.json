@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Ka pambimbing, ateh Shushan-Eduth, miktam untuak Dawid, untuak maajari.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ka pambimbing"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "untuak maajari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:05.293872853Z",
+  "model": "glm-5.3"
+}

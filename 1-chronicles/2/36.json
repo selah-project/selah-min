@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Attai manurunkan ⟨את⟩ Natan, jo Natan manurunkan ⟨את⟩ Zabad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "jo Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "jo Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabad"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:26.561530042Z",
+  "model": "glm-5.3"
+}

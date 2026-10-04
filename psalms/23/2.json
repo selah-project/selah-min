@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Di padang rumput mudo Inyo mambaringan ambo, dakek aia nan tanang Inyo mamimpiak ambo.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "rumput mudo"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "Inyo mambaringan ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aia"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "nan tanang"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "Inyo mamimpiak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:44.512167311Z",
+  "model": "glm-5.3"
+}

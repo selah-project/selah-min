@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Dan angkau suruahkan ⟨את⟩ urang Yisrael, supayo inyo mambaok kapado angkau minyak zaitun nan janiah, nan ditumbuak, untuak palito, untuak mangedarkan lampu taruih-manaruih.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dan angkau"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "suruahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "supayo inyo mambaok"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado angkau"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "זך",
+      "gloss": "nan janiah"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "nan ditumbuak"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "untuak palito"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "untuak mangedarkan"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih-manaruih"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:58.609526598Z",
+  "model": "glm-5.3"
+}

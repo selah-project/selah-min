@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo kini, apo nan ka kato kito, Elohim kito, sasudah iko? Karano kito alah maninggaan parentah-Mu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "ka kato"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "kito alah maninggaan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parentah-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:35:23.093955701Z",
+  "model": "glm-5.3"
+}

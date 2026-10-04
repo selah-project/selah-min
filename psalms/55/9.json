@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Ambo mandanga capek-lari ka panyalamaikan untuak diri ambo, dari ruakh nan mangamok, dari badai.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "capek-lari"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "panyalamaikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak diri ambo"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "dari ruakh"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "nan mangamok"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "dari badai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:48.457273028Z",
+  "model": "glm-5.3"
+}

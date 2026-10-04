@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Inyo mamakek kutuak sarupo pakaiannyo, jo kutuak tu masuak sarupo aia ka dalam tubuahnyo, jo sarupo minyak ka tulang-tulangnyo.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "mamakek"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kutuak"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "sarupo pakaiannyo"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sarupo aia"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ka dalam tubuahnyo"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "jo sarupo minyak"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "ka tulang-tulangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:46.716834342Z",
+  "model": "glm-5.3"
+}

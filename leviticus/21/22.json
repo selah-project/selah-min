@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Roti Elohimnyo — dari benda nan paliang suci jo dari benda nan suci — inyo buliah makan.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimnyo"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "dari benda nan paliang suci"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "paliang suci"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "inyo buliah makan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:48.453923353Z",
+  "model": "glm-5.3"
+}

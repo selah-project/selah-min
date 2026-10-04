@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo Moshe bakato kapado inyo: Kalau kito maagiah bana ⟨את⟩ pakaro iko — kalau kito lapeh diri di muko Yahweh untuak baparang —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kito maagiah bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaro iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "kito lapeh diri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuak baparang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:49:47.790982528Z",
+  "model": "glm-5.3"
+}

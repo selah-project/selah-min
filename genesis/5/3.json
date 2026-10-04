@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Dan Adam hiduik tigo puluah sarato saratus taun, dan inyo manurunkan anak manuruik ruponyp, sarupo gambar nyp, dan inyo manyabuik ⟨את⟩ namonyo Shet.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dan iduik"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tigo puluah"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "sarato saratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dan manurunkan anak"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "manuruik ruponyp"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "sarupo gambar nyp"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan manyabuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:50.401781145Z",
+  "model": "glm-5.3"
+}

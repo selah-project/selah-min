@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo anak padusi urang kohen, kok inyo mamual dirinyo jo malacur, ⟨את⟩ amboonyo inyo mamual; dalam api inyo dibaka.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "jo anak padusi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "mamual dirinyo"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "jo malacur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amboonyo"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "amboonyo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "mamual"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "inyo dibaka"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:04.715052157Z",
+  "model": "glm-5.3"
+}

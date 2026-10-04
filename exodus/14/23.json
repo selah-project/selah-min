@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 14:23",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo urang Mitsrayim mangaja, jo masuak sasudah mereka — satiok kudo Paroh, kareta-karetanyo jo pangacanyo — ka tangah lauik.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "mangaja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sasudah mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kudo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "kareta-karetanyo"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "jo pangacanyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tangah"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:01.139018624Z",
+  "model": "glm-5.3"
+}

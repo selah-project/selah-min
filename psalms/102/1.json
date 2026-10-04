@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Doa urang talando katiko inyo basimpok, jo di muko Yahweh inyo manguaokan ratoknyo.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Doa"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "urang talando"
+    },
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "basimpok"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "jo di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "manguaokan"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ratoknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:48.574718539Z",
+  "model": "glm-5.3"
+}

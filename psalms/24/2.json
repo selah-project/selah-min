@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Karano Inyo marantakannyo di ateh lauaik, jo managakkannyo di ateh batang aia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lauaik"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "marantakannyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo di ateh"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "batang aia"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "managakkannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:39.924890984Z",
+  "model": "glm-5.3"
+}

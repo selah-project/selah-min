@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Karano inyo manyangajo nyawa nan raso haus, jo nyawa nan lapan inyo paniuahkan jo nan elok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "manyangajo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "nan raso haus"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "jo nyawa"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "nan lapan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "paniuahkan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jo nan elok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:04.629886715Z",
+  "model": "glm-5.3"
+}

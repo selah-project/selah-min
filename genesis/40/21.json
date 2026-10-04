@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Lalu inyo mambaliakan ⟨את⟩ pamimpin panyadio minuman ka tugehnyo, jo inyo maagiah cawan tu ka ateh talapak tangan Paroh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mambaliakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamimpin panyadio minuman"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pamimpin"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "panyadio minuman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "tugehnyo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "cawan tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "כף",
+      "gloss": "talapak tangan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:21.250428984Z",
+  "model": "glm-5.3"
+}

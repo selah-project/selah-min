@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Tapi kalau kao indak bajanji nazar, indak ado doso padamu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "tapi kalau"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "kao indak bajanji"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "nazar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "בך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "doso"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:17.164121157Z",
+  "model": "glm-5.3"
+}

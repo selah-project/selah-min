@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Dan inyo mangalelo ⟨את⟩ Yisrael, lalu Yonatan anak Simei, saudaro Dawid, mamukulnyo sampai mati.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "mangalelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "mamukulnyo sampai mati"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Simei"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T05:41:28.782249352Z",
+  "model": "glm-5.3"
+}

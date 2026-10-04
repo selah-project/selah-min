@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 120,
+  "translation": "Yahweh, salamaikan jiwo ambo dari bibia pambohong, dari lido panipu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "salamaikan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwo ambo"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "dari bibia"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "pambohong"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "dari lido"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "panipu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:51.245416886Z",
+  "model": "glm-5.3"
+}

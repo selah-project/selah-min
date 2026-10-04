@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Lalu inyo mangiriman ⟨את⟩ sanak-sanaknyo, jo inyo maapuihnyo; inyo bakato kapado mareka: amboalah bacaku dalam pajalanan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalu inyo mangiriman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanak-sanaknyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sanak-sanaknyo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "jo inyo maapuihnyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado mareka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janga"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "bacaku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dalam pajalanan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:13.853525396Z",
+  "model": "glm-5.3"
+}

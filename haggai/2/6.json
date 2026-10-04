@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Karano sarupo ko kato Yahweh Tsebaot: lai sakali, saketek wakatunyo, jo Ambo manggunciang ⟨את⟩ langik jo ⟨את⟩ bumi jo ⟨את⟩ lauik jo ⟨את⟩ tanah kariang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sarupo ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sakali"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "היא",
+      "gloss": "wakatunyo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jo Ambo"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "manggunciang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langik"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "lauik"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tanah kariang"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "tanah kariang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:18:08.237969886Z",
+  "model": "glm-5.3"
+}

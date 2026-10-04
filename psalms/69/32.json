@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Jo itu labiah elak di Yahweh daripado lumbu, lumbu nan batanduak jo bakuku.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "labiah elak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "di Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "daripado lumbu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lumbu"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "nan batanduak"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "jo bakuku"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:49.439296726Z",
+  "model": "glm-5.3"
+}

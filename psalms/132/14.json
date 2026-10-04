@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "«Iko adolah tampek barisiah ambo sampai salamo-lamonyo; di siko ambo ka tingga, karano ambo alah mangahandokinyo.»",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "tampek barisiah ambo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di siko"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ambo ka tingga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "mangahandokinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:19.240866737Z",
+  "model": "glm-5.3"
+}

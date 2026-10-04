@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Naomi mang ambiak ⟨את⟩ anak tu, manaruahnyo di ateh riba-ribanyo, jo manjadi parawak untuaknyo.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "mang ambiak"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak tu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak tu"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "manaruahnyo"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "di ateh riba-ribanyo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "parawak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:04.551100674Z",
+  "model": "glm-5.3"
+}

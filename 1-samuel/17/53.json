@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo urang-urang Yisrael baliak satalah mamaliau bakabak urang Palishti, lalu inyo marampok ⟨את⟩ kampa urang tu.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "mamaliau bakabak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "satalah"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palishti"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "marampok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampa urang tu"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kampa urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:22.365341103Z",
+  "model": "glm-5.3"
+}

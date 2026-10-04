@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Fir'aun rajo Mitsrayim alah naik, manangkok ⟨את⟩ Gezer, mambakaarnyo jo api, manbunuh ⟨את⟩ urang Kana'an nan tingga di koto tu, lalu maagiahnyo sabagai mahar kapado putrinyo, bini Shlomo.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'aun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "manangkok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "mambakaarnyo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Kana'an"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kana'an"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "nan tingga"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di koto"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "manbunuh"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "maagiahnyo"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "sabagai mahar"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "kapado putrinyo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:49:16.344210951Z",
+  "model": "glm-5.3"
+}

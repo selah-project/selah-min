@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu inyo caliak ⟨את⟩ Amalek, jo maangkek ujarannyo, lalu bakato: Patamo di antaro bangso-bangso Amalek, tapi akhirnyo sampai binaso salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lalu inyo caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "jo maangkek"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ujarannyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "patamo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "tapi akhirnyo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "binaso salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:47:26.784053292Z",
+  "model": "glm-5.3"
+}

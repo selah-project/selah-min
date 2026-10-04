@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo urang tu indak baliak kapado nan mamukuah inyo, jo ⟨את⟩ Yahweh Tsebaot indak inyo cari-cari.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "jo urang tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "nan mamukuah inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tsebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "inyo cari-cari"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:19.917968033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu inyo manyambalih ⟨את⟩ lumbu tu, jo mambaok ⟨את⟩ anak tu kapado Eli.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "inyo manyambalih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lumbu tu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lumbu tu"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "jo mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak tu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:17.107674024Z",
+  "model": "glm-5.3"
+}

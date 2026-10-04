@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo kabanggaan Yisrael maagahi inyo di mukonyo, jo Yisrael jo Efrayim tarampok dalam dosonyo; tarampok juo Yehudah basamo inyo-nyo.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "maagahi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kabanggaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "jo Yisrael"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "jo Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "tarampok"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "dalam dosonyo"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "tarampok"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "basamo inyo-nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:08.256433625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo pado ari pamaianangan kalian ⟨את⟩ omer tu, baekolah anak domba jantan nan indak bacakak, umua satonyo, sabagaiolah odangan baka ka Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "baekolah kalian"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "pamaianangan kalian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer tu"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer tu"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "anak domba jantan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nan indak bacakak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "satonyo"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "odangan baka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:24.623302310Z",
+  "model": "glm-5.3"
+}

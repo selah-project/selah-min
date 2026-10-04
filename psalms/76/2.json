@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 76,
+  "translation": "Dikenal di Yehudah Elohim, di Yisrael gadang namonyo.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "dikenal"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:21.183801751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Kok hesed-Mu dikabaan di kubua? Kok kasatiaan-Mu di Avaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Kok dikabaan"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "di kubua"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kasatiaan-Mu"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "di Avaddon"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:48.925254540Z",
+  "model": "glm-5.3"
+}

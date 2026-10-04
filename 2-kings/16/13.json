@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu inyo maasok-an ⟨את⟩olah-an apui inyo jo ⟨את⟩minkha inyo, lalu inyo maiduik-an ⟨את⟩unjukan inyo, lalu inyo mancaram-an ⟨את⟩darah korban slamet nan kapado inyo, di ateh mizbeakh tu.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "maasok-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah-an apui inyo"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "olah-an apui inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minkha inyo"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "minkha inyo"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "maiduik-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unjukan inyo"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "unjukan inyo"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "mancaram-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "korban slamet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeakh tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:42.847546130Z",
+  "model": "glm-5.3"
+}

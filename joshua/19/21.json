@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "jo Remeth, jo Ein-Gannim, jo Ein-Khadah, jo Beit-Patsets.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "jo Remeth"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "jo Ein"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "-Gannim"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "jo Ein"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "-Khadah"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "jo Beit"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "-Patsets"
+    }
+  ],
+  "timestamp": "2026-10-04T05:09:39.970987600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Ambo mancaliak ⟨את⟩ sagalo kausahoan jo ⟨את⟩ sagalo kabarasilan karajo, karano itu iolah iri hati urang kapado kawannyo; iko juo kosong jo pancaliak-caliak ruakh.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Ambo mancaliak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kausahoan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kausahoan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kabarasilan karajo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "kabarasilan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "היא",
+      "gloss": "itu iolah"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "iri hati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "kapado kawannyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "jo pancaliak-caleak"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:15.894723714Z",
+  "model": "glm-5.3"
+}

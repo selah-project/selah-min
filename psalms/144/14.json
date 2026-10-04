@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Lembu kami kuaik mambaik barek; indak ado karusakan, indak ado nan kalua, indak ado jeriak di jalan-jalan gadang kami.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "lembu kami"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "kuaik mambaik barek"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "karusakan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "nan kalua"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "jeriak"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "di jalan-jalan gadang kami"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:44.994293817Z",
+  "model": "glm-5.3"
+}

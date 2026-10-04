@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 9:5",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "jo sandal tuo nan alah ditambok di kaki urang tu, jo pakaian tuo dipakai urang tu, jo sadonyo roti bekal urang tu kariang, manjadi barundiak",
+  "tokens": [
+    {
+      "surface": "ונעלות",
+      "gloss": "jo sandal"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "tuo nan alah lauik"
+    },
+    {
+      "surface": "ומטלאות",
+      "gloss": "nan alah ditambok"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "di kaki urang tu"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "jo pakaian"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dipakai urang tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sadonyo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "צידם",
+      "gloss": "bekal urang tu"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kariang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "barundiak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:07:25.869222338Z",
+  "model": "glm-5.3"
+}

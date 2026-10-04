@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo inyo manguangi dari sagalo koto-koto Yehuda ⟨את⟩ tampek-tampek tinggi jo ⟨את⟩ patuang-patuang panambaahan, lalu karajaan manjadi tanang di hadokannyo.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "jo inyo manguangi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampek-tampek tinggi"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "tampek-tampek tinggi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "patuang-patuang panambaahan"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "patuang-patuang panambaahan"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "lalu manjadi tanang"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadokannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:31:56.502592069Z",
+  "model": "glm-5.3"
+}

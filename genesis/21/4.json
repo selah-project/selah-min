@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Dan Avraham manyunat ⟨את⟩ Yitskhak anaknyo, umua dalapan ari, sarupo nan alah diperintahkan kapadonyo dek Elohim.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "dan manyunat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak anaknyo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umua"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "dalapan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alah diperintahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nyo",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dek Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:18.562713594Z",
+  "model": "glm-5.3"
+}

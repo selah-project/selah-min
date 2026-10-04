@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Satiok nan baagi jan urang tu makan; di sagalo tampek tinggalmu urang tu makan roti indak baagi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "nan baagi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "urang tu makan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "tampek tinggalmu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "urang tu makan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti indak baagi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:57.267370573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Maka imam maambiak ⟨את⟩ anak domba asyam tu jo ⟨את⟩ log minyak tu, lalu imam maayunkan ⟨את⟩ kaduo-duonyo sabagai tenuphah di muko Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "maka maambiak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak domba asyam tu"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asyam tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "log minyak tu"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak tu"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "lalu maayunkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kaduo-duonyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tenuphah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:14.882703698Z",
+  "model": "glm-5.3"
+}

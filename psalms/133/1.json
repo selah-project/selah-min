@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 133,
+  "translation": "Lagu dapek naik, untuak Dawid. Caliak, baa elok jo baa lamak, duduak urang sudaro, bahkan sacaro ciek.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dapek naik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "מה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jo baa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "duduak"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "urang sudaro"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sacaro ciek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:13.410537134Z",
+  "model": "glm-5.3"
+}

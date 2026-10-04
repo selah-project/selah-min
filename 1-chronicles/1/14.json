@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "jo ⟨את⟩ urang Yevusi, jo ⟨את⟩ urang Emori, jo ⟨את⟩ urang Girgasi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "urang Yevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Girgasi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "urang Girgasi"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:17.128563283Z",
+  "model": "glm-5.3"
+}

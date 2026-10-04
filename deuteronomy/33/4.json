@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Torah nan diparentahkan Moshe kapado awak, pusako jamaah Yaakov.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado awak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "pusako"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:51.850610293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Rajo Aram sadang baparang malawan Yisrael, lalu inyo bapakaro jo hamba-hambanyo, mangatokan: Di tampek si anu jo si anu ko ⟨adalah⟩ pakampuanganku.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "jo rajo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sadang"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "baparang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "malawan Yisrael"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "lalu bapakaro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangatokan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "si anu"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "si anu"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "pakampuanganku"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:33.495850801Z",
+  "model": "glm-5.3"
+}

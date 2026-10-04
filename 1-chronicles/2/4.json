@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dan Tamar, manantunyo, malahiaan kapadonyo ⟨את⟩ Peretz jo ⟨את⟩ Zarakh; sagalo anak Yehudah ado limo.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Dan Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "manantunyo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "malahiaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretz"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Zarakh"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zarakh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "limo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:34.459289465Z",
+  "model": "glm-5.3"
+}

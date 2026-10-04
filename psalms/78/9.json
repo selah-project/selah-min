@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Anak-anak Efraim, pamacik-padang busua, baliak di ari panggabungan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak-anak"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "pamacik"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "malapeh (anak panah)"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busua"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di ari"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "panggabungan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:07.644004038Z",
+  "model": "glm-5.3"
+}

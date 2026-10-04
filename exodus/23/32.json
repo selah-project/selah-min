@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Indak angku manguek parjanjian jo inyo, sarato jo elohim urang tu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indak"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "angku manguek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "sarato jo elohim urang tu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:02.274739258Z",
+  "model": "glm-5.3"
+}

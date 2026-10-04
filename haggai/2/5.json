@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "⟨את⟩ parjanjian nan Ambo potong ⟨את⟩ basamo sanak katiko sanak kalua dari Mitsrayim, jo ruakh Ambo tagak di tangah-tangah sanak — jan takuik.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "Ambo potong"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ basamo sanak"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "katiko sanak kalua"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "jo ruakh Ambo"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di tangah-tangah sanak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "takuik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:18:08.237650753Z",
+  "model": "glm-5.3"
+}

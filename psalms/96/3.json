@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 96,
+  "translation": "Caritoan di antaro bangso-bangso kamuliaannyo, di antaro saluruh urang-urang kajaannyo nan manakjubkan.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "caritoan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antaro bangso-bangso"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamuliaannyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di antaro saluruh"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "kajaannyo nan manakjubkan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:18.585622312Z",
+  "model": "glm-5.3"
+}

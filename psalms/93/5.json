@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 93,
+  "translation": "Kasaksian-Kasaksian-Mu alah taguah bana, Yahweh; untuak rumah-Mu, kasucian nan elok, sampai lamo ari-ari.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "kasaksian-kasaksian-Mu"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "alah taguah"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "untuak rumah-Mu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kasucian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "sampai lamo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:51.342688199Z",
+  "model": "glm-5.3"
+}

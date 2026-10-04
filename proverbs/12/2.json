@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Urang nan elok mandapek kasukoan dari Yahweh, tapi urang nan barentengo jahat inyo mahukum.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "urang nan elok"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "mandapek"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kasukoan"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "dari Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "tapi urang nan"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "barentengo jahat"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "inyo mahukum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:41.213411876Z",
+  "model": "glm-5.3"
+}

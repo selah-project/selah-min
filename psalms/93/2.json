@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 93,
+  "translation": "Tagak kuek takhta ⟨kaaikan⟩-mu dari saaik itu, dari samaso lamo ka dating Engkau.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "tagak kuek"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "takhta-mu"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "dari saaik itu"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "dari samaso lamo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:57.594551621Z",
+  "model": "glm-5.3"
+}

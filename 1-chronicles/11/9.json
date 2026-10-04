@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo Dawid pai, samakin lai jo samakin gadang, jo Yahweh Tsebaot basamo inyo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "samakin lai"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "jo samakin gadang"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:43:21.407761229Z",
+  "model": "glm-5.3"
+}

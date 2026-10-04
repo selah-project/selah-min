@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 115,
+  "translation": "Indak untuak ambo kito, Yahweh, indak untuak ambo kito, tapi untuak namo-Mu barikan ⟨⟨itu⟩⟩ kabagusan, ateh hesed-Mu, ateh kasatiaan-Mu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak ambo kito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak ambo kito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "untuak namo-Mu"
+    },
+    {
+      "surface": "תן",
+      "gloss": "barikan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabagusan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kasatiaan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:03.253925804Z",
+  "model": "glm-5.3"
+}

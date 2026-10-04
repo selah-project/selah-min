@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo urang nan malalokan ⟨את⟩ laki-laki, sarupo lalok jo padusi — toevah nan alah dibuek kaduonyo; pasti mati urang tu dibunuah, darahnyo di atehnyo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "malalokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laki-laki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "sarupo lalok"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "padusi"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "toevah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nan alah dibuek"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kaduonyo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti mati"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "urang tu dibunuah"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:49.746611275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Hesed jo kabanaran jangan tinggakan kau; ikeknyo di lihia kau, tulihnyo di papan ati kau.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "jo kabanaran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "tinggakan kau"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "ieknyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "lihia kau"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "tulihnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "papan"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ati kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:14.443659925Z",
+  "model": "glm-5.3"
+}

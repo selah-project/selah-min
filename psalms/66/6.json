@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Inyo mambaliak lauik manjadi darek; di sungai inyo maanta lalu jo kaki; di situ kito bagembira di dalam-Nyo.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "mambaliak"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "manjadi darek"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "maanta lalu"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "jo kaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di situ"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "bagembira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalam-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:34.988886515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 2:7",
+  "book": "habakkuk",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Bakalilang indakkah pangecek bunga pitih ka ang barangsak, jo nan manggalagak ang tagaduik, jo ang manjadi rampasan untuak inyo?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "indakkah"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "bakalilang mato"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "barangsak"
+    },
+    {
+      "surface": "נשכיך",
+      "gloss": "pangecek bunga pitih ka ang"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "tagaduik"
+    },
+    {
+      "surface": "מזעזעיך",
+      "gloss": "nan manggalagak ang"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ang manjadi"
+    },
+    {
+      "surface": "למשסות",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "untuak inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:16:49.673879487Z",
+  "model": "glm-5.3"
+}

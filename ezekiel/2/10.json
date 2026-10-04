@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu inyo mampalaweh-an ⟨את⟩ inyo di muko ambo, dan inyo tatulih muko jo balakang; tatulih pulo ka atehnyo: kiduang, tangih patangahan, jo aniéh.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "lalu inyo mampalaweh-an"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (gulungan kitab)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "dan inyo"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "tatulih"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muko"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "jo balakang"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "jo tatulih"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka atehnyo"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kiduang"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "tangih patangahan"
+    },
+    {
+      "surface": "והי",
+      "gloss": "aniéh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:47:49.959019945Z",
+  "model": "glm-5.3"
+}

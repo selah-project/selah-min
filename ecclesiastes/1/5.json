@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Matoari tabik jo matoari tatok, jo ka tampeknyo manggaduah nafas inyo tabik — inyo di sinan.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "jo tabik"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "jo tatok"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tampeknyo"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "manggaduah nafas"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "tabik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:19.144796094Z",
+  "model": "glm-5.3"
+}

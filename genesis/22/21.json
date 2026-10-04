@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "⟨את⟩ Uts anak partamonyo, jo ⟨את⟩ Buz sudaronyo, jo ⟨את⟩ Kemuel ayah Aram.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uts"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uts"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak partamonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sudaronyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:21.552883810Z",
+  "model": "glm-5.3"
+}

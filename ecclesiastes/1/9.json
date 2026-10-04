@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Apo nan parnah ado, itu pulo nan ka ado; jo apo nan parnah dibaokan, itu pulo nan ka dibaokan; indak ado sasuatu nan baru di bawah matoari.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nan parnah ado"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "nan ka ado"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jo apo"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "nan parnah dibaokan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu pulo"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "nan ka dibaokan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sasuatu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nan baru"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:20.173886348Z",
+  "model": "glm-5.3"
+}

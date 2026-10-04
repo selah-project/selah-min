@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Alah elok Kau buaik jo jo dunsanak ambo, Yahweh, manuruik kato-Mu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Kau buaik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "dunsanak ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "manuruik kato-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:57.857243772Z",
+  "model": "glm-5.3"
+}

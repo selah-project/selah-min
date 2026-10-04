@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo ambo juo alah bakato: ambo indak akan mangasiahan ⟨את⟩ urang tu dari hadapan sanak, jo urang tu ka manjadi duri di lambiang sanak, jo elohim urang tu ka manjadi jerat bagi sanak.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo ambo juo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "alah bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "akan mangasiahan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dari hadapan sanak"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "jo urang tu ka manjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "di lambiang sanak"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "duri"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "jo elohim urang tu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ka manjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi sanak"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "jerat"
+    }
+  ],
+  "timestamp": "2026-10-04T09:07:16.863202097Z",
+  "model": "glm-5.3"
+}

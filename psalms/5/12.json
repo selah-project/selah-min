@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo bia sanang sadonyo nan bahalok ka-Mu; salamo-lamonyo inyo manyanyi jo sorak-sorak gambia; jo Engkau malinduangi inyo; jo urang-urang nan mangasihi Namo-Mu basuka-raih ka-Mu.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "jo bia sanang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "nan bahalok"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "inyo manyanyi jo sorak-sorak gambia"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "jo Engkau malinduangi"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "jo basuka-raih"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka-Mu"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "urang-urang nan mangasihi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Namo-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:01.693864114Z",
+  "model": "glm-5.3"
+}

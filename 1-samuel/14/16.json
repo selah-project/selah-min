@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 14:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo panjago Saul di Giva Benyamin maagieh caliak, jo tapek — rimbo urang tu lah malelieh, pai ka sinjo jo ka sono.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "maagieh caliak"
+    },
+    {
+      "surface": "הצפים",
+      "gloss": "panjago"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "di Giva"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jotapek"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "rimbo urang"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "malelieh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "והלם",
+      "gloss": "ka sinjo jo ka sono"
+    }
+  ],
+  "timestamp": "2026-10-04T05:27:36.142922107Z",
+  "model": "glm-5.3"
+}

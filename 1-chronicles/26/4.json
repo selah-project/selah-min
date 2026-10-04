@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo kapado Oved-Edom ado anak-anak: Semaia nan partamo lahia, Yehozavad nan kaduo, Yoak nan katigo, Sokhar nan kaampek, jo Netanel nan kalimo.",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "jo kapado Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Semaia"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "nan partamo lahia"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Yehozavad"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Yoak"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "nan katigo"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "jo Sokhar"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "nan kaampek"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "jo Netanel"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "nan kalimo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:47:39.075798452Z",
+  "model": "glm-5.3"
+}

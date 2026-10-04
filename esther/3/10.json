@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu rajo maambiak ⟨את⟩ cinannyo dari tangannyo, jo maagiahnyo kapado Haman, anak Hamdata, urang Agagi, pamanasah urang Yahudi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "laian rajo maambiak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cinannyo"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "cinannyo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "jo maagiahnyo"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "kapado Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "urang Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "pamanasah"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "urang Yahudi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:21.440393266Z",
+  "model": "glm-5.3"
+}

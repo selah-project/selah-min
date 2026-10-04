@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo Dawid mangumpuan ⟨את⟩ sadoalah Yisrael ka Yerushalayim, untuak mambaok naiak ⟨את⟩ tabut Yahweh ka tampeknyo, nan alah inyo siapan untuaknyo.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "mangumpuan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "untuak mambaok naiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tampeknyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "siapan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:35.015328011Z",
+  "model": "glm-5.3"
+}

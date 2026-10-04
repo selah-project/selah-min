@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 11:37",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo ambo mandapek ⟨את⟩ ang, jo ang ka bakuaso di sagalo nan diinginkan dek jiwa ang, jo ang ka manjadi rajo ateh Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתך",
+      "gloss": "jo ⟨את⟩ ang",
+      "marks": "ang"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ambo mandapek"
+    },
+    {
+      "surface": "ומלכת",
+      "gloss": "ang ka bakuaso"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "diinginkan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "dek jiwa ang"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ang ka manjadi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:14.647591898Z",
+  "model": "glm-5.3"
+}

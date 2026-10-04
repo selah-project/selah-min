@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Pado taun kadatangan Tartan ka Ashdod, katiko Sargon, rajo Ashur, mangirim ⟨את⟩ inyo, inyo bajangek malawan Ashdod jo manakuiknyo.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "pado taun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kadatangan"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ka Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "katiko mangirim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "bajangek malawan"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "jo manakuiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:14:35.576711046Z",
+  "model": "glm-5.3"
+}

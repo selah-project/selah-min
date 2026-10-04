@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Janga babanci ⟨את⟩ urang sanakmu di atimu; pasti kanciah ⟨את⟩ kawanmu, supayo indak mambao doso atehnyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janga"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "babanci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang sanakmu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "urang sanakmu"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "di atimu"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "kanciah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanmu"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "kawanmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mambao"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "doso"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:47.850623082Z",
+  "model": "glm-5.3"
+}

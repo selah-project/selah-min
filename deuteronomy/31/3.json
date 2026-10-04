@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Yahweh, Elohim sanak, inyo nan ka malewati di muko sanak; inyo ka mambinasoan ⟨את⟩ bangso-bangso iko dari muko sanak, jo sanak ka mawarisi urang tu; Yehosyua, inyo nan ka malewati di muko sanak, sarupo nan alah dikato Yahweh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim sanak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ka malewati"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di muko sanak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "ka mambinasoan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso-bangso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "dari muko sanak"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "jo sanak ka mawarisi urang tu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ka malewati"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di muko sanak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alah dikato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:03:13.571118586Z",
+  "model": "glm-5.3"
+}

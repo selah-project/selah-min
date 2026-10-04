@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Inyo manambah lai lahia ⟨את⟩ sudaronyo ⟨את⟩ Hebel; manjadi Hebel pai manggambala kambiang jawi, sarato Kayin pangarajo tanah.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "manambah lai"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "lahia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudaronyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sudaronyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pai manggambala"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambiang jawi"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "sarato Kayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "pangarajo"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:00.474269350Z",
+  "model": "glm-5.3"
+}

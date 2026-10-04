@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Dek baa, pakai an kamaneh-manehan jo katinggian, jo pakai pulo kamuliaan jo kagalehan.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "pakai an"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dekk ba"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamaneh-manehan"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "jo katinggian"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "jo kamuliaan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "jo kagalehan"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "pakai pulo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:13:38.808547636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Karano baruo benci bagi Yahweh, Elohim angKau, sagalo urang nan buek iko, sagalo urang nan buek kalewatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "baruo benci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim angKau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "urang nan buek"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "urang nan buek"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kalewatan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:58:55.006025007Z",
+  "model": "glm-5.3"
+}

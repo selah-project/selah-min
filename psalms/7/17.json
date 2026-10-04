@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Baliaklah kasaiahannyo ka kapalonyo surang, jo ka puncak kapalonyo turunlah kakasaannyo.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Baliaklah"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "kasaiahannyo"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ka kapalonyo surang"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "puncak kapalonyo"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "kakasaannyo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turunlah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:40.515855582Z",
+  "model": "glm-5.3"
+}

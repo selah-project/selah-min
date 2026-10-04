@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Dangan pandanga talingo ambo alah mandanga Yahweh, tapi kini mato ambo nampak Yahweh.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "untuak mandanga"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "talingo"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ambo mandanga Yahweh"
+    },
+    {
+      "surface": "ו עתה",
+      "gloss": "tapi kini"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "nampak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:16:17.665797027Z",
+  "model": "glm-5.3"
+}

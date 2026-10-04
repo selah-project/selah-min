@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Tapi hesed ambo indak ambo rusak dari inyo, jo indak ambo mambuek katilu dalam kasatiaan ambo.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "tapi hesed ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "ambo rusak"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "dari inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "mambuek katilu"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "dalam kasatiaan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:37.077510441Z",
+  "model": "glm-5.3"
+}

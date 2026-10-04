@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Ambo mandanga, tapi indak mamahami; lalu ambo bakato: Adonai, apo akia dari sadoalah iko?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "mamahami"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "lalu ambo bakato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "akia"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sadoalah iko"
+    }
+  ],
+  "timestamp": "2026-10-04T08:31:55.691104725Z",
+  "model": "glm-5.3"
+}

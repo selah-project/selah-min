@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Sabuah syair, mazmur untuak urang katurunan Korach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "syair"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "untuak urang katurunan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:02.013061601Z",
+  "model": "glm-5.3"
+}

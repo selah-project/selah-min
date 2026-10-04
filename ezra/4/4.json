@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu urang-urang nagari itu malompong-an tangan urang Yehudah, jo mamasarok-an inyo supayo indak mambangun.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lalu tajadilah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari itu"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "malompong-an"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "jo mamasarok-an"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "supayo indak mambangun"
+    }
+  ],
+  "timestamp": "2026-10-04T08:33:18.886476246Z",
+  "model": "glm-5.3"
+}

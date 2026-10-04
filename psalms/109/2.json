@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Karano muncuik urang jahat jo muncuik panipuik alah dibukak tahadok ambo; inyo mangeceak ⟨את⟩ ambo jo lido paliang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muncuik"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "jo muncuik"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "panipuik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tahadok ambo"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "dibukak"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mangeceak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lido"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "paliang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:23.074524031Z",
+  "model": "glm-5.3"
+}

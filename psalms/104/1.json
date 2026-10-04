@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Berkati, o ati ambo, ⟨את⟩ Yahweh; Yahweh, Elohim ambo, Elah sungguah gadang; kaagungan jo kamuliaanlah nan Tacalutakan.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Berkati"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "sungguah gadang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "kaagungan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "jo kamuliaan"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "Tacalutakan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:03.181244925Z",
+  "model": "glm-5.3"
+}

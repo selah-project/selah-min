@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lubang inyo gali jo inyo paleroan; ka dalam runtuahan nan inyo buwek inyo jatuah surang.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "lubang"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "gali"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "paleroan"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "ka dalam runtuahan"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "buwek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:06.164663703Z",
+  "model": "glm-5.3"
+}

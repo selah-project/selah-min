@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 85,
+  "translation": "Sungguah, dakek kapado urang nan takuik kapado-Nyo kasalamatan-Nyo, supayo kagamangan badiam di tanah kito.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sungguah"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kapado urang nan takuik kapado-Nyo"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "kasalamatan-Nyo"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "supayo ... badiam"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kagamangan"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "di tanah kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:53.414895460Z",
+  "model": "glm-5.3"
+}

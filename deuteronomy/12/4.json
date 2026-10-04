@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Indak sanak buaik co itu untuak Yahweh, Elohim sanak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indak"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "sanak buaik"
+    },
+    {
+      "surface": "כן",
+      "gloss": "co itu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:41.710830584Z",
+  "model": "glm-5.3"
+}

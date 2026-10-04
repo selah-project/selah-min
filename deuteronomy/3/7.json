@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Tapi sagalo taranak jo rampasan koto-koto tu, kito rabuak untuak diri kito surang.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "tapi sagalo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "taranak"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "jo rampasan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "koto-koto tu"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "kito rabuak"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak diri kito surang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:45.483495345Z",
+  "model": "glm-5.3"
+}

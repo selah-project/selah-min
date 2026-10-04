@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Hanyo dek kasombongan ado pasalisihan, tapi jo ⟨את⟩ urang-urang nan bapandapek ado hikmah.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "dek kasombongan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mambuek ado"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "pasalisihan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang nan bapandapek"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "urang-urang nan bapandapek"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:22.192814575Z",
+  "model": "glm-5.3"
+}

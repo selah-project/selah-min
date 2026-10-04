@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Bahkan kok ambo bajalan di lambah bayangan kamatian, ambo indak takuik jo buek jahaik, karano Sanak basamo ambo; tungkek Sanak jo panungkek Sanak, iyo nan maàmaik ambo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ambo bajalan"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "di lambah"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "bayangan kamatian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ambo takuik"
+    },
+    {
+      "surface": "רע",
+      "gloss": "buek jahaik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sanak"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "basamo ambo"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "tungkek Sanak"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "jo panungkek Sanak"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iyo nan"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "maàmaik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:44.512546511Z",
+  "model": "glm-5.3"
+}

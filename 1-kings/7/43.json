@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo ⟨את⟩ sapuluah panyangkuah, jo ⟨את⟩ sapuluah bejanja cuci di ateh panyangkuah-panyangkuah itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sapuluah panyangkuah"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "panyangkuah-panyangkuah"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sapuluah bejanja cuci"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "bejanja-bejanja cuci"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "panyangkuah-panyangkuah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:47:41.490437979Z",
+  "model": "glm-5.3"
+}

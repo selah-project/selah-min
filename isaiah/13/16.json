@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Anak-anak urang tu dilantak di mato urang tu surang-surang, rumah-rumah urang tu dirampok, jo bini-bini urang tu diambiak laku.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "anak-anak urang tu"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "dilantak"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "di mato urang tu"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "dirampok"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "rumah-rumah urang tu"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "jo bini-bini urang tu"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "diambiak laku"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:44.705294847Z",
+  "model": "glm-5.3"
+}

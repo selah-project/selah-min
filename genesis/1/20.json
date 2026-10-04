@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Elohim bakato: Baniaiknyo aia mambaok anak dagiang iduik nan taruang-ruang, jo buruang tabang di ateh bumi, di muko rakyik langik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "baniaiknyo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "nan taruang-ruang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "jo buruang"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "tabang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakyik"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:43.995550824Z",
+  "model": "glm-5.3"
+}

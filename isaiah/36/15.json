@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "jan pulo bia Hizkiyahu mambuek ⟨את⟩ awak sanak picayo kapado Yahweh, mangecekan: Yahweh ka lupaikan awak; kota ko indak ka disarahan ka tangan rajo Ashur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jan pulo"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "mambuek picayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awak sanak",
+      "marks": "awak sanak"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecekan"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "lupai"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ka lupaikan awak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ka disarahan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:05.023793535Z",
+  "model": "glm-5.3"
+}

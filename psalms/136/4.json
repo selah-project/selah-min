@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "Kapado nan mambuek hal-hal gadang nan mandahsyatkan surang sajo, karano salamo-lamonyo hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "kapado nan mambuek"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "hal-hal nan mandahsyatkan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "surang sajo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:14.328423200Z",
+  "model": "glm-5.3"
+}

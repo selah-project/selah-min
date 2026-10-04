@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu ambo bakato kapado inyo: kalau elok di mato kalian, barikan upah ambo; kalau indak, batalahkan. Lalu inyo manimbang ⟨את⟩ upah ambo: tigo puluah perak.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lalu ambo bakato"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "di mato kalian"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "barikan"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "upah ambo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "batalahkan"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "lalu inyo manimbang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upah ambo"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "upah ambo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tigo puluah"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:20:21.330349975Z",
+  "model": "glm-5.3"
+}

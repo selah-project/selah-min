@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Mato ambo lah rabun dek kasadio; lah tuo dek sado musuah-musuah ambo.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "lah rabun"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "dek kasadio"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "lah tuo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dek sado"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "musuah-musuah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:21.775315108Z",
+  "model": "glm-5.3"
+}

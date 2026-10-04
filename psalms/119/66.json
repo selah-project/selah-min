@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ajaran ambo kabajikan raso jo pangatahuan, karano kapado mitswat-Mu ambo alah pacayo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kabajikan"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "raso"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "jo pangatahuan"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajaran ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "kapado mitswat-Mu"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ambo alah pacayo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:57.857526233Z",
+  "model": "glm-5.3"
+}

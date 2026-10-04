@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu inyo ma utuih ⟨את⟩ pamudo-pamudo anak-anak Yisrael, lapeh tu urang tu mamboa Offering nan tarangkek tu, dan urang tu manyambaik sambaik-sambaik hasia salam untuak Yahweh, iyo anak-anak lumbu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ma utuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamudo-pamudo anak-anak Yisrael"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "pamudo-pamudo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישׂראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "urang tu mamboa nan tarangkek tu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "Offering nan tarangkek tu"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "dan urang tu manyambaik"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "sambaik-sambaik"
+    },
+    {
+      "surface": "שׁלמים",
+      "gloss": "hasia salam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "anak-anak lumbu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:11.809551323Z",
+  "model": "glm-5.3"
+}

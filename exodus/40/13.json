@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo pakaian an Aharon jo ⟨את⟩ pakaian-pakaian suci, jo diurapi inyo, jo disucik an inyo, jo inyo manjadi imam kapado Ambo.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "jo pakaian an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-pakaian suci"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "jo diurapi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ in yo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "jo disucik an"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ in yo"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "jo manjadi imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado Ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:03.867210960Z",
+  "model": "glm-5.3"
+}

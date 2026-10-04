@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo inyo musti mambaok ⟨את⟩ urang Levi ka muko kemah patamuan, jo inyo musti mangumpuakan ⟨את⟩ saluruah jamaah anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "inyo musti mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Levi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka muko"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "inyo musti mangumpuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saluruah jamaah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:40:55.385514349Z",
+  "model": "glm-5.3"
+}

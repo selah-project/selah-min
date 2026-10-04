@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lalu Elohim bakato kapado Bileam: Jan pai jo mareka; jan kutuak ⟨את⟩ bangso ko, karano inyo alah diberkati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu ... bakato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "jo mareka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "kutuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso ko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "alah diberkati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:07.532591670Z",
+  "model": "glm-5.3"
+}

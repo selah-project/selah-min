@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Sado jando jo anak yatim, indak buliah kalian manyasani.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "jando"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "jo anak yatim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak buliah"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "kalian manyasani"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:04.766107065Z",
+  "model": "glm-5.3"
+}

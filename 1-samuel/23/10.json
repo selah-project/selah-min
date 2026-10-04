@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Lalu Dawid bakato: Yahweh, Elohim ni Yisrael, amba paambo mandanga basonyo Sha'ul nio masuak ka Keilah, untuak mangancuakan kota itu dek karano ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu Dawid bakato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pasti mandanga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "amba paambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "basonyo"
+    },
+    {
+      "surface": "מבקשׁ",
+      "gloss": "nio"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "untuak mangancuakan"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "dek karano ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:53.786623966Z",
+  "model": "glm-5.3"
+}

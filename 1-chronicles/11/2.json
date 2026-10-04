@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 11:2",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Baitu juo kapatang, baitu juo urang sabalunnyo, baitu juo katiko Shaol manjadi rajo, angkalah nan mambaok kalua jo mambaok masuak ⟨את⟩ Yisrael; jo Yahweh, Elohim ang, alah bakato kapado ang: Angka nan ka maambia ⟨את⟩ umaik Ambo, ⟨את⟩ Yisrael, jo angka nan ka manjadi pangulu ateh umaik Ambo, Yisrael.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "kapatang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "urang sabalunnyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkalah"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "nan mambaok kalua"
+    },
+    {
+      "surface": "והמביא",
+      "gloss": "jo nan mambaok masuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo alah bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angka"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "nan ka maambia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umaik Ambo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umaik Ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "jo angka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ka manjadi"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umaik Ambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T08:43:53.838130810Z",
+  "model": "glm-5.3"
+}

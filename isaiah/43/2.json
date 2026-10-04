@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Karano katiko ikau malinteh aia, ambo basamo ⟨את⟩ ikau, jo katiko ka sungai-sungai, inyo indak ka manangkuik ikau; katiko ikau bajalan ka tangah api, ikau indak ka tagosuah, jo lado api indak ka manyala dalam diri ikau.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano katiko"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ikau malinteh"
+    },
+    {
+      "surface": "במים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "basamo ⟨את⟩ ikau",
+      "marks": "ambo basamo ikau"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "jo katiko ka sungai-sungai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "ka manangkuik ikau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano katiko"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ikau bajalan"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ka tangah"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "ka tagosuah"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "jo lado api"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ka manyala"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dalam diri ikau"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:07.031919875Z",
+  "model": "glm-5.3"
+}

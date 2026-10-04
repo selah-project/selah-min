@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Kagalangan jo bayang kamatian maambiak baliak ⟨inyo⟩; awan tingga di atehnyo; singgok-singgok ari mambueknyo takuik sarupo kapahikian ari.",
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "maambiak baliak"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kagalangan"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "jo bayang kamatian"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "awan"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "mambueknyo takuik"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "sarupo kapahikian"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:07.989444964Z",
+  "model": "glm-5.3"
+}

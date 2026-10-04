@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Mato ambo lah kalah manunggu patolongan-Mu, jo kato tsedeq-Mu.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "lah kalah manunggu"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "patolongan-Mu"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "jo kato"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedeq-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:31.663331206Z",
+  "model": "glm-5.3"
+}

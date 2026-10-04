@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo urang asiang indak usah samo manakan, karano urang tu samu babana manganai ⟨את⟩ jiwo urang asiang, dek karano urang tu pernah manjadi urang asiang di tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "jo urang asiang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "usah samo manakan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jo urang tu"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "samu babana manganai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwo urang asiang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "pernah manjadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:08.789023826Z",
+  "model": "glm-5.3"
+}

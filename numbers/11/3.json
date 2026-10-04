@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo urang tu maagiah namo tampek itu Tavera, karano api Yahweh alah manyalo di tangah urang tu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maagiah namo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tavera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "alah manyalo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di tangah urang tu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:45.363129833Z",
+  "model": "glm-5.3"
+}

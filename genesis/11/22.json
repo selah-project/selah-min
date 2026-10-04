@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo Serug iduik tigo puluah taun, lalu inyo manurunkan ⟨את⟩ Nakhor.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tigo puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhor"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:28.123572906Z",
+  "model": "glm-5.3"
+}

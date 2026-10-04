@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Laju Yaakov maagiah namo kapado tampek tampek Elohim bakato jo ⟨את⟩ inyo di sinan: Beit-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maagiah namo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ino (Yaakov)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:17.976239415Z",
+  "model": "glm-5.3"
+}

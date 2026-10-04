@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jadi Zimri mangapuih ⟨את⟩ sadoalah isi rumah Baasa, sasuai jo kato Yahweh nan alah inyo ucapkan kapado Baasa dek tangan Yehu nabi.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "mangapuih"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah isi rumah Baasa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "isi rumah"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sasuai jo kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ucapkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dek tangan"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:39.350004370Z",
+  "model": "glm-5.3"
+}

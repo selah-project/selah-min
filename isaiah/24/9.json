@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Dangan nyanyian indak urang tu minum aia anggur; manjadi pait tuak bagi nan maminyaknyo.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "dangan nyanyian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "minum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "aia anggur"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "manjadi pait"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "tuak"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "untuak nan maminyaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:12:51.214117021Z",
+  "model": "glm-5.3"
+}

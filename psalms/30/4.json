@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Yahweh, Awak alah maangkek nafiah ambo dari Sheol, Awak maagiah iduik ambo, dari urang nan turun ka lubang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "Awak alah maangkek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafiah ambo"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "Awak maagiah iduik ambo"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "dari urang nan turun"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ka lubang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:41.717870503Z",
+  "model": "glm-5.3"
+}

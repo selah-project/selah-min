@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Babaratiahlah, hai bangso-bangso, kapado Elohim kito, jo bunyikanlah suaro pujian-Nyo.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Babaratiahlah"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "hai bangso-bangso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "kapado Elohim kito"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "jo bunyikanlah"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:34.989136079Z",
+  "model": "glm-5.3"
+}

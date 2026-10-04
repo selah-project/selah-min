@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo dilatak-an inyo ⟨את⟩ poti Yahweh ka ateh kareta itu, sarato ⟨את⟩ peti tu, ⟨את⟩ maih-maih ameh, jo ⟨את⟩ gambar-gambar bengkak-bengkak mareka.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "jo dilatak-an inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poti Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "poti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kareta itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peti tu"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "peti tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maih-maih ameh"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "maih-maih"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gambar-gambar bengkak-bengkak mareka"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "gambar-gambar"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "bengkak-bengkak mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:50.895153723Z",
+  "model": "glm-5.3"
+}

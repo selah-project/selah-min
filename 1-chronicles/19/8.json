@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo Dawid mandanga, jo inyo mangirim ⟨את⟩ Yoab jo ⟨את⟩ sagalo pasukan urang-urang gagah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "inyo mangirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo pasukan urang-urang gagah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "urang-urang gagah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:46:19.185602047Z",
+  "model": "glm-5.3"
+}

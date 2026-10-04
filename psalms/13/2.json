@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Sampai bilamana, Yahweh, Engkau lupo kapado ambo salamo-lamonyo? Sampai bilamana Engkau manyuruak-an ⟨את⟩ muko-Mu dari pado ambo?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "bilamana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "lupo kapado ambo"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "bilamana"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "manyuruak-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko-Mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari pado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:03.106661401Z",
+  "model": "glm-5.3"
+}

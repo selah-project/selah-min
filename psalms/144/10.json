@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Nan maagiah palapeh kapado rajo-rajo, nan malapeh ⟨את⟩ Dawid hambanyo dari padang nan jaek.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Nan maagiah"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "palapeh"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kapado rajo-rajo"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "nan malapeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hambanyo"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dari padang"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nan jaek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:37.234874594Z",
+  "model": "glm-5.3"
+}

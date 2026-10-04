@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Yahweh ⟨adalah⟩ urang parang; Yahweh namonyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "parang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:43.946138253Z",
+  "model": "glm-5.3"
+}

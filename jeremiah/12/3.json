@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Tapi Angkau, Yahweh, lah mangatahui ambo, Angkau mancaliak ambo, jo Angkau mancaliak jo menguji ati ambo basamo ⟨את⟩ Inyo; pacahkan inyo sarupo kambiang untuak sambeleh, jo sucikan inyo untuak ari pambantaian.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tapi Angkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "lah mangatahui ambo"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "Angkau mancaliak ambo"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "jo menguji"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "basamo ⟨את⟩ Inyo",
+      "marks": "ambo, ati ambo"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "pacahkan inyo"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sarupo kambiang"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "untuak sambeleh"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "jo sucikan inyo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "untuak ari"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "pambantaian"
+    }
+  ],
+  "timestamp": "2026-10-04T06:30:41.118166570Z",
+  "model": "glm-5.3"
+}

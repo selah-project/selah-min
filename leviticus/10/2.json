@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu kalua api dari muko Yahweh, lalu maanga ⟨את⟩ inyo, jo inyo mati di muko Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "maanga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "mati"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:31.472856800Z",
+  "model": "glm-5.3"
+}

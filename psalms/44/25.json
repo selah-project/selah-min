@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Baa kok mukoↄN datamuni, jo dilupokan panyasahan kito jo panakan kito?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mukoↄN"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "datamuni"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dilupokan"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "panyasahan kito"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "jo panakan kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:10.952791522Z",
+  "model": "glm-5.3"
+}

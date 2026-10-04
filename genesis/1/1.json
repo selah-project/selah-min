@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Pado mulonyo Elohim manjadian ⟨את⟩ langik jo ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Pado mulonyo"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "manjadian"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langik"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:13.329247573Z",
+  "model": "glm-5.3"
+}

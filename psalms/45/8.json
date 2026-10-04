@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Angkau pancintai tsedeq jo pambanci kabatulan; karano iko Elohim, Elohim angkau, mangurapi angkau jo minyak kariahan malabihi dunsanak-dunsanak angkau.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "angkau pancintai"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "pambanci"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kabatulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iko"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "mangurapi angkau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim angkau"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kariahan"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "dunsanak-dunsanak angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:19.794223212Z",
+  "model": "glm-5.3"
+}

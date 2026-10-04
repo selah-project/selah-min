@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Sia iko nan naiak dari padang gurun, basandar kapado kasiahnyo? Di bawah batang dapek ambo mambangunkan kau; di sinan umak kau manganduang; di sinan inyo manganduang, nan malahiran kau.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sia"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "basandar"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "kasiahnyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "batang dapek"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "ambo mambangunkan kau"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "manganduang"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "umak kau"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "manganduang"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "nan malahiran kau"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:53.731236120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Moshe mancaritokan kapado Aharon ⟨את⟩ sagalo kato-kato Yahweh nan mandutuah inyo, jo ⟨את⟩ sagalo tando-tando nan diparentahkan kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "lalu mancaritokan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kapado Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kato-kato Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "mandutuah inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo tando-tando"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "tando-tando"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diparentahkan kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:22.472554192Z",
+  "model": "glm-5.3"
+}

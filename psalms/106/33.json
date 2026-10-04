@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Karano inyo mambuek pahik ⟨את⟩ ruakhnyo, sahinggo inyo bacatur sacapeknyo jo bibiahnyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "mambuek pahik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakhnyo"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakhnyo"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "bacatur sacapeknyo"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "jo bibiahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:17.771651437Z",
+  "model": "glm-5.3"
+}

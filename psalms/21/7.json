@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Karano Sanak mambueknyo manjadi barakaik salamo-lamonyo; Sanak manyanangkan inyo jo ria di muko ⟨את⟩ Sanak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "Sanak mambueknyo"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "barakaik"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "Sanak manyanangkan inyo"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "jo ria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko Sanak"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko Sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:21.600741746Z",
+  "model": "glm-5.3"
+}

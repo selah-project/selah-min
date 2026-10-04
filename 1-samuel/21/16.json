@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Apo ambo kurang urang gilo, sampai kau urang mambaok ⟨את⟩ urang iko untuak bagilo-gilo di muko ambo? Kok urang iko masuak ka rumah ambo?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "urang gilo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "kau urang mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang iko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "urang iko"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "untuak bagilo-gilo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di muko ambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "urang iko"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:21.132527042Z",
+  "model": "glm-5.3"
+}

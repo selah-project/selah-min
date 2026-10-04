@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo inyo bakato kapadonyo: Agiah ambo barakaik, karano sanak alah maagiah ambo tanah nagari selatan; agiah pulo ambo mato aia. Lalu Kalev maagiah kapadonyo ⟨את⟩ mato aia nan di ateh jo ⟨את⟩ mato aia nan di bawah.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "agiahlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barakaik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "nagari selatan"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "sanak alah maagiah ambo"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "agiah pulo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mato aia"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lalu maagiah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mato aia nan di ateh"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mato aia"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "nan di ateh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mato aia nan di bawah"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mato aia"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "nan di bawah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:12:16.935067332Z",
+  "model": "glm-5.3"
+}

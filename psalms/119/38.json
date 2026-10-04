@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Tegakkan kato-Mu kapado hamba-Mu, nan mambaok kapado takuik kapado-Mu.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Tegakkan"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kapado hamba-Mu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kato-Mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "kapado takuik kapado-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:29.581220646Z",
+  "model": "glm-5.3"
+}

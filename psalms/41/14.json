@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Tabarokatlah Yahweh, Elohim-nyo Yisrael, dari samaso lamo inggo samaso lamo. Amin, jo amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Tabarokatlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-nyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "dari samaso lamo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "inggo"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "samaso lamo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "jo amin"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:28.659011200Z",
+  "model": "glm-5.3"
+}

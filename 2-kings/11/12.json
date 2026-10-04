@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu inyo mangaluakan ⟨את⟩ anak rajo tu, jo maagiah ka atehnyo ⟨את⟩ mahkota jo ⟨את⟩ kasaksian, lalu urang tu maangkek inyo manjadi rajo jo maurapi inyo; urang tu tapuak tangan jo bakato: Sansay rajo tu iduik!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mangaluakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak rajo tu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka atehnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahkota"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kasaksian"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "maangkek manjadi rajo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (anak rajo tu)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "maurapi inyo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "tapuak"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:13:14.949988120Z",
+  "model": "glm-5.3"
+}

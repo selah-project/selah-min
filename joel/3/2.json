@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo juo ka ateh amba-amba laki-laki jo ka ateh amba-amba padusi pado ari-ari itu Ambo malimpahkan ⟨את⟩ ruakh Ambo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "amba-amba laki-laki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ka ateh"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "amba-amba padusi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "pado ari-ari"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "Ambo malimpahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh Ambo"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh Ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:16.130698919Z",
+  "model": "glm-5.3"
+}

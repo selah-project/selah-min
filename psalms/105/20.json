@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Rajo mangirim urang jo malapehan inyo, panguaso banso-banso, jo mamardekan inyo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mangirim urang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "jo malapehan inyo"
+    },
+    {
+      "surface": "משל",
+      "gloss": "panguaso"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "banso-banso"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "jo mamardekan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:58.406623767Z",
+  "model": "glm-5.3"
+}

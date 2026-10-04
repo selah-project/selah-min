@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dan kau ka tau jo atimu, bahwasanyo sasupek saurang urang maaja ⟨את⟩ anaknyo, Yahweh Elohim kaamu maaja kau.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "dan kau ka tau"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwasanyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sasupek"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "maaja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaknyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kaamu"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "maaja kau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:46.092638848Z",
+  "model": "glm-5.3"
+}

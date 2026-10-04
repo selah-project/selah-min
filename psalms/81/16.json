@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Urang-urang nan banci Yahweh lah mampasunda patuik kapado-Nyo, dan maso inyo ka salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Urang-urang nan banci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "lah mampasunda patuik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado-Nyo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan maso"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "maso inyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:04.639846065Z",
+  "model": "glm-5.3"
+}

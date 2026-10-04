@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Sia nan manumpahkan darah manusia, dek manusia darahnyo ka ditumpahkan, karano dalam gambar Elohim inyo alah mambuek ⟨את⟩ manusia.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "manumpahkan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "dek manusia"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ka ditumpahkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dalam gambar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:07.348890896Z",
+  "model": "glm-5.3"
+}

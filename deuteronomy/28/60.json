@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "deuteronomy 28:60",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo Ia ka mambaok baliak ka ang ⟨את⟩ sagalo panyakik Mitsrayim nan ang takuik kapadonyo, jo panyakik-panyakik itu ka malakek diri kapado ang.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "mambaok baliak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo panyakik Mitsrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מדוה",
+      "gloss": "panyakik"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יגרת",
+      "gloss": "ang takuik"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ודבקו",
+      "gloss": "malakek diri"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kapado ang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:52.958748801Z",
+  "model": "glm-5.3"
+}

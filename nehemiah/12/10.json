@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo Yeshua malahiakan ⟨את⟩ Yoyakim, jo Yoyakim malahiakan ⟨את⟩ Elyashiv, jo Elyashiv ⟨את⟩ Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "jo Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "jo Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "jo Elyashiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-10-04T08:38:50.682328237Z",
+  "model": "glm-5.3"
+}

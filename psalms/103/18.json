@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "untuak urang-urang nan maharuih parjanjian-Nyo, jo nan manganang parentah-parentah-Nyo untuak malakukannyo.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "untuak urang-urang nan maharuih"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "parjanjian-Nyo"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "jo nan manganang"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "parentah-parentah-Nyo"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "untuak malakukannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:09.870299904Z",
+  "model": "glm-5.3"
+}

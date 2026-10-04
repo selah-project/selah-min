@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu turunlah anak Paro untuak mandi di tapi aia gadang, jo pamasio-pamasionyo bajalan di tapi aia gadang tu; lalu inyo caliak ⟨את⟩ peti tu di tangah-tangah rumpuik unus, lalu inyo mangutusan ⟨את⟩ amba padusinyo, jo amba tu maambiaknyo.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "turunlah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "untuak mandi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "aia gadang"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "jo pamasio-pamasionyo"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "aia gadang"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti tu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "peti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "rumpuik unus"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "mangutusan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amba padusinyo"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "amba padusi"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "maambiaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:32.498316313Z",
+  "model": "glm-5.3"
+}

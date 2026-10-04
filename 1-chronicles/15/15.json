@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo anak-anak Levi maangkek ⟨את⟩ Tabut Elohim jo tungkai-tungkainyo di ateh balakang inyo, sarupo nan diparentahkan Moshe manuruik kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tabut Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "manuruik kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "di ateh balakang inyo"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "jo tungkai-tungkai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:40.889997022Z",
+  "model": "glm-5.3"
+}

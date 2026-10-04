@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "jo ⟨את⟩ duah buah kidek, jo ⟨את⟩ lemak nan ado di atehnyo, nan ado di ateh pinggang, jo ⟨את⟩ umpak hati di ateh ati — basamo kidek inyo maninggaannyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duah buah kidek"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duah"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buah kidek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pinggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umpak hati"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "umpak hati"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ati"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "kidek"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "inyo maninggaannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:10.641461899Z",
+  "model": "glm-5.3"
+}

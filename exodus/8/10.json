@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo urang tu mangumpuakan ⟨את⟩ inyo, tubuak-tubuak bana, sahinggo bumi babaun.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Jo urang tu mangumpuakan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (katak-katak nan mati)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "tubuak-tubuak"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "bana (tubuak-tubuak)"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "sahinggo bumi babaun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:38.389058751Z",
+  "model": "glm-5.3"
+}

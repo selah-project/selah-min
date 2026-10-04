@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 63,
+  "translation": "Katiko ambo mangana Angkau di ateh lalok ambo, di wakatu-wakatu jago malam ambo mampikia Angkau.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ambo mangana Angkau"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "lalok ambo"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "di wakatu-wakatu jago malam"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ambo mampikia"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:45.577484524Z",
+  "model": "glm-5.3"
+}

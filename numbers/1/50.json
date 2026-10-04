@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 1:50",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sadangko ang, pasiahkan ⟨את⟩ urang Levi ateh Mishkan hanan kasaksian, jo ateh sagalo pakakasnyo, jo ateh sagalo nan ado padanyo; mareka nan ka mangangkek ⟨את⟩ ⟨ה⟩ Mishkan jo ⟨את⟩ sagalo pakakasnyo, jo mareka nan ka malayaninyo; jo sakaliliang ⟨ה⟩ Mishkan mareka bakamp.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sadangko ang"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "pasiahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Levi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "hanan kasaksian"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pakakasnyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ado padanyo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mareka"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ka mangangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo pakakasnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pakakasnyo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "jo mareka"
+    },
+    {
+      "surface": "ישרתהו",
+      "gloss": "ka malayaninyo"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "jo sakaliliang"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "mareka bakamp"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:52.060836801Z",
+  "model": "glm-5.3"
+}

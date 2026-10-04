@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 97,
+  "translation": "Langik-langik mambaritahu tsedeq-Nyo, jo sadonyo bangso-bangso alah mancaliak kamuliaan-Nyo.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "mambaritahu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik-langik"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tsedeq-Nyo"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "jo alah mancaliak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamuliaan-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:57.913144333Z",
+  "model": "glm-5.3"
+}

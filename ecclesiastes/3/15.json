@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Apo nan alah ado, alah lamo ado; jo nan ka ado, alah lamo ado; jo Elohim mancari baliak ⟨את⟩ nan alah lalu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nan alah ado"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "alah lamo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ado"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo nan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ka ado"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "alah lamo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "jo Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "mancari baliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan alah lalu"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "nan alah lalu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:45.778371268Z",
+  "model": "glm-5.3"
+}

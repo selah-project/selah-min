@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Karano Yahweh indak ka mangisia umat Nyo, jo warisan Nyo indak ka ditinggaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "ka mangisia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat Nyo"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "jo warisan Nyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ka ditinggaan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:43.428711966Z",
+  "model": "glm-5.3"
+}

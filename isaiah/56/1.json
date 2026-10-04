@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Ko kato Yahweh: Jago-lah hukum, jo bua-lah tsedeq, karano patolongan Ambo dakek tibo, jo tsedeq Ambo dakek taliek.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "jago-lah"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "jo bua-lah"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "patolongan Ambo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "jo tsedeq Ambo"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "taliek"
+    }
+  ],
+  "timestamp": "2026-10-04T06:22:29.637309771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Baitu juo inyo buek untuak sado biniannyo nan asiang, nan manyarangkok dupa jo mambaen kurban ka eloim masiang-masiang.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak sado"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "biniannyo"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "nan asiang"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "manyarangkok dupa"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "jo mambaen kurban"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "ka eloim masiang-masiang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:49:55.045921703Z",
+  "model": "glm-5.3"
+}

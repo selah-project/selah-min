@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Nan mandanga doa, kapado-Mu sagalo dagiang ka datang.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nan mandanga"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ka datang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:36.900647714Z",
+  "model": "glm-5.3"
+}

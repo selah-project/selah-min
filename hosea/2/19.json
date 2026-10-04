@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Karano ambo ka mambiahan ⟨את⟩ namo-namo Baal dari mungkonyo, jo indak lai namonyo diingek jo namonyo.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "jo ambo ka mambiahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo-namo Baal"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "dari mungkonyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "diingek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "jo namonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:43.765670601Z",
+  "model": "glm-5.3"
+}

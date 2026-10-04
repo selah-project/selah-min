@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "lalu dipakano inyo jo kasusahan atinyo; urang tu taguliang, ndak ado panolong.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "lalu dipakano"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "jo kasusahan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "urang tu taguliang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndak ado"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "panolong"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:04.630560110Z",
+  "model": "glm-5.3"
+}

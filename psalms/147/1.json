@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Pujilah Yah, karano elok mancinto-i Elohim kito; karano lamak, tapek pujian itu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "mancinto-i"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "tapek"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pujian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:55.926552358Z",
+  "model": "glm-5.3"
+}

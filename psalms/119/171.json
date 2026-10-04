@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Bibir-bibir ambo mangedar pujian, karano Engkau mangaja ambo sumpe-sumpe-Mu.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "mangedar"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibir-bibir ambo"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pujian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "Engkau mangaja ambo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sumpe-sumpe-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:38.085139786Z",
+  "model": "glm-5.3"
+}

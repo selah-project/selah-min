@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Kalau inyo dapek barjuang jo ambo jo mambunuah ambo, kito manjadi hamba-hamba untuak awak iyo; tapi kalau ambo nan dapek malawan inyo jo mambunuahnyo, awak iyo manjadi hamba-hamba untuak kito, jo awak iyo mawanangi ⟨את⟩ kito.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "inyo dapek"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "barjuang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ jo"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "jo mambunuah ambo"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "kito manjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak awak iyo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tapi kalau"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nan dapek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "malawan inyo"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "jo mambunuahnyo"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "awak iyo manjadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kito"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "mawanangi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kito",
+      "marks": "kito"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:15.071374860Z",
+  "model": "glm-5.3"
+}

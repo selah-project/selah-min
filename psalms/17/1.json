@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Doa Dawid. Tarimoanlah tsedeq, wahai Yahweh, pasatikanjo ciek ka rinyoak ambo; tarimoanlah doa ambo, nan indak kalua dari bibia nan penuh tipu.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Tarimoanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "pasatikanjo ciek"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "rinyoak ambo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tarimoanlah"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ambo"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nan indak"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dari bibia"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "penuh tipu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:21.092663181Z",
+  "model": "glm-5.3"
+}

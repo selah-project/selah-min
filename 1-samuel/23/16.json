@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Lalu Yonatan anak Sha'ul bangan, pai ka Dawid di Khorsha, jo manguek ⟨את⟩ tangannyo di Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bangan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "Khorsha"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "jo manguek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:56.380991150Z",
+  "model": "glm-5.3"
+}

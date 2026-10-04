@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo ambo ka jadian ⟨את⟩ kota iko manjadi rusuak jo manjadi siul-an; satiok urang nan malewatinyo ka tatarik jo mauiak dek sagalo latiah-latuahnyo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ambo ka jadian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota iko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "manjadi rusuak"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "jo manjadi siul-an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "urang nan malewati"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ka tatarik"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "jo ka mauiak"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "latiah-latuahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:34:21.297127297Z",
+  "model": "glm-5.3"
+}

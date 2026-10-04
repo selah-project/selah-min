@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Nan tangannyo tatagak basamo inyo, lengan ambo juo manguekkan inyo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "tatagak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juo"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "lengan ambo"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "manguekkan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:34.934100261Z",
+  "model": "glm-5.3"
+}

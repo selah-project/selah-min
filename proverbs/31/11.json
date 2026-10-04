@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Ati laki-lakinyo pacik panyampek kapadonyo, jo rampasan indak inyo kakurangan.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "pacik panyampek"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "laki-lakinyo"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "jo rampasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "inyo kakurangan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:33.012246193Z",
+  "model": "glm-5.3"
+}

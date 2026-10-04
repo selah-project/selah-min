@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo kapado anak-anak Aharon ado baso-baso pambagian urang tu: anak-anak Aharon — Nadab jo Avihu, Elazar jo Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "jo kapado anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "baso-baso pambagian urang tu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "jo Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "jo Itamar"
+    }
+  ],
+  "timestamp": "2026-10-04T08:47:15.653333439Z",
+  "model": "glm-5.3"
+}

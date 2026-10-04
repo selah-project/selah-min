@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Karano Yahweh, Nan Tatinggi, mambuek takuik; Rajo gadang ateh saluruah bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nan Tatinggi"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mambuek takuik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Rajo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:04.429060438Z",
+  "model": "glm-5.3"
+}

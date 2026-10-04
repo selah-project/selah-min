@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Kalian sanamo alah tau bahasonyo jo sagalo kakuatan ambo ambo alah bakarajo ⟨את⟩ abah kalian.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kalian sanamo"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "alah tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahasonyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kakuatan ambo"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ambo bakarajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abah kalian"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "abah kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:20.268373180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": " Mareka masiang-masiang manjampokan tongkeknyo, jo tongkek-tongkek itu manjadi ula; tapi tongkek Aharon manalan ⟨את⟩ tongkek-tongkek mareka.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "manjampokan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masiang-masiang"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tongkeknyo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "manalan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkek"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkek-tongkek mareka"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "tongkek-tongkek mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:05.968265783Z",
+  "model": "glm-5.3"
+}

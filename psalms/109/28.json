@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Bilo urang tu mangutuki, angkau mangaleokan; bilo urang tu bangkik, urang tu mahaok; tapi ambo-Mu basuka roso.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "urang tu mangutuki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "mangaleokan"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "urang tu bangkik"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "urang tu mahaok"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "ambo-Mu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "basuka roso"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:18.973566837Z",
+  "model": "glm-5.3"
+}

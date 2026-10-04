@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu inyo bakato: Barek bana nan sanak minta; tapi kok sanak caliak ⟨את⟩ ambo katiko diambiak dari ⟨את⟩ sanak, mako manjadi untuak sanak sarupo itu; tapi kok indak, mako indak tajadi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "barek bana nan sanak minta"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "untuak diminta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "sanak caliak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambiak"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "dari ⟨את⟩ sanak"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mako manjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak sanak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sarupo itu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tapi kok"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tajadi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:46.295179721Z",
+  "model": "glm-5.3"
+}

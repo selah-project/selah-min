@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 22:6",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lalu Yehosua mamarakihn tu, jo mangiriman urang tu pulang, jo urang tu pai ka khemah-khemah urang tu.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "mamarakihn tu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "mangiriman urang tu pulang"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "khemah-khemah urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:49.949907848Z",
+  "model": "glm-5.3"
+}

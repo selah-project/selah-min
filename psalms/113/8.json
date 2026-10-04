@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 113,
+  "translation": "Untuak mamalueknyo duduak basarato urang gadang, basarato urang gadang kaumnyo.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "Untuak mamalueknyo duduak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basarato"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "urang gadang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basarato"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "urang gadang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaumnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:53.607014969Z",
+  "model": "glm-5.3"
+}

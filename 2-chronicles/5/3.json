@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo bakumpuah pulo ka hadapan rajo sado urang Yisrail pado hari raya tu, iyolah bulan nan katujuah.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "jo bakumpuah pulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka hadapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrail"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "pado hari raya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyolah"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "nan katujuah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:50:46.197364983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Tsedeq jo hukum adolah pandirian takhta-Mu; hesed jo kabanaran bapacik di muko muko-Mu.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jo hukum"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "pandirian"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "takhta-Mu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "jo kabanaran"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "bapacik di muko"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:35.539158383Z",
+  "model": "glm-5.3"
+}

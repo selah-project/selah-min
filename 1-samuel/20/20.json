@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo ambo maambiak tigo anak paneh, manambak ka sampiang, sarupo maambiak latiahan untuak diri ambo, ka arah sasaran.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "anak paneh"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "ka sampiang"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "manambak mambuek latiahan"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "untuak mangirim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak diri ambo"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "ka arah sasaran"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:41.235438207Z",
+  "model": "glm-5.3"
+}

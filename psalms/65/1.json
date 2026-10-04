@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Untuak pamimpin musik, mazmur untuak Dawid, lagu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak pamimpin musik"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:36.900306441Z",
+  "model": "glm-5.3"
+}

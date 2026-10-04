@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 138,
+  "translation": "Karano tinggi Yahweh, tapi Inyo caliak ⟨urang⟩ nan randah; urang nan congkak Inyo katahui dari jauah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רם",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "tapi Inyo caliak urang nan randah"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "urang nan congkak"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "dari jauah"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "Inyo katahui"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:40.727013397Z",
+  "model": "glm-5.3"
+}

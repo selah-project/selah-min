@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Ambo bungih, indak ambo bukak runduang ambo, karano Engkaulah nan mambueknyo.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ambo bungih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ambo bukak"
+    },
+    {
+      "surface": "פי",
+      "gloss": "runduang ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "mambueknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:02.288123895Z",
+  "model": "glm-5.3"
+}

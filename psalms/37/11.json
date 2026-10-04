@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Urang-urang randah ati akan mawarisi bumi, jo mareka ka basanang-sanang ateh kasaimbangan nan banyak.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "urang-urang randah ati"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "akan mawarisi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "mareka ka basanang-sanang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kasaimbangan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:42.019756407Z",
+  "model": "glm-5.3"
+}

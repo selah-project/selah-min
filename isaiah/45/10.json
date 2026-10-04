@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Celakalah inyo nan bakato kapado apak: Apo nan Urang karanakan? jo kapado padusi: Apo nan Urang badan?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "celakalah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "kapado apak"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "Urang karanankan"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "jo kapado padusi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "Urang badan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:40.918294315Z",
+  "model": "glm-5.3"
+}

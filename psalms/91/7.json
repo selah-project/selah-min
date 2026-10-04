@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Saribu jatuah di sampiang kau, jo sapuluah ribu di suok kanan kau; nantu indak ka mandakek kapado kau.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "di sampiang kau"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "saribu"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "jo sapuluah ribu"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "di suok kanan kau"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ka mandakek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:44.394397008Z",
+  "model": "glm-5.3"
+}

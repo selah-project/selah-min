@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Malam jo siang inyo indak ka padam, salamanyo asoknyo naik; dari angkatan ka angkatan inyo ka kariang; salamo-lamonyo indak ado nan ka malewati inyo.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "jo siang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ka padam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "asoknyo"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "dari angkatan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ka angkatan"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "ka kariang"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "sapanuah maso"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nan ka malewati"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:09.164618598Z",
+  "model": "glm-5.3"
+}

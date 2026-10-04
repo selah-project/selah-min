@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Karano kabijaksanaan masuak ka atimu, jo pangatahuan manjadi lamak untuak nyawamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kabijaksanaan"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "ka atimu"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "jo pangatahuan"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "untuak nyawamu"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "manjadi lamak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:39.125852111Z",
+  "model": "glm-5.3"
+}

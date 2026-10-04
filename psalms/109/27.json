@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Supayo urang tu tau baso iko adolah tangan-Mu, angkau, Yahweh, nan alah mambueknyo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "supayo urang tu tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "nan alah mambueknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:18.973323350Z",
+  "model": "glm-5.3"
+}

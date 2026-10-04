@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Jo amiak bakecek kapadonyo: urang jujur ambo; indak kami urang pancaliak-caliak.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "jo amiak bakecek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "urang jujur"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "urang pancaliak-caliak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:49.697550742Z",
+  "model": "glm-5.3"
+}

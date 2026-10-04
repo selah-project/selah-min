@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Kamudian ambo tibo di Yerushalayim, jo ambo barado di sinan tigo ari.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "kamudian ambo tibo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "jo ambo barado"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tigo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:36:02.291589165Z",
+  "model": "glm-5.3"
+}

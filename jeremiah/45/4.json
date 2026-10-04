@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Begini awak kaatokan kapadonyo: begini kato Yahweh: Caliek, nan ambo bangun, ambo lah mandobrak, jo ⟨את⟩ nan ambo tanam, ambo lah mancabaik, bahkan ⟨את⟩ sadoalah bumi iko.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "begini"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "awak kaatokan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "begini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ambo bangun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "mandobrak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nan ambo tanam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ambo tanam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "mancabaik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "bahkan ⟨את⟩",
+      "marks": "sadoalah bumi iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T06:42:52.518852396Z",
+  "model": "glm-5.3"
+}

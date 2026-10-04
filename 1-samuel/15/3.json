@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Kini ko, pai, dan pukulah ⟨את⟩ Amalek, dan bueklah banjua ⟨את⟩ sadonyo nan dipunyoinyo, jan ampiaan inyo; bunuahlah dari urang laki-laki sampai padusi, dari anak ketek sampai nan manyusu, dari lumbu sampai anak domba, dari unta sampai kaladi.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Kini ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "dan pukulah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "dan bueklah banjua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadonyo nan dipunyoinyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dipunyoinyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "ampiaan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "bunuahlah"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari urang laki-laki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "padusi"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "dari anak ketek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "nan manyusu"
+    },
+    {
+      "surface": "משור",
+      "gloss": "dari lumbu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שה",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "dari unta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "kaladi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:36.447805235Z",
+  "model": "glm-5.3"
+}

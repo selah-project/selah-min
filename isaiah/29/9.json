@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Batahanlah lai jo kagumikan; picikö matö kalian, inggo buto; kalian mabuak, tapi indak dek anggur; kalian taguncang, tapi indak dek minuman kareh.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "batahanlah lai"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "jo kagumikan"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "picikö matö"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "inggo buto"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "mabuak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "taguncang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "minuman kareh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:15:10.076753966Z",
+  "model": "glm-5.3"
+}

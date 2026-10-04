@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Kato Yahweh: Co ko iko ambo mamburuak ⟨את⟩ kabanggaan Yehudah jo ⟨את⟩ kabanggaan Yerushalayim nan gadang.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "co ko iko"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ambo mamburuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabanggaan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kabanggaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kabanggaan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kabanggaan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "nan gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:31:53.771965994Z",
+  "model": "glm-5.3"
+}

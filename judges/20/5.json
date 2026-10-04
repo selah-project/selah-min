@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 20:5",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lalu urang-urang Gibeah bangkik mandukuang ambo, jo malingkari ⟨את⟩ rumah ambo pado malam ari; ambo inyo runduang untuak dibunuah, jo ⟨את⟩ pilegesh ambo inyo pakaro, inggo inyo mati.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mandukuang ambo"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibeah"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "malingkari"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam ari"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "ambo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "runduang"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "untuak dibunuah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "pilegesh ambo"
+    },
+    {
+      "surface": "פילגשי",
+      "gloss": "pilegesh ambo"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "inggo inyo mati"
+    }
+  ],
+  "timestamp": "2026-10-04T05:22:03.360317578Z",
+  "model": "glm-5.3"
+}

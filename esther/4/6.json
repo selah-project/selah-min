@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Hatakh kalua manuju Mordekhai, ka lapangan kota nan ado di muko gapuro rajo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatakh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manuju"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "lapangan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:23.439602494Z",
+  "model": "glm-5.3"
+}

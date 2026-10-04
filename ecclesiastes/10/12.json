@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Kato-kato dari muloik urang bijak mambao kasayangan; tapi bibia urang bodoh manalan inyo surang.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muloik"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "urang bijak"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasayangan"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "tapi bibia"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "manalan inyo surang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:47.589647596Z",
+  "model": "glm-5.3"
+}

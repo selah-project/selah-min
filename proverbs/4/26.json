@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Ratoan lah jalan <lang-min>awak<\/lang-min>, jo sado jalan awak tu ka bakeh kokoh.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "ratoan"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kaki awak tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan-jalan awak tu"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ka bakeh kokoh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:49.144950899Z",
+  "model": "glm-5.3"
+}

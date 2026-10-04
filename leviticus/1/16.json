@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Inyo mahapuih ⟨את⟩ paruik makanannyo basamo isinyo, jo mambaliaknyo di sabalah timua mezbah, ka tampek dabu.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "mahapuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paruik makanannyo"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "paruik makanannyo"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "basamo isinyo"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "jo mambaliaknyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "di sabalah timua mezbah"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "di sabalah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "timua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "dabu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:38.528791249Z",
+  "model": "glm-5.3"
+}

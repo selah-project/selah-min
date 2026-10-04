@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Aia mancali San, Elohim, aia mancali San, aia baratakiang; bahkan kadalaman-kadalaman baguncang.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "mancali San"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "mancali San"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "baratakiang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "baguncang"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "kadalaman-kadalaman"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:49.100597392Z",
+  "model": "glm-5.3"
+}

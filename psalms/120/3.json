@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 120,
+  "translation": "Apo nan diagiah kapado ang, apo lai nan ditambah kapado ang, hai lido panipu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nan diagiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ang"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "apo lai"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "nan ditambah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ang"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "hai lido"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "panipu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:51.245547360Z",
+  "model": "glm-5.3"
+}

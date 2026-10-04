@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Suaro Yahweh ateh aia; El nan bagamaria mahalihuaan guruh, Yahweh ateh aia nan banyak.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "nan bagamaria"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "mahalihuaan guruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:28.963797401Z",
+  "model": "glm-5.3"
+}

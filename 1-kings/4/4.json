@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "jo Benayahu anak Yehoyada ateh balatentara; jo Tsadok jo Evyatar imam-imam.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "jo Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "balatentara"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "jo Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "jo Evyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "imam-imam"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:49.240790685Z",
+  "model": "glm-5.3"
+}

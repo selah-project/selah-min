@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo Moshe, Aharon, jo anak-anaknyo mambasuah dariinyo ⟨את⟩ tangan jo ⟨את》 tungkai mareka.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "jo mareka mambasuah"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dariinyo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jo Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jo anak-anaknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan mareka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mareka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tungkai mareka"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "tungkai mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:15.891741404Z",
+  "model": "glm-5.3"
+}

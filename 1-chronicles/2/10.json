@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Ram manurunkan ⟨את⟩ Aminadab, jo Aminadab manurunkan ⟨את⟩ Nakhshon, pamimpin urang Yehudah.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "jo Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pamimpin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:21.860748036Z",
+  "model": "glm-5.3"
+}

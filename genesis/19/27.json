@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu Avraham babangun pagi-pagi ka tampek tampek inyo tagak barado di ⟨את⟩ muko Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "babangun pagi-pagi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tagak barado"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:37.498364284Z",
+  "model": "glm-5.3"
+}

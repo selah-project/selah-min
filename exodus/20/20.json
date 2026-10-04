@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Moshe bakato kapado urang banyak tu: Jan takuik, karano untuak manguji ⟨את⟩ kito Elohim datang, jo supayo takuik kapado-Nyo ado di muko kito, bia kito indak mambuek duso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "manguji"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kito",
+      "marks": "kito"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "jo supayo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "takuik kapado-Nyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "muko kito"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "bia... indak"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "mambuek duso"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:25.563383458Z",
+  "model": "glm-5.3"
+}

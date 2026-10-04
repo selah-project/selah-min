@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Jo basanang-sananglah jo Yahweh, jo Inyo maagiah kapado au nan dipinta ati au.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "basanang-sananglah"
+    },
+    {
+      "surface": "על",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jo Inyo maagiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado au"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "nan dipinta"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ati au"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:07.165660112Z",
+  "model": "glm-5.3"
+}

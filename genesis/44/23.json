@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Dan sanak bakato kapado hamba-hamba sanak: Kok adiak laki-laki kito nan bungsu indak turun ⟨את⟩ basamo kito, kito indak ka dapek pulo caliak muko sanak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dan sanak bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hamba sanak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "adiak laki-laki kito"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nan bungsu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ basamo kito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "ka dapek pulo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:07.444088244Z",
+  "model": "glm-5.3"
+}

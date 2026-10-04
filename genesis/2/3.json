@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Elohim marekatan ⟨את⟩ ari nan katujuah, sarato manyucian ⟨את⟩-nyo, karano pado ari tu Inyo baranti dari sagalo karya-Nyo nan Elohim alah ciptakan untuak dibuek.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "marekatan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ari nan katujuah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nan katujuah"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "manyucian"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nyo",
+      "marks": "ari nan katujuah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pado ari tu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "baranti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "karya-Nyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ciptakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak dibuek"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:44.897120499Z",
+  "model": "glm-5.3"
+}

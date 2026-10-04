@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jadi Moshe bakato kapado anak-anak Yisrael supayo malakukan ⟨את⟩ Paskah.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "supayo malakukan"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨את⟩ Paskah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:44.241932763Z",
+  "model": "glm-5.3"
+}

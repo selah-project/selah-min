@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 42:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Ruben manjawab urang tu, kato: Indak ke mangko ambo alah bakato kapado kito: jan bagala dosa kapado anak itu — dan kito indak mandanga; jo darahnyo kini, caliak, sadang ditagih.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "manjawab"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "indak ke"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo alah bakato"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kapado kito"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "bagala dosa"
+    },
+    {
+      "surface": "בילד",
+      "gloss": "kapado anak itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "kito mandanga"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "נדרש",
+      "gloss": "sadang ditagih"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:39.150658693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Bakatolah ka anak-anak Yisrael, jo katak kokolah ka urang tu: Ambo Yahweh, Elohim nan punyo kalian.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bakatolah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jo katak kokolah"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka urang tu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nan punyo kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:26.930301178Z",
+  "model": "glm-5.3"
+}

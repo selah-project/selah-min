@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo urang tu mangubuaan ⟨את⟩ inyo, jo sadoalah Yisrael manangih inyo, sasuai kato Yahweh nan indak lai dikatokan dek tangan hambonyo Achiyahu nabi.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "mangubuaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (anak Yarobam nan dikubua)"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "manangih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sasuai kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikatokan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dek tangan"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hambonyo"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Achiyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:28.207722865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Tapi Angkau, Yahweh, jan lah jauah; kakuatan ambo, mandapek capek-lah untuak manolong ambo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tapi Angkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "lah jauah"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "kakuatan ambo"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "untuak manolong ambo"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "mandapek-lah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:25.313621390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo Avraham alah tuo, alah masuak ka dalam ari-arihnyo, jo Yahweh alah mambarakahi ⟨את⟩ Avraham jo sagalonyo.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Jo Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "alah tuo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ka dalam ari-arihnyo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "jo Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "alah mambarakahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sagalonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:07.990605409Z",
+  "model": "glm-5.3"
+}

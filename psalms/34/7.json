@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Urang miskin iko bakato mambuek, jo Yahweh mandanga, jo dari sagalo kasusahan urang tu Inyo salamaikan urang tu.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "עני",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "bakato mambuek"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "jo Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "jo dari sagalo"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "kasusahan urang tu"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "Inyo salamaikan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:14.375967646Z",
+  "model": "glm-5.3"
+}

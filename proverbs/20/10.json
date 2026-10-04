@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Batu nan ciek jo batu nan ciek, efa nan ciek jo efa nan ciek — kaduonyo punYo tampek jijik di mato Yahweh.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "jo efa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "tampek jijik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kaduonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:58:43.484376023Z",
+  "model": "glm-5.3"
+}

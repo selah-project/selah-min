@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "jo urang nan mambuek japuik-japuik, urang nan batanyo kapado arwah jo urang nan tau mambao kato arwah, jo urang nan mancari kapado urang mati.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "jo urang nan mambuek"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "japuik-japuik"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "jo urang nan batanyo kapado"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "arwah"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "jo urang nan tau mambao kato arwah"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "jo urang nan mancari kapado"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "urang mati"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:45.945749062Z",
+  "model": "glm-5.3"
+}

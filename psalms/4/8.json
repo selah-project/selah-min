@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Kau alah mambuek karia'an di ati ambo, labiah dari wakatu kok pagan jo anggur baru mambauek.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Kau alah mambuek"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "karia'an"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "di ati ambo"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "dari wakatu"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "pagan"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "jo anggur baru"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "mambauek"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:29.397126409Z",
+  "model": "glm-5.3"
+}

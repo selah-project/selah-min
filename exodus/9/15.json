@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Karano kini laun ambo kusuokan tangan ambo, mambunuah Angkau jo ⟨את⟩ kaum Angkau jo wabah — inggo Angkau punah dari bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "olah kusuokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan ambo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan ambo"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "mambunuah"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "Angkau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaum Angkau"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaum Angkau"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "jo wabah"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "inggo Angkau punah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:12.193890747Z",
+  "model": "glm-5.3"
+}

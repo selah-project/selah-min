@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Dek suaro musuah, dari muko panakanan urang jaang, karano inyo mandorakkon kajahatan ateh ambo, jo dalam kaangek inyo mambanci ambo.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "dek suaro"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "panakanan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jaang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "mandorakkon jatuah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "און",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "jo dalam kaangek"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "inyo mambanci ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:25.782429376Z",
+  "model": "glm-5.3"
+}

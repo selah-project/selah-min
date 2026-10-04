@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Jo satiok padusi nan atinyo mangingkek ⟨את⟩ inyo untuak bijaksano mambanting ⟨את⟩ bulu kambiang.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo satiok"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "padusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mangingkek"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "atinYo"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "bijo-bijo dalam bijaksano"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "untuak bijaksano"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "mambanting"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulu kambiang"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bulu kambiang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:46.791456720Z",
+  "model": "glm-5.3"
+}

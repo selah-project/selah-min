@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo kau urang musti manjago ⟨את⟩ tugas nan suci jo ⟨את⟩ tugas mezbah, supayo indak ado lai kamurkaan ateh anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "jo manjago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugas nan suci"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tugas mezbah"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kamurkaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:45:17.324299673Z",
+  "model": "glm-5.3"
+}

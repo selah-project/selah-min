@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Kakatujuahan urang nan takuik kapado-Nyo inyo karajoan, jo ⟨את⟩ saroan urang tu inyo danga, jo inyo palaluih urang tu.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Kakatujuahan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "urang nan takuik kapado-Nyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "inyo karajoan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saroan urang tu"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "saroan urang tu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "inyo danga"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "jo inyo palaluih urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:48.036033209Z",
+  "model": "glm-5.3"
+}

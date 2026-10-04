@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Inyo mambuieh mangecek kato nan jangak; sado karajo-karajo jaah mandabiah diri.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "mambuieh"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "kato nan jangak"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "mandabiah diri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "karajo-karajo"
+    },
+    {
+      "surface": "און",
+      "gloss": "jaah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:41.438034612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo kau buek pulo tirai-tirai bulu kambiang untuak khemah di ateh Mishkan tu: sabaleh tirai kau buek ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo kau buek pulo"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "tirai-tirai"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "bulu kambiang"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "untuak khemah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan tu"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "sabaleh"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(sabaleh)"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kau buek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sabaleh tirai tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:59.483016485Z",
+  "model": "glm-5.3"
+}

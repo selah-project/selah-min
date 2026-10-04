@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Jo bulu-bulu sayoknyo inyo tutuik angkau, jo di bawah sayok-sayoknyo angkau balinduang; parasuik jo tameng kabanarannyo.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "jo bulu-bulu sayoknyo"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "tutuik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "jo di bawah"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "sayok-sayoknyo"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "balinduang"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "parasuik"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "jo tameng"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "kabanarannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:50.923458774Z",
+  "model": "glm-5.3"
+}

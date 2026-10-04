@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Katantu-katantu Yahweh luruih, manyanangkan ati; parintah Yahweh murni, manyinari mato.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "katantu-katantu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "luruih"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "manyanangkan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "murni"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "manyinari"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mato"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:50.664106438Z",
+  "model": "glm-5.3"
+}

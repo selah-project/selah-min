@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Mari kito patahkan ⟨את⟩ rantai-rantai urang tu, jo kito buang dari kito tali-tali urang tu.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Mari kito patahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rantai-rantai urang tu"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "rantai-rantai urang tu"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "jo kito buang"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari kito"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "tali-tali urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:14.254290181Z",
+  "model": "glm-5.3"
+}

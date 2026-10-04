@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "⟨את⟩ hukum-hukum Ambo kalian buaek, jo ⟨את⟩ katantuan-katantuan Ambo kalian jago, untuak jalan di dalamnyo; Ambo Yahweh, Elohim nan punyo kalian.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukum-hukum Ambo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-hukum Ambo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kalian buaek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "katantuan-katantuan Ambo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "katantuan-katantuan Ambo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kalian jago"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuak jalan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nan punyo kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:26.930743379Z",
+  "model": "glm-5.3"
+}

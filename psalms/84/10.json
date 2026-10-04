@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 84,
+  "translation": "Tampek balinduang awak, caliaklah, wa Elohim, jo tompoklah muko nan diurapi ⟨ini⟩.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "tampek balinduang awak"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "caliaklah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "jo tompoklah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "nan diurapi ⟨ko⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:59.595315373Z",
+  "model": "glm-5.3"
+}

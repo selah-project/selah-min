@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Baiak urang biaso baiak urang gagah, basamo-samo urang kaya jo urang miskin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "biaso"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gagah"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "basamo-samo"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "urang kaya"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "urang miskin"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:50.341228725Z",
+  "model": "glm-5.3"
+}

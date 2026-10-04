@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo Yahweh mangiriman angkau di jalan, jo bakato: Pai, jo banaamo ⟨את⟩ urang-urang pambuangan doso, ⟨את⟩ Amalek, jo barabuang jo inyo sampai inyo habih — ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "jo mangiriman angkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "jo banaamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang pambuangan doso"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "urang-urang pambuangan doso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "jo barabuang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "inyo habih"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Amalek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:00.805726199Z",
+  "model": "glm-5.3"
+}

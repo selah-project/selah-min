@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Mako tajadi, sasuai jo nan manyalasaiannyo kapado kito, ciek tu tajadi: ⟨את⟩ ambo inyo baliakan ka tampak ambo, jo ⟨את⟩ inyo digantuang.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mako tajadi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sasuai jo"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "manyalasaian"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado kito"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciek tu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tajadi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "ambo"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "baliakan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כני",
+      "gloss": "tampak ambo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "jo ⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "digantuang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:07:48.108642052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu inyo bakato kapado ambo: Siapo sanak? Lalu ambo bakato kapadoinyo: Ambo urang Amalek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadoinyo"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "urang Amalek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:34:28.887830438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu rajo bakato ka inyo tu: Mimpi ambo bamimpi, jo ruakh ambo tapacik untuak mangatahui ⟨את⟩ mimpi itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka inyo tu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "mimpi"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ambo bamimpi"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "jo tapacik"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ambo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuak mangatahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mimpi itu"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "mimpi itu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:25:51.560463940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Karano Engkau bukan El nan barehati jo kajahatan; jahek indak tingga di dakek Engkau.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "barehati jo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "tingga di dakek Engkau"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:00.397706590Z",
+  "model": "glm-5.3"
+}

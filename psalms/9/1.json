@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Untuak katuo musik, manuruik \"Almuth Laben\", mazmur untuak Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak katuo musik"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "manuruik \"Almuth"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben\""
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:19.224272084Z",
+  "model": "glm-5.3"
+}

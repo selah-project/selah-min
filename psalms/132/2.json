@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Nang basumpah kapado Yahweh, bajanji kapado Nan Gagah Yoakob:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "basumpah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "bajanji"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "kapado Nan Gagah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoakob"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:28.733346402Z",
+  "model": "glm-5.3"
+}

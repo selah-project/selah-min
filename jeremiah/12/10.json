@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Pangamba banyak alah marusak kabun anggur-Ko, inyo alah manjakik ⟨את⟩ laman-Ko; inyo alah mambuek ⟨את⟩ laman kanduang-Ko manjadi gurun nan rusak.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "pangamba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "alah marusak"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "kabun anggur-Ko"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "alah manjakik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laman-Ko"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "laman-Ko"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "alah mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laman kanduang-Ko"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "laman"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "kanduong-Ko"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "manjadi gurun"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "nan rusak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:31:13.924270112Z",
+  "model": "glm-5.3"
+}

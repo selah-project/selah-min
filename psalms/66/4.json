@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Sadoalah bumi ka manyujuik kapado-Mu, ka bazamai untuak-Mu, ka bazamai namo-Mu. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ka manyujuik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ka bazamai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak-Mu"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ka bazamai"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:08.029548357Z",
+  "model": "glm-5.3"
+}

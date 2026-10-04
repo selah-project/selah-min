@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 7:23",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu inyo mambuek ⟨את⟩ sagalo nan iduik nan ado di muko tanah — dari manusia sampai binatang, sampado nan bagerak, jo sampado buruang di langik — jo bubuak sagalonyo dari bumi; tingga hanyo Noach sajo jo nan basamo inyo di bahtera.",
+  "tokens": [
+    {
+      "surface": "וימח",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan iduik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "nan iduik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dari manusia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampado"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nan bagerak"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo sampado"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "buruang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "וימחו",
+      "gloss": "bubuak sagalonyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וישאר",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanyo · sajo"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "basamo ⟨את⟩ inyo"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "di bahtera"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:46.075094168Z",
+  "model": "glm-5.3"
+}

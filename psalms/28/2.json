@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Dangaan suaro pamohonan ambo katiko aku manyeru-sanyeru kapado Engkau, katiko aku mangangkek tangan ambo ka arah Debir kuduih-Mu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dangaan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pamohonan ambo"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "katiko aku manyeru-sanyeru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado Engkau"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "katiko aku mangangkek"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kuduih-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:52.753501155Z",
+  "model": "glm-5.3"
+}

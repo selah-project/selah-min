@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Jo lengan ⟨kau⟩ Kau alah manebaskan ⟨את⟩ umat Kau, anak-anak Yaakov jo Yosef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Kau alah manebaskan"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "jo lengan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat Kau"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "jo Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:27.590449369Z",
+  "model": "glm-5.3"
+}

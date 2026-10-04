@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Tulang-tulang ambo indak tasimpan dari Dakawan, katiko ambo dibuek di tampek rahasiao, disulam ambo di lambak-lambak bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "tasimpan"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang-tulang ambo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari Dakawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ambo dibuek"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di tampek rahasiao"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "disulam ambo"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "di lambak-lambak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:34.600571692Z",
+  "model": "glm-5.3"
+}

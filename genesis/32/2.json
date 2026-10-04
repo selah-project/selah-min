@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo Yaakov bajalan lai manuruik jalanunnyo, lalu basuo jo inyo utusan-utusan Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "jo Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bajalan lai"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "manuruik jalanunnyo"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "basuo jo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:20.776360985Z",
+  "model": "glm-5.3"
+}

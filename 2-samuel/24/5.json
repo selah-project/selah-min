@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu inyo maminteh iyo ⟨את⟩ Yarden, jo bagala di Aroer, di sabalah suok nagari nan ado di tangah lembek Gad, jo sampai ka Yezer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "maminteh iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bagala"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "di Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sabalah suok"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "lembek"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yezer"
+    }
+  ],
+  "timestamp": "2026-10-04T05:43:56.153021398Z",
+  "model": "glm-5.3"
+}

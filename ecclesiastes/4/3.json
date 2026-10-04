@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo labiah elok dari kaduonyo iolah ⟨את⟩ nan alun pernah ado, nan indak pernah mancaliak ⟨את⟩ karajo-karajo jahat nan tajadi di bawah matariari.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Jo labiah elok"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "dari kaduonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan alun pernah ado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "alun pernah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak pernah"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karajo-karajo jahat"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "karajo-karajo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tajadi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matariari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:15.894564323Z",
+  "model": "glm-5.3"
+}

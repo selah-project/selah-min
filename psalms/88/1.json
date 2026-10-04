@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Lagu, mazmur untuak urang Koraḥ; kapado nan mamimpin, ateh Makhalat Leannot; syair pandutuak dek Heiman nan Ezrahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "untuak urang"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraḥ"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "kapado nan mamimpin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Makhalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannot"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "syair pandutuak"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "dek Heiman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "nan Ezrahi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:17.889017229Z",
+  "model": "glm-5.3"
+}

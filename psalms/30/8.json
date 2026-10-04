@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Yahweh, dalam kasukoan-Mu Kau mambuek gunuang ambo tagak kuaik; Kau manyuruikkan muko-Mu, ambo manjadi tatarik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "dalam kasukoan-Mu"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "Kau mambuek tagak"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "gunuang ambo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kuaik"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "Kau manyuruikkan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ambo manjadi"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "tatarik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:52.800992474Z",
+  "model": "glm-5.3"
+}

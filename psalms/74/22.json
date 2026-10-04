@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Bangaiklah, O Elohim, barajo baraian-Mu; ingek-aia hinaan-Mu dek urang nan jahat, satiok ari.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangaiklah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "barajo"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "baraian-Mu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingek-aia"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "hinaan-Mu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dek"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "urang nan jahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:35.296989848Z",
+  "model": "glm-5.3"
+}

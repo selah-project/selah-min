@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Nan ciek di kareta, jo nan ciek di kudo; tapi kito — jo namo Yahweh Elohim kito kito manyabuik.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "di kareta"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "jo nan ciek"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "di kudo"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "tapi kito"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "kito manyabuik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:46.042652389Z",
+  "model": "glm-5.3"
+}

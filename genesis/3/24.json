@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Baliau mausir ⟨את⟩ manusia itu, jo mandirikan di sabalah timur taman Eden ⟨את⟩ kerub-kerub jo ⟨את⟩ suluah padang nan baputar, untuak manjago ⟨את⟩ jalan kayu iduik.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "mausir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia itu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "jo mandirikan"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "di sabalah timur"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "taman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerub-kerub"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerub-kerub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suluah padang"
+    },
+    {
+      "surface": "להט",
+      "gloss": "suluah"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "nan baputar"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "untuak manjago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:39.828552980Z",
+  "model": "glm-5.3"
+}

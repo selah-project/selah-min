@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Nyao kami alah manunggu Yahweh; patolongan kami jo paneunggal kami — inyo.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "nyao kami"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "alah manunggu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "patolongan kami"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "jo paneunggal kami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:28.463505914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Urang nan manggarik batu dapek cidrano deknyo; urang nan mambalah kayu dapek bahayo deknyo.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "nan manggarik"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "dapek cidrano"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deknyo"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "nan mambalah"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "dapek bahayo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "deknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:47.589050962Z",
+  "model": "glm-5.3"
+}

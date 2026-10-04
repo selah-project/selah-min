@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Celakalah inyo nan basangketo jo ⟨את⟩ Nan Mambantuaknyo — sipateh tanah basangketo jo ⟨את⟩ sipateh-sipateh tanah lain. Akokah tanah liek bakato kapado nan mambantuaknyo: Apo nan Urang buek? Atao karya Urang: Tangan indak ado?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "celakalah"
+    },
+    {
+      "surface": "רב",
+      "gloss": "basangketo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nan Mambantuaknyo"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "Nan Mambantuaknyo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sipateh tanah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sipateh-sipateh tanah lain"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "sipateh-sipateh tanah"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "akokah bakato"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "tanah liek"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "kapado nan mambantuaknyo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "Urang buek"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "jo karya Urang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:40.918060607Z",
+  "model": "glm-5.3"
+}

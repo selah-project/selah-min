@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Ambo Yahweh, jo indak ado nan lain; salain Ambo indak ado Elohim; ambo mamapek awakmu, baa pun awakmu indak mangatahui ambo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "salain Ambo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ambo mamapek awakmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "baa pun indak"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "awakmu mangatahui ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:20:45.108536084Z",
+  "model": "glm-5.3"
+}

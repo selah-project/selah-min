@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu Yehu lalok basamo nenek moyangnyo, jo urang tu mangubuakan ⟨את⟩ inyo di Someron, lalu Yehoahas anaknyo manjadi rajo manggantikan inyo.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nenek moyangnyo"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "mangubuakan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ino jo — Yehu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Someron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "manjadi rajo"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "manggantikan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:56.151919403Z",
+  "model": "glm-5.3"
+}

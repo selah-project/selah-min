@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 7:25",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Yehosyua bakato: Baa awak mandugo dek kau — Yahweh ka mandugo kau pado ari ko. Lalu sadoalah Yisrael mahalokan ⟨את⟩ inyo jo batu, lalu inyo maangsuak ⟨את⟩ urang tu jo api, jo mahalokan ⟨את⟩ urang tu jo batu-batu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "מה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "awak mandugo"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "ka mandugo kau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "mahalokan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "maangsuak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "mahalokan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "jo batu-batu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:05:55.173384625Z",
+  "model": "glm-5.3"
+}

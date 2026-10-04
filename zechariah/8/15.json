@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Baitu pulo ambo alah bapaliang, ambo mamarasia pado ari-ari ko untuak mambuek elok kapado ⟨את⟩ Yerushalayim jo ⟨את⟩ rumah Yehudah; jan takuik.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "baitu pulo"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ambo alah bapaliang"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "ambo mamarasia"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "pado ari-ari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "untuak mambuek elok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "rumah Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "takuik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:19:38.211053590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "San alah malaraskan ambo ka lobang nan paliang dalam, di tampek kagelapan, di lambuak-lambuak nan dalam.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "San alah malaraskan ambo"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ka lobang"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "nan paliang dalam"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "di tampek kagelapan"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "di lambuak-lambuak nan dalam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:41.907689167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Pagian maiam ⟨את⟩ beniahnyo, jo kok patang ari jan biaran tanganmu baranti, karano kau indak tau nan mana nan ka bakarajo elok, nan iko atau nan itu, jo kok duonyo samo-samo elok.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "pagian"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "maiam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beniahnyo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniahnyo"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "jo kok patang ari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "biaran baranti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "אי",
+      "gloss": "nan mana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ka bakarajo elok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan iko"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nan itu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jo kok"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duonyo"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "samo-samo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "elok"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:57.832274279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Imam mandabikkan ⟨את⟩ korban bakaran jo ⟨את⟩ minkha ka ateh mezbah, lalu imam mangadok karusakan atehnyo, jo inyo manjadi suci.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "mandabikkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ka ateh mezbah"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mangadok karusakan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "manjadi suci"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:56.322785262Z",
+  "model": "glm-5.3"
+}

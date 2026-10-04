@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Dan Yahweh Elohim-mu manyarahannyo ka tanganmu, dan kau pukua ⟨את⟩ sadonyo laki-laki nan ado di kota tu jo muncuang padang.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "manyarahannyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ka tanganmu"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "kau pukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadonyo laki-laki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "jo muncuang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:58:10.322617552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 67,
+  "translation": "Bia umat-umat raso sanang jo basorak-sorak kariahan, karano San mangeadili umat-umat sacaro adil, jo mamimpin umat-umat di ateh bumi. Selah",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "raso sanang"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "jo basorak-sorak kariahan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "San mangeadili"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "sacaro adil"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "jo umat-umat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di ateh bumi"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "mamimpin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:27.543605001Z",
+  "model": "glm-5.3"
+}

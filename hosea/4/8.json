@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Doso umat-Ku mareka makan, jo ka kadurhakoan mareka mareka mangangkek ⟨את⟩ nyawonyo.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "doso"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mareka makan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kadurhakoan mareka"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "mareka mangangkek"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "⟨את⟩ nyawonyo",
+      "marks": "nyawonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:10.698630578Z",
+  "model": "glm-5.3"
+}

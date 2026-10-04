@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dan kok minkha pacampua diateh panggangeang adolah korban ang, tapuang haluih dicampua jo minyak, roti tanpa rama ⟨adolah⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan kok"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pacampua diateh"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "panggangeang"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "korban ang"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tapuang haluih"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "dicampua"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "roti tanpa rama"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "adoalah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:19.284146271Z",
+  "model": "glm-5.3"
+}

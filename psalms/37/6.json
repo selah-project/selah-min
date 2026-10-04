@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Jo Diyo ka mancarokan cahayo tsedeq ang, jo hukum ang sarupo tangah ari.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Jo Diyo ka mancarokan"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "cahayo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedeq ang"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "jo hukum ang"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "sarupo tangah ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:05.076182043Z",
+  "model": "glm-5.3"
+}

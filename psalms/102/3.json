@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Jan manyuruikkan muko Sanak dari ambo pado aari sasak ambo; paliangkan talingo Sanak ka ambo; pado aari ambo maiau, capeklah manjawaik ambo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jan"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "manyuruikkan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko Sanak"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado aari"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sasak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "paliangkan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "talingo Sanak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado aari"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ambo maiau"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "capeklah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "manjawaik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:48.575109822Z",
+  "model": "glm-5.3"
+}

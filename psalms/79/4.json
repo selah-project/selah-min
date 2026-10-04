@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 79,
+  "translation": "Kito alah manjadi cela untuak tatanggo-tatanggo kito, olok-olok jo hinaan untuak urang-urang di sakaliliang kito.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "alah manjadi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "untuak tatanggo-tatanggo kito"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "olok-olok"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "jo hinaan"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "untuak urang-urang di sakaliliang kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:29.363258140Z",
+  "model": "glm-5.3"
+}

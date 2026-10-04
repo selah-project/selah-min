@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 90,
+  "translation": "Ari-ari taun-taun kito di dalamnyo tujuah puluah taun, jo kok dek kakuatan lapan puluah taun, tapi kabanggaiannyo adolah kasusahan jo kajahatan, karano capek tapotong jo kito tabang.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "taun-taun kito"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuah puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jo kok"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "dek kakuatan"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "lapan puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "tapi kabanggaiannyo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "jo kajahatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גז",
+      "gloss": "tapotong"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "capek"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "jo kito tabang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:11.732704567Z",
+  "model": "glm-5.3"
+}

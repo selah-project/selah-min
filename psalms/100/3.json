@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 100,
+  "translation": "Katauilah baso Yahweh, inyo lah Elohim; inyo nan mambuek kito, bukan kito surang; kito umatnyo, jo kawan tamba nan digambalanyo.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "katauilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "mambuek kito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kito surang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnyo"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "jo kawan tamba"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "nan digembalanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:58.281114267Z",
+  "model": "glm-5.3"
+}

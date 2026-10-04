@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Inyo mamaluah ⟨את⟩ Edom di Lembah Garam — sapuluah ribu — jo inyo manguasoi ⟨את⟩ Sela dalam paparangan, lalu inyo manamoi ⟨את⟩ namonyo Yoktheel, sampai ari ko.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "mamaluah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "di Lembah"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Garam"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "jo inyo manguasoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sela"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dalam paparangan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu inyo manamoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Yoktheel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-04T06:01:07.407459087Z",
+  "model": "glm-5.3"
+}

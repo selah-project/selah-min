@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 110,
+  "translation": "Inyo minum dari sungek di jalan; dek karano itu inyo maangkek kapado.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "dari sungek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "minum"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapado"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:20.199619334Z",
+  "model": "glm-5.3"
+}

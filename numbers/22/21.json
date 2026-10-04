@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lalu Bileam bangkik pagi, jo mamasang ⟨את⟩ keledainyo, lalu pai jo para pangulu Moab.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "mamasang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keledainyo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "keledainyo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-10-04T04:45:47.582509723Z",
+  "model": "glm-5.3"
+}

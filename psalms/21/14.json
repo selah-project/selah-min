@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Tinggilah, Yahweh, dalam kakuatan-Mu; kami ka manyanyi jo mamuji kagagahan-Mu.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Tinggilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "dalam kakuatan-Mu"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "kami ka manyanyi"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "jo mamuji"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "kagagahan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:44.715126099Z",
+  "model": "glm-5.3"
+}

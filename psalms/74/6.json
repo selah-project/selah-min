@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Jo kini ukiran-ukirannyo basamo dipukua-bantaih jo kapak jo panebas.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "ukiran-ukirannyo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "jo kapak"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "jo panebas"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "dipukua-bantaih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:46.958740152Z",
+  "model": "glm-5.3"
+}

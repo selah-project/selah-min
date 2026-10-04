@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Pado ari kasusahan ambo, Adonai nan ambo cari; tangan ambo pado malam tadantai, jo indak baranti; nafiah iduik ambo manulak kamanan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "kasusahan ambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "nan ambo cari"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan ambo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pado malam"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "tadantai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "baranti"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "manulak"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "kamanan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafiah iduik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:13.256020444Z",
+  "model": "glm-5.3"
+}

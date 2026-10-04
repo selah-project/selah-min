@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "Jo mangguncang Paroh jo bala tantaranyo di lauik Suph, karano salamo-lamonyo hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "Jo mangguncang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "jo bala tantaranyo"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di lauik"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:00.952147266Z",
+  "model": "glm-5.3"
+}

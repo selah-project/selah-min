@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo Yaakov mancuri ⟨את⟩ ati Laban urang Aram, karano indak inyo kabekan kapadonyo baso inyo sadang lari.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "mancuri"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati Laban"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "urang Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "kabekan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "lari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:49.290404613Z",
+  "model": "glm-5.3"
+}

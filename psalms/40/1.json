@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Untuak pamimpin musik, untuak Dawid, mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak pamimpin musik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:28.721967800Z",
+  "model": "glm-5.3"
+}

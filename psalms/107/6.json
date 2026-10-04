@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Lalu mareko baseru kapado Yahweh pado kasusahtannyo, jo dari sasao mareko Ia malapehannyo",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "lalu mareko baseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "pado kasusahtannyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mareko"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "dari sasao mareko"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "Ia malapehannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:28.380132997Z",
+  "model": "glm-5.3"
+}

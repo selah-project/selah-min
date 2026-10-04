@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Lalu Yaakov mancium Rahel, lalu maangkek ⟨את⟩ suaronyo jo manangih.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "mancium"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "kapado Rahel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaronyo"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "suaronyo"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "manangih"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:06.092496838Z",
+  "model": "glm-5.3"
+}

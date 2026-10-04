@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Barih ambo kasiah, Yahweh, ki ambo lah lansai; sambohiak ambo, Yahweh, ki tulang-tulang ambo gataik.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "berih ambo kasiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "lansai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "sambohiak ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "gataik"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang-tulang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:24.244367340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Sia iyo nan datang ko, tabang sarupo awan, sarupo buruang daratu ka lalang-lalang jandela-rinyo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nan datang ko"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "sarupo awan"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "tabang"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "sarupo buruang daratu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "lalang-lalang jandela-rinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:23:47.482709485Z",
+  "model": "glm-5.3"
+}

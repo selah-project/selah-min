@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Urang-urang pamusuah Awak mangangok di tangah-tangah tampek patamuan Awak; inyo managakkan tando-tando inyo sabagai tando.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "mangangok"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "urang-urang pamusuah Awak"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "tampek patamuan Awak"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "inyo managakkan"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "tando-tando inyo"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "sabagai tando"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:08.676610557Z",
+  "model": "glm-5.3"
+}

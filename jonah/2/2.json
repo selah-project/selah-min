@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Yonah badoa kapado Yahweh, Elohim-nyo, dari paruik ikan tu.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "badoa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-nyo"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "dari paruik"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ikan tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:44.385440415Z",
+  "model": "glm-5.3"
+}

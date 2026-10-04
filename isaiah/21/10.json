@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "O nan tantah ambo, anak lapiak panehan ambo, nan ambo danga dari ⟨את⟩ Yahweh Tsebaot, Elohim Yisrael, ambo tarangkan kapado sanak.\n",
+  "tokens": [
+    {
+      "surface": "מדושתי",
+      "gloss": "O nan tantah ambo"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "jo anak"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "lapiak panehan ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ambo danga"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tsebaot, Elohim Yisrael"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ambo tarangkan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:05.820755128Z",
+  "model": "glm-5.3"
+}

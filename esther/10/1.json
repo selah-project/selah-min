@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo rajo Akhasyweros manatokan mas atas bumi jo pulau-pulau lauik.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "manatokan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Akhasyweros"
+    },
+    {
+      "surface": "מס",
+      "gloss": "mas"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "jo pulau-pulau"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:55.460768819Z",
+  "model": "glm-5.3"
+}

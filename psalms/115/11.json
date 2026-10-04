@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 115,
+  "translation": "Urang nan takuik kapado Yahweh, pacayolah ka Yahweh; inyo patolong jo parlinduang inyo.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "urang nan takuik kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "pacayolah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "patolong inyo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "jo parlinduang inyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:02.750939440Z",
+  "model": "glm-5.3"
+}

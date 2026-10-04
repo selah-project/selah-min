@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Ka Yahweh patamoan ⟨adolah⟩ kasalamatan; ateh urang-μ ka barakaik-Mu. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Ka Yahweh"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "kasalamatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "urang-μ"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "barakaik-Mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:25.780594608Z",
+  "model": "glm-5.3"
+}

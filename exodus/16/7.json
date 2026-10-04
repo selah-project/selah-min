@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo di pagi hari kalian ka caliak ⟨את⟩ kamuliaan Yahweh, karano inyo mandanga ⟨את⟩ kaluh kesah kalian kapado Yahweh; jo kami apo, sampai kalian mahinyar kapado kami?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "jo di pagi hari"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "kalian ka caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamuliaan Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "karano inyo mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluh kesah kalian"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "kaluh kesah kalian"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "jo kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "kalian mahinyar"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kapado kami"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:26.783259405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Ikek padang mu pado paha mu, wahai urang gagah; kageme'an mu jo kamuliaan mu.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "iek"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "padang mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "paha"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "urang gagah"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kageme'an mu"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "jo kamuliaan mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:00.224755926Z",
+  "model": "glm-5.3"
+}

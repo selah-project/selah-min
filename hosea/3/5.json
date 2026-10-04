@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Sasudah itu anak-anak Yisrael baliak, jo mancari ⟨את⟩ Yahweh Elohim nyo, jo ⟨את⟩ Dawid rajo nyo, jo gadih kapado Yahweh jo kapado kabaiakannyo pado ujung ari-ari nan ka tibo.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sasudah itu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "jo mancari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim nyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "Dawid rajo nyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "rajo nyo"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "jo gadih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "kabaiakannyo"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "pado ujung"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ari-ari nan ka tibo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:05.867542188Z",
+  "model": "glm-5.3"
+}

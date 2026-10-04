@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Dan ⟨את⟩ lubang-lubang kota Dawid kalian caliak, karano alah banyak, jo kalian mangumpuakan ⟨את⟩ aia kolam nan di bawah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lubang-lubang kota Dawid"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "lubang-lubang"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "kalian caliak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "lah banyak"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "jo kalian mangumpuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aia kolam"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aia"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "kolam"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "nan di bawah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:45.584895835Z",
+  "model": "glm-5.3"
+}

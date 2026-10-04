@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo ambo bakato: Danga lah, kapalo-kapalo Yaakov, jo panghulu rumah Yisrael: bukankah kapado sanak untuak mangatahui ⟨את⟩ hukum?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jo ambo bakato"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "danga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lah"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo-kapalo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "jo panghulu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuak mangatahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukum"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:14:20.902852448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo urang-urang Yisrael manjadi hamba ⟨את⟩ Eglon, rajo Moab, salapan baleh taun.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "manjadi hamba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon, rajo Moab"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "salapan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-10-04T05:13:54.968806714Z",
+  "model": "glm-5.3"
+}

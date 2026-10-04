@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Tebaskan, yo Elohim, ⟨את⟩ Yisrael dari sado kasanekannyo.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Tebaskan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sado"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "kasanekannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:53.329976940Z",
+  "model": "glm-5.3"
+}

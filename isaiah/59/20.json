@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 59,
+  "translation": "Dan ka Tsiyon datang Penebus, jo kapado urang-urang nan baliak dari palanggaran di antaro Yaakov, kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "ka Tsiyon"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "Penebus"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "jo kapado urang-urang nan baliak dari"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "palanggaran"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "di antaro Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:24:09.423448574Z",
+  "model": "glm-5.3"
+}

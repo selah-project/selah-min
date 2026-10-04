@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Dari suaro sio-sio ambo, tulang ambo malakek ka dagiang ambo.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "dari suaro"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "sio-sio ambo"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "malakek"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang ambo"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "ka dagiang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:15.573178449Z",
+  "model": "glm-5.3"
+}

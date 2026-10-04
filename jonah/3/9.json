@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Sia tau, mungkin Elohim baliak jo bainsyo, jo baliak dari paneh murka hiduang-Nyo, supayo kito indak binaso.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "jo bainsyo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "jo baliak"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "paneh murka"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hiduang-Nyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "binaso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:02.148613273Z",
+  "model": "glm-5.3"
+}

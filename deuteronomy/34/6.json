@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo ⟨inYo⟩ mangubuikannyo di lambah di tanah Moab, balawaik Beit-Peor; indak ado urang tau ⟨את⟩ tampek pangukburannyo sampai ari ko.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "jo mangubuikannyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Moshe)"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "di lambah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מול",
+      "gloss": "balawaik"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampek pangukburannyo"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "tampek pangukburannyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:03:05.952659605Z",
+  "model": "glm-5.3"
+}

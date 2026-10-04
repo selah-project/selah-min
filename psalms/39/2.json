@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Ambo bakato: ambo ka mahaga jalan-jalan ambo, supayo indak babuat doso jo lido ambo; ambo ka mahaga muluik ambo jo pangaka, salamo urang jahat ado di muko ambo.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ambo ka mahaga"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan ambo"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "supayo indak babuat doso"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "jo lido ambo"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ambo ka mahaga"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "muluik ambo"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "jo pangaka"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "di muko ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:46.825310768Z",
+  "model": "glm-5.3"
+}

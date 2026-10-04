@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 1:14",
+  "book": "job",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo surang utusan datang kapado Ayub, jo bakato: Lembu-lombu tu sadang mambajak tanah, jo keledai-kledai batino tu mainguok dakek tangan urang tu.",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "jo surang utusan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "Lembu-lombu tu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sadang"
+    },
+    {
+      "surface": "חרשות",
+      "gloss": "mambajak tanah"
+    },
+    {
+      "surface": "והאתנות",
+      "gloss": "jo keledai-kledai batino tu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "mainguok"
+    },
+    {
+      "surface": "על",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:26.038724214Z",
+  "model": "glm-5.3"
+}

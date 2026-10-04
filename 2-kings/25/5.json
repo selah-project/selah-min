@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Lalu pasukan Kasdim mangejar rajo itu dari balakang, jo mancapai ⟨את⟩ inyo di dataran Yerikho, jo sado pasukannyo tasapek dari inyo.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "mankejar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dari balakang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo itu"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "mancapai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "di dataran"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "pasukannyo"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "tasapek"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "dari inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:36.259844247Z",
+  "model": "glm-5.3"
+}

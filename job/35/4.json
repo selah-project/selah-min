@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Ambo ka mambaleh ang jo kato-kato, jo ⟨את⟩ kawan-kawan ang nan basamo ang.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ka mambaleh ang"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "jo kato-kato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kawan-kawan ang"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "kawan-kawan ang"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nan basamo ang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:12:23.824450690Z",
+  "model": "glm-5.3"
+}

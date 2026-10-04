@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimnah jo padang rumpuiknyo, ⟨את】 Nahalal jo padang rumpuiknyo: ampek koto.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimnah"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "koto"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:03.906037651Z",
+  "model": "glm-5.3"
+}

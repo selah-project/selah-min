@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lalu kato Yahweh datang kapadonyo, mangeceak:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lalu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangeceak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:52:08.407705119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Inyo mamotongnyo ⟨את⟩ inyo manuruik potongannyo, sarato ⟨את⟩ kapalonyo jo ⟨את⟩ lamaknyo, lalu imam manyusun ⟨את⟩ inyo sadonyo di ateh kayu api nan di ateh api, nan di ateh mazbeakh.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "inyo mamotongnyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (binatang itu)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "manuruik potongannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarato ⟨את⟩",
+      "marks": "kapalonyo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarato ⟨את⟩",
+      "marks": "lamaknyo"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "lamaknyo"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "lalu manyusun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo sadonyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu api"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbeakh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:03.664977405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Yahweh manebaskan nyawa hamba-hamba-Nyo, jo indak ka dibuek basalah sagalo nan balinduang kapado-Nyo.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "manebaskan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hamba-Nyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ka dibuek basalah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "nan balinduang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kapado-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:14.156714079Z",
+  "model": "glm-5.3"
+}

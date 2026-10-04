@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Ari kalian manyambek inyo dimakan, jo esok ari; nan tasiso sampai ari katigo, dalam api dibaka.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "kalian manyambek"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "jo esok ari"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "jo nan tasiso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katigo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "dibaka"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:04.648058479Z",
+  "model": "glm-5.3"
+}

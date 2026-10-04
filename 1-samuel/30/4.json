@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Lalu Dawid jo urang banyak nan ⟨את⟩ inyo mangangkek ⟨את⟩ suaronyo, jo mareka manangih, sampai indak ado lai kakuatan pado mareka untuak manangih.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "jo urang banyak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jo inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaronyo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "suaronyo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "manangih"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado lai"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pado mareka"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "untuak manangih"
+    }
+  ],
+  "timestamp": "2026-10-04T05:33:56.377311875Z",
+  "model": "glm-5.3"
+}

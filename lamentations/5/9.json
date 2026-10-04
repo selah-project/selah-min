@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Dek nyawa kito sandiri kito mambaok masuak roti kito, dek padang di gurun.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "dek nyawa kito"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "kito mambaok masuak"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "roti kito"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dek"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "di gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:07.929563440Z",
+  "model": "glm-5.3"
+}

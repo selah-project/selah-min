@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 148,
+  "translation": "Pujilah inyo, matahari jo bulan; pujilah inyo, sadoalah bintang-binatang cahayo.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Pujilah inyo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "jo bulan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "bintang-binatang"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahayo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:55.908827054Z",
+  "model": "glm-5.3"
+}

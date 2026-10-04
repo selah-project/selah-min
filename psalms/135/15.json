@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Patuang-patuang bangso-bangso adolah perak jo ameh, karajo tangan-tangan manusia.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "patuang-patuang"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "jo ameh"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan-tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:46.847470599Z",
+  "model": "glm-5.3"
+}

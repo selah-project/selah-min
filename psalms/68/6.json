@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Apak urang nan yatim jo hakim bagi jando — Elohim ⟨adalah⟩ di tampek tingginyo nan suci.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Apak"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "urang nan yatim"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "jo hakim bagi"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "jando"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "di tampek tingginyo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nan suci"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:00.119206890Z",
+  "model": "glm-5.3"
+}

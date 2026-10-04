@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Ka saluruah bumi alah kalua ukuran-ukurannyo, jo kato-katonyo sampai ka ujuung tameh dunio; untuak matari Din samo mamasang khemah di nagariinyo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ka saluruah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lah kalua"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ukuran-ukurannyo"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "jo sampai ka ujuung tameh"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunio"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "kato-katonyo"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "untuak matari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "samo mamasang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di nagariinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:34.079127178Z",
+  "model": "glm-5.3"
+}

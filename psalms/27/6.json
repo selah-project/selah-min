@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo kini kapalo ambo tapangka tinggi di ateh musuah-musuah ambo nan mangaliliangi ambo; ambo ka mambaok korban jo soriak riang di dalam khemahnyo; ambo ka manyanyi, yo ambo ka mamainan bunyi untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "tapangka tinggi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuah-musuah ambo"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "nan mangaliliangi ambo"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "ambo ka mambaok korban"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "di dalam khemahnyo"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "korban"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "jo soriak riang"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ambo ka manyanyi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "yo ambo ka mamainan bunyi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:44.613285475Z",
+  "model": "glm-5.3"
+}

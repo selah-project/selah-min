@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo Elohim ⟨את⟩ basamo ⟨את⟩ anak itu; inyo bagimbo, tingga di padang raso, jo manjadi panahe nan tanamo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ basamo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "bagimbo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang raso"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nan tanamo"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "panahe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:46.005641254Z",
+  "model": "glm-5.3"
+}

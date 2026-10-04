@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 121,
+  "translation": "Caliklah, indak inyo mangantuak jo indak inyo lalok — nan maharuih Yisrael.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Caliklah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "mangantuak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "nan maharuih"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:51.325682173Z",
+  "model": "glm-5.3"
+}

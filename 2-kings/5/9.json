@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 5:9",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Maka tibo Naaman jo kudanyo jo karetainyo, jo inyo bdiri di mungko pintu rumah Elisha.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "בסוסו",
+      "gloss": "jo kudanyo"
+    },
+    {
+      "surface": "וברכבו",
+      "gloss": "jo karetainyo"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "jo inyo bdiri"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di mungko pintu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "לאלישע",
+      "gloss": "Elisha"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:37.225383038Z",
+  "model": "glm-5.3"
+}

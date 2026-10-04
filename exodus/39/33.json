@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Urang tu mambaok ⟨את⟩ Mishkan tu kapado Moshe: ⟨את⟩ khemah jo ⟨את⟩ sagalo parabotnyo, pangakeknyo, papannyo, palangnyo, tonggaknyo, jo alaskanyo.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "urang tu mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemah"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo parabotnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotnyo"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "pangakeknyo"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "papannyo"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "palangnyo"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "jo tonggaknyo"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "jo alaskanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:38.926545503Z",
+  "model": "glm-5.3"
+}

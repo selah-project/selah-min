@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Caliaklah, Yahweh mahaso bumi jo mangosongkannyo, jo maubah mukonyo, jo manyebar panduduaknyo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "caliaklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "mahaso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "jo mangosongkannyo"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "jo maubah"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "jo manyebar"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "panduduaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:46.437985018Z",
+  "model": "glm-5.3"
+}

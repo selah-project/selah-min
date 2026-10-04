@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Hanyo ⟨את⟩ matoh Levi jan kauhituang, jo ⟨את⟩ kapalonyo jan ka ambiak, di tangah anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matoh Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "matoh"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "jan kauhituang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kapalonyo"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "jan ka ambiak"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:52.060477439Z",
+  "model": "glm-5.3"
+}

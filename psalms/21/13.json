@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Karano Engkau mambuek inyo maambek pungguang, jo tali busuamu ka-ateh muko inyo ka-ateh muko inyo dibuek sadio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ka-uba pungguangnyo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "pungguang"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "jo tali busuamu"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "dibuek sadio"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka-ateh"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "muko inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:44.714864522Z",
+  "model": "glm-5.3"
+}

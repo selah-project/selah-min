@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Dan karimu buek ⟨את⟩ mezbah itu dari kayu sitim: limo hasta panjangnyo, jo limo hasta lebanyo — mezbah itu musti ampek sagi — jo tigo hasta tingginyo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dan karimu buek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah itu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "ווחמש",
+      "gloss": "jo limo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leba"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ampek sagi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "musti manjadi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "jo tigo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tingginyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:25.944278135Z",
+  "model": "glm-5.3"
+}

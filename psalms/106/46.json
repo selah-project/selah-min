@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Jo inyo maagiah ⟨את⟩ mereka untuak dikasihani di muko sagalo urang nan mambaok mereka ka dalam tawanan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "jo inyo maagiah"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "untuak dikasihani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "urang nan mambaok mereka ka dalam tawanan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:22.958879848Z",
+  "model": "glm-5.3"
+}

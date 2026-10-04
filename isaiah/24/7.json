@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Anggur baru bakabuang, pohon anggur malosai, sagalo nan ria ati mangeang.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "bakabuang"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "anggur baru"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "malosai"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "pohon anggur"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "mangeang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "nan ria"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:18.273817607Z",
+  "model": "glm-5.3"
+}

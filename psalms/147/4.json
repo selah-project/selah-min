@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Inyo mahituang bilangan bintang-bintang, kapado sadoalahinyo inyo maagiah namo.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "mahituang"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilangan"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "bintang-bintang"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kapado sadoalahinyo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "maagiah namo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:55.927055397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "jo Tzidon jo Amalek jo Maon alah mamanasakan ⟨את⟩ kalian, lalu kalian manjerik kapado Aku, jo Aku malapehan ⟨את⟩ kalian dari tangan inyo urang tu?",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "jo Tzidon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "jo Amalek"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "jo Maon"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "alah mamanasakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kalian",
+      "marks": "kalian"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "lalu kalian manjerik"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado Aku"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "jo Aku malapehan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kalian",
+      "marks": "kalian"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "dari tangan inyo urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:15:07.404596716Z",
+  "model": "glm-5.3"
+}

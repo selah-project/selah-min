@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Karano kau alah mambuek hukum ambo jo pangadilan ambo; kau duduak di takhta, mahakimi jo tsedeq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kau alah mambuek"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum ambo"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "jo pangadilan ambo"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "kau duduak"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "di takhta"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mahakimi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:45.482904676Z",
+  "model": "glm-5.3"
+}

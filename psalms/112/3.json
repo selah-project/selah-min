@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 112,
+  "translation": "Harto jo kakayaan di rumahnyo, jo tsedeq-nyo tagak salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "harto"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "jo kakayaan"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di rumahnyo"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "jo tsedeq-nyo"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:04.216083348Z",
+  "model": "glm-5.3"
+}

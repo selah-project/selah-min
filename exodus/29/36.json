@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 29:36",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo satiok ari kau buek sabuah lumbu pacik doso untuak pangantanan; jo kau sasai ⟨את⟩ mezbah tu katiko kau mangantanan ateh inyo, jo kau minyakkan ⟨את⟩ inyo untuak manyucikannyo.",
+  "tokens": [
+    {
+      "surface": "ופר",
+      "gloss": "jo lumbu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "pacik doso"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kau buek"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "satiok ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "pangantanan"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "jo kau sasai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "בכפרך",
+      "gloss": "katiko kau mangantanan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ateh inyo"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "jo kau minyakkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (mezbah)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "untuak manyucikannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:15.901332644Z",
+  "model": "glm-5.3"
+}

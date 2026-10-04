@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Ambo alah maliek ⟨את⟩ sagalo karojo nan alah dibuek di bawah matoari, dan basonyo, sagalonyo adolah hebel jo kapaik ruakh.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ambo alah maliek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo karojo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "karojo"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "nan alah dibuek"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan basonyo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sagalonyo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "jo kapaik"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:27.595140299Z",
+  "model": "glm-5.3"
+}

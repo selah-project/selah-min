@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo Shupim jo Khupim, anak-anak Ir; Khushim, anak-anak Akher.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "jo Shupim"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "jo Khupim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Khushim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Akher"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:23.167161118Z",
+  "model": "glm-5.3"
+}

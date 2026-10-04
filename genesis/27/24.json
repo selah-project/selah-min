@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Lalu inyo bakato: \"Awak ko anak ambo Esav?\" Lalu inyo bakato: \"Ambo.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "awak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:05.411700712Z",
+  "model": "glm-5.3"
+}

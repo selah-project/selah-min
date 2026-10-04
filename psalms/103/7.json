@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Inyo mambuek dikanaui ⟨את⟩ jalan-jalannyo kapado Moshe, ⟨את⟩ laku-lakunyo kapado anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "mambuek dikanaui"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jalan-jalannyo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kapado Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kapado anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "laku-lakunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:12.788439318Z",
+  "model": "glm-5.3"
+}

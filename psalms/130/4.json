@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 130,
+  "translation": "Karano jo È ado ampunan, supayo È diagiahi. ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jo È"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ampunan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "È diagiahi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:14.739535012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Angkek ⟨diri⟩, hai Hakim bumi; baliakan balasan ka ateh urang nan sogi.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "angkek ⟨diri⟩"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Hakim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "baliakan"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "balasan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "urang nan sogi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:41.437763466Z",
+  "model": "glm-5.3"
+}

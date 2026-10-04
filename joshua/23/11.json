@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Baraso jagolah diri sanak sangaik-bana, untuak mangasihi ⟨את⟩ Yahweh, Elohim sanak.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "baraso jagolah diri sanak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik-bana"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "diri sanak"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "untuak mangasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh, Elohim sanak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:11:21.851929135Z",
+  "model": "glm-5.3"
+}

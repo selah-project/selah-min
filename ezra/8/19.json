@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo ⟨את⟩ Khasyabya, jo basamo inyo ⟨את⟩ Yeshaya, dari anak-anak Merari, sanak-sanaknyo jo anak-anak inyo, duobaleh — duopuluah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "Khasyabya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Khasyabya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ jo basamo inyo",
+      "marks": "Yeshaya"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yeshaya"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dari anak-anak"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sanak-sanaknyo"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "jo anak-anak inyo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duopuluah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:35:23.938550463Z",
+  "model": "glm-5.3"
+}

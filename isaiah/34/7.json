@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 34:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo turunnyo lembu lia basamo inyo, jo anak lembu basamo lembu gagah; tanahnyo tahiar minum dari darah, jo dabunyo diminyakannyo jo lemak.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "jo turunnyo"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "lembu lia"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "basamo inyo"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "jo anak lembu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "lembu gagah"
+    },
+    {
+      "surface": "ורותה",
+      "gloss": "jo tahiar minum"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tanahnyo"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dari darah"
+    },
+    {
+      "surface": "ועפרם",
+      "gloss": "jo dabunyo"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "jo lemak"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "diminyakannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:00.407070073Z",
+  "model": "glm-5.3"
+}

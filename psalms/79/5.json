@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 79,
+  "translation": "Sampai bilo, Yahweh, ang kaangek salamanyo? Kacemburuán ang baka sarupo api?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ang kaangek"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "kacemburuán ang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:24.297511069Z",
+  "model": "glm-5.3"
+}

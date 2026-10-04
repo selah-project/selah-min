@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo mulailah Yona masuak ka dalam kota sahari parjalanan; inyo baseru jo bakato: Ompue ampek puluah ari lai, jo Nineveh ka dibaliak.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "jo mulailah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ka dalam kota"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "parjalanan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sahari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "saciek ari"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "baseru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ampek puluah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "jo Nineveh"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "ka dibaliak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:22.349255553Z",
+  "model": "glm-5.3"
+}

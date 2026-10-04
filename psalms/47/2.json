@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Sagalo bangso-bangso, tapuaklah tangan; bakuaklah ka Elohim jo suaro riah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "tapuaklah"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bakuaklah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "jo suaro"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "riah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:04.428896786Z",
+  "model": "glm-5.3"
+}

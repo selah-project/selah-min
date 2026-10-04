@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo tajadi, karano paranak-paranak tu tatakuik kapado ⟨את⟩ Elohim, Inyo mambuek untuak mareka rumah-rumah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo tajadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "tatakuik"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "paranak-paranak tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Inyo mambuek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak mareka"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "rumah-rumah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:27.137880943Z",
+  "model": "glm-5.3"
+}

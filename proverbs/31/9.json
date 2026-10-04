@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Bukak pandapek, balah jo tsedeq, jo baa pangadilan kapado urang miskin jo urang miskin-parah.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "bukak"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "pandapek"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "balah"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "jo pangadilan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jo urang miskin-parah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:33.011646696Z",
+  "model": "glm-5.3"
+}

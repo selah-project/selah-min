@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Nang mati dari umuah Baasa di kota, anjiang akan mamakan; nang mati dari umuahnyo di ladang, buruang langik akan mamakan.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "nang mati"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "dari umuah Baasa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan mamakan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "anjing-anjiang"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "jo nang mati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dari umuahnyo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan mamakan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "buruang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:52:14.583624587Z",
+  "model": "glm-5.3"
+}

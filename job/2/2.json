@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Yahweh bakato kapado hasatan: 'Dari ma ang tibo?' Lalu hasatan manjawek ⟨את⟩ Yahweh jo bakato: 'Dari bajalan sakali baliliang di bumi, jo bajalan sabaliak di dalamnyo.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatan"
+    },
+    {
+      "surface": "אי",
+      "gloss": "dari ma"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "manjawek"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "משט",
+      "gloss": "bajalan sakali baliliang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "jo bajalan sabaliak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:48.527457808Z",
+  "model": "glm-5.3"
+}

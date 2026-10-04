@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Urang itu, tuan nagari itu, mangecek kareh ⟨את⟩ jo amiak, jo inyo manuduah amiak sabagai pancaliak-caliak ⟨את⟩ tanah itu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang itu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari itu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ jo amiak"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "kareh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jo inyo manuduah"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ amiak"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "sabagai pancaliak-caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:49.697364739Z",
+  "model": "glm-5.3"
+}

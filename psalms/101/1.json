@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 101,
+  "translation": "Untuak Dawid, mazmur. Hesed jo hukum kaambo den nyanyikan, untuak Awak, Yahweh, den pamainan jo petangan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jo hukum"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "den nyanyikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak Awak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "den pamainan jo petangan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:49.633972251Z",
+  "model": "glm-5.3"
+}

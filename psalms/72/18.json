@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Tabarakati Yahweh, Elohim, Elohim nagari Yisrael, nan mambuek kaco ajaib surang sajo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Tabarakati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan mambuek"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "kaco ajaib"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "surang sajo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:56.945721038Z",
+  "model": "glm-5.3"
+}

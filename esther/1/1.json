@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jadi pado maso Achashverosh — inyo lah Achashverosh nan bapado, dari Hodu sampai ka Kush, ateh sapuluah tujuah jo saratus nagari —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pado maso"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nan bapado"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "dari Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "jo saratus"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "nagari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:26.617536100Z",
+  "model": "glm-5.3"
+}

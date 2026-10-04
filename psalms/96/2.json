@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 96,
+  "translation": "Anyanyilah untuak Yahweh, barkatilah namonyo, kabaokan kasalamatannyo dari ari ka ari.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "anyanyilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barkatilah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kabaokan"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "dari ari"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ka ari"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "kasalamatannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:18.585504829Z",
+  "model": "glm-5.3"
+}

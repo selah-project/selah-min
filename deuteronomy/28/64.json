@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "deuteronomy 28:64",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Yahweh ka mambisiahan kau di antaro sagalo bangso-bangso, dari ujuang bumi jo sampai ujuang bumi, jo di sinan angkau ka manyambah tuhan-tuhan lain nan indak dikatahui dek angkau, indak pulo dek niniak muyang angkau, kayu jo batu.",
+  "tokens": [
+    {
+      "surface": "והפיצך",
+      "gloss": "ka mambisiahan kau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dari ujuang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo sampai"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ujuang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "jo angkau ka manyambah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "dikatahui dek angkau"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "jo niniak muyang angkau"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "jo batu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:02.222464692Z",
+  "model": "glm-5.3"
+}

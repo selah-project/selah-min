@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Gadang Adonai kami, jo sangaik kakuaso; indak ado biliang untuak aka budi-Nyo.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Gadang"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai kami"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "jo sangaik"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuaso"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "untuak aka budi-Nyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "biliang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:55.971297446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Girang Mitsrayim katiko inyo pai, karano takuik kapado inyo alah jatuah ateh inyo.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "girang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "katiko inyo pai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "takuik kapado inyo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ateh inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:41.893561146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Katiko jalan-jalan saurang urang manarimo Yahweh, bahkan musuah-musuahnyo dipabuek damai jo inyo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "katiko...manarimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "musuah-musuahnyo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dipabuek damai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jo inyo",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:42.360078160Z",
+  "model": "glm-5.3"
+}

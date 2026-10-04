@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Pa dakek-lah ⟨את⟩ suku Levi, jo pajok inyo tagak di muko Aharon sang imam, supayo inyo malayani inyo;",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Pa dakek-lah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suku Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "jo pajok tagak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Aharon sang imam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "supayo inyo malayani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Aharon sang imam"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:36.899443087Z",
+  "model": "glm-5.3"
+}

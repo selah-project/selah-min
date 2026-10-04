@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Siso gazam alah dimakan dek arbeh, jo siso arbeh alah dimakan dek yelek, jo siso yelek alah dimakan dek khasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "siso"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "alah dimakan"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "dek arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "jo siso"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "alah dimakan"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "dek yelek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "jo siso"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yelek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "alah dimakan"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "dek khasil"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:22.597396696Z",
+  "model": "glm-5.3"
+}

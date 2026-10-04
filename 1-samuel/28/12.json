@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Dek padusi itu caliak ⟨את⟩ Shemuel, inyo bakareh jo suaro gadang, jo padusi itu bakato kapado Saul, kato: Baa kok ang mainduak ambo — padahal ang Saul!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "bakareh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "jo suaro"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "ang mainduak ambo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "padahal ang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:53.909735221Z",
+  "model": "glm-5.3"
+}

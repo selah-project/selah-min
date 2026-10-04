@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 100,
+  "translation": "Masuaklah ka gapuro-gapuronyo jo pujian, ka laman-lamannyo jo puji-pujian; agiahlah tarimo kasih kapadonyo, barkahi namonyo.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "masuaklah"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "ka gapuro-gapuronyo"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "jo pujian"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "ka laman-lamannyo"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "jo puji-pujian"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "agiahlah tarimo kasih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barkahi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:58.281344483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Paroh mambarek ⟨את⟩ atinyo juo pado kali ko, sahinggo indak dilapehnyo ⟨את⟩ bangso tu.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "mambarek"
+    },
+    {
+      "surface": "páרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atinyo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "pado kali"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sahinggo indak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dilapehnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:19.910033711Z",
+  "model": "glm-5.3"
+}

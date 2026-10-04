@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Urang nan makan lamak-lamak kini tarsasa di jalan-rayah; urang nan dibesarkan jo kain sirah tola mampalukuti tambak sampah.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "urang nan makan lamak-lamak"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "lamak-lamak"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "tarsasa"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "di jalan-rayah"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "urang nan dibesarkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "kain sirah tola"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "mampalukuti"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "tambak sampah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:19:26.118871172Z",
+  "model": "glm-5.3"
+}

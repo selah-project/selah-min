@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo masuaklah ka rajo, jo bakatokolah kapadonyo sarupo kato ko. Lalu Yoab manarokan ⟨את⟩ kato-kato tu di munnyonyo.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "masuaklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "bakatokolah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sarupo kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "manarokan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato tu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato tu"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "di munnyonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:39:11.079926990Z",
+  "model": "glm-5.3"
+}

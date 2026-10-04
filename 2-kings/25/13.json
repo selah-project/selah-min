@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 25:13",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo urang Kasdim mambueak-bueak ⟨את⟩ tiang-tiang tambago nan di rumah Yahweh, jo ⟨את⟩ pandasiannyo, jo ⟨את⟩ lauik tambago nan di rumah Yahweh, lalu inyo mambaok ⟨את⟩ tambagonyo ka Babel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang tambago"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pandasiannyo"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "pandasiannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lauik tambago"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "mambueak-bueak"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "urang Kasdim"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "lalu mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tambagonyo"
+    },
+    {
+      "surface": "נחשתם",
+      "gloss": "tambagonyo"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ka Babel"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:28.558205374Z",
+  "model": "glm-5.3"
+}

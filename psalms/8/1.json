@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Untuak nan mamimpin musik, ateh Gittit, mazmur untuak Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak nan mamimpin musik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:50.301058519Z",
+  "model": "glm-5.3"
+}

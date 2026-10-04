@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Dek itu inyo mambuekkok ⟨את⟩ ati sado urang Yehuda sarupo ciek urang, lalu urang tu mangirim pasan kapado rajo: Baliaklah ang, ang jo sado pajabaik ang.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "dekatu inyo mambuekkok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati sado urang Yehuda"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sarupo ciek urang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "lalu urang tu mangirim pasan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ang jo sado"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "pajabaik ang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:42:09.988746688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 11:3",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo iko adolah kapalo-kapalo provinsi nan tingga di Yerushalayim; tapi di kota-kota Yehudah urang tu tingga masiang-masiang di tanah pusakanyo di kota-kota mereka: urang Yisrael, para imam, urang-urang Lewi, para Netinim, jo anak-anak hamba-hamba Syelomoh.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo-kapalo"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "provinsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "ובערי",
+      "gloss": "jo di kota-kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masiang-masiang"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "di tanah pusakanyo"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "di kota-kota mereka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "urang Yisrael"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "jo urang-urang Lewi"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "jo para Netinim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomoh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:39:24.174407611Z",
+  "model": "glm-5.3"
+}

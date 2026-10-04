@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Jo inyo bakato kapado urang tu: Indak, tapi untuak caliak kalanjo bumi ko sanak tibo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kalanjo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "sanak tibo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak caliak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:49.982969367Z",
+  "model": "glm-5.3"
+}

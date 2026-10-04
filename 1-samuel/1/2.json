@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo inyo punyo duo bini: nan ciek namonyo Khana, jo nan kaduo namonyo Penina; Penina punyo anak-anak, tapi Khana indak punyo anak-anak.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "jo inyo punyo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "bini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Khana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo namonyo"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "kapado Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "tapi kapado Khana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "anak-anak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:19.344646588Z",
+  "model": "glm-5.3"
+}

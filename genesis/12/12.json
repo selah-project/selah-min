@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Maka katiko urang Mitsrayim maliek ⟨את⟩ angkau, jo bakato: Iko bininyo, inyo ka mambunuah ⟨את⟩ ambo, sadang angkau inyo biakan iduik.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "maka katiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "maliek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ angkau",
+      "marks": "angkau"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bininyo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "inyo ka mambunuah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "ambo"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "jo ⟨את⟩ angkau",
+      "marks": "angkau"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "inyo biakan iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:03.767116614Z",
+  "model": "glm-5.3"
+}

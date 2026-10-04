@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu ambo mangangkek ⟨את⟩ mato ambo, jo ambo caliak, jo bana ampek tanduak.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mato ambo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo bana"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tanduak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:19:16.860646363Z",
+  "model": "glm-5.3"
+}

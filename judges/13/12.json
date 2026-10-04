@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Manoah bakato: Kini, bilo kato-kato sandek tibo, apo nan ka jadi paraturan anak itu jo parbuikannyo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoah"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "kato-kato sandek"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka jadi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "paraturan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "jo parbuikannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:08:29.845990613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Pasti kau lapaskan ⟨את⟩ induaknyo, jo ⟨את⟩ anak-anaknyo ambiak untuak diri kau, supayo elok untuak kau jo manpanjangkan ari-ari.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "lapaskan"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "pasti kau lapaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induaknyo"
+    },
+    {
+      "surface": "האם",
+      "gloss": "induaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ambiak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak diri kau"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak kau"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "jo manpanjangkan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:58:51.296575797Z",
+  "model": "glm-5.3"
+}

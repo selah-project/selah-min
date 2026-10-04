@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 84,
+  "translation": "Napasku bangang, jo lagek mandanga, ka liang-liang Yahweh; ati ambo jo dagiang ambo baeria-eria ka El nan hiduik.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "bangang"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo lagek"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "ka liang-liang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "jo dagiang ambo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "baeria-eria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nan hiduik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:40.975382592Z",
+  "model": "glm-5.3"
+}

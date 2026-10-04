@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 18:2",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Apo kapado sanak, sanak mamaruahkan ⟨את⟩ pameo iko di tanah Yisrael, bakato: Aia amak makan anggur maam, jo gigi anak-anaknyo tajam mailang?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "mamaruahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pameo iko"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "pameo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "aia amak"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "makan"
+    },
+    {
+      "surface": "בסר",
+      "gloss": "anggur maam"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jo gigi"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "tajam mailang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:53:27.034440215Z",
+  "model": "glm-5.3"
+}

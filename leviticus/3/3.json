@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Inyo mambaok dari zebakh syalamim itu makanan api untuak Yahweh: ⟨את⟩ lemak nan manutupi ⟨את⟩ isi paruik, jo ⟨את⟩ sado lemek nan ado di ateh isi paruik itu.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "inyo mambaok"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dari zebakh"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "syalamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "makanan api"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nan manutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi paruik"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "isi paruik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado lemek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "isi paruik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:10.641147518Z",
+  "model": "glm-5.3"
+}

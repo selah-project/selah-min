@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Karano sagalo hukum-Nyo ado di muko ambo, jo pakake-Nyo indak ambo pindahan dari diri ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hukum-Nyo"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ado di muko ambo"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "jo pakake-Nyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ambo pindahan"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari diri ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:43.033950297Z",
+  "model": "glm-5.3"
+}

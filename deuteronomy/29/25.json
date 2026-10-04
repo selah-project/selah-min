@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Lalu inyo pai jo manuduik tuhan-tuhan lain, jo manyambah kapado inyo, tuhan-tuhan nan indak inyo katahui, jo nan indak inyo bagikan kapado inyo;",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "manuduik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "manyambah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "inyo katahui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bagikan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:27.518030751Z",
+  "model": "glm-5.3"
+}

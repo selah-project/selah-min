@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Urang-urang Balial itu sadolahnyo sarupo duri nan diaidu, karano indak jo tangan sajo urang maambiaknyo.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "urang-urang Balial"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "sarupo duri"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "diaidu"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "sadolahnyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "jo tangan"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "urang maambiaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:10.429562656Z",
+  "model": "glm-5.3"
+}

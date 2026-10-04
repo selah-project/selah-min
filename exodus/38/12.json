@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo pado sisi barat, tirai-tirai lima puluah hinggo, tiang-tiangnyo sapuluah, jo dasa-dasanyo sapuluah; kait-kait tiang-tiang tu jo galang-galangnyo dari perak.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "jo pado sisi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "barat"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "tirai-tirai"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluah"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hinggo"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "tiang-tiangnyo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "jo dasa-dasanyo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "ושקיהם",
+      "gloss": "kait-kait"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiang-tiang tu"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "jo galang-galangnyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:34.579746634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Iko ⟨adolah⟩ baleh urang-urang nan manuduah ambo ⟨את⟩ dari Yahweh, jo urang-urang nan mangecek jahat ka ateh nyawa ambo.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "urang-urang nan manuduah ambo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ dari",
+      "marks": "baleh urang-urang nan manuduah ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "jo urang-urang nan mangecek"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:46.717110098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Barak bakato kapadonyo: Kok pian pai jo ambo, ambo pai; kok pian indak pai jo ambo, ambo indak pai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "pian pai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ambo pai"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "pian pai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ambo pai"
+    }
+  ],
+  "timestamp": "2026-10-04T05:14:20.084908861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 115,
+  "translation": "Sarupo inyo jadi urang nan mambuek inyo; sadonyo nan piciak kapado inyo.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "sarupo inyo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "urang nan mambuek inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "piciak"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:09.514132447Z",
+  "model": "glm-5.3"
+}

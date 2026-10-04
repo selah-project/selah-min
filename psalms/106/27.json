@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Jo untuak mambuek beniah inyo jatuah di antaro bangso-bangso, jo manyeba inyo di nagari-nagari.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "jo untuak mambuek jatuah"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "beniah inyo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antaro bangso-bangso"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "jo manyeba inyo"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di nagari-nagari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:20.699402756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Eli bakato kapadonyo: Sampai bilo kau mabuak? Singkiaan ⟨את⟩ anggau darika dirimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "kau mabuak"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "singkiaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anggau darika dirimu"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "anggau darika"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "dirimu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:05.580695769Z",
+  "model": "glm-5.3"
+}

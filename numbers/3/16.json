@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Moshe mahituang ⟨את⟩ mareka ateh bunyi kato Yahweh, sarupo nan alah diparentahkan.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "jo mahituang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mareka (anak-anak Levi)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bunyi kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alah diparentahkan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:17.846383788Z",
+  "model": "glm-5.3"
+}

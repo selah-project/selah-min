@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Karano parentah di ateh parentah, parentah di ateh parentah, garih di ateh garih, garih di ateh garih, saketek di sinan, saketek di sinan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "צו",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "di ateh parentah"
+    },
+    {
+      "surface": "צו",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "di ateh parentah"
+    },
+    {
+      "surface": "קו",
+      "gloss": "garih"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "di ateh garih"
+    },
+    {
+      "surface": "קו",
+      "gloss": "garih"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "di ateh garih"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:30.352098373Z",
+  "model": "glm-5.3"
+}

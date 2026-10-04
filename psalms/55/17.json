@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Ambo ka Elohim manjua, jo Yahweh ka salamaikan ambo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "manjua"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "jo Yahweh"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "ka salamaikan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:08.637976140Z",
+  "model": "glm-5.3"
+}

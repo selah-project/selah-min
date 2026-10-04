@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "jo alah mangumpuakan inyo dari nagari-nagari, dari timur jo dari barat, dari utara jo dari lauik.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "jo dari nagari-nagari"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "mangumpuakan inyo"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "dari timur"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "jo dari barat"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "dari utara"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "jo dari lauik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:27.293102638Z",
+  "model": "glm-5.3"
+}

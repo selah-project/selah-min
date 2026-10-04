@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Karano Yahweh parisai kami, jo Nan Suci Yisrael rajo kami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "parisai kami"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "jo Nan Suci"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "rajo kami"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:23.967289951Z",
+  "model": "glm-5.3"
+}

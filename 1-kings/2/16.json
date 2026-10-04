@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo kini, ciek panyapo ambo sapo kapado ⟨את⟩ sanak; jangan paliahi muko ambo. Jo inyo bakato kapadonyo: Bicaro.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "panyapo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "sapo"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kapado ⟨את⟩ sanak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "paliahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko ambo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko ambo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Bicaro"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:36.243492682Z",
+  "model": "glm-5.3"
+}

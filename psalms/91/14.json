@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Karano inyo lah maramu kapado Ambo, dek itu Ambo palapeh inyo; Ambo mandiriak an inyo, karano inyo tau Namo Ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kapado Ambo"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "maramu"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "dek itu Ambo palapeh inyo"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "Ambo mandiriak an inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "inyo tau"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Namo Ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:37.496074260Z",
+  "model": "glm-5.3"
+}

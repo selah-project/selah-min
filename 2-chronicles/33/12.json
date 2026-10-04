@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Jo katiko inyo sasak, inyo malambehan ⟨את⟩ muko Yahweh, Elohimnyo, jo inyo marunduak diri sangaik di muko Elohim nenek moyangnyo.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "katiko sasak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "malambehan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimnyo"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "marunduak diri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nenek moyangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:57:59.683073797Z",
+  "model": "glm-5.3"
+}

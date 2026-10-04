@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Lalu Azarya baralek jo niniak moyangnyo, jo urang tu mangubuaannyo basamo niniak moyangnyo di kota Dawid; lalu Yotam anaknyo bakuaso manggantiannyo.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "baralek"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "niniak moyangnyo"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "urang tu mangubuaannyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "niniak moyangnyo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "bakuaso"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "manggantiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:59.841023586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Alangkong lai kok umatKu mandanga Kapadaku, kok Yisrael bajalan di jalanKu!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Alangkong lai kok"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatKu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Kapadaku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "di jalanKu"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "bajalan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:04.639611239Z",
+  "model": "glm-5.3"
+}

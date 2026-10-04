@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lah Rekhavam pai ka Shekhem, karano ka Shekhem saluruah Yisrael tibo untuak manjadiakan ⟨את⟩ inyo rajo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ka Shekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ka Shekhem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "untuak manjadiakan rajo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:53.737609451Z",
+  "model": "glm-5.3"
+}

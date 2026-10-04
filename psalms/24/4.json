@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Nan barasiah tangannyo, jo nan murni atinyo, nan indak maangkek jiwanyo ⟨ka⟩ sia-sia, jo indak basumpah dek tipu dayo.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "Nan barasiah"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "jo nan murni"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwanyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "basumpah"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "dek tipu dayo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:39.925158638Z",
+  "model": "glm-5.3"
+}

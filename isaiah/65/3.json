@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Kaum nan mambuek amarah-Ku ka muko-Ku taruih-manaruih, nan manyambah di kabun-kabun, jo manukaan bansuak di ateh batu-bata.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "nan mambuek amarah-Ku"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "Aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko-Ku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih-manaruih"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "manyambah"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "di kabun-kabun"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "jo manukaan bansuak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "batu-bata"
+    }
+  ],
+  "timestamp": "2026-10-04T06:25:51.208858577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo inyo bakato: Suaro ang ⟨את⟩ den danga di kabun, den takuik karano den buliah, mako den manyuruak diri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaro ang"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "suaro ang"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "den danga"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di kabun"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "den takuik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "buliah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "den"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "den manyuruak diri"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:49.201080393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Di bulan patamo, pado ampek baleh hari bulan itu, di antaro duo mato ari, ⟨adolah⟩ Paskah untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "di bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "patamo"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pado ampek"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "hari bulan itu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "duo mato ari"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:42.924226333Z",
+  "model": "glm-5.3"
+}

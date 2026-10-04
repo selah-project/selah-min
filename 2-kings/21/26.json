@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo inyo dikubuaan di tampek kubuanyo di tambo Uza, lalu Yoasyia anaknyo manjadi rajo manggantihkannyo.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "dikubuaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "di tampek kubuanyo"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di tambo"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "manjadi rajo"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoasyia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "manggantihkannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:03:46.827303265Z",
+  "model": "glm-5.3"
+}

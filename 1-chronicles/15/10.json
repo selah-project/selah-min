@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Dari katurunan tanang Uzziel: Aminadab tuannyo, jo dunsanaknyo saratus duo baleh.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "katurunan tanang"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uzziel"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "השר",
+      "gloss": "tuannyo"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "jo dunsanaknyo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:15.311798584Z",
+  "model": "glm-5.3"
+}

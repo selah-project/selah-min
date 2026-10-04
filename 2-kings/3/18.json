@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo hal koet ringan sajo di mato Yahweh, jo Inyo ka maagiah ⟨את⟩ Moab ka dalam tangan kalian.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "jo ringan sajo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal koet"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "jo ka maagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ka dalam tangan kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:16.583519224Z",
+  "model": "glm-5.3"
+}

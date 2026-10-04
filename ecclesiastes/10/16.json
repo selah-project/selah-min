@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Aduhai untuak awak, hai bumi, katiko rajo awak anakk mudo, jo pangulu-pangulu awak makan di pagi ari!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "aduhai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak awak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "rajo awak"
+    },
+    {
+      "surface": "נער",
+      "gloss": "anakk mudo"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "jo pangulu-pangulu awak"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di pagi ari"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "makan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:50.500999174Z",
+  "model": "glm-5.3"
+}

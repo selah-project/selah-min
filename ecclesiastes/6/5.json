@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Matahari pun indak pernah inyo caliak, indak juo inyo tau; sanangnyo iko labiah dari nan itu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak juo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "sanangnyo"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dari nan itu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:25.214278029Z",
+  "model": "glm-5.3"
+}

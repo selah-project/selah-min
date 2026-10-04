@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Pikia nan bacabang ambo banci, tapi Torah-Mu ambo kasihi.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "pikia nan bacabang"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ambo banci"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "tapi Torah-Mu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ambo kasihi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:36.929006100Z",
+  "model": "glm-5.3"
+}

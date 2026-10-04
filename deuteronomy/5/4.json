@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Muko balawan muko Yahweh bakato jo awak di ateh gunuang, dari tangah api.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Muko"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "balawan muko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "jo awak"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di ateh gunuang"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tangah"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-10-04T04:53:23.832516238Z",
+  "model": "glm-5.3"
+}

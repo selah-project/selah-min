@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Rajo bakato kapadonyo: Pai jo damaian. Kok inyo bangkik jo pai ka Khevron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "jo damaian"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "kok inyo bangkik"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ka Khevron"
+    }
+  ],
+  "timestamp": "2026-10-04T05:39:39.105521209Z",
+  "model": "glm-5.3"
+}

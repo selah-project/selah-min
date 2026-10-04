@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo rajo Shelomoh jo sado karampek Yisrael nan bakumpua kapadonyo, ado basamo ⟨את⟩ inyo di muko aron itu, manyambaik anak domba jo lembu, nan indak dapek dibilang jo indak dapek dihituang karano lobonyo.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "jo rajo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "karampek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "nan bakumpua"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "basamo inyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "manyambaik"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "jo lembu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "dapek dibilang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "dapek dihituang"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "karano lobonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:42.114625217Z",
+  "model": "glm-5.3"
+}

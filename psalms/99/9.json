@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 99,
+  "translation": "Tampekkan tinggi Yahweh Elohim kito, jo sujuiklah di gunuang nan suci ⟨onyo⟩, karano Yahweh Elohim kito ⟨adolah⟩ nan suci.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "tampekkan tinggi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "jo sujuiklah"
+    },
+    {
+      "surface": "להר",
+      "gloss": "di gunuang"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nan suci ⟨onyo⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:00.703024023Z",
+  "model": "glm-5.3"
+}

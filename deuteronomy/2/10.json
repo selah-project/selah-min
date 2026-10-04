@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "⟨Dulu⟩ urang Emim tingga di sinan — bangso gadang jo banyak jo tinggi, sarupo urang Anakim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "urang Emim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dulu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "jo banyak"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "jo tinggi"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "sarupo urang Anakim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:19.307530507Z",
+  "model": "glm-5.3"
+}

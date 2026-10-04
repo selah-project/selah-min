@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Inyo baguruang jo mambaek, jo mandapek; inyo manangih, jo mamohon ka inyo; di Beit-El inyo manamui Nyo, jo di sinan Nyo bajak djo awak",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "baguruang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mambaek"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "jo mandapek"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "manangih"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "jo mamohon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "manamui Nyo"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo di sinan"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bajak"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "djo awak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:25.236405317Z",
+  "model": "glm-5.3"
+}

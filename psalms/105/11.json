@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "bakato: Kapado awak ambo ka agiah ⟨את⟩ tanah Kenaan, tali ukua warisan awak sanak.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado awak sanak"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ka agiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tali ukua"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "warisan awak sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:39.572848545Z",
+  "model": "glm-5.3"
+}

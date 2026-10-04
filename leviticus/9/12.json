@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu inyo manyambaliah ⟨את⟩ korban bakaran, jo anak-anak Aharon mambaokan kapadonyo ⟨את⟩ darahnyo, lalu inyo manyiramkannyo ka ateh mezbah sabaliliang.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "manyambaliah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "mambaokan kapadonyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahnyo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "manyiramkannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabaliliang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:57.605676927Z",
+  "model": "glm-5.3"
+}

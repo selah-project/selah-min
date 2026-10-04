@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu ambo bakato kapado urang nan tasingkek ⟨את⟩ sagalo kato-kato Yahweh nan inyo tunjuakkan kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "urang nan tasingkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kato-kato Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "inyo tunjuakkan kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:49:47.921677295Z",
+  "model": "glm-5.3"
+}

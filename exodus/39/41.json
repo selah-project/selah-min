@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "⟨את⟩ pakaian-pakaian karajo untuak bajuang di tampek nan suci, ⟨את⟩ pakaian-pakaian suci untuak Aharon imam, jo ⟨את⟩ pakaian-pakaian anak-anaknyo untuak manjadi imam.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-pakaian karajo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "untuak bajuang"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tampek nan suci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-pakaian suci"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "untuak Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakaian-pakaian anak-anaknyo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuak manjadi imam"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:18.833422261Z",
+  "model": "glm-5.3"
+}

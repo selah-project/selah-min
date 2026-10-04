@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo pado akhia duo puluah taun, katiko Shlomo alah mambangun ⟨את⟩ kaduo rumah tu — ⟨את⟩ rumah Yahweh jo ⟨את⟩ rumah rajo —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo pado wakatu tu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pado akhia"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaduo rumah tu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaduo"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumah rajo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:18.911037334Z",
+  "model": "glm-5.3"
+}

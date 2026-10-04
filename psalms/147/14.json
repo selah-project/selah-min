@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Inyo nan mambuek damai di parateh⟨nyo⟩, mangangkuek⟨kau⟩ jo lamak gandum.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "nan mambuek"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "parateh⟨nyo⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "mangangkuek⟨kau⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:20.902397993Z",
+  "model": "glm-5.3"
+}

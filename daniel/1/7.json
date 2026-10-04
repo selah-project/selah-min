@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 1:7",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Laju pangulu urang-urang kasim maagiah namo kapado urang tu: inyo maagiah kapado Daniel namo Beltshatzar, kapado Hananyah Syadrakh, kapado Misha'el Mesyakh, jo kapado Azaryah Abed-Nego.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "urang-urang kasim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "inyo maagiah"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "kapado Daniel"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Beltshatzar"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "jo kapado Hananyah"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Syadrakh"
+    },
+    {
+      "surface": "ולמישאל",
+      "gloss": "jo kapado Misha'el"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Mesyakh"
+    },
+    {
+      "surface": "ולעזריה",
+      "gloss": "jo kapado Azaryah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Abed-"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    }
+  ],
+  "timestamp": "2026-10-04T08:25:00.262349107Z",
+  "model": "glm-5.3"
+}

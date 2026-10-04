@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ambo ni hamba-Mu; bueklah ambo mangarati, supayo ambo tau `edot-Mu.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo ni"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "bueklah ambo mangarati"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "supayo ambo tau"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "`edot-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:15.257489890Z",
+  "model": "glm-5.3"
+}

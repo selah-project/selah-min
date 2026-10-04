@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Jo ⟨את⟩ namo nan kaduo inyo maagiah Efrayim, karano Elohim lah mambuek ambo babuah di nagari kamiskinan ambo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "namo nan kaduo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "maagiah namo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "mambuek ambo babuah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di nagari"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kamiskinan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:07:57.594772287Z",
+  "model": "glm-5.3"
+}

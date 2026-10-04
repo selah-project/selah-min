@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 140,
+  "translation": "Jan bari, Yahweh, kaanangan urang jaang; rancananyo jan dipatuik manjadi — bia inyo manaiak dirinyo. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "kaanangan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jaang"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "rancananyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "dipatuik manjadi"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "manaiak dirinyo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:17.693446004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Kacuali ☂di tampek nan dipiliah Yahweh Elohim-mu untuak mandirikan namonyo, ☂di sinan kau manyambiaeh ⟨את⟩ Paskah pado sanjo, katiko matoari tabana, wakatu kaluarmu dari Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kacuali"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(idiom ki-im)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "dipiliah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "untuak mandirikan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "kau manyambiaeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paskah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pado sanjo"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "katiko masuak\/bana"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "kaluarmu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:41.688547871Z",
+  "model": "glm-5.3"
+}

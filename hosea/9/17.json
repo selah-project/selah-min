@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Elohim ambo agiah manolak ⟨את⟩ inyo, karano inyo indak mandanga kapado-Nyo, jo inyo ka manjadi urang nan bajalan indak batampek di antaro bangso-bangso.",
+  "tokens": [
+    {
+      "surface": "ימאסם",
+      "gloss": "agiah manolak"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado-Nyo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "jo inyo ka manjadi"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "urang nan bajalan indak batampek"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antaro bangso-bangso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:46.230677637Z",
+  "model": "glm-5.3"
+}

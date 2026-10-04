@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 146,
+  "translation": "Yahweh mambukak mato urang buto, Yahweh mangangkek urang nan bakuok, Yahweh pancintoi urang nan banar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "mambukak mato"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "urang buto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "urang nan bakuok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "pancintoi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang nan banar"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:17.269807753Z",
+  "model": "glm-5.3"
+}

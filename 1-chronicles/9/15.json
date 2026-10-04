@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Dan Bakbakkar, Kheresh, jo Galal, jo Mattanyah anak Mikha, anak Zikhri, anak Asaf.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "dan Bakbakkar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Kheresh"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "jo Galal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "jo Mattanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Mikha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    }
+  ],
+  "timestamp": "2026-10-04T08:43:21.703798158Z",
+  "model": "glm-5.3"
+}

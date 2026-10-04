@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Karano sabalun musim panen, katiko kambang alah salasai jo anggur masauik alah manjadi kambang malai, inyo mamanciang ⟨את⟩ ranting-ranting jo sadiam, jo ⟨את⟩ dahan-dahan inyo buang jo dipalah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sabalun"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "musim panen"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "katiko alah salasai"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "kambang"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "jo anggur masauik"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "alah manjadi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "kambang malai"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "mamanciang"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "ranting-ranting"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "jo sadiam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dahan-dahan"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "dahan-dahan"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "buang"
+    },
+    {
+      "surface": "התז",
+      "gloss": "dipalah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:50.702919497Z",
+  "model": "glm-5.3"
+}

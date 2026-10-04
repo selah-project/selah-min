@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jadi rajo Yisrael bakato kapado Elisha, katiko inyo caliak ⟨את⟩ inyo-inyo tu: Ayah ambo, kok ambo pukua inyo-inyo tu? Kok ambo pukua?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "katiko inyo caliak"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo-inyo tu"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "kok ambo pukua"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ambo pukua"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:57.959980285Z",
+  "model": "glm-5.3"
+}

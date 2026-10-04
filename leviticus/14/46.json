@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo urang nan masuak ka rumah tu salamo ari-ari rumah tu ditutuik, inyo manjadi indak suci sampai patang hari.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "jo urang nan masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "ditutuik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tu"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "manjadi indak suci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "patang hari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:53.692077486Z",
+  "model": "glm-5.3"
+}

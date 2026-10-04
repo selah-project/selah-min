@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Siang Yahweh mamarintahkan hesed-Nyo, dan pado malam nyanyian-Nyo basamo ambo, doa kapado El kahidupan ambo.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "dan pado malam"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "nyanyian-Nyo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "basamo ambo"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kapado El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kahidupan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:33.683389118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Hei beniah Avraham, hamba-Nyo, anak-anak Yaakov, nan pilihi-Nyo!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hamba-Nyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "nan pilihi-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:40.350524486Z",
+  "model": "glm-5.3"
+}

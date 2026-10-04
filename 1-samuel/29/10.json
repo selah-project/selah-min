@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Kok kini, bueklah pagi-pagi, ang jo hamba-hamba tuan ang nan tibo basamo ⟨את⟩ ang; jo kok alah basigera pagi-pagi alah tarang, pulanglah.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kok kini"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "bueklah pagi-pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "jo hamba-hamba"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuan ang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "basamo ⟨את⟩ ang",
+      "marks": "ang"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "kok alah basigera pagi-pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "aloh tarang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak ang"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "pulanglah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:37.388284822Z",
+  "model": "glm-5.3"
+}

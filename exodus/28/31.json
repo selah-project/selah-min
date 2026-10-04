@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo kau ka mambuek ⟨את⟩ jubah haEphod sacaro utuh dari banang biru techelet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo kau ka mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "haEphod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "sacaro utuh"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "banang biru techelet"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:14.354605790Z",
+  "model": "glm-5.3"
+}

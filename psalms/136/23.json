@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "Nang mangana ami katiko randah diri ami, karano salamonyo hesed Nyo.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "katiko randah diri ami"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Nang mangana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:09.603273037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo inyo mambuek sabuah peti dari kayu shitim: duo amah satangah panjangnyo, ciek amah satangah lebanyo, jo ciek amah satangah tingginyo.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sabuah peti"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "duo amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jo satangah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnyo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ciek amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jo satangah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebanyo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ciek amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jo satangah"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tingginyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:39.600559491Z",
+  "model": "glm-5.3"
+}

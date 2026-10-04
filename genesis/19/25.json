@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu inyo mambaliak ⟨את⟩ kota-kota itu, jo ⟨את⟩ saluruah daratan, jo ⟨את⟩ saluruah panduduak kota-kota itu, jo tumbuahan tanah.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "mambaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota itu"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota itu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "saluruah daratan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "daratan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "saluruah panduduak kota-kota itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota itu"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "jo tumbuahan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:37.497951837Z",
+  "model": "glm-5.3"
+}

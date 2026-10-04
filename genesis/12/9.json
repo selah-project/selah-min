@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu Avraham bajalan, taruih bajalan jo bagala ka arah selatan.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "taruih bajalan"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "jo bagala"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ka arah selatan"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:03.766502798Z",
+  "model": "glm-5.3"
+}

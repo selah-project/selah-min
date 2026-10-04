@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Tapi Elohim ka manebaskan jiwa ambo dari tangan Sheol, karano inyo ka mangambia ambo. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ka manebaskan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa ambo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "ka mangambia ambo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:57.670894140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Samuel alah maningga, jo sadoalah Yisrael alah bamaniah-maniah untuak inyo, jo alah mangubuakan inyo di Ramah, di kotanyo. Jo Syaul alah mambuang urang-urang nan mambao roh arwah jo ⟨את⟩ urang-urang nan tau arwah dari tapi nagari.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "jo Samuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maningga"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "bamaniah-maniah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "mangubuakan inyo"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "di Ramah"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "di kotanyo"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "jo Syaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "mambuang"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "urang-urang nan mambao roh arwah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "urang-urang nan tau arwah"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "urang-urang nan tau arwah"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "dari tapi nagari"
+    }
+  ],
+  "timestamp": "2026-10-04T05:33:31.207729840Z",
+  "model": "glm-5.3"
+}

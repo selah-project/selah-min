@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo inyo punyo bini urang gadang nan barumah kadiak tatangga tujuah ratuih, jo gadiak palanggang tigo ratuih; jo bini-biniinyo mambalieh ⟨את⟩ atinyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo inyo punyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "bini"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "urang gadang nan barumah kadiak tatangga"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratuih"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "jo gadiak palanggang"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratuih"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "mambalieh"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "bini-biniinyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atinyo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:01.863886345Z",
+  "model": "glm-5.3"
+}

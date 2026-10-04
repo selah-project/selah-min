@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Hadad, jo Tema, Yetur, Nafisy, jo Kedemah.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "jo Tema"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Yetur"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Nafisy"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "jo Kedemah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:02.570947025Z",
+  "model": "glm-5.3"
+}

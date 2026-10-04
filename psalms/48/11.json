@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Sarupo namo-Mu, Elohim, baitu juo pujian-Mu sampai ka ujuang-ujuang bumi; tsedeq paneh tangan kanan-Mu.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "sarupo namo-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "pujian-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ujuang-ujuang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "paneh"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:29.990437158Z",
+  "model": "glm-5.3"
+}

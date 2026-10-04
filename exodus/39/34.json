@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "jo ⟨את⟩ panutuik dari kulik bifang-bifang urang nan dimakan sirah, jo ⟨את⟩ panutuik dari kulik takhasym, jo ⟨את⟩ tabir panutuiknyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "panutuik kulik bifang urang"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "panutuik"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "bifang-bifang urang"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "nan dimakan sirah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "panutuik kulik takhasym"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "panutuik"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "takhasym"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tabir"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tabir"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "panutuiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:38.927267649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 21:1",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Maka tajadilah salasai kato-kato itu: ado kabun anggur untuak Navot, urang Yizreel, nan ado di Yizreel, di dakek istano Ahab rajo Samaria.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka tajadilah"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "salasai"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kabun anggur"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לנבות",
+      "gloss": "untuak Navot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "urang Yizreel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "di Yizreel"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "di dakek"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "istano"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samaria"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:36.176753173Z",
+  "model": "glm-5.3"
+}

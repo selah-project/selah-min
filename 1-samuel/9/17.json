@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Kok Shemuel lah nampak ⟨את⟩ Shaul, Yahweh manjawabnyo: Caliak, urang nan ambo katoan kapadanyo — iko nan akan mamarintah umat ambo.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "manjawabnyo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo katoan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapadanyo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "akan mamarintah"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "umat ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:09.151026722Z",
+  "model": "glm-5.3"
+}

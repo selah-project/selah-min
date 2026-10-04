@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 63,
+  "translation": "Karano Angkau alah manjadi panolong ambo, mako dalam linduangan sayok Angkau ambo basorak ria.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Angkau alah manjadi"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "panolong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "dalam linduangan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sayok Angkau"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ambo basorak ria"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:45.577618909Z",
+  "model": "glm-5.3"
+}

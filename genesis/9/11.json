@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 9:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ambo akan mandirikan ⟨את⟩ parjanjian ambo ⟨את⟩ jo kalian: indak lai sado dagiang akan dipotong dek aia banjir, indak lai akan ado banjir untuak marusak bumi.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "jo ambo akan mandirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian ambo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian ambo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jo kalian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "akan dipotong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "dek aia"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "banjir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ado"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "מבול",
+      "gloss": "banjir"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "untuak marusak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:44.097365105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Tsadiek Yahweh ⟨adalah⟩ di sadoalah jalan-Nyo, jo barhesed di sadoalah pakerjaan-Nyo.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Tsadiek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sadoalah"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jalan-Nyo"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "jo barhesed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sadoalah"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "pakerjaan-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:48.035668048Z",
+  "model": "glm-5.3"
+}

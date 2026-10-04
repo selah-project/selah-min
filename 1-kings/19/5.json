@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu inyo bahubarang jo lalok di bawah ciek pohon rothem, jo katiko itu —ciak!— surang maliak manyantuah inyo, jo bakato kapadonyo: Bangun, makan.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "bahubarang"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "pohon rothem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo katiko itu —ciak!—"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨inyo⟩"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "surang maliak"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "manyantuah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Bangun"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "makan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:53:27.062831676Z",
+  "model": "glm-5.3"
+}

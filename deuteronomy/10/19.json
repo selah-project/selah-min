@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Maka kasihi awak ⟨את⟩ urang rantau, karano awak alah manjadi urang rantau di bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "maka kasihi awak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang rantau"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "urang rantau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "urang rantau"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "lah manjadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:29.284598004Z",
+  "model": "glm-5.3"
+}

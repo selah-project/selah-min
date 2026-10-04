@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Hanyo, karano dek kato ko ang alah mahinoi ⟨את⟩ musuah-musuah Yahweh, anak nan lahia kapado ang tu — mati bana inyo ka mati.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "mahinoi"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "ang alah mahinoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuah-musuah Yahweh"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuah-musuah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dek kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "nan lahia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ang"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati bana"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ka mati"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:18.418380510Z",
+  "model": "glm-5.3"
+}

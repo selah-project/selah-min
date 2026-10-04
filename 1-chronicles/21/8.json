@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo Dawid bakato kapado Elohim: Ambo alah badosa bana, karano ambo alah malakuan ⟨את⟩ kato ko; kok maapuihlah now ⟨is⟩ ⟨את⟩ palanggangan ambo, karano ambo alah bodoh bana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "alah badosa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "alah malakuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato ko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kok"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "maapuihlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palanggangan ambo"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "palanggangan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "alah bodoh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-04T09:31:56.466709790Z",
+  "model": "glm-5.3"
+}

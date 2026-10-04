@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo Saul maharuih mambacuik Dawid jo tombak sampai ka dindiang, tapi inyo mailak dari muko Saul, jo Saul mambacuik ⟨את⟩ ⟨את⟩ tombak tu ka dindiang, jo Dawid lari ka lapeh malam itu.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "maharuih"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "mambacuik"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "jo tombak"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "sampai ka dindiang"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "tapi inyo mailak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mambacuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tombak tu"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "tombak tu"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ka dindiang"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "jo Dawid"
+    },
+    {
+      "surface": "נס",
+      "gloss": "lari"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ka lapeh"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:21.412905813Z",
+  "model": "glm-5.3"
+}

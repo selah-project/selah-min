@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 131,
+  "translation": "Sungguah ambo alah manyarokan jo alah mambuek tanang nyao ambo, sarupo anak lapeh susu di pangkuan ibunyo; sarupo anak lapeh susu, ciek tu, nyao ambo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sungguah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sungguah"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "manyarokan"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "mambuek tanang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyao ambo"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sarupo anak lapeh susu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di pangkuan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunyo"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sarupo anak lapeh susu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ciek tu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyao ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:20.663420389Z",
+  "model": "glm-5.3"
+}

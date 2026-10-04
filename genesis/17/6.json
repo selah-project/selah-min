@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Ambo akan mambaranaki ⟨את⟩ awak sangaik-sangaik, ambo mambuek awak manjadi bangso-bangso, rajo-rajo kalua dari awak.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "ambo akan mambaranaki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ awak",
+      "marks": "awak"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sangaik"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangait"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ambo mambuek awak"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "manjadi bangso-bangso"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari awak"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kalua"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:49.081508522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Yahweh bakato kapado inyo: Apo nan di tanganmu? Jo inyo bakato: Tongkek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "apo iko"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di tanganmu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:33.039461842Z",
+  "model": "glm-5.3"
+}

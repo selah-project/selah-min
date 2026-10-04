@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 1:1",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Shlomo anak Dawid kokoh ateh karajaannyo, jo Yahweh, Elohimnyo, basamo inyo, jo Yahweh manggadangannyo ka ateh bana.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "kokoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "karajaannyo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "jo Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimnyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "jo manggadangannyo"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ka ateh bana"
+    }
+  ],
+  "timestamp": "2026-10-04T08:49:19.933107629Z",
+  "model": "glm-5.3"
+}

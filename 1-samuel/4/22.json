@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo inyo bakato: Gamang alah talapeh dari Yisrael, karano alah tabawak ⟨את⟩ potongan Elohim.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "talapeh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gamang"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "dari Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "tabawak"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "potongan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim",
+      "marks": "potongan Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:38.085179469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Dan kau baita inyo pado ban takalek, dan inyo ado di ateh destar, muko ka muko jo muko destar inyo ado.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "kau baita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ban"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "takalek"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan inyo ado"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "destar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מול",
+      "gloss": "muko ka muko jo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "destar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "inyo ado"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:45.712497592Z",
+  "model": "glm-5.3"
+}

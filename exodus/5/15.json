@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Datanglah mandoro-mandoro anak-anak Yisrael maadu ka Paroh, bakato: Baa kok Wak buwek baitu kapado hamba-hamba Wak?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Datanglah"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "mandoro-mandoro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "maadu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Baa kok"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "Wak buwek"
+    },
+    {
+      "surface": "כה",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "kapado hamba-hamba Wak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:43.619637121Z",
+  "model": "glm-5.3"
+}

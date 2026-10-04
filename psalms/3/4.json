@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Tapi Sanak, Yahweh, adolah paneh kokok ambo, kamaah ambo, nan maangkek kapalo ambo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tapi Sanak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "paneh kokok"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamaah ambo"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "nan maangkek"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:16.645669519Z",
+  "model": "glm-5.3"
+}

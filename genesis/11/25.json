@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo Nahor iduik sasudah inyo mangalahian ⟨את⟩ Terakh sambilan baleh taun jo saratus taun, jo inyo mangalahian anak-anak laki-laki jo anak-anak padusi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "inyo mangalahian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terakh"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakh"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sambilan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "jo saratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "jo inyo mangalahian"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak laki-laki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "jo anak-anak padusi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:45.933873043Z",
+  "model": "glm-5.3"
+}

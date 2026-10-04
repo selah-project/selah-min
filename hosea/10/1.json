@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 10:1",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Yisrael tu anggur nan manyubarang, buahnyo inyo buek untuak dirinyo surang; sasak manyaknyo buahnyo, inyo manambah mazbah-mazbah; sasak eloknyo tanahnyo, inyo mambuek elok-elok tiang-tiang baturuak.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "nan manyubarang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "ישוה",
+      "gloss": "inyo buek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak dirinyo"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sasak manyaknyo"
+    },
+    {
+      "surface": "לפריו",
+      "gloss": "buahnyo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "inyo manambah"
+    },
+    {
+      "surface": "למזבחות",
+      "gloss": "mazbah-mazbah"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "sasak eloknyo"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "tanahnyo"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "inyo mambuek elok"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "tiang-tiang baturuak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:26.148335680Z",
+  "model": "glm-5.3"
+}

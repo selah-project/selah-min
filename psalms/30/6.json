@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Karano sabanta sajo murka-Nyo, iduik ado dalam kasukoan-Nyo; katiko malam tangih bamalam, tapi katiko pagi tibo riah manyanyi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "sabanta sajo"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dalam murka-Nyo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "dalam kasukoan-Nyo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "katiko malam"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bamalam"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "tangih"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "tapi katiko pagi tibo"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "riah manyanyi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:52.800518072Z",
+  "model": "glm-5.3"
+}

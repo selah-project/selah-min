@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jadi inyo pai jo ⟨את⟩ urang tu, jo urang tu tibo ka Yarden, jo urang tu manabang ⟨את⟩ kayu-kayu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tibo ka"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "manabang"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:58.297373429Z",
+  "model": "glm-5.3"
+}

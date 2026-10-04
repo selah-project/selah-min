@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Jo inyo mambuek ⟨את⟩ papan-papan untuak Mishkan itu dari kayu akasia, tagak bardiri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "untuak Mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dari kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "tagak bardiri"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:40.265278843Z",
+  "model": "glm-5.3"
+}

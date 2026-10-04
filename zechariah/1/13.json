@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Yahweh manjawab ⟨את⟩ malakim nan mangecekan di dalam diri ambo, kato-kato nan elok, kato-kato nan mangapuih.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "manjawab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malakim"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malakim"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nan mangecekan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di dalam diri ambo"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "nan mangapuih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:18:47.726994419Z",
+  "model": "glm-5.3"
+}

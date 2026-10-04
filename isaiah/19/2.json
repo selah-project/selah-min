@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo Aku mambuek Mitsrayim sarik jo Mitsrayim, inggo urang-urangnyo baparang, saurang jo dunsanaknyo, jo saurang jo kawannyo, koto jo koto, karajaan jo karajaan.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "jo Aku mambuek sarik"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "jo Mitsrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "inggo urang-urangnyo baparang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "jo dunsanaknyo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jo saurang"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "jo kawannyo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "koto"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "jo koto"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "jo karajaan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:12:12.011417872Z",
+  "model": "glm-5.3"
+}

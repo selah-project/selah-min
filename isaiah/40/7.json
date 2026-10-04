@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Rumput maang, kambang layu, karano ruakh Yahweh manyaripuiknyo; bana-i, urang banyak tu ikau rumput.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "maang"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "layu"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "kambang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "manyaripuik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "bana-i"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:44.470601639Z",
+  "model": "glm-5.3"
+}

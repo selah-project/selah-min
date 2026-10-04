@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo Kheber manurunkan ⟨את⟩ Yaflet, jo ⟨את⟩ Syomel, jo ⟨את⟩ Khotam, jo ⟨את⟩ Syua sudaro padusinyo.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Jo Kheber"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Syomel"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Syomel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Khotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Khotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Syua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Syua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "sudaro padusinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:44.216054950Z",
+  "model": "glm-5.3"
+}

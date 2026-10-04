@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Dan inyo mangirim kapado ambo kato ko ampek kali, dan ambo mambaleh inyo ⟨את⟩ jo kato ko.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "dan inyo mangirim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jo kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "dan ambo mambaleh"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jo kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-04T08:36:53.977974776Z",
+  "model": "glm-5.3"
+}

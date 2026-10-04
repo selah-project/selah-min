@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Ka dalam Diri-Mu, Yahweh, ambo balinduang; jangan sampai ambo tahina salamanyo; dalam tsedeq-Mu lapehkan ambo.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "ka dalam Diri-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ambo balinduang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ambo tahina"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dalam tsedeq-Mu"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "lapehkan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:42.554556384Z",
+  "model": "glm-5.3"
+}

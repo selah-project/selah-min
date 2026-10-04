@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "⟨את⟩ sia inyo mangaja ilmu, jo ⟨את⟩ sia inyo mambuek mangarati kaba? Apokah urang nan alah disapih dari susu, urang nan alah dilapeh dari dado?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sia"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "mangaja"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ilmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sia"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mambuek mangarati"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "kaba"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "urang nan alah disapih"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "dari susu"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "urang nan alah dilapeh"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "dari dado"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:30.351842174Z",
+  "model": "glm-5.3"
+}

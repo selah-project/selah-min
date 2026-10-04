@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Jo ⟨את⟩ tanah nan alah Kubarikan kapado Avraham jo kapado Yitskhak, kapado kau Kubarikan ⟨את⟩ inyo, jo kapado katurunan kau sasudah kau Kuagiah ⟨את⟩ tanah itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah Kubarikan"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kapado Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "jo kapado Yitskhak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "Kubarikan inyo"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "jo kapado katurunan kau"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sasudah kau"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Kuagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:33.097616402Z",
+  "model": "glm-5.3"
+}

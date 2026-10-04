@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Urang-urang nan turun ka lauik jo kapa, nan bakarajo di aia nan banyak —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "urang-urang nan turun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ka lauik"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "jo kapa"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "nan bakarajo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di aia"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:33.990304152Z",
+  "model": "glm-5.3"
+}

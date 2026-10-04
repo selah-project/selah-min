@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Bukankah hari Yahweh itu galok, indak tarang — galok rancak, indak sinar padonyo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "galok"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tarang"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "galok rancak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "sinar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "padonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:12:13.211495356Z",
+  "model": "glm-5.3"
+}

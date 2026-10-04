@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Yahweh manambah bakeh mangecek kapado ambo lai, bakato:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "manambah bakeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:40.008571314Z",
+  "model": "glm-5.3"
+}

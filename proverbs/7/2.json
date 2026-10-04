@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jago parentah-parentah ambo, dan iduik; jo Torah ambo sarupo anak mata mato ang.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "jago"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah-parentah ambo"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "dan iduik"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "jo Torah ambo"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "sarupo anak mata"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mato ang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:29.776545262Z",
+  "model": "glm-5.3"
+}

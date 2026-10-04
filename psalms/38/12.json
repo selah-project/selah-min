@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Kasih sayang ambo jo kawan-kawan ambo bajauahan dari luko ambo; sanak dakek ambo pun tagak jauah.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "kasih sayang ambo"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "jo kawan-kawan ambo"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "bajauahan"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "dari luko ambo"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "sanak dakek ambo pun"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "jauah"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "tagak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:46.407547589Z",
+  "model": "glm-5.3"
+}

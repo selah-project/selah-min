@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ampiang sajo inyo maancuang ambo di bumi, tapi ambo indak maninggaan patuah-Mu.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ampiang sajo"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "inyo maancuang ambo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "maninggaan"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "patuah-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:29.259517440Z",
+  "model": "glm-5.3"
+}

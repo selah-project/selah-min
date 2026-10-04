@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Kapado-Mu, dalam kahania, ⟨ado⟩ pujian, Elohim, di Tzion, jo kapado-Mu nazar ka dibayaia.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "dalam kahania"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pujian"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "jo kapado-Mu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ka dibayaia"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nazar"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:36.900516681Z",
+  "model": "glm-5.3"
+}

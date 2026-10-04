@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Naiaklah ka ambo, jo tolonglah ambo, supayo kito dapek mambantai ⟨את⟩ Givon, karano inyo alah bapariaik jo ⟨את⟩ Yehosyua jo ⟨את⟩ anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Naiaklah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "jo tolonglah ambo"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "supayo kito dapek mambantai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "inyo alah bapariaik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosyua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:07:16.091675954Z",
+  "model": "glm-5.3"
+}

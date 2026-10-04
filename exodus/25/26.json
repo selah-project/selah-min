@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo kau buek untuaknyo ampek cincin ameh, jo kau agiah ⟨את⟩ cincin-cincin tu di ampek suduik nan ado di ampek kaki tu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo kau buek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "cincin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "jo kau agiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cincin-cincin tu"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "cincin-cincin tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "suduik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan ado di"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "di ampek"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:41.105978349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 99,
+  "translation": "Mauluak lah namo-Mu, nan gadang jo nan mambahaso — suci inyo!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "mauluak"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "mambahaso"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:38.652686904Z",
+  "model": "glm-5.3"
+}

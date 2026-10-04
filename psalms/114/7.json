@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 114,
+  "translation": "Di muko Adonai, gataanglah angkau, bumi; di muko Eloah Yaakov —",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "gataanglah angkau"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:15.901180056Z",
+  "model": "glm-5.3"
+}

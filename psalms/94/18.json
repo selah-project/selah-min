@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Jiko ambo bakato: kaki ambo ragu-ragu — hesed Engkau, Yahweh, managak ambo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jiko"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ragu-ragu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kaki ambo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "managak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:13.859390233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Diam baâ�� Yahweh, jo tunggu sabar untuak-Nyo; jangan barangeh karano urang nan baruntuang jalannyo, karano urang nan mambahasokan rancangan jaeknyo.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Diam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "baâ� Yahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "jo tunggu sabar untuak-Nyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak-Nyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "barangeh"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "karano urang nan baruntuang"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalannyo"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "karano urang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan mambahasokan"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "rancangan jaeknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:05.076461222Z",
+  "model": "glm-5.3"
+}

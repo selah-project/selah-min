@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu anak-anak Yisrael manjerik kapado Yahweh, bakato: Kami alah badoso kapado Awak, karano kami alah mambukak ⟨את⟩ Elohim kami, jo kami alah mambaktokan ⟨את⟩ ka para Baal.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "manjerik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "kami alah badoso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado Awak"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "kami alah mambukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim kami"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "jo kami alah mambaktokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "para Baal"
+    }
+  ],
+  "timestamp": "2026-10-04T05:15:07.404258587Z",
+  "model": "glm-5.3"
+}

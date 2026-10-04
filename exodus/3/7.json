@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Yahweh bakato: Caliak bana lah Ambo caliak ⟨את⟩ kasusahan umat-Ko nan di Mitsrayim, jo ⟨את⟩ tariakannyo lah Ambo danga dek mandur-mandurnyo, karano Ambo tau ⟨את⟩ pariehnyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jo Yahweh bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "caliak bana"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "lah Ambo caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasusahan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tariakannyo"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "tariakannyo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "lah Ambo danga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dek"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "mandur-mandurnyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ambo tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pariehnyo"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "pariehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:50.731882256Z",
+  "model": "glm-5.3"
+}

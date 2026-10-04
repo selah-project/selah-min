@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 13:55",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Dan imam ma caliak sasudah luka tu dicuci ⟨את הנגע⟩, dan basonyo luka tu indak barubah ⟨את⟩ mukonyo, dan luka tu indak malaweh — inyo indak suci; kau baka inyo jo api; inyo karusakan lubang, di pungguangnyo atau di mukonyo.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ma caliak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "dicuci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luka tu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "luka tu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan basonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "barubah"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "luka tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukonyo"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "והנגע",
+      "gloss": "dan luka tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "malaweh"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "indak suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "kau baka inyo"
+    },
+    {
+      "surface": "פחתת",
+      "gloss": "karusakan lubang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "di pungguangnyo"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "di mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:46.765985824Z",
+  "model": "glm-5.3"
+}

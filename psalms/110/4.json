@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 110,
+  "translation": "Yahweh alah basumpah, dan indak ka barasiah: Angkau imam salamo-lamonyo manuruik caro Malki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "alah basumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "ka barasiah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Angkau"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "manuruik"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "caro"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:26.482128331Z",
+  "model": "glm-5.3"
+}

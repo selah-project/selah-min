@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Ia maanta anak paneh-Nyo jo mampasarakannyo, jo kilat nan banyak, jo mahuyakannyo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu Ia maanta"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "anak paneh-Nyo"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "jo mampasarakannyo"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "jo kilat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "jo mahuyakannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:08.492508519Z",
+  "model": "glm-5.3"
+}

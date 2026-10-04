@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Ambo ka mancaritoan ⟨mangenai⟩ katatapan: Yahweh bakato kapado ambo, Anak ambo dineh kamo, pado ari ko Ambo alah malahiakan kau.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ambo ka mancaritoan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨mangenai⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "katatapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Anak ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "dineh kamo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pado ari ko"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "alah malahiakan kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:26.989529975Z",
+  "model": "glm-5.3"
+}

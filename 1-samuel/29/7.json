@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Kok makaa kini baliaklah, pai jo damai, jo unyo indak buwek kakajaan di mato para panglima Filistin.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kok makaa kini"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "jo pai"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "jo damai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "awak-sanak buwek"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kakajaan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "para panglima"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin"
+    }
+  ],
+  "timestamp": "2026-10-04T05:34:15.775515048Z",
+  "model": "glm-5.3"
+}

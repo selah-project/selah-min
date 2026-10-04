@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo pasukannyo, jo jumlah urang nan dihituang: ampek jo tujuah puluah ribu, anam ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "jo pasukannyo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "jo jumlah urang nan dihituang"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "jo tujuah puluah"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:54.254712270Z",
+  "model": "glm-5.3"
+}

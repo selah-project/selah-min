@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Ambaik nan diliek nabi Khavaquq.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ambaik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "diliek"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Khavaquq"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:16:31.702092846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Aharon manggarangkan ⟨את⟩ tangannyo ateh aia-aia Mitsrayim, lalu naiaklah katak-katak, dan tatutuiklah ⟨את⟩ bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Lalu manggarangkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "aia-aia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "lalu naiaklah"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "katak-katak"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dan tatutuiklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:08.865612204Z",
+  "model": "glm-5.3"
+}

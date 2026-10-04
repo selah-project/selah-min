@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "⟨את⟩ ambo inyo alah mambaok jo mandorong ka dalam galok, indak ka cahayo.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mandorong"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "galok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahayo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:18:27.198974979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo ambo ka mambuek ⟨את⟩ nagari-nagari kalian manjadi ruso, jo ambo ka mambuek ⟨את⟩ tampek-tampek suci kalian tapanciang, jo ambo indak ka maangok bauak sampurano kalian.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jo ambo ka mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagari-nagari kalian"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "nagari-nagari kalian"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "manjadi ruso"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "jo ambo ka mambuek tapanciang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampek-tampek suci kalian"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "tampek-tampek suci kalian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "ka maangok"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "bauak"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "sampurano kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:53.375227632Z",
+  "model": "glm-5.3"
+}

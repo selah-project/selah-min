@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "⟨את⟩ lauik nan ciek, jo ⟨את⟩ duaha baleh lembu di bawahnyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lauik tu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik tu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duaha baleh lembu tu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duaha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "di bawahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:50:09.823474866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Maikek, tingokan, sado nan takuik kapado Elohim, ambo ka caritoan apo nan alah inyo buek untuak jiwa ambo.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "maiek"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tingokan"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "ambo ka caritoan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "nan takuik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah inyo buek"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "untuak jiwa ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:18.758166464Z",
+  "model": "glm-5.3"
+}

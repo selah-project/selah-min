@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo pado taun kalimo kalian dapek makan ⟨את⟩ buahnyo, supayo tambah untuak kalian hasilnyo; ambo Yahweh, Elohim kalian.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "jo pado taun"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "kalimo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kalian dapek makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buahnyo"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahnyo"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "supayo tambah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kalian"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "hasilnyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:48.155985613Z",
+  "model": "glm-5.3"
+}

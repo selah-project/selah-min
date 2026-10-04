@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo pado taun nan katigo, turunlah Yehoshafat rajo Yehudah ka rajo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi lah"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pado taun"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "nan katigo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:38.415829791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 54,
+  "translation": "O Elohim, tangah-i ambo, dangaan tatangih doa ambo, tarangkan talingo ka kato-kato dari muang ambo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tangah-i ambo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ambo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tarangkan talingo"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ka kato-kato"
+    },
+    {
+      "surface": "פי",
+      "gloss": "dari muang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:52.490447641Z",
+  "model": "glm-5.3"
+}

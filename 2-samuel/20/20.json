@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lalu Yoab manjawab jo bakato: Indak patuah, indak patuah untuak ambo, kok ambo manalan kok mamusarak.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "manjawab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "indak patuah"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "indak patuah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ambo manalan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "mamusarak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:41:43.171038996Z",
+  "model": "glm-5.3"
+}

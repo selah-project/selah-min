@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jo ⟨את⟩ destar banang linan, jo ⟨את⟩ hiasan kapiah-kapiah banang linan, jo ⟨את⟩ salawar-salawar linen banang linan nan dipilin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "destar banang linan"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "destar banang linan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "banang linan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "hiasan kapiah-kapiah"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "hiasan kapiah-kapiah"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "kapiah-kapiah"
+    },
+    {
+      "surface": "שש",
+      "gloss": "banang linan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "salawar-salawar linen"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "salawar-salawar linen"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "banang linan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "nan dipilin"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:28.777837071Z",
+  "model": "glm-5.3"
+}

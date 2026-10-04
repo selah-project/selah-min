@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Lalu inyo mamasang ⟨את⟩ kareta parangnyo, jo ⟨את⟩ pasukannyo inyo baok basamo dirinyo.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "lalu inyo mamasang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kareta parangnyo"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "kareta parangnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pasukannyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pasukannyo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "inyo baok"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo dirinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:59.404548214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Jo maagiah tanahnyo sabagai warisan, warisan untuak Yisrael, umatnyo.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "jo maagiah"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tanahnyo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "untuak Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:31.344716559Z",
+  "model": "glm-5.3"
+}

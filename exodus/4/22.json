@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo kau ka bakato kapado Paroh: Baitu kato Yahweh: Anak ambo, anak sulung ambo, adolah Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "jo kau ka bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "anak sulung ambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:14.882257371Z",
+  "model": "glm-5.3"
+}

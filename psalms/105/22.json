@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Untuak mangikek pangarannyo manuruik kahandak nafiehnyo, jo maajaan urang tuonyo manjadi bijak.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "untuak mangikek"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "pangarannyo"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "manuruik kahandak nafiehnyo"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "jo urang tuonyo"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "maajaan manjadi bijak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:46.893565348Z",
+  "model": "glm-5.3"
+}

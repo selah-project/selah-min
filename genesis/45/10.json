@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 45:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Jo sanak tingga di tanah Goshen, jo sanak dakek jo ambo — sanak, anak-anak sanak, jo cucu-cucu sanak, kawan-sanak, lombu-lombu sanak, jo sado nan ado pado sanak.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "jo sanak tingga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "jo sanak ⟨adalah⟩"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "anak-anak sanak"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jo anak dari"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak sanak"
+    },
+    {
+      "surface": "וצאנך",
+      "gloss": "kawan-sanak"
+    },
+    {
+      "surface": "ובקרך",
+      "gloss": "lombu-lombu sanak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ado pado sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:38.142261164Z",
+  "model": "glm-5.3"
+}

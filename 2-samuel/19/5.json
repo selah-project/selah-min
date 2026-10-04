@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu rajo manutuik ⟨את⟩ mukonyo, lalu rajo basuryak jo suaro gadang: anak ambo, Avshalom! Avshalom, anak ambo, anak ambo!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "lalu rajo"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "manutuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukonyo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "lalu basuryak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:43:13.395562462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo Akish bakato: Aa, indak kalian rapek ari ko? Lalu Dawid bakato: Ka salatan Yehudah, ka salatan urang Yerakhmeel, jo ka salatan urang Keni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "rapek"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari ko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "salatan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "salatan"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "urang Yerakhmeel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "salatan"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "urang Keni"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:34.437293896Z",
+  "model": "glm-5.3"
+}

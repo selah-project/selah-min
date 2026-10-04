@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Ambo ka mampecahkan ⟨את⟩ sombong kakuatan sanak, jo ambo ka mambuek ⟨את⟩ langik sanak sarupo basi, jo ⟨את⟩ bumi sanak sarupo tambaga.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "ambo ka mampecahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sombong kakuatan sanak"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "sombong"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "kakuatan sanak"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "jo ambo ka mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langik sanak"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "langik sanak"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "sarupo basi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bumi sanak"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "bumi sanak"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "sarupo tambaga"
+    }
+  ],
+  "timestamp": "2026-10-04T09:04:37.954725788Z",
+  "model": "glm-5.3"
+}

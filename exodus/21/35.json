@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo kalau jawang surang urang mananduak ⟨את⟩ jawang kawannyo sampai mati, mako inyo manjuweh ⟨את⟩ jawang nan iduik tu jo mambagi duo ⟨את⟩ pitihnyo; ⟨את⟩ nan mati tu pun inyo bagi duo.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "jo kalau"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "mananduak"
+    },
+    {
+      "surface": "שור",
+      "gloss": "jawang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "surang urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawang"
+    },
+    {
+      "surface": "שור",
+      "gloss": "jawang"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kawannyo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "sampai mati"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "mako inyo manjuweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawang nan iduik"
+    },
+    {
+      "surface": "השור",
+      "gloss": "jawang"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nan iduik"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "jo mambagi duo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitihnyo"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "pitihnyo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan mati"
+    },
+    {
+      "surface": "המת",
+      "gloss": "nan mati"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "inyo bagi duo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:34.910518697Z",
+  "model": "glm-5.3"
+}

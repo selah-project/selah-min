@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ambo juo: mato ambo indak basidek, jo ambo indak mirisan; jalan urang tu di ateh kapalo urang tu ambo laâ taruah.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "basidek"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "mirisan"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jalan urang tu"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "di ateh kapalo urang tu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ambo laâ taruah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:50:14.278255546Z",
+  "model": "glm-5.3"
+}

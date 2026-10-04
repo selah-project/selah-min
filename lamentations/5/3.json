@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Kami manjadi anak yatim, indak ado apak; amak-amak kami sarupo jando.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "anak yatim"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "אב",
+      "gloss": "apak"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "amak-amak kami"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "sarupo jando"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:01.711316Z",
+  "model": "glm-5.3"
+}

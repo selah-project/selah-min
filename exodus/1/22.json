@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Parho mamarintahkan kapado sado umatnyo, bakato: Satiok anak laki-laki nan lahia, buanglah inyo ka batang aia; tapi satiok anak padusi, bia iduik.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Lalu mamarintahkan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado sado"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "nan lahia"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "ka batang aia"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "buanglah inyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tapi satiok"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "bia iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:27.138238350Z",
+  "model": "glm-5.3"
+}

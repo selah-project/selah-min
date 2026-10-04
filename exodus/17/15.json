@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lalu Moshe mambuek sabuah mezbah, jo maagiah namonyo Yahweh Nissi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maagiah namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:27.533851242Z",
+  "model": "glm-5.3"
+}

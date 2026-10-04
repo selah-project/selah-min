@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Ambo tahu ⟨את⟩ duduaknyo, jo kaluanyo, jo masuaknyo, jo ⟨את⟩ kamaraahnyo kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "jo duduaknyo"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "jo kaluanyo"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "jo masuaknyo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kamaraahnyo"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "kamaraahnyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:22.038943194Z",
+  "model": "glm-5.3"
+}

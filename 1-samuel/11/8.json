@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo inyo mahitung urang tu di Bezek; urang Yisrael tigo ratus ribu, jo urang Yehuda tigo puluah ribu.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "jo inyo mahitung urang tu"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "di Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tigo puluah"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:26.910472087Z",
+  "model": "glm-5.3"
+}

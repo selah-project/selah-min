@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 1:14",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Dapek angok lah tingga, dapek angok bakacali baliak; Orpah baciuman jo mintuo balakiinyo, tapi Rut dakek-sanpek jo inyo.",
+  "tokens": [
+    {
+      "surface": "ותשנה",
+      "gloss": "bakacali baliak"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "dapek angok lah tingga"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "dapek angok"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "baciuman"
+    },
+    {
+      "surface": "ערפה",
+      "gloss": "Orpah"
+    },
+    {
+      "surface": "לחמותה",
+      "gloss": "jo mintuo balakiinyo"
+    },
+    {
+      "surface": "ורות",
+      "gloss": "tapi Rut"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "dakek-sanpek"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:42.557402747Z",
+  "model": "glm-5.3"
+}

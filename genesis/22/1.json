@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Sasudah kajadian-kajadian itu, Elohim manguji ⟨את⟩ Avraham, jo bakato kapadonyo: Avraham! Inyo bakato: Di ambo ko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kajadian-kajadian"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "jo Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "manguji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Di ambo ko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:16.557038537Z",
+  "model": "glm-5.3"
+}

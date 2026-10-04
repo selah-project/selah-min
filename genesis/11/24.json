@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo Nakhor iduik sambilan jo duo puluah taun, lalu inyo manurunkan ⟨את⟩ Terakh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sambilan"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jo duo puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terakh"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:28.123840210Z",
+  "model": "glm-5.3"
+}

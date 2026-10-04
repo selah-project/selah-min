@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Anak ambo, jangan pai basamo ⟨את⟩ urang tu di jalan tu; tahan sipak ambo dari laluan urang tu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan tu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "basamo ⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "tahan"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "sipak ambo"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "dari laluan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:14.228992834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo inyo mambaok ⟨את⟩ bando-bando suci apaknyo jo bando-bando sucinyo ka rumah Elohim: perak, ameh, jo pakakeh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "jo inyo mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bando-bando suci apaknyo jo bando-bando sucinyo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "bando-bando suci"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "jo bando-bando sucinyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ka rumah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "jo ameh"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "jo pakakeh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:52:47.699484956Z",
+  "model": "glm-5.3"
+}

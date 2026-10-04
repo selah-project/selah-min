@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Cubo lah ⟨את⟩ ambo-ambo nan mangabdi kapado sanak salapan ari, jo bilo inyo agiah kapado ambo-ambo dari beniah-beniah, lapeh ambo-ambo makan, jo aia lapeh ambo-ambo minum.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Cubo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambo-ambo nan mangabdi kapado sanak"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ambo-ambo nan mangabdi kapado sanak"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "salapan ari… sapuluah"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado ambo-ambo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "beniah-beniah"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "minum"
+    }
+  ],
+  "timestamp": "2026-10-04T08:25:10.418453456Z",
+  "model": "glm-5.3"
+}

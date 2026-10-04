@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Oi rumah Yaakov, mai lah, kito jalan di dalam cahayo Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mai lah"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "kito jalan"
+    },
+    {
+      "surface": "באור",
+      "gloss": "di dalam cahayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:46.592926608Z",
+  "model": "glm-5.3"
+}

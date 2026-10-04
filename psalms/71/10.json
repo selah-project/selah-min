@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Karano musuah-musuah ambo bakato mahadok ambo, jo nan maikun-ikun ⟨nyao⟩ ambo bamusyawarah basamo",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuah-musuah ambo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mahadok ambo"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "jo nan maikun-ikun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨nyao⟩ ambo"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "bamusyawarah"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:10.246997286Z",
+  "model": "glm-5.3"
+}

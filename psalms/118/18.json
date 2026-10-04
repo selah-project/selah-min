@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 118,
+  "translation": "Yah alah mangaja ambo sasak, tapi ⟨ia⟩ indak manyerah ambo ka kamatian.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "mangaja sasak"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "mangaja ambo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "tapi ka kamatian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "nyerah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:10.615727256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Jo biar inyo manyambiahan kurban tadoro, jo mancaritokan parbuatan-Nyo jo ria-manyanyi!",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "jo biar inyo manyambiahan"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tadoro"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "jo mancaritokan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "parbuatan-Nyo"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "jo ria-manyanyi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:33.990074425Z",
+  "model": "glm-5.3"
+}

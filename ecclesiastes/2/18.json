@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Ambo, ambo banci ⟨את⟩ saluruah kasiak ambo nan ambo kasiak di bawah matoari, karano ambo mambiaannyo kapado urang nan ka ado sasudah ambo.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ambo banci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saluruah kasiak ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "kasiak ambo"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "nan ambo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasiak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "karano ambo mambiaannyo"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kapado urang"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "nan ka ado"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:58.529148906Z",
+  "model": "glm-5.3"
+}

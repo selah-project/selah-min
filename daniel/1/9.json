@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Elohim mangarogoan ⟨את⟩ Daniel untuak hesed jo untuak rakhmat di muko sarang pangurus kasim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mangarogoan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "untuak hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "jo untuak rakhmat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sarang"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "pangurus kasim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:25:10.417653568Z",
+  "model": "glm-5.3"
+}

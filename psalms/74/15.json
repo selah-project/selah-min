@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Angkau mambukak mato aia jo sungai; angkau mangariangan batang-batang aia nan taruih mangalia.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mato aia"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "jo sungai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "mangariangan"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "batang-batang aia"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "nan taruih mangalia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:59.559390863Z",
+  "model": "glm-5.3"
+}

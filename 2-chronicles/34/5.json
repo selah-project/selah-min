@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Dan tulang-tulang para imam inyo baka di ateh mezbah-mezbah iduik-iduik itu, lalu inyo manyucikan ⟨את⟩ Yehuda jo ⟨את⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "dan tulang-tulang"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "inyo baka"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "mezbah-mezbah iduik-iduik itu"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "lalu inyo manyucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:00:30.049928401Z",
+  "model": "glm-5.3"
+}

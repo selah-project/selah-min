@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Mako inyo maagiah ⟨את⟩ Bilhah amba-ambanyo kapado Yaakov manjadi bini, jo Yaakov masuak ka inyo.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhah"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "amba-ambanyo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "manjadi bini"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "jo masuak"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:43.317892557Z",
+  "model": "glm-5.3"
+}

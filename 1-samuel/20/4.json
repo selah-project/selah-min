@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Kato Yehonatan kapado Dawid: apo nan kato nyawamu, dan ambo karajokan untuakmu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "mah",
+      "gloss": "apo"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "nan kato"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawamu"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "dan ambo karajokan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuakmu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:34.056832141Z",
+  "model": "glm-5.3"
+}

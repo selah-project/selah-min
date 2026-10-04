@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Inyo mareh dari lamaknyo rumah-Mu, jo dari sungai kasanangan-Mu Awak mambari inyo minum.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "mareh"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "dari lamaknyo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah-Mu"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "jo dari sungai"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "kasanangan-Mu"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "Awak mambari inyo minum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:15.831354203Z",
+  "model": "glm-5.3"
+}

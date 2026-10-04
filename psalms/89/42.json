@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Dirampoki sadonyo nan lalu di jalan; manjadi aib inyo ka urang sakampuangnyo.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "dirampoki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "nan lalu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "חרpה",
+      "gloss": "aib"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "ka urang sakampuangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:15.708672594Z",
+  "model": "glm-5.3"
+}

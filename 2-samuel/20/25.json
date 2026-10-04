@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "jo Sheva panulih, jo Tsadok jo Evyatar imam.",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "jo Sheva"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "panulih"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "jo Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "jo Evyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-10-04T05:41:23.281534450Z",
+  "model": "glm-5.3"
+}

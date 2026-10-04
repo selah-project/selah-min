@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Elohim, jo talingo kito surang ambo danga, niniak moyang kito mancaritokan kapado kito karajo nan Kaukarajoan di maso mereka, di ari-ari nan daulu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "jo talingo kito"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ambo danga"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "niniak moyang kito"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "mancaritokan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado kito"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Kaukarajoan"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "di maso mereka"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "di ari-ari"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "nan daulu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:30:01.182699497Z",
+  "model": "glm-5.3"
+}

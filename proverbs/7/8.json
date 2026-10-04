@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Maantui pasa, dakek suduik rumahnyo, jo jalan ka rumahnyo inyo malangkah.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "maantui"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "pasa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "suduik rumahnyo"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "jo jalan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ka rumahnyo"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "inyo malangkah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:11.041287650Z",
+  "model": "glm-5.3"
+}

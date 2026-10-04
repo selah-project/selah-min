@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Iko urang nan malinteh ⟨את⟩ Yarden pado bulan patamo, katiko aianyo bahilu ka sadoalah tapiannyo, jo inyo mambuek lari ⟨את⟩ saluruah panduduak lembah ka timur jo ka barat.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iko"
+    },
+    {
+      "surface": "הם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "malinteh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "pado bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "patamo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "katiko aianyo"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "bahilu ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "tapiannyo"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "jo inyo mambuek lari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saluruah panduduak lembah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "lembah-lembah"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "ka timur"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "jo ka barat"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:38.797656189Z",
+  "model": "glm-5.3"
+}

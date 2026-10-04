@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Karano sarupo tingginyo langik di ateh bumi, baitu gadangnyo hesed-Nyo ateh urang nan takuik kapado-Nyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "sarupo tingginyo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "baitu gadangnyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "urang nan takuik kapado-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:16.542136992Z",
+  "model": "glm-5.3"
+}

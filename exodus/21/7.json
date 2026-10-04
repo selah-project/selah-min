@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo kalau surang laki-laki manjua ⟨את⟩ anak padusinyo manjadi amba padusi, inyo indak ka kalua sarupo kaluanyo amba-amba laki-laki.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "jo kalau"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "manjua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "surang laki-laki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak padusinyo"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anak padusinyo"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "manjadi amba padusi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "inyo ka kalua"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "sarupo kaluanyo"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "amba-amba laki-laki"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:44.857886255Z",
+  "model": "glm-5.3"
+}

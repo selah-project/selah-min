@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Karano itu sagalo pikud-Mu anggo ambo anggap banar sagalonyo; satiok jalan urang indak bana ambo banci.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "pikud-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalonyo"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "anggo ambo anggap banar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "urang indak bana"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ambo banci"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:15.258021287Z",
+  "model": "glm-5.3"
+}

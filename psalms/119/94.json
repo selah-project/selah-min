@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ambo iyo milik-Mu, slamatkan ambo, karano pikued-Mu nan ambo cari.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "milik-Mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "slamatkan ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pikued-Mu"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ambo cari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:51.850874985Z",
+  "model": "glm-5.3"
+}

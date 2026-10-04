@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Elohim ambo, ambo manyaruak siang-hari, ang indak manjaweb, jo malam, jo indak ado hantiang untuak ambo.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ambo manyaruak"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang-hari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ang manjaweb"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jo malam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ado hantiang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:44.328032059Z",
+  "model": "glm-5.3"
+}

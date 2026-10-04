@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Urang tu maberkati ⟨את⟩ Rivkah, jo bakato kapadonyo: Sudaro padusi kito, ⟨את⟩ kau, jadilah ribu ribuan, jo bia beniah kamanarisi ⟨את⟩ gapuro urang nan banci kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "urang tu maberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "sudaro padusi kito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kau"
+    },
+    {
+      "surface": "היי",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "ribu ribuan"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "ribu ribuan"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "kamanarisi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniah kau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gapuro"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "urang nan banci kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:12.868851808Z",
+  "model": "glm-5.3"
+}

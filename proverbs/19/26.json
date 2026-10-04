@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Anak nan marusak ⟨את⟩ ayah jo mambuek ibu lari — anak nan mambuek malu jo aib.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "nan marusak"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "mambuek lari"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "nan mambuek malu"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "jo nan mambuek aib"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:24.854581446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "jo di sinan sanak ka mangabekaan tuhan-tuhan, buekan tangan manusia, kayu jo batu, nan indak dapek caliak, indak dapek mandanga, indak dapek makan, indak dapek mambaun.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "jo sanak ka mangabekaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buekan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יראון",
+      "gloss": "dapek caliak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "dapek mandanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "dapek makan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יריחן",
+      "gloss": "dapek mambaun"
+    }
+  ],
+  "timestamp": "2026-10-04T04:53:19.715178162Z",
+  "model": "glm-5.3"
+}

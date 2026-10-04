@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "jo kulik binantan nan ditando merah, jo kulik takhasy, jo kayu sitim.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "jo kulik"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "binontan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "nan ditando merah"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "jo kulik"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhasy"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "jo kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim (akasia)"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:29.764353233Z",
+  "model": "glm-5.3"
+}

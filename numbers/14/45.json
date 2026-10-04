@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 14:45",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Lalu turun urang Amalek jo urang Kenan, nan tingga di gunuang itu, jo inyo mangecek ⟨את⟩ urang tu, jo manalang kalahan urang tu, sampai ka Hormah.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "lalu turun"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "urang Amalek"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "jo urang Kenan"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "nan tingga"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunuang"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "jo mangecek ⟨את⟩ urang tu",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "ויכתום",
+      "gloss": "jo manalang kalahan urang tu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "החרמה",
+      "gloss": "Hormah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:58.329566443Z",
+  "model": "glm-5.3"
+}

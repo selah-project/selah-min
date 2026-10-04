@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Karano Akhaz mamotong sabagian dari ⟨את⟩ bait Yahweh, sarato ⟨את⟩ bait rajo jo para pangulu, lalu diagiahannyo kapado rajo Ashur, tatapi itu indak manolonginyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "mamotong sabagian"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akhaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bait rajo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "jo para pangulu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lalu diagiahannyo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kapado rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tatapi indak"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "untuak manolong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:56:52.106981619Z",
+  "model": "glm-5.3"
+}

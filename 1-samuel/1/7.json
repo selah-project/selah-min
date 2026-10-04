@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Dan baitu inyo buaik taun demi taun; satiok kali inyo naiak ka rumah Yahweh, baitu pulo inyo mangeso inyo, sahinggo inyo manangih jo indak makan.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "dan baitu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "inyo buaik"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "demi taun"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "satiok kali"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "inyo naiak"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu pulo"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "mangeso inyo"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "manangih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "makan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:12.025763472Z",
+  "model": "glm-5.3"
+}

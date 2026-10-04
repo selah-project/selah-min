@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo kalau dimakan bana dimakan pado ari katigo, inyo pigul; indak akan dirimo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jo kalau"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "dimakan bana"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katigo"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "pigul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "akan dirimo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:04.648548106Z",
+  "model": "glm-5.3"
+}

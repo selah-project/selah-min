@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Dawid lah tuo jo panuah ari, jo inyo manguruih ⟨את⟩ Syelomo anaknyo manjadi rajo ateh Yisrael.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "lah tuo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "jo panuah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "manguruih manjadi rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syelomo anaknyo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T08:47:21.116722079Z",
+  "model": "glm-5.3"
+}

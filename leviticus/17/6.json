@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo imam mancampa ⟨את⟩ darah tu ka ateh mazbeakh Yahweh, di mungko pintu Ohel Moed, jo mambaka lemaknyo manjadi bau nan mandiam kapado Yahweh.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "jo mancampa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah tu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbeakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mungko pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "jo mambaka"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemaknyo"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "manjadi bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nan mandiam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:05.585853166Z",
+  "model": "glm-5.3"
+}

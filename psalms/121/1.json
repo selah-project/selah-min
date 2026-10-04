@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 121,
+  "translation": "Lagu untuak nan naiak. Ambo mangangkek mato ambo ka gunuang-gunuang — dari ma datang patolongan ambo?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "untuak nan naiak"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ambo mangangkek"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "dari ma"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "patolongan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:51.325103769Z",
+  "model": "glm-5.3"
+}

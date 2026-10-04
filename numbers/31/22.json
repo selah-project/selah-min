@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Hanyo ⟨את⟩ ameh, jo ⟨את⟩ perak, ⟨את⟩ tambago, ⟨את⟩ basi, ⟨את⟩ timah, jo ⟨את⟩ timbal.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ameh"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tambago"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basi"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "basi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timah"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "timah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "timbal"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "timbal"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:05.663694771Z",
+  "model": "glm-5.3"
+}

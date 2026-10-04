@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jo inyo mambuek ⟨את⟩ josyen tu, buek panenun, sarupo buek ephod: ameh, tekhelet, jo argaman, jo tolaat syani, jo syes mishzar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "josyen tu"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "josyen tu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buek"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "panenun"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sarupo buek"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jo argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "jo tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "syani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jo syes"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mishzar"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:30.315522240Z",
+  "model": "glm-5.3"
+}

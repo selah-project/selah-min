@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Barikan bagian untuak nan tujuah, jo juo untuak nan dalapan, karano indak sanak tau apo nan ka tajadi, musibah, di ateh bumi.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Barikan"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "untuak nan tujuah"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "untuak nan dalapan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "sanak tau"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka tajadi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "musibah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:34.899940763Z",
+  "model": "glm-5.3"
+}

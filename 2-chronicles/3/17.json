@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu inyo mandirikan ⟨את⟩ tiang-tiang tu di muko ⟨rumah⟩ tampek kudus, ciek di sabalah kanan jo ciek di sabalah kida; lalu inyo manameh tiang nan di sabalah kanan Yak hin, jo tiang nan di sabalah kida Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mandirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang tu"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiang-tiang tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "tampek kudus"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "di sabalah kanan"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "jo ciek"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "di sabalah kida"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "manameh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "nan di sabalah kanan"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "nan di sabalah kida"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-10-04T08:49:26.247979887Z",
+  "model": "glm-5.3"
+}

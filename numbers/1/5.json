@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo iko ndo namo-namo urang tu nan ka tagak basamo awak ⟨את⟩: untuak Reuven, Elitsur anak laki-laki Shedejur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ka tagak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ basamo awak",
+      "marks": "basamo awak"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "untuak Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedejur"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:59.984148828Z",
+  "model": "glm-5.3"
+}

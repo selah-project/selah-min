@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo inyo mambaok baliak ⟨את⟩ sagalo harto bando tu, jo juo ⟨את⟩ Lot dunsanaknyo sarato harto bendonyo alah inyo bawa baliak, jo juo ⟨את⟩ padusi-padusi tu jo ⟨את⟩ kaum tu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mambaok baliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo harto bando tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "harto bando tu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot dunsanaknyo"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dunsanaknyo"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "harto bendonyo"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "alah inyo bawa baliak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padusi-padusi tu"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "padusi-padusi tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaum tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum tu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:10.536755888Z",
+  "model": "glm-5.3"
+}

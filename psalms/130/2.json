@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 130,
+  "translation": "Adonai, patangih suaro ambo; talingoan È patuik maharok suaro panyapoan ambo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "patangih"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "patuik maharok"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "talingoan È"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "sacaro pahatik"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ka suaro"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "panyapoan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:14.739271618Z",
+  "model": "glm-5.3"
+}

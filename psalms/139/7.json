@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Ka ma ambo pai dari ruakh-Mu? Jo ka ma ambo lari dari muko-Mu?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ka ma"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ambo pai"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "dari ruakh-Mu"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "jo ka ma"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari muko-Mu"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ambo lari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:25.902504343Z",
+  "model": "glm-5.3"
+}

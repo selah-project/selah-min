@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu ambo mambukak ⟨את⟩ muncuang ambo, jo inyo mambuek ambo makan ⟨את⟩ gulungan iko.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "lalu ambo mambukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muncuang ambo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muncuang ambo"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "jo inyo mambuek ambo makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulungan iko"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gulungan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T09:19:16.530616388Z",
+  "model": "glm-5.3"
+}

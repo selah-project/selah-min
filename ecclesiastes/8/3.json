@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jan gancang rusuah dari mukonyo, pai ⟨lah⟩; jan tagak dalam parkaro jahat, karano sagalo nan inyo mahandoki inyo karajoan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "gancang rusuah"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari mukonyo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dalam parkaro"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "mahandoki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "karajoan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:33.452010172Z",
+  "model": "glm-5.3"
+}

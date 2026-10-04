@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Sarupo pambalikkan dek Elohim ⟨את⟩ Sodom jo ⟨את⟩ Amorah jo ⟨את⟩ tatanggo-tatanggonyo, kato Yahweh; indak ado urang ka tingga di sinan, jo indak ado anak manusia ka tingga di sinan.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "sarupo pambalikkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Amorah"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tatanggo-tatanggonyo"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "tatanggo-tatanggonyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ka tingga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ka tingga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T06:45:39.089918983Z",
+  "model": "glm-5.3"
+}

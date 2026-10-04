@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 14:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo inyo bakato kapado Moshe: Apo dek indak ado kubua di Mitsrayim, sampai inyo mambaok ambo sadonyo mati di padang rimbunan? Apo iko nan kok buaek kapado ambo sadonyo, untuak mambaok ambo kalua dari Mitsrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המבלי",
+      "gloss": "apo dek indak ado"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "kubua"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "לקחתנו",
+      "gloss": "mambaok ambo sadonyo"
+    },
+    {
+      "surface": "למות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang rimbunan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kok buaek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado ambo sadonyo"
+    },
+    {
+      "surface": "להוציאנו",
+      "gloss": "untuak mambaok ambo kalua"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:24.465380405Z",
+  "model": "glm-5.3"
+}

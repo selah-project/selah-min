@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Lalu ambo manantang ⟨את⟩ para pangulu, jo ambo bakato: Ba a baa rumah Elohim ditinggakan? Jo ambo mangumpuakan ⟨mereka⟩, jo ambo mandirian ⟨mereka⟩ di ateh tampeknyo.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "ambo manantang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pangulu"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ba a baa"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "ditinggakan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "ambo mangumpuakan"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "ambo mandirian"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "tampeknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:39:20.484421316Z",
+  "model": "glm-5.3"
+}

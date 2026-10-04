@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Karano itu kalian manjalankan ⟨את⟩ katantuan ambo, jo ⟨את⟩ hukum-hukum ambo kalian jago, kalian buaik juo itu, supayo kalian tingga di ateh tanah sacaro aman.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "karano itu kalian manjalankan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katantuan ambo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "katantuan ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "hukum-hukum ambo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-hukum ambo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kalian jago"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kalian buaik juo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ itu"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "supayo kalian tingga"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sacaro aman"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:27.700907466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Lalu Dawid mamuji ⟨את⟩ Yahweh di mato sagalo jamaah, jo Dawid bakato: Tabarakaiklah Angkau, Yahweh, Elohim Yisrael, apak kami, dari samulo inggo salamanyo.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Tabarakaiklah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Angkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "apak kami"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "dari samulo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "inggo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:48:55.173547119Z",
+  "model": "glm-5.3"
+}

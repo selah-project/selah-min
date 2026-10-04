@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Jo baju baragam warna inyo dibao kapado rajo; babapo-bapo gadang sasudahnyo, kawan-kawan padusinyo, dibao masuak kapado batuannyo.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "jo baju baragam warna"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "dibao"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kapado rajo"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "babapo-bapo gadang"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "sasudahnyo"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "kawan-kawan padusinyo"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "dibao masuak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado batuannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:46.473573819Z",
+  "model": "glm-5.3"
+}

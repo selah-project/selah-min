@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Labiah elok nan dicaliak dek mato daripado bajalannyo nafek; ko juo hebel jo mangecek ruakh.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "labiah elok"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "nan dicaliak"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "dek mato"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "bajalannyo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "jo mangecek"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:23.730838636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 1:15",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Adonai mahinokan sado urang gagah ambo di tangah-tangah ambo; inyo maundang wakatu tatantu malawan ambo untuak mahancuekkan pamudo-pamudo ambo; Adonai mangecek latchang anggur untuak anak gadih, anak padusi Yehudah.",
+  "tokens": [
+    {
+      "surface": "סלה",
+      "gloss": "mahinokan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "urang gagah ambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di tangah-tangah ambo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "maundang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "malawan ambo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wakatu tatantu"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "untuak mahancuekkan"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "pamudo-pamudo ambo"
+    },
+    {
+      "surface": "גת",
+      "gloss": "latchang anggur"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לבתולת",
+      "gloss": "untuak anak gadih"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:19:18.243754022Z",
+  "model": "glm-5.3"
+}

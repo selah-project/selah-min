@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Di sanak urang nan bakarajo kajahatan jatuah, inyo tu dapek dibaraleh, jo indak dapek baliak baredo.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "di sanak"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "urang nan bakarajo"
+    },
+    {
+      "surface": "און",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "dapek dibaraleh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "קום",
+      "gloss": "baliak baredo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:02.258096420Z",
+  "model": "glm-5.3"
+}

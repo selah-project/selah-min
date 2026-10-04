@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Lalu inyo mamasan ⟨את⟩ tirai pintu tampek Mishkan tu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mamasan\/manaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirai pintu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "untuak Mishkan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:59.770499612Z",
+  "model": "glm-5.3"
+}

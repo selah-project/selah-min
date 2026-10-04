@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu para tukang sihir buek sajo tu jo ilimu rahasio urang tu untuak mambaok kalua ⟨את⟩ kutu tu, tapi inyo indak dapek; jadi kutu tu pado manusia jo pado binatang.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "lalu inyo buek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sajo tu"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "para tukang sihir"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "jo ilimu rahasio urang tu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "untuak mambaok kalua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutu tu"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "kutu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "jadi ado"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kutu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pado manusia"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "jo pado binatang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:15.400582859Z",
+  "model": "glm-5.3"
+}

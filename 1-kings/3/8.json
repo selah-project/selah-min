@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Sadangkan amban Angkau ado di tangah urang Angkau nan lah dipiliah dek Angkau — urang nan banyak, nan indak buliah dihituang indak pulo buliah dijumlah karano kasadanganyo.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "sadangkan amban Angkau"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "urang Angkau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "lah dipiliah dek Angkau"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "buliah dihituang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak pulo"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "buliah dijumlah"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "karano kasadanganyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:47.754644443Z",
+  "model": "glm-5.3"
+}

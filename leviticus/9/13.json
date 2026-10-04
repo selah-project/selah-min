@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu ⟨את⟩ olah tu dibaokan kapadonyo sacaro potongannyo, sarato ⟨את⟩ kapalonyo, dan inyo mambakarnyo di ateh mezbah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olah tu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "dibaokan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "sacaro potongannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kapalonyo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "mambakarnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:07.381160822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "jo untuak taruanmu, jo untuak binatang lia nan ado di bumimu; sagalo hasilnyo ka jadi makanan.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "jo untuak taruanmu"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "jo untuak binatang lia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di bumimu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ka jadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasilnyo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:34.833466006Z",
+  "model": "glm-5.3"
+}

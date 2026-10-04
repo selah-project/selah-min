@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Jo Yehuda bakato kapado Yisrael ayahnyo: Suranglah nan mudo itu pai ⟨את⟩ basamo ambo, supayo kamo bangkik jo pai, supayo kamo iduik indak mati — kamo juo, sanak juo, anak-anak kamo juo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnyo"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "suranglah"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nan mudo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ basamo ambo",
+      "marks": "nan mudo"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "kamo bangkik"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "kamo pai"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "kamo iduik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "anak-anak kamo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:16.799317331Z",
+  "model": "glm-5.3"
+}

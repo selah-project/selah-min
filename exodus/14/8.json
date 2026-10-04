@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo Yahweh manguaekan ⟨את⟩ ati Paro, rajo Mitsrayim, lalu inyo manuduak anak-anak Yisrael; sadang anak-anak Yisrael kalua jo tangan naiak.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "manguaekan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "lalu inyo manuduak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sudut"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "sadang anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "jo tangan"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "naiak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:59.404871048Z",
+  "model": "glm-5.3"
+}

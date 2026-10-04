@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Tangannyo inyo bukak untuak urang miskin, jo tangannyo inyo unjuakkan untuak urang kasusahan.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "inyo bukak"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "untuak urang miskin"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "jo tangannyo"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "inyo unjuakkan"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "untuak urang kasusahan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:36.215916846Z",
+  "model": "glm-5.3"
+}

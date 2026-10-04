@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Tapi Tsiyon bakato: Yahweh alah maninggaan ambo, jo Adonai alah lupo ka ambo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "tapi bakato"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "maninggaan ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "jo Adonai"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "lupo ka ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:20:20.159469665Z",
+  "model": "glm-5.3"
+}

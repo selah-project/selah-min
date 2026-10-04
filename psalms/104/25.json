@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Iko lauik nan gadang jo laweh, di sinan ado binatang nan bayia-bayia indak tasundo, makhluk iduik nan ketek jo nan gadang.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "jo laweh"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "⟨sampiang⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "binatang nan bayia-bayia"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tasundo"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "makhluk iduik"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "nan ketek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nan gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:09.106403100Z",
+  "model": "glm-5.3"
+}

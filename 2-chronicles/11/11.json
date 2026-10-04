@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo inyo manguatkan ⟨את⟩ benteng-benteng itu, jo maagiah ka dalamnyo panglima-panglima jo simpanan makanan, minyak, jo anggur.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "manguatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benteng-benteng itu"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "benteng-benteng itu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka dalamnyo"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "panglima-panglima"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "jo simpanan"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "anggur"
+    }
+  ],
+  "timestamp": "2026-10-04T08:51:16.291626933Z",
+  "model": "glm-5.3"
+}

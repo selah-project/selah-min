@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "Kapado nan mambuek lampu-lampu gadang, karano ka salamo-lamonyo hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kapado nan mambuek"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "lampu-lampu"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka salamo-lamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:10.874577158Z",
+  "model": "glm-5.3"
+}

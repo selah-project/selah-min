@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo ⟨את⟩ Atarot-Syofan, jo ⟨את⟩ Yazer, jo Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Atarot-Syofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Syofan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "jo Yogbeha"
+    }
+  ],
+  "timestamp": "2026-10-04T04:49:21.930697300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Maso Babel, nan dicaliak dek Yeshayahu anak Amots.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "maso"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "dicaliak"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "dek Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-10-04T06:10:31.524228941Z",
+  "model": "glm-5.3"
+}

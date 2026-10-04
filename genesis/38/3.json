@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo inyo manganduang, jo malahian saurang anak laki-laki, jo inyo mangorangi ⟨את⟩ namonyo Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "manganduang"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "malahian"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mangorangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:58.375384487Z",
+  "model": "glm-5.3"
+}

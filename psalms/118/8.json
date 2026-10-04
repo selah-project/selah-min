@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 118,
+  "translation": "Labiah elok balinduang ka Yahweh daripado picayo ka manusia.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "labiah elok"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "balinduang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "daripado picayo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ka manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:08.049507008Z",
+  "model": "glm-5.3"
+}

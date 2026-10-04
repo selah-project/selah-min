@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Kapado nan mamimpin musik, ateh Yedutun, untuak Asaf, mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kapado nan mamimpin musik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "untuak Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:13.255593678Z",
+  "model": "glm-5.3"
+}

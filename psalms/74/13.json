@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Dek kakuatan-Mu angkau mamacah ⟨את⟩ lauik; angkau mahancuakan kapalo-kapalo tanin di ateh aia.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "mamacah"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "dek kakuatan-Mu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "mahancuakan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo-kapalo"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tanin"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:59.558905914Z",
+  "model": "glm-5.3"
+}

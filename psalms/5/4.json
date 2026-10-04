@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Yahweh, pado pagi Angkau mandanga suaro ambo; pado pagi ambo manyusun ⟨diri ambo⟩ untuak Angkau, dan ambo manunggujo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "Angkau mandanga"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "ambo manyusun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak Angkau"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "dan ambo manunggujo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:56.571834629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 108,
+  "translation": "Tatap ati ambo, Ei Elohim; ambo ka manyanyi, bahkan mamazmur, sarato kamuliaan ambo.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Tatap"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ambo ka manyanyi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "bahkan mamazmur"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamuliaan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:59.659921239Z",
+  "model": "glm-5.3"
+}

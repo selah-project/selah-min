@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Kini ambo kauak-an ⟨את⟩ kaindo inyo di mato urang-urang nan dikasiakinyo, dan indak ado urang nan dapek manolong inyo dari tangan ambo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ambo kauak-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaindo inyo"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "kaindo inyo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "urang-urang nan dikasiakinyo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "dapek manolong inyo"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dari tangan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:06.767592811Z",
+  "model": "glm-5.3"
+}

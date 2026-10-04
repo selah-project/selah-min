@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "dan Azarjah manurunkan ⟨את⟩ Serajah, dan Serajah manurunkan ⟨את⟩ Yehotsadak;",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:53.626968583Z",
+  "model": "glm-5.3"
+}

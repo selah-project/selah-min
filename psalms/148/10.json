@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 148,
+  "translation": "Binatang lia jo sagalo taranak, binatang maniak jo buruang barrayok",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "binatang lia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "taranak"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "binatang maniak"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "jo buruang"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "barrayok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:31.921781948Z",
+  "model": "glm-5.3"
+}

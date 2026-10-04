@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 90,
+  "translation": "Sabalum gunuang lah dilahiakan, sabalum Ei manciptakan bumi jo dunia, dari samasiao sampai samasiao, ambo-i El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Sabalum"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dilahiakan"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "manciptakan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "jo dunia"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "dari samasiao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "samasiao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ambo-i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:31.818417795Z",
+  "model": "glm-5.3"
+}

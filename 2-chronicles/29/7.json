@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 29:7",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Mareka juo alah manutuik pintu-pintu balai muko tu, jo mamadaman ⟨את⟩ palito-palito tu, dupa indak mareka baka, jo korban bakar indak mareka satuan di tampek nan suci untuak Elohim Yisrael.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "manutuik"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "balai muko"
+    },
+    {
+      "surface": "ויכבו",
+      "gloss": "mamadaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palito-palito"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "palito-palito"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הקטירו",
+      "gloss": "mareka baka"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "korban bakar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "mareka satuan"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tampek nan suci"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "untuak Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T08:57:23.243042639Z",
+  "model": "glm-5.3"
+}

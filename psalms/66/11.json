@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Engkau alah mambaok kami ka dalam jala; Engkau alah manarahan pennyik di pinggang kami.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "alah mambaok kami"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "ka dalam jala"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "alah manarahan"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "pennyik"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "di pinggang kami"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:04.118298640Z",
+  "model": "glm-5.3"
+}

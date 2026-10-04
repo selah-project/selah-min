@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Jangan baliak jo raso malu urang nan tanjak jo urang nan dihina; biarlah urang miskin jo urang kasasuahan mamuji namo-Mu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "דך",
+      "gloss": "urang nan tanjak"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "jo raso malu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jo urang kasasuahan"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:35.296715978Z",
+  "model": "glm-5.3"
+}

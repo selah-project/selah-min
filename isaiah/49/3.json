@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Jo Inyo bakato kapado ambo: Kau ⟨adalah⟩ hamba ambo, ai Yisrael, nan jo kau ambo mamuliaan diri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jo Inyo bakato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ai Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "jo kau"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ambo mamuliaan diri"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:19.166681901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo kini, marilah kito mamotong parjanjian, ambo jo sanjo, jo jadilah inyo manjadi saksi antaro ambo jo antaro sanjo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "marilah"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "kito mamotong"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "jo sanjo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo jadilah inyo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "manjadi saksi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antaro ambo"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "jo antaro sanjo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:53.586507390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sangajo banar Yahweh marajiak kapado niniak moyang awak ⟨kalian⟩ — marajiak!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "marajiak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "niniak moyang awak ⟨kalian⟩"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "marajiak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:47.000898964Z",
+  "model": "glm-5.3"
+}

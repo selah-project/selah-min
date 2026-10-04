@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 90,
+  "translation": "Nampakkan kapado hamba-hamba-Mu karya-Mu, jo hadhar-Mu ateh anak-anaknyo.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Nampakkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hamba-Mu"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "karya-Mu"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "jo hadhar-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:29.851295365Z",
+  "model": "glm-5.3"
+}

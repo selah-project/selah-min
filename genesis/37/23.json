@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Mako tajadilah, katiko Yosef tibo kapado sanak-sanaknyo, urang tu mananggakan baju Yosef — ⟨את⟩ Yosef, ⟨את⟩ bajunyo, ⟨את⟩ baju balaleh warna nan ado di badannyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mako tajadilah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sanak-sanaknyo"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "urang tu mananggakan baju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajunyo"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "bajunyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baju balaleh warna"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "baju"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "balaleh warna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ado di badannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:46.679917850Z",
+  "model": "glm-5.3"
+}

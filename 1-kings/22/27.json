@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo katoan: Begitu kato rajo: Baringkek ⟨את⟩ lalakiko iko ka rumah panjara, jo berialah inyo makan roti sasak jo aia sasak, sampai ambo pulang salamaik.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "jo katoan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "begitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "baringkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalakiko iko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lalakiko iko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "panjara"
+    },
+    {
+      "surface": "והאכילהu",
+      "gloss": "jo berialah inyo makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "sasak"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "jo aia"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "sasak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ambo pulang"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "salamaik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:30.280369631Z",
+  "model": "glm-5.3"
+}

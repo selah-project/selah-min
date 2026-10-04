@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo inyo manulih dalam surat-surat tu, kato: Serukan ⟨puaso⟩, jo suruah duduak ⟨את⟩ Navot di muko urang banyak.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "jo inyo manulih"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "dalam surat-surat tu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "serukan"
+    },
+    {
+      "surface": "צום",
+      "gloss": "⟨puaso⟩"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "jo suruah duduak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:41.832437392Z",
+  "model": "glm-5.3"
+}

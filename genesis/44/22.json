@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Dan kito bakato kapado tuan ambo: Indak dapek nakoda mudo itu mancayakan apaknyo; karano kok inyo mancayakan apaknyo, apaknyo pun ka mati.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "dan kito bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nakoda mudo itu"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "mancayakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apaknyo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "kok inyo mancayakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apaknyo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ka mati"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:07.443903708Z",
+  "model": "glm-5.3"
+}

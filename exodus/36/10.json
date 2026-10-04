@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Lape inyo maikua⟨את⟩ limo tabir tu, nan ciek ka nan ciek, jo limo tabir lai inyo ikua, nan ciek ka nan ciek.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "lape inyo maikua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limo tabir tu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limo"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tabir tu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "jo limo"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "tabir lai"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "inyo ikua"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "nan ciek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:25.815652478Z",
+  "model": "glm-5.3"
+}

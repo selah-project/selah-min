@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 59,
+  "translation": "Tanpa kasalahan inyo lari jo basiap-siap; bangunlah untuak manamui ambo, jo caliaklah.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasalahan"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "inyo lari"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "jo basiap-siap"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "untuak manamui ambo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "jo caliaklah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:45.972327899Z",
+  "model": "glm-5.3"
+}

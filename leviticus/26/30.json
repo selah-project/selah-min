@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo ambo ka manghanjuakan ⟨את⟩ tampek-tampek tinggi kalian, jo ambo ka maninggaan ⟨את⟩ tiang-tiang matoari kalian, jo ambo ka manaruih ⟨את⟩ bangkai-bangkai kalian di ateh bangkai-bangkai patuang-patuang kalian, jo nyao kalian ka maambiak jijiak ⟨את⟩ kapado kalian.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "jo ambo ka manghanjuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampek-tampek tinggi kalian"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "tampek-tampek tinggi kalian"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "jo ambo ka maninggaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang matoari kalian"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "tiang-tiang matoari kalian"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "jo ambo ka manaruih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangkai-bangkai kalian"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "bangkai-bangkai kalian"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "bangkai-bangkai"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "patuang-patuang kalian"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "jo ka maambiak jijiak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyao ambo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kapado kalian",
+      "marks": "kapado kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:53.375037229Z",
+  "model": "glm-5.3"
+}

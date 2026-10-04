@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Manuruik sagalo nan Ambo tunjuak-an ⟨את⟩ ka angkau — ⟨את⟩ patundan Mishkan jo ⟨את⟩ patundan sagalo paralanniannyo — katujuik itu pulo angkau buek.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "manuruik sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "tunjuak-an"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ka angkau",
+      "marks": "angkau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patundan Mishkan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "patundan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "patundan sagalo paralanniannyo"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "patundan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "paralanniannyo"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "katujuik itu pulo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "angkau buek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:39.600315305Z",
+  "model": "glm-5.3"
+}

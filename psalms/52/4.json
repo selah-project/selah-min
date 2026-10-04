@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "Lidaamu marancang kabanangkaan, sarupo bilah tapih nan amiah, hai pandai buek tipu.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "kabanangkaan"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "marancang"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "lidaamu"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "sarupo bilah"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "nan amiah"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pandai buek"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "tipu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:25.080440582Z",
+  "model": "glm-5.3"
+}

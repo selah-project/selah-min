@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo rajo bakato kapado padusi itu: Pai ka rumah ambo, jo ambo nan ka mamarintah tantang ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo rajo bakato"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pai"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ka rumah ambo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "mamarintah"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tantang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:46.405237346Z",
+  "model": "glm-5.3"
+}

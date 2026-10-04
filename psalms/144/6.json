@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Kaluakan kilat, jo pacahkan inyo; lapeh anak-anak panah-Mu, jo buwek inyo binguang.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Kaluakan kilat"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "kilat"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "jo pacahkan inyo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lapeh"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "anak-anak panah-Mu"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "jo buwek inyo binguang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:35.127829185Z",
+  "model": "glm-5.3"
+}

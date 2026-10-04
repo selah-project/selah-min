@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Kapado You ambo ati manjadi: carilah muko Aku; ⟨את⟩ muko You, Yahweh, ambo ka mancari.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kapado You"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "carilah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko Aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko You"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko You"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ambo ka mancari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:44.613764766Z",
+  "model": "glm-5.3"
+}

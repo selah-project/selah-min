@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Inyo minum anggur, jo mamuji tuhan-tuhan ameh, jo perak, tambago, basi, kayu, jo batu.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "inyo minum"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "jo mamuji"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "jo perak"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "basi"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "jo batu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:27:58.456572309Z",
+  "model": "glm-5.3"
+}

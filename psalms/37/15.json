@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Padang urang tu ka masuak ka dalam atinyo surang, jo busua-busa urang tu ka patah.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "padang urang tu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ka masuak"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ka dalam atinyo surang"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "jo busua-busa urang tu"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ka patah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:57.974141518Z",
+  "model": "glm-5.3"
+}

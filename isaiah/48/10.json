@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Ito, Ambo alah mamurnikan awak, tapi indak sarupo perak; Ambo mamiliah awak di dalam tungku pangasia kasusahan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "Ambo alah mamurnikan awak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "sarupo perak"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "Ambo mamiliah awak"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "di dalam tungku pangasia"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasusahan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:47.994217235Z",
+  "model": "glm-5.3"
+}

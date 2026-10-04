@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo tuah nan itu rusak dek usaho nan jaah, jo inyo bakaturunan anak, jo indak ado apo pun di tangannyo.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "rusak"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "tuah nan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "dek usaho"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jaah"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "bakaturunan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannyo"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "apo pun"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:52.643619521Z",
+  "model": "glm-5.3"
+}

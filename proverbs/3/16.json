@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Panjang umua ado di tangan suoknyo, di tangan kirinyo kakayoán jo kamuliaán.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Panjang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "umua"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "di tangan suoknyo"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "di tangan kirinyo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kakayoán"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "jo kamuliaán"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:04.574710077Z",
+  "model": "glm-5.3"
+}

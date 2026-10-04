@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "jo kabaretuah tu kapado kau, jo kau mandanga, jo kau mangecek sacaro elok, jo barihak bana, tapuasi katuju tu, tapatuih nan barumuik tu di Yisrael,",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "kabaretuah tu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "kau mandanga"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "kau mangecek"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "sacaro elok"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo barihak bana"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "banar"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tapuasi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "katuju tu"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "tapatuih"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "nan barumuik tu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:58:36.028887025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Karano itu katoan: Caliak, ambo maagiah kapado inyo ⟨את⟩ parjanjian ambo, dame.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "karano itu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katoan"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Caliak, ambo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian ambo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian ambo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "dame"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:53.783571726Z",
+  "model": "glm-5.3"
+}

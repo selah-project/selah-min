@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu Yehosyua mandapek ⟨את⟩ sado tanah iko: pagunuangan, jo ⟨את⟩ sado tanah salatan, jo ⟨את⟩ sado tanah Goshen, jo ⟨את⟩ dataran randah, jo ⟨את⟩ Araba, jo ⟨את⟩ gunuang Yisrael jo dataran randahnyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu mandapek"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado tanah iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "pagunuangan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sado tanah salatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "tanah salatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sado tanah Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "dataran randah"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "dataran randah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Araba"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "gunuang Yisrael"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "jo dataran randahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:08:37.534324505Z",
+  "model": "glm-5.3"
+}

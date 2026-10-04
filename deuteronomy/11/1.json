@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Dek itu, cintokanlah ⟨את⟩ Yahweh, Elohim sanak, jo jagoanlah panjagoannyo, sarato ukum-ukumnyo, hukum-hukumnyo, jo parentah-parentahnyo sapanjang ari-ari.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "cintokanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim sanak"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "jo jagoanlah"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "panjagoannyo"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "sarato ukum-ukumnyo"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "hukum-hukumnyo"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "jo parentah-parentahnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ari-ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:13.878419205Z",
+  "model": "glm-5.3"
+}

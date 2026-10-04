@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Kajahatan mampalau ⟨את⟩ urang-urang doso, tapi kapado urang-urang tsedeq dibayia kabaiakan.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "urang-urang doso"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "mampalau"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang tsedeq"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang-urang tsedeq"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dibayia"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabaiakan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:40.821908145Z",
+  "model": "glm-5.3"
+}

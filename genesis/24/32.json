@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Urang tu masuak ka dalam rumah, lalu malapeh ⟨את⟩ onto-onto tu, jo agiah jerami jo makanan untuak onto-onto, jo aia untuak mambasuah kaki inyo jo kaki urang-urang nan basamo ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ka dalam rumah"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "malapeh"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "onto-onto tu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "jerami"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "untuak onto-onto"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "jo aia"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "untuak mambasuah"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki inyo"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "jo kaki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ basamo inyo",
+      "marks": "basamo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:54.582757444Z",
+  "model": "glm-5.3"
+}

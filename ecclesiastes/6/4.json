@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Karano dalam hevel inyo tibo, jo dalam gelap inyo pai, jo dalam gelap pulo namonyo ditutuik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "dalam hevel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "inyo tibo"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "jo dalam gelap"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "inyo pai"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "jo dalam gelap pulo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ditutuik"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:51.760608083Z",
+  "model": "glm-5.3"
+}

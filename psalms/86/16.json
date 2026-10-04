@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 86,
+  "translation": "Pandanglah ambo, jo baniah kamaik kapado ambo, agiahlah kakuatan-Mu kapado hamba-Mu, jo salamatkanlah anak pambantu batino-Mu.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Pandanglah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "jo baniah kamaik kapado ambo"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "agiahlah"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kakuatan-Mu"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kapado hamba-Mu"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "jo salamatkanlah"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "pambantu batino-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:08.684402038Z",
+  "model": "glm-5.3"
+}

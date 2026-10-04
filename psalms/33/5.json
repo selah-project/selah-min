@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Pancinto tsedeq jo pangadilan; hesed Yahweh penuahui ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Pancinto"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jo pangadilan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "penuahui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:29.410226478Z",
+  "model": "glm-5.3"
+}

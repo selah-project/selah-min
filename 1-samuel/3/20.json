@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo sagalo Yisrael dari Dan sampai Beér-Syevo tahu baso Shemuél alah tacogok manjadi nabi untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "dari Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beér"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syevo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "alah tacogok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "manjadi nabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:57.328930974Z",
+  "model": "glm-5.3"
+}

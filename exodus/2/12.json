@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu inyo mancaliak ka sia jo ka sia, dan Caliaknyo dek indak ado urang, mako digiekknyo ⟨את⟩ urang Mitsrayim itu, jo dikubuanyo di pasia.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ka sia"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "jo ka sia"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "caliaknyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dek"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "digiekknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Mitsrayim itu"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "urang Mitsrayim itu"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "dikubuanyo inyo"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "di pasia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:14.982022230Z",
+  "model": "glm-5.3"
+}

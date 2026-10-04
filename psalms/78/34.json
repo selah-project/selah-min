@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Katiko inyo mambunuah urang tu, urang tu mancari inyo, jo urang tu baliak, jo urang tu mancari El sacaro sangajo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "inyo mambunuah urang tu"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "urang tu mancari inyo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "jo urang tu baliak"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "jo urang tu mancari sacaro sangajo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:39.611436622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo mantunyo, apak nan padusi itu, mamacik inyo kareh, mako inyo tingga basamo ⟨את⟩ inyo tigo ari: mako urang tu makan, minum, jo baliak barandi di sinan.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "mamacik kareh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mantunyo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apak"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "nan padusi itu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mako inyo tingga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ basamo inyo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "urang tu makan"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "minum"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "jo baliak barandi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:21:12.458293372Z",
+  "model": "glm-5.3"
+}

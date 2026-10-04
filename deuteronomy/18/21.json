@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo kalau kau bakato di dalam atimu: baa kito tau ⟨את⟩ kato nan indak dikatokan dek Yahweh —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "jo kalau"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "kau bakato"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "di dalam atimu"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "kito tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dikatokan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:22.577860243Z",
+  "model": "glm-5.3"
+}

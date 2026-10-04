@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Karano Yahweh mangadili umat-Nyo, jo tantang hamba-hamba-Nyo inyo bapamaliah ati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "mangadili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo tantang"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hamba-Nyo"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "bapamaliah ati"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:46.847343267Z",
+  "model": "glm-5.3"
+}

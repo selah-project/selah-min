@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Urang-urang nan duduak di gapuro mangecek tantang ambo, jo ambo manjadi lagu urang nan minum arak kareh.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tantang ambo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "urang-urang nan duduak"
+    },
+    {
+      "surface": "שער",
+      "gloss": "di gapuro"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "jo lagu"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "urang nan minum"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "arak kareh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:13.685967750Z",
+  "model": "glm-5.3"
+}

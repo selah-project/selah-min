@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Sampai salamanya, Yahweh, kato-Mu tagak di langik.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "sampai salamanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kato-Mu"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:25.663567505Z",
+  "model": "glm-5.3"
+}

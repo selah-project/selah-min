@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Pintu masuak kamar sisi nan tangah ado di bahu kanan rumah itu; jo jo janjang bapaliak urang naik ka nan tangah, jo dari nan tangah ka nan katigo.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "pintu masuak"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "kamar sisi"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "nan tangah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "bahu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "jo janjang bapaliak"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "urang naik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "nan tangah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "nan tangah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "nan katigo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:47:20.830057744Z",
+  "model": "glm-5.3"
+}

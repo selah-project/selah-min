@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo aia ka habih dari lauik, jo batang aia ka kariang jo layua.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "ka habih"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "dari lauik"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "jo batang aia"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ka kariang"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "jo layua"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:19.415883818Z",
+  "model": "glm-5.3"
+}

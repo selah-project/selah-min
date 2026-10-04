@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Lapek inyo maambiak ⟨את⟩ tulang-tulang tu, mangubuaan di bawah tamarisk di Yavesh, lalu bapuaso tujuah ari.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulang tu"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "tulang-tulang tu"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "mangubuaan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamarisk"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "di Yavesh"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "bapuaso"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:09.317353185Z",
+  "model": "glm-5.3"
+}

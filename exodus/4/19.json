@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Yahweh bakato kapado Moshe di Midian: Pai, baliaklah ka Mitsrayim, karano alah mati sado urang-urang nan mancari ⟨את⟩ nyawamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "di Midian"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "שב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "lah mati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "nan mancari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawamu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawamu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:39.069313306Z",
+  "model": "glm-5.3"
+}

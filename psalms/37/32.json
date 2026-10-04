@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Urang jahat mananti-nantikan urang tsedeq, jo mancari caro mambunuahnyo.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "mananti-nantikan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "urang tsedeq"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "jo mancari"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "caro mambunuahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:31.884605370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Hikmah sorak di lua; di lapangan lua inyo maagiah suaronjo.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Hikmah"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "sorak"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "di lapangan lua"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "suaronjo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:18.195453527Z",
+  "model": "glm-5.3"
+}

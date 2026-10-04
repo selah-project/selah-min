@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Dan katiko matoari tabanam, inyo manjadi barasiah, jo sasudah itu inyo makan dari benda-benda nan suci, karano itu makanannyo inyo.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Dan katiko ... masuak"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "inyo manjadi barasiah"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "jo sasudah itu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "inyo makan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "benda-benda nan suci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "makanannyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:44.387003982Z",
+  "model": "glm-5.3"
+}

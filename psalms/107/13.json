@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Lalu inyo bajeriau kapado Yahweh katiko kasusahan nan manimpo inyo; dari kasusahan-kasusahan inyo, Iyo malapehkan inyo.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "lalu inyo bajeriau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "katiko kasusahan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nan manimpo inyo"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "dari kasusahan-kasusahan inyo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "Iyo malapehkan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:27.850177503Z",
+  "model": "glm-5.3"
+}

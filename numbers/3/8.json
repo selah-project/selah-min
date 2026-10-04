@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo inyo mahjago ⟨את⟩ sagalo paralatan kemah patamuan, sarato ⟨את⟩ panjagoan urang-urang Yisrael, untuak manaruihan pakerjaan ⟨את⟩ Mishkan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "jo inyo mahjago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo paralatan kemah patamuan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "paralatan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarato ⟨את⟩",
+      "marks": "panjagoan urang-urang Yisrael"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "panjagoan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuak manaruihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakerjaan Mishkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "pakerjaan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:36.899872646Z",
+  "model": "glm-5.3"
+}

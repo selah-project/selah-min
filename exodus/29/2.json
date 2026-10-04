@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo roti tanpa ragi, jo kue tanpa ragi nan bacampua jo minyak, jo lamang tanpa ragi nan dioles jo minyak; dari tapuang gandum nan haluih kau buek ⟨את⟩ sagalonyo.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "jo roti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tanpa ragi"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "jo kue"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "tanpa ragi"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "nan bacampua"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "jo lamang"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tanpa ragi"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "nan dioles"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tapuang nan haluih"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kau buek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sagalonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:46.331209766Z",
+  "model": "glm-5.3"
+}

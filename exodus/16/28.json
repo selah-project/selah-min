@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo Yahweh bakato kapado Moshe: Barapo lamo la urang tu manulak manjago parintah-parintah ambo jo Torah-torah ambo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "barapo lamo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "la"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "urang tu manulak"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "manjago"
+    },
+    {
+      "surface": "مצותי",
+      "gloss": "parintah-parintah ambo"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "Torah-torah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:43.380988112Z",
+  "model": "glm-5.3"
+}

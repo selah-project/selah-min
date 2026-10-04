@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu Noach babuek sasuai jo sagalo nan diperintahkan Yahweh kapado inyo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lalu babuek"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sasuai jo sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diperintahkan kapado inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:14.871514880Z",
+  "model": "glm-5.3"
+}

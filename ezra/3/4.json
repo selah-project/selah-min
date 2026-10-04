@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu inyo mamariso ⟨את⟩ hari raya Sukot sasuai jo nan tatulih, jo maninggaan ola ari-ari sacaro tabilang, sasuai jo hukum, parkaro tiok ari pado ari-arihnyo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mamariso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari raya Sukot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "hari raya"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "sasuai jo nan tatulih"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "jo maninggaan ola"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sacaro tabilang"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sasuai jo hukum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parkaro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tiok ari"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "pado ari-arihnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:33:04.699937761Z",
+  "model": "glm-5.3"
+}

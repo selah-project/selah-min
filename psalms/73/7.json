@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Mato inyo mancalua dari lamak badan, inyo malampoi sangka-sangka atinyo.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "mancalua"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "dari lamak"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "mato inyo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "malampoi"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "sangka-sangka"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:23.180585789Z",
+  "model": "glm-5.3"
+}

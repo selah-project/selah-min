@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Kok ruakh panguaso naik mangkokau, jangan tinggakan tampek samparanmu, karano kalamahan maantakan duso-duso nan gadang.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "panguaso"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "naik mangkokau"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kapadomu"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "tampek samparanmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "tinggakan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "kalamahan"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "maantakan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "duso-duso"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "nan gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:02.391272651Z",
+  "model": "glm-5.3"
+}

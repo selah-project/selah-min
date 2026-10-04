@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Jo dicaliaknyo istirahat baso elok, jo ⟨את⟩ tanah baso lamak, jo dibungkuaknyo lihianyo untuak mamikua, jo inyo manjadi pambaia upeti nan bakarajo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "jo dicaliaknyo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "istirahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "jo dibungkuaknyo"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "lihianyo"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "untuak mamikua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo inyo manjadi"
+    },
+    {
+      "surface": "למס",
+      "gloss": "pambaia upeti"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "nan bakarajo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:42.792144689Z",
+  "model": "glm-5.3"
+}

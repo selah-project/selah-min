@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Dari dagiangnyo sanak indak makan, jo bangkainyo sanak indak manyantuah — indak barasiah inyo untuak sanak.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "dari dagiangnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sanak makan"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "jo bangkainyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "sanak manyantuah"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "indak barasiah"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:28.281517231Z",
+  "model": "glm-5.3"
+}

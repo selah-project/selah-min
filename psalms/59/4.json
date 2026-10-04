@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 59,
+  "translation": "Karano liek, inyo maumbuaik untuak ⟨mambunuah⟩ jiwa ambo; urang-urang kuaik bakumpua mandapek ambo; bukan palanggahan ambo, dan bukan doso ambo, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "liek"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "inyo maumbuaik"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "untuak jiwa ambo"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "bakumpua"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mandapek ambo"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "urang-urang kuaik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "palanggahan ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "doso ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:32.225052392Z",
+  "model": "glm-5.3"
+}

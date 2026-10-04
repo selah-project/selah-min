@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo inyo mangaruih-i ⟨את⟩ tugeh tenda patamuan, jo ⟨את⟩ tugeh nan suci, jo tugeh anak-anak Aharon, dunsanak inyo, untuak bakti rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "jo inyo mangaruih-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugeh tenda patamuan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugeh"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tugeh nan suci"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugeh"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "jo tugeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "dunsanak inyo"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "untuak bakti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:47:42.356172247Z",
+  "model": "glm-5.3"
+}

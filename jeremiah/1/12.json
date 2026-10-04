@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Yahweh bakato kapado ambo: San alah m caliak jo elok, karano Aku mahago ⟨את⟩ kato-Ku untuak mangarajokannyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo Yahweh bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "alah m caliak jo elok"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak caliak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "mahago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-Ku"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "untuak mangarajokannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:15:44.262728260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 137,
+  "translation": "Ingek-ingeik, Yahweh, tau-anak Edom pado ⟨את⟩ ari Yerushalayim — urang-urang nan bakato: Runtuahkan, runtuahkan, sampai ka dasanyo!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingek-ingeik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tau-anak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ari Yerushalayim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "urang-urang nan bakato"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Runtuahkan"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "runtuahkan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "dasanyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:09.484923888Z",
+  "model": "glm-5.3"
+}

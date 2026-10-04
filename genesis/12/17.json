@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu Yahweh mamukuli ⟨את⟩ Paroh jo ⟨את⟩ rumahnyo jo pukulan-pukulan gadang, dek karano parkaro Sarai, bini Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "mamukuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "jo pukulan-pukulan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumahnyo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parkaro"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:05.160959056Z",
+  "model": "glm-5.3"
+}

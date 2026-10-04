@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Musuah manudjuak napeh ambo, inggo manangkoknyo, inggo mainjak-injak ka bumi iduik ambo, jo manampekkan kamuliaan ambo ka dalam dabu. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "manudjuak"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napeh ambo"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "inggo manangkoknyo"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "inggo mainjak-injak"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka bumi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "iduik ambo"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "jo kamuliaan ambo"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ka dabu"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "manampekkan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:32.121167201Z",
+  "model": "glm-5.3"
+}

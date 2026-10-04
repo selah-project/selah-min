@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Ambo ka mangirim api ka tapiak Aza, dan inyo ka mahabihan istano-istanonyo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ambo ka mangirim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "ka tapiak"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ka mahabihan"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "istano-istanonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:28.878928155Z",
+  "model": "glm-5.3"
+}

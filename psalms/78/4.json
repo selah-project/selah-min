@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Indak kami singkapan dari anak-anaknyo; kapado angkatan nan ka tibo, kami bacaritokan pujian-pujian Yahweh, jo kakuasoan-Nyo, jo hal-hal ajaiab-Nyo nan alah inyo karajokan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indak"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "kami singkapan"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "dari anak-anaknyo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kapado angkatan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "nan ka tibo"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "kami bacaritokan"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "pujian-pujian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "jo kakuasoan-Nyo"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "jo hal-hal ajaiab-Nyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah inyo karajokan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:24.040382682Z",
+  "model": "glm-5.3"
+}

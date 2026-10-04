@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 2:15",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Ambo ka mamintehi padonyo ari-ari urang Baal, katiko inyo mambaka kumayan untuak inyo urang, jo inyo mamaka subangnyo jo pahiasannyo, jo inyo bajalan sasudah kasih-kasihnyo; tapi ⟨את⟩ ambo lah dilupokannyo — kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Ambo ka mamintehi padonyo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "padonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ari-ari urang Baal"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "urang Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "mambaka kumayan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak inyo urang"
+    },
+    {
+      "surface": "ותעד",
+      "gloss": "jo inyo mamaka"
+    },
+    {
+      "surface": "נזמה",
+      "gloss": "subangnyo"
+    },
+    {
+      "surface": "וחליתה",
+      "gloss": "jo pahiasannyo"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "jo inyo bajalan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "kasih-kasihnyo"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "tapi ⟨את⟩ ambo",
+      "marks": "ambo"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "lah dilupokannyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:11.908575550Z",
+  "model": "glm-5.3"
+}

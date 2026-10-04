@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Untuak manyampaikan hesed-Mu pado pagi, jo amanah-Mu pado malam-malam.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Untuak manyampaikan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "jo amanah-Mu"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "pado malam-malam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:33.001909762Z",
+  "model": "glm-5.3"
+}

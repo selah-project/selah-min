@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Di dalam Yahweh nyawa ambo mamulia; urang-urang nan randah ati kok mandanga, jo inyo sanang ati.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Di dalam Yahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "mamulia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa ambo"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "kok mandanga"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "urang-urang nan randah ati"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "jo inyo sanang ati"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:42.735218611Z",
+  "model": "glm-5.3"
+}

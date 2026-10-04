@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo Sarah mati di Kiryat-Arba, iyolah Khevron, di tanah Kanaan; jo Avraham tibo untuak mamaraki ka Sarah jo untuak manangih ⟨inyo⟩.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "jo mati"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "di Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyolah"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "jo tibo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "untuak mamaraki"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kapado Sarah"
+    },
+    {
+      "surface": "ו לבכתה",
+      "gloss": "jo untuak manangihnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:56.750629974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Karano jeritan alah mangalilingi ⟨את⟩ parik Moab; sampai Eglaim tangihnyo, jo sampai Beer-Elim tangihnyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "alah mangalilingi"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "jeritan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parik Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "parik"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglaim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "tangihnyo"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "jo sampai"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Beer-Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "tangihnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:39.619767522Z",
+  "model": "glm-5.3"
+}

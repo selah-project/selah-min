@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Dari umua duo puluah taun ka ateh, satiok nan pai barajo-parajo dalam Yisrael — inyo musti awak santuni urang tu manuruik pasukan-pasukan inyo, angku jo Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Dari umua"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nan pai"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "barajo-parajo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "dalam Yisrael"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "awak santuni urang tu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu (satiok nan pai barajo-parajo)"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "manuruik pasukan-pasukan inyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angku"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jo Aharon"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:47.224682434Z",
+  "model": "glm-5.3"
+}

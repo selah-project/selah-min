@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Lalu mati di sinan Moshe, hamba Yahweh, di tanah Moab, manuruik kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "manuruik"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:03:05.952174867Z",
+  "model": "glm-5.3"
+}

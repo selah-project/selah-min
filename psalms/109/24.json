@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Lutuih ambo lanyak dek puaso, jo dagiang ambo kuruih dari lamak.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "lutuih ambo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "lanyak"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "dek puaso"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "jo dagiang ambo"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "kuruih"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "dari lamak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:02.013602532Z",
+  "model": "glm-5.3"
+}

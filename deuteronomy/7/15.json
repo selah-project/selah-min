@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 7:15",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Yahweh ka maambiahan dari ang sagalo panyakik, jo sagalo panyakik Mitserayim nan jaik nan alah ang tau; inyo indak ka mamakeknyo ka ang, tapi ka mambonyo kapado sagalo urang nan banci kapado ang.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "maambiahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari ang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "panyakik"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "מדוי",
+      "gloss": "panyakik"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "nan jaik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "alah ang tau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישימם",
+      "gloss": "mamakek inyo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka ang"
+    },
+    {
+      "surface": "ונתנם",
+      "gloss": "tapi mambonyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kapado sagalo"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "urang nan banci kapado ang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:12.941262716Z",
+  "model": "glm-5.3"
+}

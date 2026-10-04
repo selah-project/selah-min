@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Yehuda ka tingga salamanyo, jo Yerushalayim dari angkatan ka angkatan.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "jo Yehuda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ka tingga"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jo Yerushalayim"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "dari angkatan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ka angkatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:29.943503926Z",
+  "model": "glm-5.3"
+}

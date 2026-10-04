@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Yahweh mambuek ⟨את⟩ pakaro iko pado ari isuaknyo, jo mati sagalo taranak urang Mitsrayim; tapi dari taranak anak-anak Yisrael indak ado ciek pun nan mati.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lalu mambuek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaro iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pado ari isuaknyo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "taranak"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "tapi dari taranak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek pun"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:14.278880815Z",
+  "model": "glm-5.3"
+}

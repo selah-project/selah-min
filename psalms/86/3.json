@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 86,
+  "translation": "Barihiah ambo, Adonai, karano kapado Kau ambo manyaru sapanjang ari.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Barihiah ambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado Kau"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ambo manyaru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:44.472933201Z",
+  "model": "glm-5.3"
+}

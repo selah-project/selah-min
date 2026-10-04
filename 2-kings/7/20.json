@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Maka tajadilah baitu kapadonyo: urang tu manginjak-injak ⟨את⟩ inyo di gapuro, inggo inyo mati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka tajadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "manginjak-injak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (si panglima)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di gapuro"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "inggo inyo mati"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:49.012993322Z",
+  "model": "glm-5.3"
+}

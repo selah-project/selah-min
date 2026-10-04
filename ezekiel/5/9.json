@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Ambo akan buek di angkau ⟨את⟩ nan indak parnah ambo buek, jo ⟨את⟩ nan indak lai ambo buek sarupo tu, dek karano sagalo pansiangan angkau.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ambo akan buek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di angkau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan (indak parnah ambo buek)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ambo buek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nan (indak lai ambo buek sarupo tu)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ambo buek"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sarupo tu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "יען",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "pansiangan angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T06:49:05.133055835Z",
+  "model": "glm-5.3"
+}

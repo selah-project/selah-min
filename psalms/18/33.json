@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "El nan mamapek ambo jo kakuatan, jo inyo mambuek jalan ambo luruih.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "nan mamapek ambo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jo kakuatan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "luruih"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:07.156986321Z",
+  "model": "glm-5.3"
+}

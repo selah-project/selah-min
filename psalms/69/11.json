@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Lalu ambo manangih dalam puaso nafasku, dan itu manjadi caacio untuak ambo.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "lalu ambo manangih"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "dalam puaso"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafasku"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dan itu manjadi"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "caacio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:02.247638809Z",
+  "model": "glm-5.3"
+}

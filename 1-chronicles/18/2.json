@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Inyo mangalahan ⟨את⟩ Moav, jadi urang Moab manjadi hamba-hamba Dawid, pambaok minkha.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mangalahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "urang Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pambaok"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    }
+  ],
+  "timestamp": "2026-10-04T08:45:23.347446917Z",
+  "model": "glm-5.3"
+}

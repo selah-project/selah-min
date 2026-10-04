@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Elohim, padapekkan inyo basalah; bialah inyo jatuah dek racang-racangnyo surang; buang inyo karano lanyok pambahasoan inyo, karano inyo alah mambangkik ka-Mu.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "padapekkan inyo basalah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bialah inyo jatuah"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "dek racang-racangnyo surang"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "karano lanyok"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "pambahasoan inyo"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "buang inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "inyo alah mambangkik"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:01.693722255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Pado bulan nan kaduo, ari nan ka ampek baleh, di antaro duo patang ari, urang tu mambueknyo ⟨אתו⟩; jo roti tanpa ragi jo daun pait urang tu mamakannyo.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "pado bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ka ampek"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "duo patang ari"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "urang tu mambuek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Paskah"
+    },
+    {
+      "surface": "על",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "jo daun pait"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "urang tu mamakannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:29.918636952Z",
+  "model": "glm-5.3"
+}

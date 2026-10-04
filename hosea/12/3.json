@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo Yahweh mamparangkarito jo Yahudah, jo mahukum Yaakov manuruik jalan-jalannyo; manuruik laku-lakunyo Ia mambaok baliak kapadonyo.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "mamparangkarito"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudah"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "jo mahukum"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "manuruik jalan-jalannyo"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "manuruik laku-lakunyo"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "mambaok baliak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:16.199744262Z",
+  "model": "glm-5.3"
+}

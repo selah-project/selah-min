@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu Moshe maunjuak ⟨את⟩ tangannyo ka arah langik, lalu jadilah gelap kalam di sado bumi Mitsrayim salamo tigo ari.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "maunjuak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "kalam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sado"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:23.914435131Z",
+  "model": "glm-5.3"
+}

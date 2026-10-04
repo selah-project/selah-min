@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Carilah ⟨את⟩ Yahweh, supayo hiduik; sanak api manyala di rumah Yosef jo mambaaknyo, indak ado nan pamaatiannyo di Bait-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Carilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "supayo hiduik"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "manyala"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "sarupo api"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "jo mambaaknyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "nan pamaatiannyo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "di Bait-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T07:11:53.445760364Z",
+  "model": "glm-5.3"
+}

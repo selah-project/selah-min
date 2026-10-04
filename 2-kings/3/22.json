@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu urang tu bangun pagi-pagi, jo matoari alah manyinaran aia tu, jo Moab caliak dari balakang ⟨את⟩ aia tu, sirah sarupo darah.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "bangun pagi-pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "jo matoari"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "manyinaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia tu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "dari balakang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aia tu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia tu"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "sarupo darah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:37.337536926Z",
+  "model": "glm-5.3"
+}

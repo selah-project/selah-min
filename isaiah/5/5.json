@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Dan kini ambo ka agiah tahu ⟨את⟩ kapado kalian ⟨את⟩ nan ambo buek kapado kabun anggur ambo: ambo kasaik ⟨את⟩ pancangaiknyo, dan itu ka jadi untuak dimakan; ambo runtuahkan ⟨את⟩ paganyo, dan itu ka jadi untuak diinjak-injak.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ambo ka agiah tahu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "niniak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kapado kalian",
+      "marks": "את"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan ambo buek kapado kabun anggur ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buek"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "kapado kabun anggur ambo"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "kasaik"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "pancangaiknyo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan itu ka jadi"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "untuak dimakan"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "runtuahkan"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "paganyo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan itu ka jadi"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "untuak diinjak-injak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:36.772589656Z",
+  "model": "glm-5.3"
+}

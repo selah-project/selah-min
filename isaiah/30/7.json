@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo Mitsrayim: kabasoan jo kasampik sajo patolongannyo; dek karano itu alah ambo manyabuik rasonyo: Rahab nan duduak sajo.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "jo Mitsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kabasoan"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "jo kasampik"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "patolong"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "dek karano itu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "alah ambo manyabuik"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "rasonyo"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "nan duduak sajo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:15:29.679233723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo Yehosyua jo saluruah Yisrael tapukul di muko mareka, lalu lari malewati jalan padang gurun itu.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "tapukul"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo saluruah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di muko mareka"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "lari"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "malewati jalan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun itu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:06:24.672682031Z",
+  "model": "glm-5.3"
+}

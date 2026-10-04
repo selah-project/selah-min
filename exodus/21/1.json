@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Dan ikoalah hukum-hukum nan ang ka talatak-an di muko urang tu.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dan ikoalah"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ang ka talatak-an"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di muko urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:06.568381333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo jan mambari kasaksian palsu tantang sanakmu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "mambari kasaksian"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "tantang sanakmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "palsu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:31.375177873Z",
+  "model": "glm-5.3"
+}

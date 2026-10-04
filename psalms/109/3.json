@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Kato-kato mambanci mangalililiangi ambo, jo inyo mampaparangi ambo indak babasoa.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "mambanci"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mangalililiangi ambo"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "mampaparangi ambo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "indak babasoa"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:11.805144527Z",
+  "model": "glm-5.3"
+}

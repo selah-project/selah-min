@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Baralek urang nan mambuek Yahweh sabagai panyalamaikannyo, nan indak maliak ka urang-urang nan sogi, jo nan pahek ka urang-urang nan mambaliak ka dusto.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baralek"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "panyalamaikannyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nan indak"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "maliak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "urang-urang nan sogi"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "nan pahek"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ka urang-urang nan mambaliak ka dusto"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:41.976683127Z",
+  "model": "glm-5.3"
+}

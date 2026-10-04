@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu tibolah rajo dari Damsyik, jo caliaklah rajo ⟨את⟩ mazbakh tu, dakeklah rajo ka mazbakh tu, lalu inyo batamba di atehnyo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lalu tibolah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "dari Damsyik"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "jo caliaklah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbakh tu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbakh tu"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "dakeklah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbakh tu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lalu inyo batamba"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:25.444477055Z",
+  "model": "glm-5.3"
+}

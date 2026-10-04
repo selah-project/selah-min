@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu datang surang utusan, mangabihan kapado inyo, bakato: Kapalo-kapalo anak-anak rajo tu alah dibao. Inyo bakato: Bueklah ⟨את⟩ mereka jadi duo timbunan di muko gapuro sampai pagi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "utusan tu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mangabihan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "alah dibao"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo-kapalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "bueklah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kapalo-kapalo tu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "timbunan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:59:53.566057993Z",
+  "model": "glm-5.3"
+}

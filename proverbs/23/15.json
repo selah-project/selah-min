@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Anak ambo, kok ati San bijak, ati ambo pun sanang, ati ambo juo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bijak"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ati San"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:17.209019268Z",
+  "model": "glm-5.3"
+}

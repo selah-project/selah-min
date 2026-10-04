@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 148,
+  "translation": "Jo Inyo managakan inyo salamo-lamonyo, untuak salamanyo; aleh aleh, Inyo agiah hukum nan indak ka dilampaui.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "Jo Inyo managakan inyo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuak salamanyo"
+    },
+    {
+      "surface": "חק",
+      "gloss": "aleh aleh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Inyo agiah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak ka"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "dilampaui"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:08.282449730Z",
+  "model": "glm-5.3"
+}

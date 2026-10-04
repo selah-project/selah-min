@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-kings 1:52",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Shelomoh bakato: Kok inyo manjadi anak nan gagah, indak gugua sahelai rambuiknyo pun ka tanah; tapi kok jahat ditamui pado inyo, inyo mati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nan gagah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "gugua"
+    },
+    {
+      "surface": "משערתו",
+      "gloss": "sahelai rambuiknyo pun"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tapi kok"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ditamui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pado inyo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "inyo mati"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:29.772272954Z",
+  "model": "glm-5.3"
+}

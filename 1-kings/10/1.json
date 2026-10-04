@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo ratu Saba mandanga ⟨את⟩ kaba tantang Shelomo — karano Namo Yahweh — lalu inyo tibo untuak mancobo inyo jo teka-teki.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "jo ratu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Saba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kaba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "tantang Namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "lalu inyo tibo"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "untuak mancobo inyo"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "jo teka-teki"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:57.264072878Z",
+  "model": "glm-5.3"
+}

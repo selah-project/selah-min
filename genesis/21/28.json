@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lalu Avraham manggarik ⟨את⟩ pituah anak domba batino dari tampeknyo surang.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "manggarik"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pituah anak domba batino"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pituah"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "anak domba batino"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kambiang"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "surang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:05.157127614Z",
+  "model": "glm-5.3"
+}

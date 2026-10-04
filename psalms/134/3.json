@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 134,
+  "translation": "Yahweh maadian barakaik ateh angku dari Tzion, Panjadio ⟨את⟩ langik jo ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "maadian barakaik ateh angku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari Tzion"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Panjadio"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jo bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:08.201772277Z",
+  "model": "glm-5.3"
+}

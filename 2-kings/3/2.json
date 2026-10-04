@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Inyo mambuek nan jaek di mato Yahweh, hanyo indak sarupo apaknyo jo ibunyo, karano inyo mambuang ⟨את⟩ tiang Baal nan dibuek apaknyo.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nan jaek"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "sarupo apaknyo"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "jo ibunyo"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "karano inyo mambuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:23.914492886Z",
+  "model": "glm-5.3"
+}

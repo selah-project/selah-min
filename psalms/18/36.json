@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo Engkau mambiahi ambo paneah kasalamatanMu, jo tangan kananMu manyanggah ambo, jo kaparantunanMu mambuek ambo gadang.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "jo Engkau mambiahi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "paneah"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "kasalamatanMu"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "jo tangan kananMu"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "nyanggah ambo"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "jo kaparantunanMu"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "mambuek ambo gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:07.157630871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Dipcaliak urang nan mambaok sanjatonyo baso Shaol alah mati, mako inyo pun jatuah ateh padangnyo, jo mati basamo inyo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dipcaliak"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "urang nan mambaok"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sanjatonyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "mako jatuah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "padangnyo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "jo mati"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:34:45.514743058Z",
+  "model": "glm-5.3"
+}

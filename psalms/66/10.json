@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Karano Elohim alah manguji kami; Engkau alah manjaleh kami sarupo manjaleh perak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "alah manguji kami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "alah manjaleh kami"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "sarupo manjaleh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:04.118165652Z",
+  "model": "glm-5.3"
+}

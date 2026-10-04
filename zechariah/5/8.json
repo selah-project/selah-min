@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Inyo bakato: Iko ⟨adolah⟩ Kajamatan. Lalu inyo mambuang ⟨את⟩ inyo ka tangah-tangah efa, dan mambuang ⟨את⟩ batu timah tu ka muluiknyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "Kajamatan"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "lalu inyo mambuang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ino (padusi Kajamatan itu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tangah-tangah"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "dan mambuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu timah"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "timah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "muluiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:19:30.157768659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 12:8",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Muluik jo muluik ambo mangecek jo inyo, dan lansuang, indak jo teka-teki; jo rupo Yahweh inyo mancaliak; dan baa kok sanak indak takuik mangecek batantang jo hamba ambo, jo Moshe?",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "muluik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "muluik"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ambo mangecek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "dan lansuang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak jo"
+    },
+    {
+      "surface": "בחידת",
+      "gloss": "teka-teki"
+    },
+    {
+      "surface": "ותמנת",
+      "gloss": "jo rupo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "dan baa kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "בעבדי",
+      "gloss": "batantang jo hamba ambo"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "jo Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T04:43:07.822423532Z",
+  "model": "glm-5.3"
+}

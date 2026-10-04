@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Pambantu urang Elohim bangun pagi-pagi untuak bia, lalu kalua, jo caliak — pasukan jo kudo jo kareta mangaliliangi ⟨את⟩ kota. Lalu anak buahnyo bakato kapadonyo: Aduhai, tuan ambo, baa ko kito bua?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bangun pagi-pagi"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "pambantu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "untuak bia"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lalu kalua"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo caliak"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "mangaliliangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "jo kudo"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "jo kareta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "anak buahnyo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "aduhai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "baa ko"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kito bua"
+    }
+  ],
+  "timestamp": "2026-10-04T05:57:08.763922795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 18:25",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo panjago manguok, jo mandabekan kapado rajo. Jo rajo bakato: Kalau inyo surang sajo, kaba elok ⟨ado⟩ di muangonyo. Jo urang tu pai taruih, samakin mandakek.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "jo manguok"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "panjago"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "jo mandabekan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kapado rajo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "surang sajo"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "kaba elok"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "di muangonyo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "jo pai"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "taruih"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "samakin mandakek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:41:56.056636327Z",
+  "model": "glm-5.3"
+}

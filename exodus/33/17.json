@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Jo Yahweh bakato kapado Moshe: Juo ⟨את⟩ kato iko nan thou kato-katoan tu, ambo bulek-an: karano thou lah manamu anugerah di mato ambo, jo ambo mangatahui angkau jo namo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo ... bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato iko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "thou kato-katoan"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ambo bulek-an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "thou manamu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "anugerah"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato ambo"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "jo ambo mangatahui angkau"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "jo namo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:30.131174222Z",
+  "model": "glm-5.3"
+}

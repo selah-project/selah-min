@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Manuruik adaik, apo nan musti dibuek kapado ratu Vashti, karano inyo indak buek ⟨את⟩ parintah rajo Akhasywerosh dek tangan para sandi?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "manuruik adaik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nan musti dibuek"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "kapado ratu"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "buek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parintah"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "parintah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhasywerosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dek tangan"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "para sandi"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:45.616454683Z",
+  "model": "glm-5.3"
+}

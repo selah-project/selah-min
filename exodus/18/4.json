@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo namo nan ciek lai Eliyezer, karano inyo bakato: Elohim ayah ambo ⟨את⟩ panolong ambo, jo Inyo alah malapehkan ambo dari padang Paroh.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek lai"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliyezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah ambo"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "panolong ambo"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "malapehkan ambo"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dari padang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:32.733988843Z",
+  "model": "glm-5.3"
+}

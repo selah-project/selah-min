@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jan ado tadapek di antaro kau urang nan maagiah anak laki-lakinyo jo anak padusinyo malewati api, tukang manuang, panyirik tanieh, jo tukang sihi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ado tadapek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di antaro kau"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "urang nan maagiah… malewati"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak laki-lakinyo"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "jo anak padusinyo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "api"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "tukang manuang"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "tanuang-tanuangan"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "panyirik tanieh"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "jo panyirik tanieh"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "jo tukang sihi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:45.945559916Z",
+  "model": "glm-5.3"
+}

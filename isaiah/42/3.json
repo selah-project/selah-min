@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Batang rumput nan tumbuak indak inyo patahankan, jo sumbu nan malam indak inyo padamkan; manuruik kabanaran inyo mambao kalua hukum.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "batang rumput"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "nan tumbuak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "inyo patahankan"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "jo sumbu"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "nan malam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "inyo padamkan"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "manuruik kabanaran"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "mambao kalua"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:19.898910071Z",
+  "model": "glm-5.3"
+}

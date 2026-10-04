@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 149,
+  "translation": "Bialah Yisrael sanang pado Pandito-Nyo, anak-anak Tsiyon gembira pado rajo inyo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Bialah ... sanang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "pado Pandito-Nyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "gembira"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "pado rajo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:30.619610321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Kapado urang Yahudi ado cahayo, jo raso sanang, jo bagia ria, jo kamuliaan.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "kapado urang Yahudi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "cahayo"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "jo raso sanang"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "jo bagia ria"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "jo kamuliaan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:25:10.344598621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lalu Yahweh mandanga soara Yisrael, dan inyo manyarahan ⟨את⟩ urang Kanaan tu; lalu urang tu mangaramkan ⟨את⟩ inyo jo ⟨את⟩ nagari-nagari urang tu. Lalu dipanggia namo tampek tu Kormah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "soara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "manyarahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Kanaan tu"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan tu"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "mangaramkan"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "urang Kanaan tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nagari-nagari urang tu"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "nagari-nagari urang tu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dipanggia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tampek tu"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Kormah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:45:39.058766157Z",
+  "model": "glm-5.3"
+}

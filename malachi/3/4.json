@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo minkha Yehuda jo Yerushalayim ka manjadi rangak untuak Yahweh, sarupo hari-hari samulo jo sarupo taun-taun nan lampau.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "ka manjadi rangak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jo Yerushalayim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sarupo hari-hari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "samulo"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "jo sarupo taun-taun"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "nan lampau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:59.403725021Z",
+  "model": "glm-5.3"
+}

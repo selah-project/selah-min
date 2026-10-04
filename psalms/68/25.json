@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Urang lah nampak jalan-jalan Awak, Elohim; jalan-jalan El ambo, rajo ambo, di tampek nan suci.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "nampak"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "jalan-jalan Awak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ambo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo ambo"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tampek nan suci"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:40.242922544Z",
+  "model": "glm-5.3"
+}

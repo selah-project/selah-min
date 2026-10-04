@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "karano katiko inyo mati, inyo indak mambaok apo-apo; kamuliaannyo indak ka turun mangikuikinyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "katiko inyo mati"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "segalo apo-apo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mangikuikinyo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamuliaannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:32.026083509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Sampai ambo datang jo mambaok ⟨את⟩ kalian ka tanah sarupo tanah kalian surang, tanah jaguang jo anggur anyuia, tanah roti jo kabun anggur.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ambo datang"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "jo mambaok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kalian",
+      "marks": "kalian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "sarupo tanah kalian surang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "jaguang"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "jo anggur anyuia"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "jo kabun anggur"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:29.474078664Z",
+  "model": "glm-5.3"
+}

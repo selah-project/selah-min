@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Dalam sadoalah ko urang tu bagiok lai, jo indak picayo dalam kajaiban-kajaiban-Nyo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "dalam sadoalah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "urang tu bagiok"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "picayo"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "dalam kajaiban-kajaiban-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:40.763903037Z",
+  "model": "glm-5.3"
+}

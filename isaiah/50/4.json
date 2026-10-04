@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Adonai Yahweh alah maagiah ka ambo lidaah nan tapalatiah, supayo ambo tau mandoa kato kapado ⟨את⟩ nan laweh; inyo mambangunkan ambo pagi-pagi, pagi-pagi inyo mambangunkan talingo ambo untuak mandanga sarupo nan tapalatiah.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "alah maagiah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidaah"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "nan tapalatiah"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "supayo ambo tau"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "mandoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan laweh"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "nan laweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "inyo mambangunkan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi-pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi-pagi"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "inyo mambangunkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "talingo ambo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "untuak mandanga"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "sarupo nan tapalatiah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:23:03.792429297Z",
+  "model": "glm-5.3"
+}

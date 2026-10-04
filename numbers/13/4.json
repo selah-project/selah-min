@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo iko namo-namo inyo: untuak suku Reuben, Syammua anak Zakur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Jo iko"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "namo-namo inyo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "untuak suku"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Syammua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Zakur"
+    }
+  ],
+  "timestamp": "2026-10-04T04:42:37.841210778Z",
+  "model": "glm-5.3"
+}

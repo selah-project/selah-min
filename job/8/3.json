@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Nyo El maimbangkan hukum? Nyo Shaddai maimbangkan tsedeq?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Nyo El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "maimbangkan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Nyo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "maimbangkan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    }
+  ],
+  "timestamp": "2026-10-04T08:04:51.726770408Z",
+  "model": "glm-5.3"
+}

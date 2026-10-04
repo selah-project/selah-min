@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Karano indak pado busur ambo ambo bapicayo, jo padang ambo indak manyalamaikkan ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "pado busur ambo"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ambo bapicayo"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "jo padang ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "manyalamaikkan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:55.478558437Z",
+  "model": "glm-5.3"
+}

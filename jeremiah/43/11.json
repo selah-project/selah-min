@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Inyo tibo jo mahantam ⟨את⟩ tanah Mitsrayim: nan untuak mato ka mato, nan untuak tawan ka tawan, jo nan untuak padang ka padang.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "Inyo tibo"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "jo mahantam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "untuak mato"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ka mato"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo nan"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "untuak tawan"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ka tawan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo nan"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "untuak padang"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ka padang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:43:05.040827833Z",
+  "model": "glm-5.3"
+}

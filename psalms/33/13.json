@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Dari langik Yahweh mancaliak, inyo caliak ⟨את⟩ sagalo anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "dari langik"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo anak-anak manusia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:39.600043574Z",
+  "model": "glm-5.3"
+}

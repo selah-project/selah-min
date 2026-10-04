@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu Yahweh bakato kapado Moshe, mangecek:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:36.899132827Z",
+  "model": "glm-5.3"
+}

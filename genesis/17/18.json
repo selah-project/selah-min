@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 17:18",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lapek itu Avraham bakato kapado Elohim: Andai sajo Yishmael iduik di mukomu!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "andai sajo"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di mukomu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:45.012989447Z",
+  "model": "glm-5.3"
+}

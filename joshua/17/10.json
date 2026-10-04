@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Di sabalah salatan untuak Efrayim, jo di sabalah utaro untuak Menashshe, jo laot manjadi batehnyo; jo urang tu basamu di Asyer di sabalah utaro, jo di Yissakhar di sabalah timua.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "di sabalah salatan"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "untuak Efrayim"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "jo di sabalah utaro"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "untuak Menashshe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo ⟨adolah⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laot"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "batehnyo"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "jo di Asyer"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "basamu"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "di sabalah utaro"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "jo di Yissakhar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "di sabalah timua"
+    }
+  ],
+  "timestamp": "2026-10-04T05:09:14.178686188Z",
+  "model": "glm-5.3"
+}

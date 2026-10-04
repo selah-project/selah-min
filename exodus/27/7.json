@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo dimasuakan ⟨את⟩ tongkek-tongkeknyo ka dalam cincin-cincin tu, jo tongkek-tongkek tu ado di duo sampiang mazbeach, katiko maangkek ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "jo dimasuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkek-tongkeknyo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tongkek-tongkeknyo"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ka dalam cincin-cincin"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "jo tongkek-tongkek tu ado"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tongkek-tongkek tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "sampiang"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbeach"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "katiko maangkek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:02.265217521Z",
+  "model": "glm-5.3"
+}

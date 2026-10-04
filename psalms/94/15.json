@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Karano hukum ka baliak sampai ka tsedeq, jo di balakangnyo sado urang nan luruih ati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ka baliak"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "jo di balakangnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "nan luruih"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:43.428859064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo inyo mambuek jo ⟨את⟩ balai tiang-tiang: lanjangnyo limo puluah hasta, lebanyo tigo puluah hasta; jo balai di muko urang tu, jo tiang-tiang jo balok gadang di muko urang tu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "balai tiang-tiang"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "balai"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limo puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "lanjangnyo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "jo tigo puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebanyo"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "jo balai"
+    },
+    {
+      "surface": "על",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "jo tiang-tiang"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "jo balok gadang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:55.628298418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo Yahweh bakato kapado Moshe, kato-Nyo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:50.144169270Z",
+  "model": "glm-5.3"
+}

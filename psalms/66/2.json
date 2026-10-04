@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Bazamailah kagemiaan namo-Nyo; agiahlah kagemiaan kapado pujiannyo.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "bazamailah"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kagemiaan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namo-Nyo"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "agiahlah"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kagemiaan"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:08.029238655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Ajari ambo, Yahweh, jalan-Mu, jo bimbiang ambo di jalan nan rato, dek karano musuah-musuah ambo.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ajari ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan-Mu"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "jo bimbiang ambo"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "nan rato"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "musuah-musuah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:11.989627103Z",
+  "model": "glm-5.3"
+}

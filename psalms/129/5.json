@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 129,
+  "translation": "Malulah jo suruik ka balakang sagalo urang nan banci kapado Tzion.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "malulah"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "jo suruik"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka balakang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "urang nan banci"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:31.766006033Z",
+  "model": "glm-5.3"
+}

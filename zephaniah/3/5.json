@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Yahweh tsadiq di tangahnyo; indak Iyo mambuek kajahatan; pagi-pagi kok pagi Iyo maagiah hukum-Nyo ka cahayo, indak pernah hilang; jo urang jahat indak tau bosan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadiq"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tangahnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi-pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kok pagi"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "hukum-Nyo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ka cahayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "hilang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "עול",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "bosan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:18:45.490894040Z",
+  "model": "glm-5.3"
+}

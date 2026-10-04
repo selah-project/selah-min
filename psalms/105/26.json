@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Inyo mangutuih Moshe, hamba-Nyo, jo Aharon nan dipiliah-Nyo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mangutuih"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hamba-Nyo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "dipiliah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:17.227889974Z",
+  "model": "glm-5.3"
+}

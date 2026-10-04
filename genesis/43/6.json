@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Jo Yisrael bakato: Baa kamo mambuek jahek kapado ambo, jo managakan ka urang tu baso masih ado saudaro jo kamo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "mambuek jahek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "managakan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka urang tu"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "masih ado"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jo kamo"
+    },
+    {
+      "surface": "אח",
+      "gloss": "saudaro"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:16.798838809Z",
+  "model": "glm-5.3"
+}

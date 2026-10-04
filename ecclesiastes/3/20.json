@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Saganyo pai ka ciek tampek; saganyo barasa dari dabu, jo saganyo baliak ka dabu.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "saganyo"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "saganyo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "barasa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "jo saganyo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "dabu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:46.754489921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo inyo bakato kapado Yehuda untuak mancari ⟨את⟩ Yahweh, Elohim niniak muyang urang tu, jo untuak manjalankan Torah jo parintah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kapado Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "untuak mancari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "niniak muyang urang tu"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "jo untuak manjalankan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "jo parintah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:31:56.502299270Z",
+  "model": "glm-5.3"
+}

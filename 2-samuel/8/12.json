@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "dari Aram, dari Moab, dari anak-anak Ammon, dari urang Palisety, dari Amalek, jo dari rampasan Hadadezer anak Rehob rajo Tsova.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "dari Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "jo dari Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "jo dari anak-anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "jo dari urang Palisety"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "jo dari Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "jo dari rampasan"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    }
+  ],
+  "timestamp": "2026-10-04T05:36:39.499644076Z",
+  "model": "glm-5.3"
+}

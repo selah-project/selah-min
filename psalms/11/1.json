@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Untuak pamimpin nyanyian, untuak Dawid. Ka Yahweh ambo balinduang; baa kalian bakato kapado jiwa ambo: Larikan diri ka bukik kalian, sarupo buruang?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak pamimpin nyanyian"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ambo balinduang"
+    },
+    {
+      "surface": "איך",
+      "gloss": "baa"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kalian bakato"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kapado jiwa ambo"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "larikan diri"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "ka bukik kalian"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "buruang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:28.938696192Z",
+  "model": "glm-5.3"
+}

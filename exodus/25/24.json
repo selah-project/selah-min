@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo ang ka salapui ⟨את⟩ inyo jo ameh murni, jo ang ka buek untuaknyo pahiah ameh sakaliang kuruang.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ang ka salapui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (meja)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ang ka buek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "pahiah"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliang kuruang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:49.830589572Z",
+  "model": "glm-5.3"
+}

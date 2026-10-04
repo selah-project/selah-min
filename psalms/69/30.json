@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Alah ambo miskin jo taserik-sanang; tulung-Mu, yo Elohim, mangangkek ambo ka ateh.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Alah ambo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "jo taserik-sanang"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "tulung-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "mangangkek ambo ka ateh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:49.438971448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Katoan ka hikmah: kakak ambo ⟨ang⟩; jo pangatahuan sambo panggia dunsanak.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "katoan"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ka hikmah"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kakak ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "jo pangatahuan"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "panggia dunsanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:29.776824720Z",
+  "model": "glm-5.3"
+}

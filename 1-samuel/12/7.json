@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo kini, tagaklah sanak, supayo ambo mahakim ⟨את⟩ sanak di muko Yahweh, tantang ⟨את⟩ sado tsedeq Yahweh nan alah dibuek-Nyo ⟨את⟩ jo sanak jo jo ⟨את⟩ avo-avo sanak.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "tagaklah"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "supayo ambo mahakim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado tsedeq Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah dibuek-Nyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jo sanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "avo-avo sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:43.143991634Z",
+  "model": "glm-5.3"
+}

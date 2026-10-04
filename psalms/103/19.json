@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Yahweh di langik alah mandirikan ⟨את⟩ takhtanyo, jo karajaannyo mamarintah ateh sagalonyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "alah mandirikan"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhtanyo"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "jo karajaannyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ateh sagalonyo"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "mamarintah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:55.482107470Z",
+  "model": "glm-5.3"
+}

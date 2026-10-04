@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Sasudah itu urang tu batolak dari Khatserot, lalu urang tu bamalam di gurun Paran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "sasudah itu"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "batolak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "Khatserot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bamalam"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-10-04T04:42:14.635694254Z",
+  "model": "glm-5.3"
+}

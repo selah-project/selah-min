@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Mizmor, nyanyian untuak panganjuran rumah, untuak Dawid.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "panganjuran"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:41.717253054Z",
+  "model": "glm-5.3"
+}

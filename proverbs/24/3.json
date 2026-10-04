@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo jo kabijaksanoan ⟨adolah⟩ rumah tagak, jo jo aka budi inyo tagak kuek.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "jo kabijaksanoan"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "jo jo aka budi"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "tagak kuek"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:47.608803185Z",
+  "model": "glm-5.3"
+}

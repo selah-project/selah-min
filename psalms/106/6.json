@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Kami alah badoso basamo dunsanak amaik kami, kami alah mambangkak, kami alah bakarajo jahat.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "kami alah badoso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "dunsanak amaik kami"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "kami alah mambangkak"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "kami alah bakarajo jahat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:09.222456573Z",
+  "model": "glm-5.3"
+}

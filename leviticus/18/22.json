@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo ⟨את⟩ laki-laki indak malayok sabagai layok jo padusi; kajijikan itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "laki-laki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "malayok"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "sabagai layok"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jo padusi"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kajijikan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:31.246211870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Madu kok ang jumpo — makan sajo nan cukuik untuak awak, supayo indak awak kanyang sampai muntahkannyo.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "ang jumpo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "nan cukuik untuak awak"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "awak kanyang"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "muntahkannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:48.895125962Z",
+  "model": "glm-5.3"
+}

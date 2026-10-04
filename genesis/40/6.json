@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Lalu Yusuf datang kapado mareka pado pagi, nampak ⟨את⟩ mareka — dan ado, mareka bamasuak muko.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kapado mareka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nampak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mareka"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "dan ado"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "bamasuak muko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:44.189371424Z",
+  "model": "glm-5.3"
+}

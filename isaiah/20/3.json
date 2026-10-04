@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo Yahweh bakato: sarupo nan alah dilalui dek ambo Yeshayahu talanjang jo indak bapalantiak kaki salamo tigo tahun, manjadi tando jo mukajizat ateh Mitsrayim jo ateh Kush.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lah lalui"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "talanjang"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "jo indak bapalantiak kaki"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "אות",
+      "gloss": "tando"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "jo mukajizat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-10-04T09:13:54.148605254Z",
+  "model": "glm-5.3"
+}

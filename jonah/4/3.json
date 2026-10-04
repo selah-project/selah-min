@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Maka kini, wahai Yahweh, ambiaklah ⟨את⟩ nyao ambo dari ambo, karano elok matinyo ambo dari iduik ambo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "maka kini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ambiaklah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨toloang⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyao ambo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyao ambo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "matinyo ambo"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "dari iduik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:20:59.584987438Z",
+  "model": "glm-5.3"
+}

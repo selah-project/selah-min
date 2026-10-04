@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Dari muko urang-urang jahat, iolah nan manganiuik ambo; musuah-musuah ambo mamburu nyao ambo, mangalilingi ambo.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "זו",
+      "gloss": "iolah"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "manganiuik ambo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuah-musuah ambo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "mamburu nyao"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "mangalilingi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:19.909224859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Karano Yahweh alah mambaaliak ⟨את⟩ kamuliaan Yaakov, sarupo kamuliaan Yisrael, karano urang nan mangosong alah mangosong inyo, jo ranting-ranting anggur inyo alah dirusak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "שב",
+      "gloss": "alah mambaaliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamuliaan Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamuliaan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "sarupo kamuliaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "urang nan mangosong"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "mangosong"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "jo ranting-ranting anggur inyo"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "dirusak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:16:37.681242724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 114,
+  "translation": "Yehudah manjadi tampek kudus-⟨inyo⟩, Yisrael manjadi karajoan-⟨inyo⟩",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "tampek kudus-inyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "karajoan-nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:15.926112795Z",
+  "model": "glm-5.3"
+}

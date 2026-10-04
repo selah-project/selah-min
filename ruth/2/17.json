@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu inyo maumpuak di ladang sampai sanjo, jo inyo mamukua kalua ⟨את⟩ nan alah inyo umpuak, jo jadi kiro-kiro ciek efa bareh jaw.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "maumpuak"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sanjo"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "mamukua kalua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan alah inyo umpuak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "umpuak"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "kiro-kiro ciek efa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "bareh jaw"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:45.020897078Z",
+  "model": "glm-5.3"
+}

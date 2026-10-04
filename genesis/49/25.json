@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Dari El ayah ang, Inyo nan manolong ang, jo ⟨את⟩ Shaddai, jo Inyo mambariekahi ang — barikek langik dari ateh, barikek tahuam nan baralek di babawah, barikek laweh jo rahim.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "dari El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayah ang"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "jo Inyo manolong ang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Shaddai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "jo Inyo mambariekahi ang"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bariek"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bariek"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tahuam"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "nan baralek"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di babawah"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bariek"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "laweh"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "jo rahim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:59.461718145Z",
+  "model": "glm-5.3"
+}

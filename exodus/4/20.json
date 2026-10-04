@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Moshe maambiak ⟨את⟩ bininyo jo ⟨את⟩ anak-anaknyo, manompangan inyo di ateh kalde, lalu baliak ka nagari Mitsrayim; jo Moshe maambiak ⟨את⟩ tungkek Elohim di tangannyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bininyo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bininyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "manompangan inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "kalde"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu baliak"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka nagari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tungkek Elohim"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tungkek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:39.069470182Z",
+  "model": "glm-5.3"
+}

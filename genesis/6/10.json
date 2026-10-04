@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo Noakh manurunkan tigo anak laki-laki: ⟨את⟩ Shem, ⟨את⟩ Kham, jo ⟨את⟩ Yafet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noakh"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafet"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:11.608558272Z",
+  "model": "glm-5.3"
+}

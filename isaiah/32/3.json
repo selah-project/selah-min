@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Mato urang nan nampak indak ka mancaliak-saliak, jo talingo urang nan mandanga ka mamatiahkan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "ka mancaliak-saliak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "urang nan nampak"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "jo talingo"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "urang nan mandanga"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "ka mamatiahkan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:30.482912467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "minyak untuak palito, bumbu-bumbu wangi untuak minyak paminyakan, jo untuak dupa nan wangi",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "untuak palito"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "bumbu-bumbu wangi"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "untuak minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "paminyakan"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "jo untuak dupa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "nan wangi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:23.968966669Z",
+  "model": "glm-5.3"
+}

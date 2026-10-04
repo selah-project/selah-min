@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 54,
+  "translation": "Karano urang-urang asiang alah bangkik malawan ambo, jo urang-urang kasaiah alah mancari ⟨⟨את⟩⟩ nyao ambo; inyo indak mamilahan Elohim di muko inyo. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "urang-urang asiang"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "alah bangkik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "malawan ambo"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "jo urang-urang kasaiah"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "alah mancari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyao ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "mamilahan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "di muko inyo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:01.554826463Z",
+  "model": "glm-5.3"
+}

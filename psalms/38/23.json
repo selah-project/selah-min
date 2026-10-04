@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Bancialah manolong ambo, Adonai, palapeh ambo.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "bancialah"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "manolong ambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "palapeh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:44.821922966Z",
+  "model": "glm-5.3"
+}

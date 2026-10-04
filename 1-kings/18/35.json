@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo aia tu mangalia sakaliliang mazbah tu, bahkan ⟨את⟩ paritnyo pun diisi jo aia.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "mangalia"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia tu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mazbah tu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paritnyo"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "paritnyo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "diisi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "jo aia"
+    }
+  ],
+  "timestamp": "2026-10-04T05:53:11.506071323Z",
+  "model": "glm-5.3"
+}

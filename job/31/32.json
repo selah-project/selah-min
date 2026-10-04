@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Urang asiang indak baliak malam di jalan lua; pintu-pintu ambo tabukak untuak panompang.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "di jalan lua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "baliak malam"
+    },
+    {
+      "surface": "גר",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "pintu-pintu ambo"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "untuak panompang"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "tabukak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:11:45.674012285Z",
+  "model": "glm-5.3"
+}

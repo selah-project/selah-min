@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "⟨את⟩ khemah patamuan, jo ⟨את⟩ poti untuak kasaksian, jo ⟨את⟩ tutuih panyaliangan nan di atanyo, jo ⟨את⟩ sagalo pakakas khemah itu;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemah patamuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "poti"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "poti"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "untuak kasaksian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tutuih panyaliangan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutuih panyaliangan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atanyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo pakakas khemah itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "pakakas"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:07.572279605Z",
+  "model": "glm-5.3"
+}

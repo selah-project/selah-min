@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo urang nan talatak bunuah inyo urang tu ka dibaliak-an, jo bangkai inyo urang tu ka mangambangan bau busuaknyo, jo gunuang-gunuang ka laruik dek darah inyo urang tu.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "urang nan talatak bunuah inyo urang tu"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "ka dibaliak-an"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "bangkai inyo urang tu"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ka mangambangan"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "bau busuaknyo"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "ka laruik"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "dek darah inyo urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:00.935345861Z",
+  "model": "glm-5.3"
+}

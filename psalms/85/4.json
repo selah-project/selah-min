@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 85,
+  "translation": "Engkau alah mangumpuakan sagalo kamuko nyo, Engkau alah mambaliak-kan diri dari paneh amarah muko nyo.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Engkau alah mangumpuakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "kamuko nyo"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "Engkau alah mambaliak-kan diri"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "paneh"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "amarah muko nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:45.409877904Z",
+  "model": "glm-5.3"
+}

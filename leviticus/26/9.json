@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Aku ka baliak maimbau kapado sanak, mambauek sanak bakambang biak, manambaik sanak banyak, jo Aku ka tagak-an ⟨את⟩ parjanjian-Ku ⟨את⟩ basamo sanak.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Aku ka baliak maimbau"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "mambauek sanak bakambang biak",
+      "marks": "sanak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanak"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "manambaik sanak banyak",
+      "marks": "sanak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanak"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "Aku ka tagak-an",
+      "marks": "parjanjian-Ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian-Ku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ basamo sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:04:14.986615574Z",
+  "model": "glm-5.3"
+}

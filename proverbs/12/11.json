@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Urang nan manggarap tanahnyo kanyang jo roti; tapi urang nan mangeja koso-kosi kurang ati.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "manggarap"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tanahnyo"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "kanyang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "urang nan mangeja"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "koso-kosi"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:16.297218149Z",
+  "model": "glm-5.3"
+}

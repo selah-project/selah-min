@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo jiko inyo bakato baitu: \"Naiklah kapado kito\" — mako kito naik, karano Yahweh ⟨alah⟩ manaruihan inyo ka tangan kito; jo iko lah tando untuak kito.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jo jiko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naiklah"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kapado kito"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "mako kito naik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "manaruihan inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ka tangan kito"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kito"
+    },
+    {
+      "surface": "האות",
+      "gloss": "tando"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:00.039659977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu inyo mambuek kaporét dari ameh murni: duo amah satangah panjangnyo, jo ciek amah satangah leba nyonyo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporét"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "duo amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jo satangah"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "panjangnyo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "jo ciek amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jo satangah"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "leba nyonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:18.163007951Z",
+  "model": "glm-5.3"
+}

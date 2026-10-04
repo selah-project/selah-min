@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Kok sambieli ⟨את⟩ biri-biri itu, kok ambiak ⟨את⟩ darahnyo, lalu siramkan ka mimbah, sakaliiliang.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "kok sambieli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biri-biri itu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "biri-biri itu"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "kok ambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahnyo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "lalu siramkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mimbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliiliang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:59.881088521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo kokokanlah baitu kapadonyo: batahan iduik! Jo awak salamaik, jo rumah awak salamaik, jo sagalo nan di awak salamaik.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "jo kokokanlah"
+    },
+    {
+      "surface": "כה",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "batahan iduik"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "jo awak"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salamaik"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "jo rumah awak"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salamaik"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "di awak"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salamaik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:02.093435159Z",
+  "model": "glm-5.3"
+}

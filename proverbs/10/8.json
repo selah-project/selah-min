@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Urang nan bijak ati manarimo parentah, tapi urang bodoh bibia-nyo ka tatumbang.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "urang nan bijak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "manarimo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "tapi urang bodoh"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "bibia"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ka tatumbang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:41.801894782Z",
+  "model": "glm-5.3"
+}

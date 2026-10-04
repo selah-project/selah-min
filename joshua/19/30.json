@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Uma, jo Apek, jo Rekhob: duo puluah duo kuta jo kampuang-kampuangnyo.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "jo Apek"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "jo Rekhob"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "jo duo"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "jo kampuang-kampuangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:09:46.476041565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo tiang-tiangnyo duo puluah, jo dasa-dasanyo duo puluah dari tambago; kait-kait tiang-tiang itu jo garih-garihnyo dari perak.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "jo tiang-tiangnyo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "jo dasa-dasanyo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "kait-kait"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tiang-tiang itu"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "jo garih-garihnyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:28.671722795Z",
+  "model": "glm-5.3"
+}

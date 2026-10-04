@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Kito manyarupakan, Elohim, hesed-Mu, di tangah istano-Mu.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "kito manyarupakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "istano-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:29.990296975Z",
+  "model": "glm-5.3"
+}

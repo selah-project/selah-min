@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Mishma, jo Dumah, Masa, Hadad, jo Tema.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "Mishma"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "jo Dumah"
+    },
+    {
+      "surface": "משא",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "jo Tema"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:12.515122490Z",
+  "model": "glm-5.3"
+}

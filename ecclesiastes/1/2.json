@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sia-sia nan sia-sia, kato Kohelet; sia-sia nan sia-sia, sadonyo ⟨adalah⟩ sia-sia.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "nan sia-sia"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "nan sia-sia"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sia-sia"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:33.358993088Z",
+  "model": "glm-5.3"
+}

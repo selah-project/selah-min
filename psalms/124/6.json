@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 124,
+  "translation": "Tabarakaiah Yahweh, nan indak manjadian kito sabagai mangso untuak gigi mareka.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Tabarakaiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "nan indak"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "manjadian kito"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "mangso"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "untuak gigi mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:49.467036602Z",
+  "model": "glm-5.3"
+}

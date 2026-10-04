@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu ambo bakato kapado malkhakh nan bajariah dalam diri ambo: Apo iko? Jo inyo manjawek kapado ambo: Iko tanduak-tanduak nan mampasampang ⟨את⟩ Yehudah, ⟨את⟩ Yisrael, jo Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaikaik"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nan bajariah"
+    },
+    {
+      "surface": "בי",
+      "gloss": "dalam diri ambo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "manjawek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "tanduak-tanduak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "mampasampang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:19:16.860904938Z",
+  "model": "glm-5.3"
+}

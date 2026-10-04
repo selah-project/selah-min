@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Hanyo darahnyo jan sanak makan; ka ateh tanah sanak tuang inyo, sarupo aia.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sanak makan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "sanak tuang inyo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sarupo aia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:04.299332988Z",
+  "model": "glm-5.3"
+}

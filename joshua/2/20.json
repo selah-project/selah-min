@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Tapi kok bia manganankan ⟨את⟩ parkaro ambo awak ko, mako ambo awak barasiah dari sumpahmu nan alahbiajo mambuek ambo awak sumpah.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi kok"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "bia manganankan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parkaro ambo awak ko"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "parkaro ambo awak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "mako ambo awak"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "barasiah"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "dari sumpahmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "biajo mambuek ambo awak sumpah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:05:05.654153631Z",
+  "model": "glm-5.3"
+}

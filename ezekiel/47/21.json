@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Awak sanak bia mambagi ⟨את⟩ tanah iko untuak awak sanak, manuruik suku-suku Yisrael.",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "bia mambagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah iko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah iko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak awak sanak"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "manuruik suku-suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T07:04:33.303798532Z",
+  "model": "glm-5.3"
+}

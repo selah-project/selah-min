@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Urang miskin bakato jo panyhoan, tapi urang kayo manjawab jo kapakasan.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "panyhoan"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "רש",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "tapi urang kayo"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "manjawab"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "kapakasan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:58:29.751832663Z",
+  "model": "glm-5.3"
+}

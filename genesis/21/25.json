@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo Avraham mambaranangi ⟨את⟩ Avimelekh tantang sumua aia nan dirampok ambo-ambo Avimelekh.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "mambaranangi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "על",
+      "gloss": "tantang"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "tantang"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sumua"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "dirampok"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ambo-ambo"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:05.156524974Z",
+  "model": "glm-5.3"
+}

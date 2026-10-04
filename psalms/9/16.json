@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Bangso-bangso alah tinggaik dalam lobang nan inyo buek; dalam jaring nan inyo sembunyikan, kaki inyo tatangkok.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "tinggaik"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "dalam lobang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nan inyo buek"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "dalam jaring"
+    },
+    {
+      "surface": "זו",
+      "gloss": "itu"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "nan inyo sembunyikan"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "tatangkok"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "kaki inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:46.912365499Z",
+  "model": "glm-5.3"
+}

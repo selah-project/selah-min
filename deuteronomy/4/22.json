@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Karano ambo akan mati di tanah ko; ambo indak malewati ⟨את⟩ Yarden, sadangkan awak all malewati jo bapusakoi ⟨את⟩ tanah nan elok ko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "malewati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "sadangkan awak all"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "malewati"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "jo bapusakoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah nan elok ko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:53:12.319995471Z",
+  "model": "glm-5.3"
+}

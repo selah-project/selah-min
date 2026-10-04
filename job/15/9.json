@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Apo nan ang tau, sadangkan kami indak tau? Apo nan ang pahami, sadangkan nan tu indak ado pado kami?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ang tau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadangkan indak"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "kami tau"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ang pahami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadangkan indak"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ado pado kami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nan tu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:07:17.353809244Z",
+  "model": "glm-5.3"
+}

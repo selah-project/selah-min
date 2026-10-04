@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Elohim mambarkekati ⟨את⟩ Noh jo ⟨את⟩ anak-anaknyo, jo bakato kapado inyo: Babuah buah sadangannyo, jo tambaah jumlahnyo, jo paniahi ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "mambarkekati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noh"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "babuah buah sadangannyo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "jo tambaah jumlahnyo"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "jo paniahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:47.858371969Z",
+  "model": "glm-5.3"
+}

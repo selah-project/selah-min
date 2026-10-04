@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Mahaso bana, mahaso bumi, jo dirampok, dirampok bana, karano Yahweh alah mangecek ⟨את⟩ kato iko.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "mahaso bana"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "mahaso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "jo dirampok"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "dirampok bana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alah mangecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:46.438457533Z",
+  "model": "glm-5.3"
+}

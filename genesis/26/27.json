@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo Yitskhak bakato kapado inyo: Kok baa kalian tibo ka ambo, padahal kalian banci ⟨את⟩ ambo jo alah mangaleh ambo ⟨את⟩ dari sampiang kalian?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jo Yitskhak bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kok baa"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kalian tibo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "padahal kalian"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "banci"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "jo alah mangaleh ambo"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ dari sampiang kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:04.553591516Z",
+  "model": "glm-5.3"
+}

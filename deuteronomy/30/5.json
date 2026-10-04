@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Yahweh, Elohim kau, ka mambaok kau ka tanah nan alah dikuasoi dek niniak moyang kau, dan kau ka makuasoinyo; dan inyo ka babaikan kau jo manambaiah kau labiah dari niniak moyang kau.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "ka mambaok kau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "alah dikuasoi dek"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "niniak moyang kau"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "dan kau ka makuasoinyo"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "dan inyo ka babaikan kau"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "jo manambaiah kau"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "labiah dari niniak moyang kau"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:49.726514450Z",
+  "model": "glm-5.3"
+}

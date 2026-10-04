@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Mako Esav tingga di bukik Seir; Esav iko adolah Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di bukik"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iko adolah"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:18.213867435Z",
+  "model": "glm-5.3"
+}

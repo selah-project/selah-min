@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Salamo sado ari-ari katasanan tanah itu barishat, ⟨את⟩ nan indak inyo barishat pado Shabat-Shabat kalian, katiko kalian tingga di atehnyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "salamo sado"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "katasanan"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "barishat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan indak inyo barishat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "barishat"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "pado Shabat-Shabat kalian"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "katiko kalian tingga"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:23.605280054Z",
+  "model": "glm-5.3"
+}

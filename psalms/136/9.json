@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "⟨את⟩ bulan jo bintang-bintang untuak mamarintah malam, karano salamanyo-lamanyo hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulan"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "jo bintang-bintang"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "untuak mamarintah"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo-lamanyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:07.480220283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Barekati Yahweh, sagalo bala-Nyo, urang-urang nan melayani-Nyo, nan mangarajokan kakaresoan-Nyo!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Barekati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "bala-Nyo"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "urang-urang nan melayani-Nyo"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "nan mangarajokan"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "kakaresoan-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:06.917938618Z",
+  "model": "glm-5.3"
+}

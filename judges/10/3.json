@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Sasudah inyo, bangkik Yair urang Gilad; inyo mahakimi ⟨את⟩ Yisrael duo puluah duo tahun.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sasudah inyo"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "urang Gilad"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "mahakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-10-04T05:16:09.409044893Z",
+  "model": "glm-5.3"
+}

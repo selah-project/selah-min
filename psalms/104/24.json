@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Alah banyaak karya-karya-Mu, Yahweh! Sadoalahnyo alah Kaujadian jo arif; penuah bumi ko dek ciptaan-Mu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Alah"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "banyaak"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "karya-karya-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadoalahnyo"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "jo arif"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Kaujadian"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "penuah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi ko"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "ciptaan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:18.681784085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Ikek ⟨mereka⟩ di jari-jari ang, tulih ⟨mereka⟩ di papan ati ang.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "iekok ⟨mereka⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "jari-jari ang"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "tulih ⟨mereka⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "papan"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ati ang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:29.776671196Z",
+  "model": "glm-5.3"
+}

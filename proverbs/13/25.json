@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Nan tsedeq makan sampai kanyatokan nafasnyo; tapi paruik urang jahat ka kurang.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "nan tsedeq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sampai kanyatokan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafasnyo"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "tapi paruik"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "ka kurang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:53.762807721Z",
+  "model": "glm-5.3"
+}

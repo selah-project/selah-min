@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 9:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Inyo malintehi bukik Efrayim, jo malintehi tanah Shalisha, tapi indak tasangaok; mareka malintehi tanah Shaalim, tapi indak ado; inyo malintehi tanah Yamini, tapi indak tasangaok.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "inyo malintehi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "bukik"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "jo malintehi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "Shalisha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "tasangaok"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "mareka malintehi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "Shaalim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi indak ado"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "inyo malintehi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Yamini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "tasangaok"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:32.326298690Z",
+  "model": "glm-5.3"
+}

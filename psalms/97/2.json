@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 97,
+  "translation": "Awan jo kabuik galok sakitar-Nyo, tsedeq jo hukum iko dasia takhta-Nyo.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ו",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ערפל",
+      "gloss": "kabuik galok"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "sakitar-Nyo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jo hukum"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "dasia"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhta-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:31.772798553Z",
+  "model": "glm-5.3"
+}

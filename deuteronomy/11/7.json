@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Karano mato sanak sandiri alah caliak ⟨את⟩ sagalo karya gadang Yahweh nan Inyo buek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mato sanak"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo karya gadang Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:10.877032657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo inyo mambuek ⟨את⟩ monorah ameh nan sapuluah, manuruik hukumnyo; jo inyo maagiahnyo di dalam heikhal, limo di sabalah suok jo limo di sabalah kida.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monorah ameh nan sapuluah"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "monorah"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "manuruik hukumnyo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jo inyo maagiahnyo"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "di dalam heikhal"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limo"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "di sabalah suok"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "jo limo"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "di sabalah kida"
+    }
+  ],
+  "timestamp": "2026-10-04T09:31:52.675829927Z",
+  "model": "glm-5.3"
+}

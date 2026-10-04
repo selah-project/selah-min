@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Apokah indak ambo mambanci urang-urang nan banci Dak, Yahweh, jo urang-urang nan bangkik malawan Dak ambo mamusuahi?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Apokah indak"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "urang-urang nan banci Dak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "ambo mambanci"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "jo urang-urang nan bangkik malawan Dak"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "ambo mamusuahi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:43.063772987Z",
+  "model": "glm-5.3"
+}

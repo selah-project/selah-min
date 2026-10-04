@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Baraleh urang nan Kau piliah jo Kau dakek-an, tingga di lambo-lambo ⟨rumah⟩ Mu; kanyang kami dek kabaiakan rumah Mu, tampek suci baleh Mu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "baraleh"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "Kau piliah"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "jo Kau dakek-an"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "lambo-lambo Mu"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "kanyang kami"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dek kabaiakan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah Mu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "baleh Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:45.617018805Z",
+  "model": "glm-5.3"
+}

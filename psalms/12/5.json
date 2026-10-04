@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Nan bakato: Jo lido kito kito bagawi, bibia kito ado basamo kito — sia tuan ateh kito?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "jo lido kito"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "kito bagawi"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "bibia kito"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kito"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ateh kito"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:26.285922788Z",
+  "model": "glm-5.3"
+}

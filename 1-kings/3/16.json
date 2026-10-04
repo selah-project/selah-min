@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Waktu itu duo padusi palacur tibo ka rajo, jo tagak di mukonyo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "waktu itu"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "tibo ka"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "padusi"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "palacur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "jo tagak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:20.264461704Z",
+  "model": "glm-5.3"
+}

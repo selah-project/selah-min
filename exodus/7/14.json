@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu Yahweh bakato kapado Moshe: Ati Paroh alah barek, inyo manolak marelaan bangso itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "barek"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "manolak"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "marelaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:38.602801931Z",
+  "model": "glm-5.3"
+}

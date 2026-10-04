@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 28:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo ikek pinggang haefod nan ado di atehnyo, sarupo karejonyo, dari bahan nan samo inyo dibuek: ameh, tekhelet, jo argaman, jo tolaat syani, jo syesy batuki.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "jo ikek pinggang"
+    },
+    {
+      "surface": "אפדתו",
+      "gloss": "haefodnyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ado di atehnyo"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "sarupo karejonyo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari bahan nan samo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "inyo dibuek"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jo argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "jo tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "syani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jo syesy"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "batuki"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:31.834624992Z",
+  "model": "glm-5.3"
+}

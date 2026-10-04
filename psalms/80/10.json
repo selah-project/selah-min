@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "Engkau mambari ruang di mukonyo, jo inyo mangaradangkan aka-akanyo, inggo malimpah ⟨di⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "mambari ruang"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "mangaradangkan aka"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "aka-akanyo"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "malimpah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:50.753429008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Urang satu manolong ⟨את⟩ kawannyo, jo kapado sanaknyo inyo bakato: Kuaiklah!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "urang satu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawannyo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kawannyo"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "manolong"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "jo kapado sanaknyo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuaiklah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:18:15.761342840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Dan bia baḍatang kapadok ambo hesed-Mu, Yahweh, jo tokat-Mu, manuruik kato-Mu.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "bia baḍatang kapadok ambo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "tokat-Mu"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "manuruik kato-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:27.369579119Z",
+  "model": "glm-5.3"
+}

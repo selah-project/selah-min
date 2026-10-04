@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Sarupo pukulan pamukulnyo — apo inyo dipukua? Sarupo pambunuahan urang nan dibunuah dek inyo — apo inyo dibunuah?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "sarupo pukulan"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "pamukulnyo"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "mamukul inyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apo"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "sarupo pambunuahan"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "urang nan dibunuah dek inyo"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "mambunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:19.205255909Z",
+  "model": "glm-5.3"
+}

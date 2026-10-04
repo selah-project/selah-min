@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lalu Yaakov tasiso surang, jo saurang laki-laki maramu jo inyo sampai naiaknyo fajar.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "lalu tasiso"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "surang"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "maramu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang laki-laki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "naiaknyo"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-10-04T04:03:38.509883285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Lalu Yosef mambaok ⟨את⟩ Yaakov apaknyo, jo managak-an inyo di muko Paroh; lalu Yaakov ma-berkati ⟨את⟩ Paroh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov apaknyo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "jo managak-an inyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lalu ma-berkati"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:15.195774438Z",
+  "model": "glm-5.3"
+}

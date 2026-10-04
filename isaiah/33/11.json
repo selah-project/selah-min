@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Kamu manganduang sampah, kamu malahiakan djerami; ruakh kamu adolah ⟨sarupo⟩ api nan makan kamu.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "kamu manganduang"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "sampah"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "kamu malahiakan"
+    },
+    {
+      "surface": "קש",
+      "gloss": "djerami"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "ruakh kamu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "nan makan kamu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:11.363331651Z",
+  "model": "glm-5.3"
+}

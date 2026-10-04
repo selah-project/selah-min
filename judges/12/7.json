@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo Yiftakh manjadi hakim ateh ⟨את⟩ Yisrael anam taun; lalu Yiftakh urang Gilad itu maningga, jo dikubuaan di koto-koto Gilad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "manjadi hakim"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu maningga"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "urang Gilad itu"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikubuaan"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "di koto-koto"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-04T05:19:23.912130072Z",
+  "model": "glm-5.3"
+}

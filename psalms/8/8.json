@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Domba jo lombu, sagalonyo, baitaruih juo binatang ladang.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "jo lombu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sagalonyo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "baitaruih juo"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ladang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:29.081950184Z",
+  "model": "glm-5.3"
+}

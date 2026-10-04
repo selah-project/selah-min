@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu rajo Shelomoh mangiriman ⟨את⟩inyo malalui tangan Benayah anak Yehoyada, dan inyo mahantui ⟨את⟩inyo, dan inyo mati.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangiriman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "malalui tangan"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "mahantui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mati"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:29.844530721Z",
+  "model": "glm-5.3"
+}

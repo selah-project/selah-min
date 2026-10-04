@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Ingeklah kasiah sayang-Mu, Yahweh, jo hesed-Mu, karano dari samaso lamo inyo adolah.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingeklah"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "kasiah sayang-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "jo hesed-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "dari samaso lamo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:06.565089546Z",
+  "model": "glm-5.3"
+}

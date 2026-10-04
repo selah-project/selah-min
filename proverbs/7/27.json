@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jalan-jalan ka Sheol itu rumahnyo, turun ka biliak-biliak kamatian.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "biliak-biliak"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:03.972274623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Bukan untuak rajo-rajo, hai Lemuel, bukan untuak rajo-rajo minum anggur, jo untuak pangulu-pangulu nang diinginkan iyolah minuman kareh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Bukan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "untuak rajo-rajo"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "hai Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "untuak rajo-rajo"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "minum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "jo untuak pangulu-pangulu"
+    },
+    {
+      "surface": "או",
+      "gloss": "nang diinginkan"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "minuman kareh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:43.854414383Z",
+  "model": "glm-5.3"
+}

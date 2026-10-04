@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 58,
+  "translation": "Bahkan di ati kalian mambahasakeh kalolong; di bumi, kasarahan tangan kalian kalian timbang.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "di ati"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kalolong"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "kalian mambahasakeh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kasarahan"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "tangan kalian"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "kalian timbang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:37.578089965Z",
+  "model": "glm-5.3"
+}

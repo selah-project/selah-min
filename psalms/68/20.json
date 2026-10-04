@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Tabarokati Adonai — ari-ari inyo mamikia untuak awak, haEl nan manjalangkan awak. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Tabarokati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "mamikia"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak awak"
+    },
+    {
+      "surface": "האל",
+      "gloss": "haEl"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "nan manjalangkan awak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:32.551444004Z",
+  "model": "glm-5.3"
+}

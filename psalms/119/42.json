@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Mako ambo dapek manjabaik urang nan mahinok ambo, karano ambo pacyo jo kato-Mu.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "mako ambo dapek manjabaik"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "urang nan mahinok ambo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ambo pacyo"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "jo kato-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:27.369793409Z",
+  "model": "glm-5.3"
+}

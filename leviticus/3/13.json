@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 3:13",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Inyo manaruhkan ⟨את⟩ tangannyo di ateh kapalonyo, lalu manyambaliah ⟨את⟩ inyo di muko tenda patamuan, jo anak-anak Aharon mangica ⟨את⟩ darahnyo ka ateh mezbah sacaro kaliliang.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "manaruhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "manyambaliah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "mangica"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahnyo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sacaro kaliliang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:24.968670876Z",
+  "model": "glm-5.3"
+}

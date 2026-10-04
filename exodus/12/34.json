@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Urang tu mangangkek ⟨את⟩ adonannyo sabalun inyo barambang, jo papan adonannyo diikek dalam pakaiannyo, diateh pundaknyo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adonannyo"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "adonannyo"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "sabalun"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "inyo barambang"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "papan adonannyo"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "diikek"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "dalam pakaiannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "diateh"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "pundaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:27.711106238Z",
+  "model": "glm-5.3"
+}

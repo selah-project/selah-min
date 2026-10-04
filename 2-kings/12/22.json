@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 12:22",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Yoazabad anak Simoat jo Yehozabad anak Somer, amba-ambanyo, mahantam inyo, lalu inyo mati; lalu urang tu mangubuaan ⟨את⟩ inyo basamo daro-datonyo di koto Dawid, lalu Amasyia anaknyo bakuaso manggantian inyo.",
+  "tokens": [
+    {
+      "surface": "ויוזבד",
+      "gloss": "Yoazabad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Simoat"
+    },
+    {
+      "surface": "ויהוזבד",
+      "gloss": "Yehozabad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Somer"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "amba-ambanyo"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "mahantam inyo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "lalu mangubuaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "daro-datonyo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di koto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "lalu bakuaso"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amasyia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "manggantian inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:05.045559214Z",
+  "model": "glm-5.3"
+}

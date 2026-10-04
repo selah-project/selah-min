@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo inyo maimbangkan urang-urang nan tasucikan itu dari bumi, jo inyo mahapuih ⟨את⟩ sagalo patuang-patuang nan dibuek dunsanak-undangnyo nan dahulu.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "maimbangkan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "urang-urang nan tasucikan itu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "mahapuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo patuang-patuang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "patuang-patuang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dunsanak-undangnyo nan dahulu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:33.320800184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Yahweh alah manyalasaikan ⟨את⟩ amarahnyo; inyo alah manguangkan ⟨את⟩ kabarahan mukonyo; jo inyo manyaloan api di Tzion, jo api itu mamilin dasa-dasanyo.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "alah manyalasaikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarahnyo"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "amarahnyo"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "alah manguangkan"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "kabarahan"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "jo inyo manyaloan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "jo api itu mamilin"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "dasa-dasanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:18:52.913815384Z",
+  "model": "glm-5.3"
+}

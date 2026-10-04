@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yahweh Tsebaot kamo sucikan ⟨אתו⟩, jo Iyo nan kamo takuik-i, jo Iyo nan mambuek kamo gadih.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tsebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yahweh Tsebaot"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "kamo sucikan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo Iyo"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "nan kamo takuik-i"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo Iyo"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "nan mambuek kamo gadih"
+    }
+  ],
+  "timestamp": "2026-10-04T06:07:53.329982437Z",
+  "model": "glm-5.3"
+}

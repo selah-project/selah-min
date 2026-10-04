@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo Uzi manurunkan ⟨את⟩ Zerakhjah, jo Zerakhjah manurunkan ⟨את⟩ Merajot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "jo Uzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerakhjah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerakhjah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "jo Zerakhjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:15.925891145Z",
+  "model": "glm-5.3"
+}

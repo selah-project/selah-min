@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Jalan kasatiaan ambo pilih, hukum-hukum-Mu ambo latak-an di muko ambo.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kasatiaan"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ambo pilih"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ambo latak-an di muko ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:13.169418097Z",
+  "model": "glm-5.3"
+}

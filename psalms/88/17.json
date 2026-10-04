@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Atas ambo lah balalok murko-Mu, galo-galo katagori-Mu lah mambinasoan ambo.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "lah balalok"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "murko-Mu"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "galo-galo katagori-Mu"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "lah mambinasoan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:49.262868381Z",
+  "model": "glm-5.3"
+}

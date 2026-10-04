@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo mareka bakato: Apo patuih ⟨את⟩ amboan kito dilakuan sarupo jo padagang laki-laki?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jo mareka bakato"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "sarupo jo padagang laki-laki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dilakuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amboan kito"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "amboan kito"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:45.849198546Z",
+  "model": "glm-5.3"
+}

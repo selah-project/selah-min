@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Ambo mambukak mungko ambo dalam parumpaman; ambo manyampaikan teka-teki dari maso lampau.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ambo mambukak"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "dalam parumpaman"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mungko ambo"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ambo manyampaikan"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "teka-teki"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "maso lampau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:24.040048673Z",
+  "model": "glm-5.3"
+}

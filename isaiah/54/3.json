@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 54,
+  "translation": "Karano ka kanan jo ka kiri awak ka pacuik; jo beniahmu ka mawarisi bangso-bangso, jo koto-koto nan lah tabuang ka diunyi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ka kanan"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "jo ka kiri"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "ka pacuik"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "jo beniahmu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ka mawarisi"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "jo koto-koto"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "nan lah tabuang"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "ka diunyi"
+    }
+  ],
+  "timestamp": "2026-10-04T06:22:14.358767267Z",
+  "model": "glm-5.3"
+}

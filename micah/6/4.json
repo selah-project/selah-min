@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Karano Ambo alah maangkek angku dari tanah Mitsrayim, jo dari rumah panehan Ambo alah mambiahan angku, jo Ambo maantaah di muko angku ⟨את⟩ Moshe, Aharon, jo Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "jo dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "panehan"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "mambiahan"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "maantaah"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di muko angku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe, Aharon, jo Miryam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "jo Miryam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:16:13.015338738Z",
+  "model": "glm-5.3"
+}

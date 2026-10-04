@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo buruang-gagak mambaokan kapadonyo roti jo dagiang di pagi hari, jo roti jo dagiang di sanjo hari, jo dari sungai itu inyo minum.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "jo buruang-gagak"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "mambaokan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "jo dagiang"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di pagi hari"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "jo roti"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "jo dagiang"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "di sanjo hari"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "inyo minum"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:24.792534310Z",
+  "model": "glm-5.3"
+}

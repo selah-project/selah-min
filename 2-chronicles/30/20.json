@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo Yahweh mandanga Khizkiyahu, jo inyo manyambuahkan ⟨את⟩ bangso itu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "jo Yahweh mandanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "jo inyo manyambuahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:58:30.418709415Z",
+  "model": "glm-5.3"
+}

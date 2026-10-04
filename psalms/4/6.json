@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Sambaliah kurban nan banar, jo pacayo lah kapado Yahweh.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "sambaliah"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "jo pacayo lah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:16.096804336Z",
+  "model": "glm-5.3"
+}

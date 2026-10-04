@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo inyo malapih ⟨את⟩ karub-karub itu jo ameh.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "malapih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karub-karub itu"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "karub-karub itu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:47:31.997993494Z",
+  "model": "glm-5.3"
+}

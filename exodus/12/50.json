@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu sagalo urang Yisrael mangarajoan sarupo nan diparentahkan Yahweh kapado ⟨את⟩ Moshe jo ⟨את⟩ Aharon; demikian pulo inyo karajoan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "lalu mangarajoan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "karajoan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:50.088827692Z",
+  "model": "glm-5.3"
+}

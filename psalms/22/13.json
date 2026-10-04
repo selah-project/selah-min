@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Alah mangaliliangi ambo jantan-jantan nan banyak, urang gagah kua Basan alah mampasarahi ambo.",
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "mangaliliangi ambo"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "jantan-jantan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "urang gagah kua"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basan"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "mampasarahi ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:20.629141135Z",
+  "model": "glm-5.3"
+}

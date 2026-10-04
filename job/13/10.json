@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Pasti inyo mambookan ⟨את⟩ kalian, kok kalian maangkek muko sacaro rahasia.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "mambookan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sacaro rahasia"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muko"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "kalian maangkek"
+    }
+  ],
+  "timestamp": "2026-10-04T08:06:01.369933711Z",
+  "model": "glm-5.3"
+}

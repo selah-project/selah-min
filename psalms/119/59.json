@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ambo alah mamikia-an jalan-jalan ambo, lalu ambo mambaliakan kaki ambo ka kasaksi-an-Mu.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ambo alah mamikia-an"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan ambo"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "lalu ambo mambaliakan"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kaki ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kasaksi-an-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:38.121858106Z",
+  "model": "glm-5.3"
+}

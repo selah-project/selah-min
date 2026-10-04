@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Urang-urang nan duduak di dalam kadapatan jo bayangan kamatian, urang-urang nan dibateh dalam kasusahan jo basi,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "urang-urang nan duduak"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadapatan"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "jo bayangan kamatian"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "urang-urang nan dibateh"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "jo basi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:04.630224844Z",
+  "model": "glm-5.3"
+}

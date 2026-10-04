@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "pahanyo nan basi, kakinyo — sabagiannyo basi, jo sabagiannyo tanah liat.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "pahanyo"
+    },
+    {
+      "surface": "די",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "basi"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "kakinyo"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "sabagiannyo"
+    },
+    {
+      "surface": "די",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "basi"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "jo sabagiannyo"
+    },
+    {
+      "surface": "די",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "tanah liat"
+    }
+  ],
+  "timestamp": "2026-10-04T08:27:03.722456926Z",
+  "model": "glm-5.3"
+}

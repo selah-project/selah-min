@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 10:20",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Iko ⟨adolah⟩ makhluk nan hiduik nan ambo caliak di bawah ⟨ado pado⟩ Elohim Yisrael, di sungai Kebar; jo ambo tau baso inyo karubim-karubim.",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "iko"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "makhluk nan hiduik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ambo caliak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Kebar"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "jo ambo tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "karubim-karubim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:50:34.865563225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo kini awak sanak lah pai, dek karano rindu bana awak sanak ka rumah apak awak sanak; baa awak sanak mancuri ⟨את⟩ elohim-elohim ambo?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "awak sanak pai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "rindu"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "awak sanak rindu bana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka rumah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apak awak sanak"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "awak sanak mancuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elohim-elohim ambo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim-elohim ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:27.013992347Z",
+  "model": "glm-5.3"
+}

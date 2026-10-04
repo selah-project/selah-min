@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 118,
+  "translation": "Iko ari nan dibuek Yahweh; maiyo kito bagembira jo basuko di dalamnyo.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan dibuek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "maiyo kito bagembira"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "jo basuko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:01.522841504Z",
+  "model": "glm-5.3"
+}

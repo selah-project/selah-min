@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Tando-tando kito indak sanak kitokan: indak ado lai nabi, indak ado ⟨את⟩-dakek kito nan tahu sampai bilo.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "tando-tando kito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "sanak kitokan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ dakek kito",
+      "marks": "kito"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bilo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:39.218612660Z",
+  "model": "glm-5.3"
+}

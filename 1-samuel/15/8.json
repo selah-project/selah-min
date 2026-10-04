@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Lalu inyo manangkok ⟨את⟩ Agag rajo Amalek sacaro iduik, tapi ⟨את⟩ sado kaum tu inyo papuasan jo muncuang padang.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "lah manangkok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag rajo Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sacaro iduik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado kaum tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum tu"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "papuasan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "jo muncuang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:27:56.756534321Z",
+  "model": "glm-5.3"
+}

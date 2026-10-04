@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Karano ang surang buek iko sacaro rahasio, sadangkan den ka buek ⟨את⟩ barang iko di muko sado urang Yisrael jo di muko matohari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang surang"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "buek"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sacaro rahasio"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "sadangkan den"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "den ka buek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "barang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "urang Yisrael"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "jo di muko"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matohari"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:17.626932157Z",
+  "model": "glm-5.3"
+}

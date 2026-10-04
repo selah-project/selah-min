@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo Yahweh bakato kapado Moshe: Uangkan tanganmu ateh tanah Mitsrayim ateh balalang, supayo inyo naik ka ateh tanah Mitsrayim jo mamakan ⟨את⟩ sagalo tanaman tanah, ⟨את⟩ sagalo nan ditinggaan dek es.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "uangkan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "ateh balalang"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "supayo inyo naik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "jo mamakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo tanaman tanah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "tanaman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan ditinggaan dek es"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ditinggaan"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "es"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:22.600247154Z",
+  "model": "glm-5.3"
+}

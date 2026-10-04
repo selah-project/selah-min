@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Maka urang tu mancukua, tapi ⟨את⟩ kudis indak inyo cukua; lalu imam mangunci ⟨את⟩ kudis tujuah ari, ciek lai.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "mancukua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kudis"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "kudis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "inyo cukua"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "mangunci"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kudis"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "kudis"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ciek lai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:53.072665877Z",
+  "model": "glm-5.3"
+}

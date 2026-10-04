@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo kini, hai rajo-rajo, bingkualah; sampai pajaahan, hai pangadili-pangadili bumi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "bingkualah"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "sampai pajaahan"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "pangadili-pangadili"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:55.220837109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Lalu Laban bakato: Elok ambo manjadian ⟨את⟩ inyo untuak angku daripado ambo manjadian ⟨את⟩ inyo untuak laki-laki nan lain; tingga basamo ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ambo manjadian"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak angku"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "daripado ambo manjadian"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "untuak laki-laki"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "basamo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:43.035109375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu urang tu mambuek pangulu-pangulu karajo pakosa di ateh inyo, supayo manyaso inyo jo paso-paso barangannyo; lalu inyo mambangun koto-koto tampek simpanan untuak Firaun, ⟨את⟩ Pitom jo ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Lalu urang tu mambuek"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di ateh inyo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pangulu-pangulu"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "karajo pakosa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "manyaso inyo"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "jo paso-paso barangannyo"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "lalu inyo mambangun"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "tampek simpanan"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "untuak Firaun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:56.175318357Z",
+  "model": "glm-5.3"
+}

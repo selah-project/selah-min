@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "⟨Urang tu⟩ bagiliang jo goyang sarupo urang mabuak, jo sagalo kapandaiannyo ditoloi.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "bagiliang"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "jo goyang"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "sarupo urang mabuak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "kapandaiannyo"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "ditoloi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:38.931894096Z",
+  "model": "glm-5.3"
+}

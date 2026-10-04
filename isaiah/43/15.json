@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Ambo iolah Yahweh, Nan Suci kalian, Pencipta Yisrael, Rajo kalian.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Nan Suci kalian"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Pencipta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Rajo kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T06:18:08.167826120Z",
+  "model": "glm-5.3"
+}

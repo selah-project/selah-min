@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo bangso itu bakato kapado Shemuel: Siapo nan bakato 'Saul indak ka bakuaso ateh ambo'? Serahkan urang-urang itu, supayo ambo mambunuah urang tu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "indak ka bakuaso"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "serahkan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang-urang itu"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "supayo ambo mambunuah urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:25:34.791605305Z",
+  "model": "glm-5.3"
+}

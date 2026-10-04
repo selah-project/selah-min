@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Manusio alah balunduak, urang alah mahinokan diri — jan ampin urang tu.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "alah balunduak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusio"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "alah mahinokan diri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ampin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:31.769930688Z",
+  "model": "glm-5.3"
+}

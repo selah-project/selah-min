@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo Yahweh bakato kapadonyo: Pgia, baliaklah ka jalan-Mu, ka padang raso Damsyik, jo katiko lah tibo, uriekklah ⟨את⟩ Khazael manjadi rajo ateh Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pgia"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "ka jalan-Mu"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ka padang raso"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damsyik"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "jo katiko lah tibo"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "uriekklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Khazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "manjadi rajo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-04T05:53:38.184018129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Ka tanah nan mailia susu jo madu, karano ambo indak ka naik basamo di tangah-tangah angkau, karano angkau adolah ⟨is⟩ umat nan kareh batangkonyo, aso ambo manghabihkan angkau di jalan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "nan mailia"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "jo madu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ambo ka naik"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "di tangah-tangah angkau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kareh"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "batangkonyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aso"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ambo manghabihkan angkau"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:40.689235188Z",
+  "model": "glm-5.3"
+}

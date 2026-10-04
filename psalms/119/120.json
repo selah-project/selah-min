@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Dagiang ambo balangkok dari takuik kapado-Nyo, jo dari hukum-hukum-Nyo ambo bataguik.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "balangkok"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "dari takuik kapado-Nyo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagiang ambo"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "jo dari hukum-hukum-Nyo"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ambo bataguik"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:19.457406504Z",
+  "model": "glm-5.3"
+}

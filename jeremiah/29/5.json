@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Bueklah rumah-rumah jo tingga di dalamnyo; tanamlah kabun-kabun jo makanlah ⟨את⟩ buahnyo.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "bueklah"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "jo tingga di dalamnyo"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "jo tanamlah"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "kabun-kabun"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "jo makanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buahnyo"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "buahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:37:20.958580893Z",
+  "model": "glm-5.3"
+}

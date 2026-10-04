@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Inyo mangingek salamanyo parjanjian-Nyo, kato nan diperintahkannyo ka saribu angkatan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "mangingek"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "parjanjian-Nyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nan diperintahkannyo"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ka saribu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:40.350813164Z",
+  "model": "glm-5.3"
+}

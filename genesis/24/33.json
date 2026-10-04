@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 24:33",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo inyo maagiah makanan di mukonyo untuak dimakan, tapi inyo bakato: \"Ambo indak makan sabalun ambo mangecekan kato-kato ambo.\" Maka inyo bakato: \"Kato a.\"",
+  "tokens": [
+    {
+      "surface": "ויישם",
+      "gloss": "jo inyo maagiah"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuak dimakan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tapi inyo bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sabalun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ambo mangecekan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato ambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maka inyo bakato"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato a"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:27.088517157Z",
+  "model": "glm-5.3"
+}

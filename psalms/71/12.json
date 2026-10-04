@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Elohim, jangan jauah dari ambo; Elohim ambo, lau capek manolong ambo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jauah"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "untuak patolongan ambo"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "lau capek"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:48.171548350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo ⟨את⟩ lemak dari korban doso tu inyo bakaunnyo di ateh mazbeakh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban doso tu"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "bakaunnyo"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di ateh mazbeakh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:09.482638462Z",
+  "model": "glm-5.3"
+}

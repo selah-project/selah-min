@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Elohim mancaliak ⟨את⟩ sadonyo nan alah dibuek-Nyo, jo caliak — elok bana. Maka tibolah sanjo, jo tibolah pagi — ari nan ka anam.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lalu mancaliak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadonyo nan alah dibuek-Nyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah dibuek-Nyo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo caliak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maka tibolah"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sanjo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo tibolah"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "nan ka anam"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:24.939862220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Inyo mangiriman kato-Nyo dan manyalokannyo; inyo mambuek ruakh-Nyo batiup, manggalok aia.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "mangiriman"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kato-Nyo"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "dans manyalokannyo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mambuek batiup"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh-Nyo"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "manggalok"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:04.219609164Z",
+  "model": "glm-5.3"
+}

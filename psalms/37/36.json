@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu inyo lahigo, jo caliak-lah, indak ado lai inyo; ambo mancari inyo, tapi indak ditamui.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Lalu inyo lahigo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo caliak-lah"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "indak ado lai inyo"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "ambo mancari inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ditamui"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:33.944603160Z",
+  "model": "glm-5.3"
+}

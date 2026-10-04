@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 84,
+  "translation": "Urang tu bajalan dari kakuatan ka kakuatan, sampai urang tu tacaliak di muko Elohim di Tzion.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "urang tu bajalan"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "dari kakuatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "tacaliak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tzion"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:44.602805621Z",
+  "model": "glm-5.3"
+}

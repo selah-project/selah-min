@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 98,
+  "translation": "Manciaiklah untuak Yahweh, sanduo bumi; lampiaskanlah kagombiaan, gombia, jo bazambah.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "manciaiklah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sanduo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "lampiaskanlah"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "gombia"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "bazambah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:46.064428763Z",
+  "model": "glm-5.3"
+}

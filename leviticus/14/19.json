@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Imam mangarajoan ⟨את⟩ korban doso, mangadok karusakan ateh urang nan disucikan dari kajjamannyo, lalu sasudahnyo manyembalih ⟨את⟩ korban bakaran.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "mangarajoan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban doso"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban doso"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mangadok karusakan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "urang nan disucikan"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "dari kajjamannyo"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sasudahnyo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "manyembalih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:56.322475631Z",
+  "model": "glm-5.3"
+}

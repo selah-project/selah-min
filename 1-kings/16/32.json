@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo inyo mandirikan mezbah untuak Baal di rumah Baal, nan inyo bangun di Shomron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "jo inyo mandirikan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "untuak Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inyo bangun"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:08.389545373Z",
+  "model": "glm-5.3"
+}

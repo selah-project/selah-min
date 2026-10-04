@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Urang bodoh marangkuak ⟨את⟩ kaduo tangannyo, jo mamakan ⟨את⟩ dagiangnyo surang.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "marangkuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaduo tangannyo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kaduo tangannyo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "jo mamakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiangnyo surang"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagiangnyo surang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:05.640405844Z",
+  "model": "glm-5.3"
+}

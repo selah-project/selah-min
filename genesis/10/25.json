@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo kapado Eber lahia duo anak laki-laki: namo nan ciek Peleg, karano pado masanyo bumi tu tacagiak, jo namo sudaronyo Yoktan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "kapado Eber"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lahia"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "pado masanyo"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "tacagiak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sudaronyo"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:30.673644750Z",
+  "model": "glm-5.3"
+}

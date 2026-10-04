@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Kalakukan ambo mangarati iko, awak nan lupo ka Eloah, mambahannyo ambo mancabiak awak, indak ado nan malapehan.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "kalakukan ambo mangarati"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "awak nan lupo"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ka Eloah"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mambahannyo"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "ambo mancabiak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "nan malapehan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:39.238180244Z",
+  "model": "glm-5.3"
+}

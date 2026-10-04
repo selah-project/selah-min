@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu Rekhavam tingga di Yerushalayim, dan inyo mambangun kota-kota untuak bantuek di Yehuda.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhavam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "untuak bantuek"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-04T08:51:09.339067757Z",
+  "model": "glm-5.3"
+}

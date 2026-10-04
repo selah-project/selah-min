@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Ambo banci ⟨את⟩ pakumpulan urang nan mambahayo, jo urang raso-urang ambo indak duduak basamo.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ambo banci"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "pakumpulan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "urang nan mambahayo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang raso-urang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ambo duduak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:16.653128926Z",
+  "model": "glm-5.3"
+}

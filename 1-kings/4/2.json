@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Dan iko adolah para pajabat nan ado diunnyo: Azaryahu anak Tsadok, imam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dan iko"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "para pajabat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "diunnyo"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:49.239037805Z",
+  "model": "glm-5.3"
+}

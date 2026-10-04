@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 40:31",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo ruang mungonyo ka arah alaman lua, jo pohon palma di tiang-tiangnyo, jo naiaknyo lapan baitiak.",
+  "tokens": [
+    {
+      "surface": "ואלמו",
+      "gloss": "jo ruang mungonyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "alaman"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "lua"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "jo pohon palma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "אילו",
+      "gloss": "tiang-tiangnyo"
+    },
+    {
+      "surface": "ומעלות",
+      "gloss": "jo baitiak-baitiak"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "lapan"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "naiaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:03:24.907768083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Banyaklah kasakik-an urang nan lari ka tuhan-tuhan lain; indak ka ambo tuang saksian darah inyo, jo indak ka ambo angkek ⟨את⟩ namo-namo inyo di bibia ambo.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "banyaklah"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "kasakik-an inyo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tuhan-tuhan lain"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "urang nan lari"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ka ambo tuang"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "saksian inyo"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dari darah"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ka ambo angkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo-namo inyo"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "namo-namo inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibia ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:56.594897663Z",
+  "model": "glm-5.3"
+}

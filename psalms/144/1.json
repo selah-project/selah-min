@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Untuak Dawid. Tabarakaiah Yahweh, batu ambo, nan maaja tangan ambo untuak baparang, jari-jari ambo untuak paparangan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "tabarakaiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu ambo"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "nan maaja"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan ambo"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "untuak baparang"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "jari-jari ambo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuak paparangan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:13.327742037Z",
+  "model": "glm-5.3"
+}

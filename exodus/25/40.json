@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo caliak, jo buweklah manuruik bantuaknyo nan ditunjuakan kapado kau di ateh bukik.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "jo caliak"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "jo buweklah"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "manuruik bantuaknyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ditunjuakan kapado"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di ateh bukik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:33.369958702Z",
+  "model": "glm-5.3"
+}

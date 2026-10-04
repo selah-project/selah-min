@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo sadoalah barekat-ko akan tibo ateh ikau jo mahasiak ikau, karano ikau mandanga suaro Yahweh, Elohim ikau.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "jo akan tibo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ateh ikau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "barekat-ko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "jo mahasiak ikau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ikau mandanga"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ikau"
+    }
+  ],
+  "timestamp": "2026-10-04T09:07:12.477059882Z",
+  "model": "glm-5.3"
+}

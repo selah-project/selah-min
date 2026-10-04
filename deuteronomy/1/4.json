@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sasudah inyo mangalahan ⟨את⟩ Sihon, rajo urang Emori, nan tingga di Khesybon, jo ⟨את⟩ Og, rajo Basan, nan tingga di Asytarot di Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Sasudah"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "inyo mangalahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "di Khesybon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "di Asytarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "di Edrei"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:06.288245665Z",
+  "model": "glm-5.3"
+}

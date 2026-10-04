@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Iko nasib kau, bagian ukuran kau ⟨את⟩ dari ambo, kato Yahweh, karano kau lupo ⟨את⟩ ambo jo percayo kapado dusta.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "nasib kau"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "ukuran kau"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ dari ambo",
+      "marks": "bagian ukuran kau"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "kau lupo"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "ambo"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "jo percayo"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "kapado dusta"
+    }
+  ],
+  "timestamp": "2026-10-04T06:31:29.862279260Z",
+  "model": "glm-5.3"
+}

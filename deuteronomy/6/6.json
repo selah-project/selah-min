@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo kato-kato iko, nan ambo parentahkan kapado sanak ari ko, musti ado di ateh ati sanak.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "musti ado"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parentahkan kapado sanak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ati sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:40.089769901Z",
+  "model": "glm-5.3"
+}

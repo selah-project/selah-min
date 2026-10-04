@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 90,
+  "translation": "Pado pagi inyo manggambang lalu baralih; pado patiang inyo dipotong jo layu.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "manggambang"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "lalu baralih"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "pado patiang"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "dipotong"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "jo layu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:33.596137725Z",
+  "model": "glm-5.3"
+}

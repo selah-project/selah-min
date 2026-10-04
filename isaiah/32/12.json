@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Mambaranai dodo, ateh ladang-ladang nan elok, ateh anggur nan babuah.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "dodo"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "mambaranai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ladang-ladang"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "nan babuah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:10.648574644Z",
+  "model": "glm-5.3"
+}

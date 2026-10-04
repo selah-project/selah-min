@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 101,
+  "translation": "Mato ambo kapado urang satio di bumi, untuak tingga jo ambo; nan bajalan di jalan nan sampurno, inyo nan ka mangabdi ambo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "kapado urang satio"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "untuak tingga"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nan bajalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sampurno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ka mangabdi ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:27.158498837Z",
+  "model": "glm-5.3"
+}

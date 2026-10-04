@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo tajadi esok harinyo, inyo maambiak kain tameh, mancuboannyo ka aia, malapehnyo di mukonyo, lalu inyo mati; jo Chazael manjadi rajo menggantikan-nyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo tajadi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "esok harinyo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "inyo maambiak"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "kain tameh"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "mancuboannyo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka aia"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "malapehnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu inyo mati"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "jo manjadi rajo"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikan-nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:52.484266146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo Dawid indak sangajo mambaok ka dirinyo ⟨את⟩ Tabut Yahweh ka nagari Dawid; jadi Dawid mambaoknyo ka rumah Oved-Edom urang Gat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "sangajo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka dirinyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tabut Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "jadi inyo mambaoknyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "urang Gat"
+    }
+  ],
+  "timestamp": "2026-10-04T05:36:24.491630076Z",
+  "model": "glm-5.3"
+}

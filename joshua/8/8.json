@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo mako katiko kalian alah mamanjek ⟨את⟩ kota, kalian angsui ⟨את⟩ kota jo api; manuruik kato Yahweh kalian bueak. Caliak, ambo alah mamarintahkan ⟨את⟩ kalian.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jo mako"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "katiko kalian mamanjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "kalian angsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "manuruik kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kalian bueak"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ambo alah mamarintahkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T05:06:26.647622416Z",
+  "model": "glm-5.3"
+}

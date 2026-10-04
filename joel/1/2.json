@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Tai iko, urang gaek-gaek, jo padiahan talingo, saluruah panduduak bumi: adokah iko alah parnah tajadi pado maso kalian, atau pun pado maso niniak moyak kalian?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Tai"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "urang gaek-gaek"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "padiahan talingo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "adokah ... tajadi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "pado maso kalian"
+    },
+    {
+      "surface": "ו אם",
+      "gloss": "atau pun"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pado maso"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "niniak moyak kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:22.597121919Z",
+  "model": "glm-5.3"
+}

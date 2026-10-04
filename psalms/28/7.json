@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Yahweh kakuatan ambo jo pa linduang ambo; kapado-Nyo ati ambo picayo, jo ambo alah ditolong; jo ati ambo lasia bana, jo jo nyanyian ambo ambo pujui inyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "kakuatan ambo"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "jo pa linduang ambo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kapado-Nyo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "picayo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "jo ambo alah ditolong"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "jo lasia bana"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "jo jo nyanyian ambo"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ambo pujui inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:27.189820972Z",
+  "model": "glm-5.3"
+}

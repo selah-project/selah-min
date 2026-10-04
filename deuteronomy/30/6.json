@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Dan Yahweh Elohim kau ka manyunati ⟨את⟩ ati kau jo ⟨את⟩ ati beniah kau, untuak mancintai ⟨את⟩ Yahweh Elohim kau jo sagalo ati kau jo jo sagalo nyao kau, supayo kau iduik.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "dan ka manyunati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati kau"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ati kau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ati beniah kau"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniah kau"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "untuak mancintai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim kau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kau"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ati kau"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo jo sagalo"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyao kau"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "kau iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:49.726784339Z",
+  "model": "glm-5.3"
+}

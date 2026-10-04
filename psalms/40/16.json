@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Barihia inyo tatarok dek raso malo nan karano tu, urang nan bakato kapado ambo: Hah, hah!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "bihia inyo tatarok"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "raso malo inyo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "urang nan bakato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:19.183754293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Kapado-Mu urang tu mangedaiak-aia, jo salamaik; pado-Mu baraso aman, indak jadi malu.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "mangedaiak-aia"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "jo salamaik"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pado-Mu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "baraso aman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "jadi malu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:02.941365568Z",
+  "model": "glm-5.3"
+}

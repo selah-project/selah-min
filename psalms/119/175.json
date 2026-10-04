@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Biar ati ambo iduik, jo pujinyo untuak-Mu, jo hukum-Mu manolong ambo.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "biar iduik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "jo pujinyo untuak-Mu"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "jo hukum-Mu"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "manolong ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:49.252352058Z",
+  "model": "glm-5.3"
+}

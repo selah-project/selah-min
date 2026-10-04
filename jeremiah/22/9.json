@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lalu inyo bakato: Karano urang tu alah maninggaan ⟨את⟩ parjanjian Yahweh Elohim inyo, jo bajunjuang ka Elohim nan lain, jo malayani inyo.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "alah maninggaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian Yahweh Elohim inyo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim inyo"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "jo bajunjuang"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "jo malayani inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:33:55.259441214Z",
+  "model": "glm-5.3"
+}

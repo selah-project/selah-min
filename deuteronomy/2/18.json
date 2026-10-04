@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Kau malewati ari ko ⟨את⟩ tapih Moab, ⟨את⟩ Ar.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "malewati"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tapih Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tapih"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:45.471287835Z",
+  "model": "glm-5.3"
+}

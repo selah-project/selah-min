@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Sangok tanago di gurun inyo, jo inyo mancubo El di tanah kariang.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "sangok tanago"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "sangok"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mancubo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "di tanah kariang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:18.091746674Z",
+  "model": "glm-5.3"
+}

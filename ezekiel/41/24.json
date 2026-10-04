@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 41:24",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Jo duo daun pintu untuak tiok pintu, duo daun nan babaliak: duo daun untuak ciek pintu, jo duo daun untuak nan lain.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "jo duo"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "daun pintu"
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "untuak tiok pintu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "מוסבות",
+      "gloss": "nan babaliak"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "daun pintu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "לדלת",
+      "gloss": "untuak pintu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "jo duo"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "daun pintu"
+    },
+    {
+      "surface": "לאחרת",
+      "gloss": "untuak nan lain"
+    }
+  ],
+  "timestamp": "2026-10-04T07:03:05.887980730Z",
+  "model": "glm-5.3"
+}

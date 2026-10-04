@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Nan layak dipuji, ambo manyeru Yahweh, jo dari musuah-musuah ambo ambo salamat.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Nan layak dipuji"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ambo manyeru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuah-musuah ambo"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ambo salamat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:24.667399110Z",
+  "model": "glm-5.3"
+}

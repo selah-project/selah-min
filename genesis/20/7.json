@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 20:7",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo kini, pulangkan bini urang itu, karana inyo nabi, jo inyo ka badoa untuak kau, jo kau ka iduik; tapi kok indak kaupulangkan, katahui baso pasti mati elah kau mati, kau jo sagalo nan punyo kau.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "השב",
+      "gloss": "pulangkan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karana"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "jo ka badoa"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "untuak kau"
+    },
+    {
+      "surface": "ווחיה",
+      "gloss": "jo kau ka iduik",
+      "_": "חיה"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tapi kok"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "indak"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "kaupulangkan"
+    },
+    {
+      "surface": "דע",
+      "gloss": "katahui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti mati"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "elah kau mati"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "punyo kau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:12.397467421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 83,
+  "translation": "Bueklah kapado inyo sarupo kapado Midian, sarupo kapado Sisera, sarupo kapado Yabin, di sungai Kishon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Bueklah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "sarupo kapado Midian"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "sarupo kapado Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "sarupo kapado Yabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:55.445453542Z",
+  "model": "glm-5.3"
+}

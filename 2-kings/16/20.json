@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu Achaz laly jo nenek moyangnyo, jo dikubua jo nenek moyangnyo di koto Dawid, lalu Hizkiyahu anaknyo manjadi rajo sasudahnyo.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "laly"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nenek moyangnyo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikubua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nenek moyangnyo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di koto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "manjadi rajo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sasudahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:43.148098756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Lalu Lavan mangumpuan ⟨את⟩ sagalo urang tampek itu, jo mambuek jamuan minum.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "mangumpuan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo urang tampek itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "urang"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tampek itu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "jamuan minum"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:56.847801405Z",
+  "model": "glm-5.3"
+}

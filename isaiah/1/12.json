@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Karano kito tibo untuak maliek muko ambo — siapo nan mamintak iko dari tangan kito, untuak mamacak laman ambo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "kito tibo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak maliek"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko ambo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "mamintak"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "dari tangan kito"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "mamacak"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "laman ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:53.677273113Z",
+  "model": "glm-5.3"
+}

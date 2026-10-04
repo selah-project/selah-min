@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Pai jo katakan kapado hamba Ambo, kapado Dawid: Sarupo ko kato Yahweh: Sanakkah ang nan ka mambuek untuak Ambo rumah untuak Ambo tingga?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jo katakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba Ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sarupo ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "sanakkah ang"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak Ambo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "untuak Ambo tingga"
+    }
+  ],
+  "timestamp": "2026-10-04T05:37:18.213069340Z",
+  "model": "glm-5.3"
+}

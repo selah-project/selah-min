@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo urang tu mambancangkan di atehnyo kain sirah tolaat-sani, jo manutuikinyo ⟨את⟩ jo panutuik kulik takhas, jo urang tu malatakan ⟨את⟩ batang-batangnyo.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "mambancangkan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "kain"
+    },
+    {
+      "surface": "תולעat",
+      "gloss": "tolaat-sani"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "manutuikinyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "panutuik kulik takhas"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "jo panutuik"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhas"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "malatakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batang-batangnyo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "batang-batangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:29.011564913Z",
+  "model": "glm-5.3"
+}

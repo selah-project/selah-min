@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 138,
+  "translation": "Sado rajo-rajo bumi mamuji Kau, Yahweh, karano inyo alah mandangarkan ujar-uja muluik Kau.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "mamuji Kau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "inyo alah mandangarkan"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ujar-uja"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "muluik Kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:53.973543546Z",
+  "model": "glm-5.3"
+}

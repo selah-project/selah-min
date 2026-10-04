@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Maka ambo ka maajaan ⟨kapado⟩ urang nan balanggar jalan-Mu, jo urang doso ka baliak kapado-Mu.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "ambo ka maajaan"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "urang nan balanggar"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan-Mu"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "jo urang doso"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ka baliak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:37.121777734Z",
+  "model": "glm-5.3"
+}

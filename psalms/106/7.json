@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Dunsanak amaik kami di Mitsrayim indak maharuih ⟨את⟩ mukjizat-mukjizat-Mu, indak mangana ⟨את⟩ kasadioan hesed-Mu, tapi inyo maangkek palawa di lauik, di Lauik Suf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "dunsanak amaik kami"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "maharuih"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "mukjizat-mukjizat-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "mangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasadioan hesed-Mu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kasadioan"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "tapi inyo maangkek palawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di Lauik"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:09.222633915Z",
+  "model": "glm-5.3"
+}

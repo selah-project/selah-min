@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu Rekhabeam pai ka Sykhem, karano ka Sykhem saluruah Yisrael datang untuak manjadian inyo rajo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabeam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "ka Sykhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sykhem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "untuak manjadian inyo rajo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:52:03.289772086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Jo sado ati ambo mancari Dikau; jangan bia ambo tasasa dari parentah-Parentah-Mu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "ambo mancari Dikau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "bia ambo tasasa"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "dari parentah-parentah-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:46.411417088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "dan baliaklah kamu ka Yahweh, Elohimmu, dan dangaanlah suaronyo, manuruik sadonyo nan ambo suruah kaamu ari ko — kau jo anak-anakmu — jo sado atimu jo jo sado nyawamu.",
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "dan baliaklah kamu ka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "dan dangaanlah"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "suaronyo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "manuruik sadonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "suruah kaamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "jo anak-anakmu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawamu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:52.487057041Z",
+  "model": "glm-5.3"
+}

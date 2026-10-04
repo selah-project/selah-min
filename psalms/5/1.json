@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Untuak pamimpin musik, manuruik hanekhilot; mazmur untuak Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak pamimpin musik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manuruik"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "hanekhilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:56.571378037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lalu inyo bangkik pado malam itu, diambieknyo ⟨את⟩ duo bininyo jo ⟨את⟩ duo ambinyo, jo ⟨את⟩ sabaleh anaknyo, lapeh inyo manyubarangi ⟨את⟩ tampek manyubarang Yabok.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu inyo bangkik"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pado malam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "diambieknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duo bininyo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "bininyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duo ambinyo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "ambinyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabaleh anaknyo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sabaleh"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(bagian dari sabaleh)"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "laipeh inyo manyubarangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampek manyubarang Yabok"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "tampek manyubarang"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabok"
+    }
+  ],
+  "timestamp": "2026-10-04T04:03:32.382124259Z",
+  "model": "glm-5.3"
+}

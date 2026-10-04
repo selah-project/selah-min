@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Yahweh manjawek ⟨engkau⟩ pado ari sasak; namo Elohim-nyo Yaakov mangangek ⟨engkau⟩ bana:",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "manjawek ⟨engkau⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sasak"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "mangangek ⟨engkau⟩ bana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-nyo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:33.852735211Z",
+  "model": "glm-5.3"
+}

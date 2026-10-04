@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Inyo mainum sagalo binatang ladang; kalidi lia malapehan raso hausnyo.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "mainum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "malapehan"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "kalidi lia"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "raso hausnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:23.651779435Z",
+  "model": "glm-5.3"
+}

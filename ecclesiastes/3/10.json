@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Ambo alah caliak ⟨את⟩ karajo nan susah, nan dibari Elohim kapado anak-anak manusia untuak disibukki di dalamnyo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "alah caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karajo nan susah"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "karajo nan susah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kapado anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "untuak disibukki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:46.557779364Z",
+  "model": "glm-5.3"
+}

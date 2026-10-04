@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 6:15",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu inyo bakato kapadonyo: \"Tuan ambo, Adonai, jo apo ambo ka malapehkan ⟨את⟩ Yisrael? Caliak, kaluargo ambo nan paliang miskin di Manasye, dan ambo nan paliang ketek di rumah apak ambo.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "במה",
+      "gloss": "jo apo"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ambo ka malapehkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "kaluargo ambo"
+    },
+    {
+      "surface": "הדל",
+      "gloss": "nan paliang miskin"
+    },
+    {
+      "surface": "במנשה",
+      "gloss": "di Manasye"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dan ambo"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "nan paliang ketek"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:14:14.250645840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Sia iko, rajo nan kamuliaan ko? Yahweh Tsebaot — Inyo lah, rajo nan kamuliaan. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inyo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "nan kamuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inyo lah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "nan kamuliaan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:48.183124798Z",
+  "model": "glm-5.3"
+}

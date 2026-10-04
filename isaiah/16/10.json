@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo kagembiraan jo rasonyo lah tatarik dari ladang anggur; di kebun anggur indak ado manyanyi, indak ado bariak; anggur indak ditjek panjek inyo — lolongan ambo lah hanti.",
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "lah tatarik"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kagembiraan"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "jo rasonyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ladang anggur"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "di kebun anggur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "manyanyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "beriak"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "di palidian anggur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ditjek"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "panjek inyo"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "lolongan"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "ambo lah hanti"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:17.998000437Z",
+  "model": "glm-5.3"
+}

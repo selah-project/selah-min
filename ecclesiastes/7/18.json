@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Elok kok ang agak ciek iko, jo dari nan iko juo unang lapeh tangan ⟨ang⟩; karano urang nan takuik kapado Elohim ka kalua dari ⟨את⟩ sagalonyo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "agak"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ciek iko"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo ... juo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dari nan iko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unang"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "lapeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan ang"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan ang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "urang nan takuik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ka kalua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalonyo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sagalonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:15.279681438Z",
+  "model": "glm-5.3"
+}

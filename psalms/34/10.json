@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Biroalah kapado ⟨את⟩ Yahweh, urang-urang sucinyo, karano indak ado kakurangan untuak urang nan biro kapado inyo.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Biroalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "urang-urang sucinyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kakurangan"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "untuak urang nan biro kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:13.598069209Z",
+  "model": "glm-5.3"
+}

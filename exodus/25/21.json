@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Ang ka latakkan ⟨את⟩ kapporet di ateh aron, dari ateh, jo ka dalam aron ang ka latakkan ⟨את⟩ kasaksian nan ambo ka agiah kapado ang.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ang ka latakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka dalam"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ang ka latakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasaksian"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ambo ka agiah"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado ang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:49.829806936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "kok akanyo manuo di tanah, jo tanduaknyo mati di dabu —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "manuo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "akanyo"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "jo di dabu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "tanduaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:06:51.103401145Z",
+  "model": "glm-5.3"
+}

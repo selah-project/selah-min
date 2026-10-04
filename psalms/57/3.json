@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 57,
+  "translation": "Ambo manjapuik kapado Elohim Nan Tatinggi, kapado El nan manyalasaian ⟨untuak⟩ ambo.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "ambo manjapuik"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nan Tatinggi"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kapado El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "manyalasaian"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:40.306756565Z",
+  "model": "glm-5.3"
+}

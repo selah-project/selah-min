@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu inyo capek mancicah kadahnyo ka tampan minum, lalu balari lai ka sumua untuak maliang aia, lalu maliang untuak sagalo untanyo.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "lalu inyo capek"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "mancicah"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "kadahnyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "tampan minum"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "lalu balari"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "sumua"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "untuak maliang aia"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "lalu maliang"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak sagalo"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "untanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:03.276549053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Urang tuo dunsanak, di ma inyo? jo nabi-nabi, kok iduik salamo-lamonyo?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "urang tuo dunsanak"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "jo nabi-nabi"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "kok salamo-lamonyo"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:18:20.729479655Z",
+  "model": "glm-5.3"
+}

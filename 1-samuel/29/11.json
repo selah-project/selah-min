@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Lalu Dawid buek pagi-pagi, inyo jo urang-urangnyo, untuak pai pado pagi untuak baliak ka tanah Pelishti; jo urang Pelishti naik ka Yizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "buek pagi-pagi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "jo urang-urangnyo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuak pai"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "untuak baliak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "jo urang Pelishti"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naik"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:37.388475224Z",
+  "model": "glm-5.3"
+}

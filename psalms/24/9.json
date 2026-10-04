@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Angkahkan kapalak ie, danga-danga nan samaso, inggo lah — angkahkan pulo pintu-pintu kaku, inggo lah, supayo masuak rajo nan kamuliaan!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "angkahkan — inggo lah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "danga-danga"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "kapalak nan samaso"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "jo angkahkan pulo"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kaku"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "supayo masuak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "nan kamuliaan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:48.182852953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Danga, hai gunuang-gunuang, ⟨את⟩ pasutan Yahweh, jo aka-aka nan kuek, dasar bumi; karano Yahweh punyo pasutan jo umat-Nyo, jo Yisrael Inyo mambantah.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Danga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hai gunuang-gunuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasutan Yahweh"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pasutan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "jo aka-aka nan kuek"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "dasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pasutan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "punyo pasutan ... Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nyo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "Inyo mambantah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:16:13.014992853Z",
+  "model": "glm-5.3"
+}

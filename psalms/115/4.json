@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 115,
+  "translation": "Patuang-patuang inyo urang tu: perak jo ameh, buatan tangan manusia.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "patuang-patuang inyo urang tu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "jo ameh"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:03.786708736Z",
+  "model": "glm-5.3"
+}

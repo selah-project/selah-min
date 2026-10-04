@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Urang tu maambiak ⟨את⟩ kambiang urang tu, jo ⟨את⟩ lombu urang tu, jo ⟨את⟩ kalandang urang tu, jo ⟨את⟩ sagalo nan ado di kota, jo ⟨את⟩ sagalo nan ado di ladang.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambiang urang tu"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "kambiang urang tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lombu urang tu"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "lombu urang tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kalandang urang tu"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "kalandang urang tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan ado di kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ado di kota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan ado di ladang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ado di ladang"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "urang tu maambiak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:39.232875997Z",
+  "model": "glm-5.3"
+}

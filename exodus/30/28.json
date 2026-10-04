@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo ⟨את⟩ mezbah olah-olah nan timbusang jo ⟨את⟩ sagalo parabotnyo, jo ⟨את⟩ bason jo ⟨את⟩ alaiknyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "mezbah olah-olah nan timbusang"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah-olah nan timbusang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo parabotnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bason"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "bason"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "alaiknyo"
+    },
+    {
+      "surface": "כנוה",
+      "gloss": "alaiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:15.979114758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Kalau sanaknyo makin miskin, jo inyo alah manjua sabagian harta kandirinyo, lalu datang goelnyo nan dakek kapadonyo, maka inyo menebus ⟨את⟩ nan lah dijua sanaknyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "makin miskin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sanaknyo"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "jo inyo alah manjua"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "sabagian harta kandirinyo"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "lalu datang"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "goelnyo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nan dakek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "maka inyo menebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan lah dijua sanaknyo"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "nan lah dijua"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sanaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:27.551474241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 83,
+  "translation": "Karano caliak, musuah ⟨Engkau⟩ bagoriaik, jo urang nan banci kapado ⟨Engkau⟩ alah mangangkek kapalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "musuah ⟨Engkau⟩"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "bagoriaik"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "jo urang nan banci kapado ⟨Engkau⟩"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "alah mangangkek"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:08.817854941Z",
+  "model": "glm-5.3"
+}

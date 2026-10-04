@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Salamaikan ⟨את⟩ umaik-Mu, jo barkek ⟨את⟩ pusako-Mu; parieh inyo jo angkek inyo sampai salamanyo.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Salamaikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umaik-Mu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umaik-Mu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "jo barkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pusako-Mu"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "pusako-Mu"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "jo parieh inyo"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "jo angkek inyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:49.804947468Z",
+  "model": "glm-5.3"
+}

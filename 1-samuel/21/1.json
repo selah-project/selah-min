@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lah inyo bangkik lai jo pulang, jo Yonatan masuak ka koto.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lah inyo bangkik lai"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "jo pulang"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "jo Yonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ka koto"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:01.974380790Z",
+  "model": "glm-5.3"
+}

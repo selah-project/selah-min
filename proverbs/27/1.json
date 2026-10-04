@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jangan mamuah diri takaik ari isok, karano indak sanak tau apo nan dilahiak dek ari.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "mamuah diri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "takaik ari"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "isok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "sanak tau"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dilahiak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dek ari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:35.032429060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Jo inyo maagiah⟨the⟩ ⟨את⟩ kamuliaan inyo ganti jo bantuak lumbu nan makan damak.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "jo inyo maagiah ganti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamuliaan inyo"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kamuliaan inyo"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "jo bantuak"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lumbu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "damak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:11.751832291Z",
+  "model": "glm-5.3"
+}

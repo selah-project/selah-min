@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu inyo baliak ka dunsanak-dunsanaknyo dan bakato: Anak itu indak ado lai, dan ambo, ka ma ambo pai?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dunsanak-dunsanaknyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "indak ado lai"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan ambo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ka ma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:23.571611858Z",
+  "model": "glm-5.3"
+}

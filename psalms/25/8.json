@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Baik jo luruah ⟨adolah⟩ Yahweh; dek karano itu Ia maaja urang-urang doso dalam jalan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "jo luruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "karano itu"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "Ia maaja"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "urang-urang doso"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dalam jalan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:06.565472168Z",
+  "model": "glm-5.3"
+}

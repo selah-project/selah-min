@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo nan mamancyok dakek inyo: suku Yissaskhar, jo pangulu urang Yissaskhar Netanel anak Tsuar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "jo nan mamancyok"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dakek inyo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "jo pangulu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuar"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:56.067168363Z",
+  "model": "glm-5.3"
+}

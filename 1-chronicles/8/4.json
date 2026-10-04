@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "jo Avishua, jo Naaman, jo Ajoakh.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "jo Avishua"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "jo Naaman"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "jo Ajoakh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:24.160104645Z",
+  "model": "glm-5.3"
+}

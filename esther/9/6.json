@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo di Shushan, kubu tu, urang Yahudi mambunuah jo mamusnahkan limo ratuih urang laki-laki.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "jo di Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "kubu tu"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "mambunuah"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "urang Yahudi"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "mamusnahkan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratuih"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang laki-laki"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:44.278233781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo bumi indak dapek mamacik ⟨את⟩ inyo supayo tingga basamo, karano harato urang tu lah banyak, sahinggo indak dapek inyo tingga basamo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mamacik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "untuak tingga"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "harato urang tu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sahinggo indak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dapek inyo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "untuak tingga"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:26.170882865Z",
+  "model": "glm-5.3"
+}

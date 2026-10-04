@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Hiduik Yahweh, jo barakaik Batu ambo, jo tatinggi Eloah kasalamatan ambo.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Hiduik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "jo barakaik"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Batu ambo"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "jo tatinggi"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "kasalamatan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:00.819155533Z",
+  "model": "glm-5.3"
+}

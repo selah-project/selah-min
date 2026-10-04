@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Puuji-lah Yahweh, sora-i-lah namonyo, sangajo-lah kapado banso-bangso kaba-kaba nan alah inyo karajoan.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "puuji-lah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "sora-i-lah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "sangajo-lah kaba-kaba"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kapado banso-bangso"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "nan alah inyo karajoan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:58.662853176Z",
+  "model": "glm-5.3"
+}

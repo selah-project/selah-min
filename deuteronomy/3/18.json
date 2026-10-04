@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Karano itu ambo mamarintahkan ⟨את⟩ kamu pado wakatu itu, mandokan: Yahweh, Elohim kamu, alah maagiah ⟨את⟩ nagari iko kapado kamu untuak dipunyo — bakasanjo kamu malinteh di muko dunsanak-dunsanak kamu, urang-urang Yisrael, sado nan gagah.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "karano itu ambo mamarintahkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pado wakatu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mandokan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "alah maagiah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagari iko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "untuak dipunyo inyo"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "bakasanjo"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "kamu malinteh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "dunsanak-dunsanak kamu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nan gagah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:24.087716741Z",
+  "model": "glm-5.3"
+}

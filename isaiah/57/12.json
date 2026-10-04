@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 57,
+  "translation": "Ambo ka mampaikatankan ⟨את⟩ tsedeqmu, jo ⟨את⟩ karyamu, dan indak inyo ka baguno untuakmu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ka mampaikatankan"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeqmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "karyamu"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "karyamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "ka baguno untuakmu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:22:56.665162855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo ⟨את⟩ pariang-pariang lampu tu jo lampu-lampunyo untuak mambakarnyo manuruik hukum di muko ruang mahakotuak — ameh sapatuahnyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pariang-pariang lampu"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "pariang-pariang lampu"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "jo lampu-lampunyo"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "untuak mambakarnyo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "manuruik hukum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "ruang mahakotuak"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "sapatuahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:49:49.818705240Z",
+  "model": "glm-5.3"
+}

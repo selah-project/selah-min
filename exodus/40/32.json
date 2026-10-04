@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Katiko mareka masuak ka khem patamuan tu, jo katiko mareka mandakek ka mazbeakh tu, mareka mambasuah diri, sarupo nan diparintahkan Yahweh kapado ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "katiko mareka masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "jo katiko mareka mandakek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbeakh tu"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "mareka mambusuah diri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:15.891918117Z",
+  "model": "glm-5.3"
+}

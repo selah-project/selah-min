@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Engkau mangatahui duduak ambo jo bangkik ambo; Engkau mamahamii pikia-ambo dari jauah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mangatahui"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "duduak ambo"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "jo bangkik ambo"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "mamahamii"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "pikia-ambo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "dari jauah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:22.283539420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 110,
+  "translation": "Adonai di tangan suok ⟨-inyo-⟩; mancancang rajo-rajo pado ari kamaraahannyo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan suokmu"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "mancancang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kamaraahannyo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo-rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:20.199178739Z",
+  "model": "glm-5.3"
+}

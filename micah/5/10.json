@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo ambo ka mambuang koto-koto di tanah angkau, jo ambo ka maruntuahkan sado kubu-kubu angkau.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "ambo ka mambuang"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "di tanah angkau"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "ambo ka maruntuahkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "kubu-kubu angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:03.936434225Z",
+  "model": "glm-5.3"
+}

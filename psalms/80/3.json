@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "Di muko Efrayim jo Binyamin jo Manasye, bangunkan ⟨את⟩ kakuatanmu, jo maiak untuak salamaikkan kito.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "jo Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "jo Manasye"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "bangunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuatanmu"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "kakuatanmu"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "jo maiak"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "untuak salamaikkan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:25.251378227Z",
+  "model": "glm-5.3"
+}

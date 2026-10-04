@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "maka urang tuo-tuo kotanyo mangirim urang, mangambiak inyo dari sano, jo manyerahkan inyo ka tangan goel ha-dam, supayo inyo mati.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "maka mangirim urang"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "urang tuo-tuo"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "kotanyo"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "jo mangambiak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ino"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sano"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "jo manyerahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ino"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ha-dam"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "supayo inyo mati"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:45.405143904Z",
+  "model": "glm-5.3"
+}

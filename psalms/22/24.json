@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Urang nan takuik kapado Yahweh, pujialah Inyo; sado beniah Yaakov, muliaanlah Inyo; jo gatailah kapado-Nyo, sado beniah Yisrael.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "urang nan takuik kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujialah Inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "muliaanlah Inyo"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "jo gatailah"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kapado-Nyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:10.502372558Z",
+  "model": "glm-5.3"
+}

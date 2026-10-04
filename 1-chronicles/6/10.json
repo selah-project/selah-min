@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo anak-anak Elkanah: Amasai jo Akhimot.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Amasai"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "jo Akhimot"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:36.572056327Z",
+  "model": "glm-5.3"
+}

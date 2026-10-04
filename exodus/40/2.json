@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Di ari partamo dari bulan partamo, awak ka mandirikan ⟨את⟩ Mishkan, khemah patamuan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Di ari"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "partamo"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ari partamo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "dari bulan"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "awak ka mandirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:22.117404459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Indak sanang urang bodoh jo pangatahuan, tapi hanyo jo mambukak atinyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "jo pangatahuan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "jo mambukak"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:58:28.846763335Z",
+  "model": "glm-5.3"
+}

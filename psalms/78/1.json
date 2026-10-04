@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Mashil untuak Asaf. Paringeklah, hai rakyaik ambo, ka Torah ambo; unjuakkan talingoan dakek kato-kato mungko ambo.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Mashil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "untuak Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Paringeklah"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "rakyaik ambo"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah ambo"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "unjuakkan"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "talingoan"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "dakek kato-kato"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mungko ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:24.039844930Z",
+  "model": "glm-5.3"
+}

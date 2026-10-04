@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Dek itu ambo benci ⟨diri ambo⟩, jo manyesal di ateh dabu jo abu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dekatiah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ambo benci"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "jo ambo manyesal"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "jo abu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:16:17.665993647Z",
+  "model": "glm-5.3"
+}

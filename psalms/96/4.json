@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 96,
+  "translation": "Karano Yahweh gadang, jo sangaik tapuji, inyo ditanang di ateh sagalo tuhan-tuhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "jo sangaik tapuji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ditanang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:18.585733858Z",
+  "model": "glm-5.3"
+}

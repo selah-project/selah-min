@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Kok Inyo lalui di ateh ambo, ambo indak maliek; kok Inyo malewati, ambo indak tahami Inyo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "Inyo lalui"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di ateh ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ambo maliek"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "Inyo malewati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ambo tahami"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:04:39.472259007Z",
+  "model": "glm-5.3"
+}

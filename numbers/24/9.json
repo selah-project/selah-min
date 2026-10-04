@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 24:9",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Inyo malutuak, balariang sarupo singo, jo sarupo singo batino; sia nan ka mangkaneh inyo? Nan maancak-M ikok inyo ka diancak-M, jo nan manjalak-M ikok inyo ka dijalak-M.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "malutuak"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "balariang"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "sarupo singo"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "jo sarupo singo batino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "ka mangkaneh inyo"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "nan maancak-M"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ka diancak-M"
+    },
+    {
+      "surface": "וארריך",
+      "gloss": "jo nan manjalak-M"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ka dijalak-M"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:34.465935875Z",
+  "model": "glm-5.3"
+}

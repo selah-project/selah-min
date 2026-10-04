@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Dipaciknyo tangannyo kapado urang nan damai jo inyo; dirusaknyo parjanjiannyo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "dipaciknyo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "kapado urang nan damai jo inyo"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "dirusaknyo"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "parjanjiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:14.293026245Z",
+  "model": "glm-5.3"
+}

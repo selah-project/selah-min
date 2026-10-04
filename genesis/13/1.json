@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Laju Avraham naik dari Mitsrayim — inyo jo bininyo jo sagalo nan ado padanyo, jo Lot basamo inyo — ka arah nagari selatan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "naik"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "jo bininyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ado padanyo"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "jo Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ka arah nagari selatan"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:18.881448234Z",
+  "model": "glm-5.3"
+}

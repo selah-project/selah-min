@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 114,
+  "translation": "Wakatu Yisrael kalua dari Mitsrayim, rumah tanggo Yaakov dari bangso nan bahaso layu",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "wakatu kalua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah tanggo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari bangso"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "nan bahaso layu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:15.925855618Z",
+  "model": "glm-5.3"
+}

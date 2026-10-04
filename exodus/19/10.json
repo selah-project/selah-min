@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo Yahweh bakato kapado Moshe: Pergi ka urang tu, jo sucikan urang tu ari ko jo isuak, jo urang tu musti mambasuah pakaian urang tu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pergi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "jo sucikan urang tu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari ko"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "jo isuak"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "jo musti mambasuah"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "pakaian urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:33.950016045Z",
+  "model": "glm-5.3"
+}

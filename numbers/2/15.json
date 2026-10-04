@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo pasukannyo, jo nan tapareso dari urang tu: limo jo ampek puluah ribu jo anam ratus jo limo puluah.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "jo pasukannyo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "jo nan tapareso dari urang tu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "limo"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "jo ampek puluah"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jo anam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "jo limo puluah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:08.440448632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Lalu Moshe bacarito di talingo saluruah jamaah Yisrael ⟨את⟩ kato-kato syair iko, sampai salasai bana.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu bacarito"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di talingo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato syair iko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "syair"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "salasai bana"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:08.660014820Z",
+  "model": "glm-5.3"
+}

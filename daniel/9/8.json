@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Yahweh, kapado kami adolah raso muko — kapado rajo-rajo kami, kapado pamimpin kami, jo kapado nenek moyang kami — karano kami alah bakasalah kapado-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado kami"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "raso muko"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "muko"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "kapado rajo-rajo kami"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "kapado pamimpin kami"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "jo kapado nenek moyang kami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "kami alah bakasalah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:30:02.078526271Z",
+  "model": "glm-5.3"
+}

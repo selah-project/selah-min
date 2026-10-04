@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo tulih lah inyo pado tiang-tiang pintu rumah sanak, jo pado gapuro-gapuro sanak.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "jo tulih lah inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "tiang-tiang pintu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah sanak"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "jo pado gapuro-gapuro sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:54.298224982Z",
+  "model": "glm-5.3"
+}

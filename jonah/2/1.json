@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Yahweh manyadioan ikan gadang untuak manalan ⟨את⟩ Yonah, jo Yonah barado di paruik ikan tu tigo ari jo tigo malam.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "manyadioan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ikan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "untuak manalan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo barado"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "di paruik"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ikan tu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "jo tigo"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "malam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:44.377793843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Yahweh jo hakikek mandirian ⟨את⟩ bumi, mandirian ⟨את⟩ langik jo pangetahusan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "jo hakikek"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "mandirian"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "mandirian"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "jo pangetahusan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:15.531351766Z",
+  "model": "glm-5.3"
+}

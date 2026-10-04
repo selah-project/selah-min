@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Eliyahu bakato kapado sado urang banyak: Mandakeklah ka ambo. Urang banyak mandakek ka inyo, dan inyo mambaliak ⟨את⟩ mezbuaḥ Yahweh nan alah runtuah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado sado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "mandakeklah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "mandakek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "mambaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbuaḥ Yahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbuaḥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "nan alah runtuah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:10.240769893Z",
+  "model": "glm-5.3"
+}

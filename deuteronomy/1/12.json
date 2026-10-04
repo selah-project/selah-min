@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Baa ambo surang sajo dapek mambaok paneh awak sakalian, jo tangguang awak sakalian, jo pasalisiahan awak sakalian?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ambo mambaok"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "surang sajo"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "panehtangguang awak sakalian"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "jo tangguang awak sakalian"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "jo pasalisiahan awak sakalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:18.626689170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Caliak, alah ambo latakan di muko angku pado ari ko ⟨את⟩ iduik jo ⟨את⟩ nan elok, jo ⟨את⟩ kamatian jo ⟨את⟩ nan buruak.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah ambo latakan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di muko angku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pado ari ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iduik"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nan elok"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kamatian"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kamatian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nan buruak"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nan buruak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:32.816854102Z",
+  "model": "glm-5.3"
+}

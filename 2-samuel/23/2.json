@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Ruakh Yahweh bakato di ambo, jo kato-Nyo di ateh lida ambo.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di ambo"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "jo kato-Nyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lida ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:04.339787858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Dakek Yahweh kapado urang nan patah ati, jo ⟨את⟩ urang nan tampak ruakh Inyo salamaikan.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "kapado urang nan patah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang nan tampak ruakh"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "urang nan tampak"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "Inyo salamaikan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:17.508132827Z",
+  "model": "glm-5.3"
+}

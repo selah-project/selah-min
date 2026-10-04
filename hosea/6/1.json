@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Mari kito, kito baliak ka Yahweh, karano inyo alah manyarik, jo inyo mambubuiah kito; inyo alah mahantam, jo inyo mangabek kito.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Mari kito"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "kito baliak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "manyarik"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "inyo mambubuiah kito"
+    },
+    {
+      "surface": "יך",
+      "gloss": "mahantam"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "inyo mangabek kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:11.015750294Z",
+  "model": "glm-5.3"
+}

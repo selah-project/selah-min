@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lapek Sarai, bini Avram, maambiak ⟨את⟩ Hagar urang Mitsrayim, ampanyo, sasudah sapuluah taun Avram tingga di tanah Kenaan, jo inyo maagiah ⟨את⟩ inyo kapado Avram lakinyo, untuaknyo manjadi bini.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagar urang Mitsrayim"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "ampanyo"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kapado Avram"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "kapado Avram"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "lakinyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "manjadi bini"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:27.866418463Z",
+  "model": "glm-5.3"
+}

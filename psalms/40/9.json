@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Untuak mangarajokan kandak-mu, Elohim ambo, ambo sanang; jo Torah-mu ⟨ado⟩ di dalam isi paruik ambo.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "untuak mangarajokan"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "kandak-mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ambo sanang"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "jo Torah-mu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di dalam"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "isi paruik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:24.114972233Z",
+  "model": "glm-5.3"
+}

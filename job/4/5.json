@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Karano kini inyo datang ka angkou, jo angkou lah lalah; inyo manyantuak angkou, jo angkou lah tarcagar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "inyo datang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka angkou"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "jo angkou lah lalah"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "inyo manyantuak"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "angkou"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "jo angkou lah tarcagar"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:48.531729116Z",
+  "model": "glm-5.3"
+}

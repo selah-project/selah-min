@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Katiko ang mamanjo pinjaman apo pun kapado baralek ang, jan ang masuak ka rumahnyo untuak maambiak ⟨את⟩ jaminannyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "ang mamanjo"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "kapado baralek ang"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "pinjaman"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "apo pun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ang masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "untuak maambiak"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "jaminannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:12.547982703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Palia dari jaek, jo buek kabaiakan; cari damai, jo kejanyo.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "palia"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dari jaek"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "jo buek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabaiakan"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "cari"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "jo kejanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:25.729752217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Bia inyo tajatuah, indak inyo tabaliang, karano Yahweh manyangkok tangan inyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bia"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tajatuah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "tabaliang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "manyangkok"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:41.827220847Z",
+  "model": "glm-5.3"
+}

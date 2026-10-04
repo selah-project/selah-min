@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 138,
+  "translation": "Kalau ambo bajalan di tangah kasusahan, Sanyo manghiduikan ambo; tahadok kamuko murko musuah ambo, Sanyo mangiriman tangan Sanyo, jo tangan suok Sanyo palihatan ambo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ambo bajalan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "Sanyo manghiduikan ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tahadok"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kamuko murko"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuah ambo"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "Sanyo mangiriman"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan Sanyo"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "jo ... palihatan ambo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan suok Sanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:40.727181030Z",
+  "model": "glm-5.3"
+}

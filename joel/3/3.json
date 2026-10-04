@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Ambo mambarikan tando-tando ajaiab di langik jo di bumi: darah, api, jo tiang-tiang asok.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Jo Ambo mambarikan"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "tando-tando ajaiab"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "jo di bumi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:16.130827716Z",
+  "model": "glm-5.3"
+}

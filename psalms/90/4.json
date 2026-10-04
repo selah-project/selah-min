@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 90,
+  "translation": "Karano saribu taun di mato Ei sarupo ari kapatang, sangkek itu lai maaluih, jo ciek ronda malam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "saribu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mato Ei"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sarupo ari"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "kapatang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sangkek"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lai maaluih"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "jo ciek ronda"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "malam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:31.818666450Z",
+  "model": "glm-5.3"
+}

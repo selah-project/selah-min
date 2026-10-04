@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Di lauik jalan San, jo laluan-laluan San di aia nan banyak, jo jejak-jejak kaki San indak dikana.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "di lauik"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan San"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "jo laluan-laluan San"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di aia"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "jo jejak-jejak kaki San"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "dikana"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:49.101117683Z",
+  "model": "glm-5.3"
+}

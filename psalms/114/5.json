@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 114,
+  "translation": "Apo ka jo angkau, lauik, kok angkau lari? Yarden, kok angkau baputuih baliak ka balakang?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka jo angkau"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "angkau lari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "angkau baputuih baliak ka balakang"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ka balakang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:15.900709846Z",
+  "model": "glm-5.3"
+}

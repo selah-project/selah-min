@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Bangunlah jo salaga untuak pangadilan ambo, Elohim ambo jo Adonai ambo, untuak parkaro ambo.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "jo salaga"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "untuak pangadilan ambo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "jo Adonai"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "untuak parkaro ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:25.672844460Z",
+  "model": "glm-5.3"
+}

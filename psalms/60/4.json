@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "San alah manggaduah bumi, San alah mambalahnyo; ubekilah retaknyo, karano inyo goyang.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "San manggaduah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "San mambalahnyo"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ubekilah"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "retaknyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "goyang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:05.294394052Z",
+  "model": "glm-5.3"
+}

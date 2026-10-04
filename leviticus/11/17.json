@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "jo ⟨את⟩ ha-kos, jo ⟨את⟩ ha-shalakh, jo ⟨את⟩ ha-yanshof.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ha-kos"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ha-kos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ha-shalakh"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ha-shalakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ha-yanshof"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ha-yanshof"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:50.116033490Z",
+  "model": "glm-5.3"
+}

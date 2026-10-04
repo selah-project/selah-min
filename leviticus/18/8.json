@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Katorangan bini ayahmu indak buleh kau mambukak; katorangan ayahmu itu ⟨adalah⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "katorangan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak buleh"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kau mambukak"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "katorangan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu ⟨adalah⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:13.125304639Z",
+  "model": "glm-5.3"
+}

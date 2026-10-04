@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Kadustaan kudo untuak patolongan, jo jo kakuatan gadangnyo inyo indak akan malapehan.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "kadustaan"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kudo"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "untuak patolongan"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "jo jo kakuatan gadangnyo"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "kakuatannyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "akan malapehan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:28.462765046Z",
+  "model": "glm-5.3"
+}

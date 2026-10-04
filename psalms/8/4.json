@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Karano caliak ambo langik-Mu, karajo jari-jari-Mu, bulan jo bintang-bintang, nan alah Kaâdirikan;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "caliak ambo"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "langik-Mu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "jari-jari-Mu"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "jo bintang-bintang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "Kaâdirikan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:50.301775641Z",
+  "model": "glm-5.3"
+}

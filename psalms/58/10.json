@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 58,
+  "translation": "Sabalun kuali-kuali kalian mayaki duri, Inyo maangkuihnyo jo angin puseh, nan mudo jo nan angek samo-samo.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "sabalun"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "mayaki"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "kuali-kuali kalian"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "duri"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nan mudo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "nan angek"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "Inyo maangkuihnyo jo angin puseh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:05.232438967Z",
+  "model": "glm-5.3"
+}

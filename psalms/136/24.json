@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "Jo inyo malapehan ami dari musuah ami, karano salamonyo hesed Nyo.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "jo inyo malapehan ami"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "dari musuah ami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:09.603394222Z",
+  "model": "glm-5.3"
+}

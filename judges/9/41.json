@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Mako Avimelekh tingga di Arumah, jo Zevul mangusir ⟨את⟩ Gaal jo ⟨את⟩ saudaro-saudaronyo, supayo indak tingga di Shekhem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "di Arumah"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "mangusir"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "saudaro-saudaronyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaro-saudaronyo"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "supayo indak tingga"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "di Shekhem"
+    }
+  ],
+  "timestamp": "2026-10-04T05:15:42.348570594Z",
+  "model": "glm-5.3"
+}

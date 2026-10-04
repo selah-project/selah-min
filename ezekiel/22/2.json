@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo kau, anak manusia, nak mangadili, nak mangadili ⟨את⟩ kota darah tu? Buek inyo tau ⟨את⟩ sagalo kajijikan nan di inyo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "jo kau"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "nak mangadili"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "nak mangadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota darah tu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "darah tu"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "buek inyo tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kajijikan nan di inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "kajijikan nan di inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:55:31.390772203Z",
+  "model": "glm-5.3"
+}

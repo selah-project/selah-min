@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "jo alah manyuruah inyo tantang perkaro iko, unyo indak pai mangikuik Elohim nan lain; tapi inyo indak manjago ⟨את⟩ nan alah disuruah Yahweh.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "jo alah manyuruah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tantang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkaro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "unyo indak"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mangikuik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "manjago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan alah disuruah Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "disuruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:03.720257052Z",
+  "model": "glm-5.3"
+}

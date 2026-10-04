@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Lalu inyo mambaka di atehnyo dupa bau-bauan, sarupo nan alah diparentahkan Yahweh kapado ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "mambaka dupa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "bau-bauan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alah diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:59.770179295Z",
+  "model": "glm-5.3"
+}

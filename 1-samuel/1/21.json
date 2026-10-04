@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu urang tu Elkana jo sado isi rumahnyo naik untuak manyambah Yahweh ⟨את⟩ korban taunan jo ⟨את⟩ nazarnyo.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "naik"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "isi rumahnyo"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "untuak manyambah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban taunan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "taunan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nazarnyo"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "nazarnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:36.697309116Z",
+  "model": "glm-5.3"
+}

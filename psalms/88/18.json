@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Iyo malingkuangi ambo sarupo aia sapanjang ari, mangaliliangi ambo basamo-basamo.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "malingkuangi ambo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sarupo aia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "mangaliliangi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "basamo-basamo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:49.263108306Z",
+  "model": "glm-5.3"
+}

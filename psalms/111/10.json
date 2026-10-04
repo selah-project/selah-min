@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 111,
+  "translation": "Awal kabijaksanoan ⟨adolah⟩ takuik kapado Yahweh; baa bakek pangatahuan bagi sagalo nan mangarajokannyo; pujian-Nyo bajasa salamanyo.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "awal"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kabijaksanoan"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "takuik kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "pangatahuan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baa bakek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi sagalo"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "nan mangarajokannyo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nyo"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "bajasa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:49.400634111Z",
+  "model": "glm-5.3"
+}

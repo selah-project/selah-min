@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 8:28",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo inyo pai ⟨את⟩ basamo ⟨את⟩ Yoram anak Akhav ka paparangan malawan Khazael rajo Aram di Ramot Gilad; urang Aram malukoi ⟨את⟩ Yoram.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "jo inyo pai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ basamo",
+      "marks": "preposition 'dengan\/basamo', bukan panando objek"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ka paparangan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "malawan"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Khazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "di Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "malukoi"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "urang Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    }
+  ],
+  "timestamp": "2026-10-04T05:59:34.070204342Z",
+  "model": "glm-5.3"
+}

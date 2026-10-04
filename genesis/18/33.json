@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Yahweh pai, sasudah inyo salasai bakato kapado Avraham, dan Avraham baliak ka tampeknyo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "salasai"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "dan Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ka tampeknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:29.389921083Z",
+  "model": "glm-5.3"
+}

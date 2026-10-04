@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Mizmor untuak Dawid, katiko inyo lari dari muko Avshalom anaknyo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "katiko inyo lari"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari muko"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:16.645096772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Tapi umat ambo indak mandanga suaro ambo, jo Yisrael indak nio manarimo ambo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Tapi indak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat ambo"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "jo Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nio manarimo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:53.979338439Z",
+  "model": "glm-5.3"
+}

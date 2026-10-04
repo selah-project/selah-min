@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Jo Yisrael mancintai ⟨את⟩ Yusuf labiah dari sagalo anak-anaknyo, karano inyo anak maso tuo baginyo; jo inyo mambuek untuak inyo sabuah baju pasim.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "jo Yisrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mancintai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusuf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labiah dari sagalo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "maso tuo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginyo"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "jo mambuek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak inyo"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "baju"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "pasim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:17.401691775Z",
+  "model": "glm-5.3"
+}

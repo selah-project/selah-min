@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo kau buwek ⟨את⟩ pitunyo nan tujuah, jo dipasiaikkan ⟨את⟩ pitu-pituinyo, supayo manyalo ka muko paumpuannyo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo kau buwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitunyo nan tujuah"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "pitunyo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "nan tujuah"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "jo dipasiaikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitu-pituinyo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "pitu-pituinyo"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "supayo manyalo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ateh muko"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "paumpuannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:33.369508747Z",
+  "model": "glm-5.3"
+}

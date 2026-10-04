@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Dan kini, caliak, Adoniyahu alah barajo, dan kini tuan ambo, rajo tu, indak tahu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "barajo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tahu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:36.939785909Z",
+  "model": "glm-5.3"
+}

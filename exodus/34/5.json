@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Lalu Yahweh turun dalam awan, jo tagak di sinan basamo Moshe, jo manyeru jo namo Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "lalu turun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "dalam awan"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "jo tagak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "jo manyeru"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:46.670792262Z",
+  "model": "glm-5.3"
+}

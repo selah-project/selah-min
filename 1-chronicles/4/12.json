@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Eshton baanak ⟨את⟩ Beit-Rafa, jo ⟨את⟩ Paseakh, jo ⟨את⟩ Tekhinah apak Ir-Nakhasy; iko urang Rekha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Jo Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "baanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paseakh"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tekhinah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tekhinah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apak"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakhasy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "urang"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekha"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:46.985351420Z",
+  "model": "glm-5.3"
+}

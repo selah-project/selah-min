@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Angin alah maikuek ⟨את⟩ inyo dalam sayok-sayoknyo, jo inyo ka mahiah dek korban-korbannyo.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "maikuek"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "dalam sayok-sayoknyo"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ka mahiah"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "dek korban-korbannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:26.124203513Z",
+  "model": "glm-5.3"
+}

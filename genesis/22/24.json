@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo gadih piaraannyo — namonyo Reuma — inyo pun malahiakan ⟨את⟩ Tevakh, jo ⟨את⟩ Gakham, jo ⟨את⟩ Takhash, jo ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Jo gadih piaraannyo"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevakh"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Gakham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gakham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Takhash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Takhash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:21.553507684Z",
+  "model": "glm-5.3"
+}

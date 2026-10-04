@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Dan baitulah awak mangannyo: pinggang awak tagariang, sando awak di pakiak awak, jo topek awak di tangan awak, jo awak mangannyo ⟨את⟩ inyo sacapeknyo — Pesakh iko untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "dan baitulah"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "awak mangannyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (anak domba itu)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "pinggang awak"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "tagariang"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "sando awak"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "di pakiak awak"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "jo topek awak"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "di tangan awak"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "jo awak mangannyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (anak domba itu)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "sacapeknyo"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:37.562919376Z",
+  "model": "glm-5.3"
+}

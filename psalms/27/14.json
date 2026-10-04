@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Harok-lah kapado Yahweh; kuaiklah, jo paseklah atimu; bana, harok-lah kapado Yahweh.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "harok-lah kapado"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuaiklah"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "jo paseklah"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "ויקוה",
+      "gloss": "bana, harok-lah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:52.452718974Z",
+  "model": "glm-5.3"
+}

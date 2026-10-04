@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Wakatu untuak manyisiak, jo wakatu untuak manjaik; wakatu untuak banyanyi, jo wakatu untuak bacarito.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "manyisiak"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jo wakatu"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "manjaik"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "banyanyi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jo wakatu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "bacarito"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:16.392517140Z",
+  "model": "glm-5.3"
+}

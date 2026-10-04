@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Inyo mambari elok kapadonyo jo indak buruak, sapanjang ari iduiknyo.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "inyo mambari kapadonyo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "רע",
+      "gloss": "buruak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "iduiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:33.012414944Z",
+  "model": "glm-5.3"
+}

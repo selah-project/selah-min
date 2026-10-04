@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Kalau ambo banar, muluik ambo surang nan manyalahkan ambo; ambo bacando, tapi Inyo mamaliehan ambo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "ambo banar"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik ambo"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "manyalahkan ambo"
+    },
+    {
+      "surface": "תם",
+      "gloss": "bacando"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "mamaliehan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:05:12.131486803Z",
+  "model": "glm-5.3"
+}

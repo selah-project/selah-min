@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu Yahweh bakato sacaro tibo-tibo kapado Moshe, kapado Aharon, jo kapado Miryam: Kalua kaminyo tigo ka Kemah Patamuan. Lalu inyo tigo kalua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "sacaro tibo-tibo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Kalua"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "kaminyo tigo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patamuan"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "inyo tigo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:42:55.240693999Z",
+  "model": "glm-5.3"
+}

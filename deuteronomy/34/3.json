@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "jo ⟨את⟩ Negev, jo ⟨את⟩ dataran luruih — lambah Yerikho, kota pohon kurma — sampai ka Tsoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Negev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "dataran luruih"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "dataran luruih"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "lambah"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "pohon kurma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-10-04T05:03:11.982266763Z",
+  "model": "glm-5.3"
+}

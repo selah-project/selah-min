@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Karano ambo – Yahweh adolah palinduang ambo, Elyon, ambo alah mambuek ⟨itu⟩ sabagai tampek tingga sanak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "palinduang ambo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "sanak alah mambuek"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "tampek tingga sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:01.684741365Z",
+  "model": "glm-5.3"
+}

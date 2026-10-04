@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Kamuliaan karajaan-angkau inyo katoan, jo kakuatan-angkau inyo bacarito.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "kamuliaan"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "karajaan-angkau"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "inyo katoan"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "jo kakuatan-angkau"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "inyo bacarito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:30.919434588Z",
+  "model": "glm-5.3"
+}

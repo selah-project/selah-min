@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo padusi-padusi nan main itu basahua-sahua manyanyi, katoinyo: Shaul alah mambunuah saibuah, jo Dawid saibuah puluah.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "basahua-sahua manyanyi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "padusi-padusi"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "nan main itu"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "katoinyo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "alah mambunuah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "saibuah"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "jo Dawid"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "saibuah puluah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:26.873969334Z",
+  "model": "glm-5.3"
+}

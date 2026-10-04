@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Nan mamukua bangso-bangso nan banyak, jo mambunuah rajo-rajo nan gagah.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "mamukua"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "jo mambunuah"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "nan gagah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:31.344455191Z",
+  "model": "glm-5.3"
+}

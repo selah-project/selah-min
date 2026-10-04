@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo inyo mambaok kito ka tampek iko, jo inyo maagiah ka kito ⟨את⟩ tanah iko, tanah nan mangeaia jo susu jo madu.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "jo inyo mambaok kito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jo inyo maagiah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah iko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "nan mangeaia"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "jo madu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:28.858831315Z",
+  "model": "glm-5.3"
+}

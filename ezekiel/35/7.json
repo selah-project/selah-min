@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Jo ambo maagiah ⟨את⟩ gunuang Seir manjadi rusak jo sampa, jo ambo mamanciang dariinyo nan pai jo nan pulang.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jo ambo maagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunuang Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "manjadi rusak"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "jo sampa"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "jo ambo mamanciang"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dariinyo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nan pai"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "jo nan pulang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:01:47.124804388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Tapi jikok inyo indak mailok ⟨את⟩ ladang itu, atau jikok inyo alah manjua ⟨את⟩ ladang itu kapado urang lain, indak dapek mailok lai.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi jikok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "mailok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ladang itu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang itu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "atau jikok"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "alah manjua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ladang itu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang itu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kapado urang"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "dapek mailok"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:45.243858379Z",
+  "model": "glm-5.3"
+}

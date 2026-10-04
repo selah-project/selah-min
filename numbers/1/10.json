@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Untuak anak-anak Yosef: untuak Efrayim, Elishama anak dari Ammihud; untuak Menashe, Gamliel anak dari Pedatsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "untuak anak-anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "untuak Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak dari"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "untuak Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak dari"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedatsur"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:07.541845035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Tapi sanak sadang indak mangincak untuak naiak, jo malangga bana ⟨את⟩ muncuak Yahweh Elohim sanak sadang.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Tapi indak"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "mangincak"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "untuak naiak"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "jo malangga bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muncuak Yahweh Elohim sanak sadang"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muncuak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim sanak sadang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:06.589512134Z",
+  "model": "glm-5.3"
+}

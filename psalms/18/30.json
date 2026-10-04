@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Karano dek Sanak ambo lari manarobos pasukan, jo dek Elohim ambo malompek dindiang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dek Sanak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lari manarobos"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "jo dek Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "malompek"
+    },
+    {
+      "surface": "שור",
+      "gloss": "dindiang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:10.129740810Z",
+  "model": "glm-5.3"
+}

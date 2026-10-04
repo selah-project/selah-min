@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Saa ameh murni — inyo mambuek inyo jo ⟨את⟩ sagalo paralatan inyo dari itu.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "saa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inyo mambuek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo paralatan inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "paralatan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:19.415181313Z",
+  "model": "glm-5.3"
+}

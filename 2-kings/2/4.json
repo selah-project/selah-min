@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 2:4",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Eliyahu bakato kapadonyo: Elisha, tingga di siko, ambo bapilo, karano Yahweh alah mangirim ambo ka Yerikho. Inyo bakato: Dek iduik Yahweh jo iduik nyawo ang, kok ambo maninggaan ang. Jadi kaduonyo tibo di Yerikho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ambo bapilo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di siko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "alah mangirim ambo"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ka Yerikho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dek iduik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "jo iduik"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawo ang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ambo maninggaan ang"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "jadi tibo"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "di Yerikho"
+    }
+  ],
+  "timestamp": "2026-10-04T09:13:06.158754136Z",
+  "model": "glm-5.3"
+}

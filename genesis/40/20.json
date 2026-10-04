@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jadi pado ari katigo, ari ulang taun kalahiaran ⟨את⟩ Paroh, inyo mambuek jamuan untuak sagalo hambanyo, jo inyo maangkek ⟨את⟩ kapalo pangulu panyadio minuman jo ⟨את⟩ kapalo pangulu padangang roti di tangah-tangah hambanyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katigo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "kalahiaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "jo mambuek"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "jamuan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak sagalo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hambanyo"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "jo maangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalo pangulu panyadio minuman"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "panyadio minuman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kapalo pangulu padangang roti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "padangang roti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hambanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:44.312848492Z",
+  "model": "glm-5.3"
+}

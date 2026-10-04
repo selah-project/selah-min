@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Kaco-kaco tahayal di tanah Kham, kaco-kaco mambuek gariang di lauik Suf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "kaco-kaco tahayal"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "kaco-kaco mambuek gariang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:45.101007811Z",
+  "model": "glm-5.3"
+}

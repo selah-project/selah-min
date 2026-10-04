@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "⟨את⟩ Shabat-Shabat ambo dijago awak sanak, jo Mishkan ambo diguru-i awak sanak; ambo Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat-Shabat ambo"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabat-Shabat ambo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "dijago awak sanak"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "jo Mishkan ambo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "diguru-i awak sanak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:32.266930520Z",
+  "model": "glm-5.3"
+}

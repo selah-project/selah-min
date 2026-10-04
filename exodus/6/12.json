@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Tapi Moshe bakato di muko Yahweh, kato-Nyo: Caliak, anak-anak Yisrael indak mandanga ambo, baa mako Paroh ka mandanga ambo, padahal ambo urang bibia nan indak tasisiah?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato-Nyo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "baa mako"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "ka mandanga ambo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "padahal ambo"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "nan indak tasisiah"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "bibia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:50.144530519Z",
+  "model": "glm-5.3"
+}

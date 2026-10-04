@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Dan hukum badiam di gurun, dan tsedeq bakuwek di kebun subar.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "badiam"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "di kebun subar"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "bakuwek"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:12.093462547Z",
+  "model": "glm-5.3"
+}

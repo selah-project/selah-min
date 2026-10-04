@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ⟨את⟩ sado nan Iyo buek kapado duo rajo urang Amori, nan di seberang Yarden — Sihon rajo Cheshbon, jo Og rajo Bashan, nan di Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado nan Iyo buek kapado duo rajo urang Amori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Iyo buek"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kapado duo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Amori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "kapado Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "jo kapado Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "di Ashtarot"
+    }
+  ],
+  "timestamp": "2026-10-04T05:06:04.445913056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Dan Avraham bakato: Ambo, ambo ka baaok.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan bakato"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ambo ka baaok"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:16.032739509Z",
+  "model": "glm-5.3"
+}

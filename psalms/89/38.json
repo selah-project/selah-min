@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Sarupo bulan inyo kokoh salamo-lamonyo, jo saksi nan satio di langik. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "sarupo bulan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "kokoh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo saksi"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "satio"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:07.030022047Z",
+  "model": "glm-5.3"
+}

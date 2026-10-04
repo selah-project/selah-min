@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Lalu Yitskhak mangiriman ⟨את⟩ Yaakov, dan inyo pai ka Padan-Aram, ka Lavan urang Aram, anak Betuel, sudaro Ribka, mandeh Yaakov dan Esau.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangiriman"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan inyo pai"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "urang Aram"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sudaro"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mandeh"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "dan Esau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:22.555940327Z",
+  "model": "glm-5.3"
+}

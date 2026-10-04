@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Inyo ma utuih lia tangan Natan nabi itu, lalu mangecek ⟨את⟩ namonyo Yedidyah, dek karano Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "inyo ma utuih lia"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi itu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu mangecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidyah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:37:45.082243493Z",
+  "model": "glm-5.3"
+}

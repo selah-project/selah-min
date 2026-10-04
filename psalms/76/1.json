@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 76,
+  "translation": "Untuak pamimpin musik, jo alat paneban dawai; mazmur untuak Asaf, sabuah nyanyian.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak pamimpin musik"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "jo alat paneban dawai"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "untuak Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:21.183514261Z",
+  "model": "glm-5.3"
+}

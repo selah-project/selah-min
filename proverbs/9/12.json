@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Kok kau bijak, bijak untuak diri surang; jo kok kau pangaleh, surang sajo nan manangguang.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kok"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kau bijak"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bijak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak diri surang"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "jo kok kau pangaleh"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "surang sajo"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "manangguang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:58.826541259Z",
+  "model": "glm-5.3"
+}

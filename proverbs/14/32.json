@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 14:32",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Karano kaburukannyo urang jaang diusuang, tapi urang nan banar basadio bahkan di kamatiannyo.",
+  "tokens": [
+    {
+      "surface": "ברעתו",
+      "gloss": "karano kaburukannyo"
+    },
+    {
+      "surface": "ידחה",
+      "gloss": "diousuang"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jaang"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "tapi basadio"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "bahkan di kamatiannyo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang nan banar"
+    }
+  ],
+  "timestamp": "2026-10-04T07:57:24.010159740Z",
+  "model": "glm-5.3"
+}

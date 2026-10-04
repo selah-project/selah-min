@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Untuak kapalo paduan, jo alaik petik, ateh nada kadalapan; mazmur untuak Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak kapalo paduan"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "jo alaik petik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "nada kadalapan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:24.243981574Z",
+  "model": "glm-5.3"
+}

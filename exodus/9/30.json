@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Tapi sanak jo ambo-ambo sanak, ambo tau baso alun juo sanak takuik di muko Yahweh, Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tapi sanak"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "jo ambo-ambo sanak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "alun juo"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "sanak takuik"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:48.438253546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 70,
+  "translation": "Untuak kapalo padusi, mazmur Dawid, untuak manganang.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak kapalo padusi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "mazmur Dawid"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "untuak manganang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:22.390690522Z",
+  "model": "glm-5.3"
+}

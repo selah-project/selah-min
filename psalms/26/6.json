@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Ambo basuhi jo barasiah kapado ambo tangan, jo mamutari ⟨את⟩ mazbakh-Mu, wahai Yahweh.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "ambo basuhi"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "jo barasiah"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kapado ambo tangan"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "jo mamutari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbakh-Mu"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "mazbakh-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:16.653359422Z",
+  "model": "glm-5.3"
+}

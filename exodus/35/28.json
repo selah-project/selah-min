@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Jo ⟨את⟩ rempah-rempah, jo ⟨את⟩ minyak untuak palito, untuak minyak urapan jo untuak katuangan dupa dari rempah-rempah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "rempah-rempah"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "rempah-rempah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "minyak"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "untuak palito"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "jo untuak minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "jo untuak katuangan dupa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "dari rempah-rempah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:46.792113769Z",
+  "model": "glm-5.3"
+}

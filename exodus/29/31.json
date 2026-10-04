@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Dan ambiaklah ⟨את⟩ domba jantan pamasahan itu, jo masaklah ⟨את⟩ dagiangnyo di tampek ⟨nan⟩ suci.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "domba jantan"
+    },
+    {
+      "surface": "איל",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "pamasahan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ambiaklah"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "jo masaklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiangnyo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:48.038281735Z",
+  "model": "glm-5.3"
+}

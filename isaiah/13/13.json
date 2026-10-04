@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 13:13",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Dek karano itu Aku manggaduahkan ⟨את⟩ langik, jo bumi baguncang dari tampeknyo, dek kamuko Yahweh Tsebaot, jo pado ari panyalaan amarahnyo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "karano itu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ארגיז",
+      "gloss": "Aku manggaduahkan"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "jo baguncang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "dari tampeknyo"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "dek kamuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "jo pado ari"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "panyalaan"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "amarahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:44.704207258Z",
+  "model": "glm-5.3"
+}

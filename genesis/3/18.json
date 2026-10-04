@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Duri jo duri-duri tumbuah untuak kau, jo kau makan ⟨את⟩ rumpuik ladang ⟨itu⟩.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "jo duri"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "jo duri-duri"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "tumbuah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak kau"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "jo kau makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumpuik ladang ⟨itu⟩"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "rumpuik"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang ⟨itu⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:46.796898838Z",
+  "model": "glm-5.3"
+}

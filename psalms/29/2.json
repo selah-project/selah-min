@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Agiahlah kapado Yahweh kagamarian namonyo, sujuiklah kapado Yahweh dalam kaindahan kasucian.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Agiahlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kagamarian"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sujuiklah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "dalam kaindahan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kasucian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:28.963660920Z",
+  "model": "glm-5.3"
+}

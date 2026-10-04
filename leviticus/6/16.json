@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo satiok minkha urang imam — sandonyo ⟨adolah⟩ nan dibaka, indak buliah dimakan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo satiok"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "urang imam"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "sandonyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "adolah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "buliah dimakan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:49.754906664Z",
+  "model": "glm-5.3"
+}

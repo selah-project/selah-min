@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 143,
+  "translation": "Ajaran ambo mamaratuah kamao-Mu, karano Engkau Elohim ambo; ruakh-Mu nan elok, tantunan ambo di tanah nan rato.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Ajaran ambo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mamaratuah"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "kamao-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruakh-Mu"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "tantunan ambo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "nan rato"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:38.671237325Z",
+  "model": "glm-5.3"
+}

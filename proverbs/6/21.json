@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Ikaiklah itu taruih di ati ikau, palapehlah itu di lihiak ikau.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ikaiklah itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ati ikau"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "palapehlah itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "lihiak ikau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:51.602653401Z",
+  "model": "glm-5.3"
+}

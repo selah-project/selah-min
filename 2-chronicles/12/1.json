@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo tajadilah katiko karajoan Rekhabeam lah kokoh jo inyo lah kuek, inyo maninggaan ⟨את⟩ Torah Yahweh, jo sadoalah Yisrael basamo inyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tajadilah"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "katiko lah kokoh"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "karajoan"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabeam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "jo inyo lah kuek"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "maninggaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:51:55.387142819Z",
+  "model": "glm-5.3"
+}

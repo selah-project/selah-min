@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Dan inyo mambaok ⟨את⟩ asyam-nyo kapado Yahweh, ka mungko pintu khemah patamuan: seekor domba jantan sabagai asyam.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asyam-nyo"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "asyam-nyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "איל",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asyam"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:31.612651553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo runtuakan sanak ⟨את⟩ mezbah-mezbah mereka, jo patahkan sanak ⟨את⟩ tiang-tiang mereka, jo Ashera mereka sanak baka jo api, jo patuang-patuang ukiran tuhan-tuhan mereka sanak tebang, jo musnahan sanak ⟨את⟩ namo mereka dari tampek itu.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "jo runtuakan sanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah-mezbah mereka"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mezbah-mezbah mereka"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "jo patahkan sanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang mereka"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "tiang-tiang mereka"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "jo Ashera mereka"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "sanak baka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "jo patuang-patuang ukiran"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "sanak tebang"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "jo musnahan sanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo mereka"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "namo mereka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:41.710715616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo juo katiko urang bodoh bajalan di jalan, akalnyo kurang, inyo manunjuakan kapado sagalo urang baso inyo urang bodoh.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "akalnyo"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "ו אמר",
+      "gloss": "manunjuakan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado sagalo urang"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:02.391088464Z",
+  "model": "glm-5.3"
+}

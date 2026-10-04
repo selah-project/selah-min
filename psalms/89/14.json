@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Kapado-Mu ado lengan basarato kabaranian; kuaik tangan-Mu, tinggi tangan kanan-Mu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lengan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basarato"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "kabaranian"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "kuaik"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:35.538993544Z",
+  "model": "glm-5.3"
+}

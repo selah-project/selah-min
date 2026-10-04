@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Suaro nan mangujo di gurun: Padiahlah jalan Yahweh, luruihanlah di Araba jalan raya untuak Elohim kito.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "nan mangujo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "padiahlah"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "luruihanlah"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "di Araba"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "jalan raya"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "untuak Elohim kito"
+    }
+  ],
+  "timestamp": "2026-10-04T06:18:43.056972500Z",
+  "model": "glm-5.3"
+}

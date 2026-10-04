@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo Yahweh bacarito kapado Moshe di gunuang Sinai, nak bakato:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "jo … bacarito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunuang"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nak bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:13.014709791Z",
+  "model": "glm-5.3"
+}

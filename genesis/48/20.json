@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Jo inyo maaturkannyo pado ari tu, bakato: Dek angkou Yisrael ka maaturkan, bakato: Buek Elohim angkou sarupo Efrayim jo sarupo Menasye. Jo inyo mamacik ⟨את⟩ Efrayim di muko Menasye.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "maaturkannyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dek angkou"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ka maaturkan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "buek Elohim angkou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "sarupo Efrayim"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "jo sarupo Menasye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "inyo mamacik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasye"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:06.905105601Z",
+  "model": "glm-5.3"
+}

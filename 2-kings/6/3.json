@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo ciek urang bakato: Tarimo lah kini, jo pai ⟨את⟩ ambo-ambo ang. Jo inyo bakato: Ambo ka pai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ciek urang"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "tarimo lah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "jo pai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambo-ambo ang"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ambo-ambo ang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ka pai"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:58.294488469Z",
+  "model": "glm-5.3"
+}

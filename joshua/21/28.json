@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo dari suku Yissaskhar: ⟨את⟩ Kisyion jo ⟨את⟩ pakampuangan-nyo, ⟨את⟩ Daberat jo ⟨את⟩ pakampuangan-nyo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "jo dari suku"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kisyion"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kisyion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakampuangan-nyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pakampuangan-nyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakampuangan-nyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pakampuangan-nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:24.089971583Z",
+  "model": "glm-5.3"
+}

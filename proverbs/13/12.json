@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Harapan nan lamonyo mambuek ati sakik, tapi kahandak nan tibo adolah kayu kahidupan.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "harapan"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "nan lamonyo"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "mambuek sakik"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "tapi kayu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kahidupan"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "kahandak"
+    },
+    {
+      "surface": "באה",
+      "gloss": "nan tibo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:22.193250561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Jo bahan karajo tu cukuik untuak saluruah karajo itu, untuak mambueknyo ⟨את⟩ — jo malabihi pulo.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "jo karajo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "barado"
+    },
+    {
+      "surface": "דים",
+      "gloss": "cukuik"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak saluruah"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak mambuek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩nyo",
+      "marks": "saluruah karajo"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "jo malabihi pulo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:49.427815981Z",
+  "model": "glm-5.3"
+}

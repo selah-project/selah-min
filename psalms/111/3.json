@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 111,
+  "translation": "Gala jo kamuliaan karya-Nyo, jo tsedeq-Nyo tagak salamanyo.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "gala"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "jo kamuliaan"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "karya-Nyo"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "jo tsedeq-Nyo"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:21.481508103Z",
+  "model": "glm-5.3"
+}

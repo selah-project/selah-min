@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo bateh tu mamutari inyo dari utara ka Khanaton, jo ujuang-ujunyo di lembah Yiftakh-El;",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "mamutari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (bateh tu)"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "bateh"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "dari utara"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "Khanaton"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "jo manjadi"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "ujuang-ujunyo"
+    },
+    {
+      "surface": "גי",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T05:09:35.420483833Z",
+  "model": "glm-5.3"
+}

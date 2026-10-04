@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Urang tu musti jago ⟨את⟩ parjagoan ambo, supayo indak mangangkek doso dek tu, jo indak mati dek tu, karano urang tu mahinokannyo; ambo Yahweh, nan manyucian urang tu.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "musti jago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjagoan ambo"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "parjagoan ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dek tu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "doso"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "jo mati"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dek tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "mahinokannyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "nan manyucian urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:58.888573442Z",
+  "model": "glm-5.3"
+}

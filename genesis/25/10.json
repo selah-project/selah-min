@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Ladang nan dibali Avraham dari ⟨את⟩ anak-anak Het; di sinan Avraham diubuek, jo Sarah biniinyo.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "dibali"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩",
+      "marks": "anak-anak Het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "diubuek"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "jo Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "biniinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:59.367875847Z",
+  "model": "glm-5.3"
+}

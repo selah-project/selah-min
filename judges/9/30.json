@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Wakatu Zebul, pangulu koto tu, mandanga ⟨את⟩ kato-kato Gaal anak Ebed, mako murkanyo manyala.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wakatu … mandanga"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "koto tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato Gaal anak Ebed"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "manyala"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "murkanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:08:17.680596059Z",
+  "model": "glm-5.3"
+}

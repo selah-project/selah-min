@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Ambo juo punyo ati sarupo kalian; ambo indak jatuah dari kalian; jo ⟨את⟩ siapo indak ado nan sarupo jo iko?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "sarupo kalian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "dari kalian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "siapo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T08:06:32.115143770Z",
+  "model": "glm-5.3"
+}

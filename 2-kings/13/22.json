@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo Khazael rajo Aram manakan ⟨את⟩ Yisrael salamo ari-ari Yehoakhaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Jo Khazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "manakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoakhaz"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:13.401708234Z",
+  "model": "glm-5.3"
+}

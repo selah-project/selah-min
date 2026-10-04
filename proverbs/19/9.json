@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Saksi dakodo indak akan diampuni, jo nan maambuih kabohongon aka binaso.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "dakodo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "akan diampuni"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "jo nan maambuih"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "kabohongon"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "aka binaso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:03.000686303Z",
+  "model": "glm-5.3"
+}

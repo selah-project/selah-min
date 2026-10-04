@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo rajo Aram alah mamarentahkan ⟨את⟩ panglima-panglima kareta nan di sampiangnyo, nan bakato: Jan baparang ⟨את⟩ nan ketek jo ⟨את⟩ nan gadang, tapi hanyo jo ⟨את⟩ rajo Yisrael sajo.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "jo rajo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "mamarentahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panglima-panglima kareta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "panglima-panglima"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "di sampiangnyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "baparang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan ketek"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nan ketek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan gadang"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sajo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:54:36.408067693Z",
+  "model": "glm-5.3"
+}

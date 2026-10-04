@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Hiram kalua dari Tsoar untuak mancaliak ⟨את⟩ koto-koto nan Shlomo agiah kapadonyo, tapi koto tu indak elok di matonyo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lalu kalua"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dari Tsoar"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak mancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koto-koto tu"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "koto-koto tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "elok"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:18.911915590Z",
+  "model": "glm-5.3"
+}

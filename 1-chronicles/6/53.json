@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 6:53",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "jo ⟨את⟩ Yokmeam jo ⟨את⟩ tanah sakitarnyo, jo ⟨את⟩ Beit-Khoron jo ⟨את⟩ tanah sakitarnyo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yokmeam"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Yokmeam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanah sakitarnyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah sakitarnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanah sakitarnyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah sakitarnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:28.128440739Z",
+  "model": "glm-5.3"
+}

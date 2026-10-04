@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo jatah makannyo, jatah nan taruih, diagiah kapadonyo dek ⟨את⟩ rajo, satiok ari samo banyaknyo, salamo kasadonyo ari iduiknyo.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "jo jatah makannyo"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "jatah"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "diagiah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨dari pihak⟩ ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "samo banyaknyo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "satiok ari"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "dalam ariinyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "iduiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:37.471180289Z",
+  "model": "glm-5.3"
+}

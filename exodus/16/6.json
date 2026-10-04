@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu Moshe jo Aharon bakato kapado sagalo anak-anak Yisrael: Pado patang hari, kamuku tau baso Yahweh nan alah mangaluaan ⟨את⟩ inyo dari tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jo Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Pado patang hari"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "kamuku tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "mangaluaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:22.542053563Z",
+  "model": "glm-5.3"
+}

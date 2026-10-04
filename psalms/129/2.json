@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 129,
+  "translation": "Banyak inyo manyasak ambo sajak mudo ambo, tapi indak dapek inyo mandapek ambo.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Banyak"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "inyo manyasak ambo"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sajak mudo ambo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dapek inyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mandapek ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:08.483635920Z",
+  "model": "glm-5.3"
+}

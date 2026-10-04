@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Dan inyo bakarajo nan jahat di mato Yahweh, sarupo sagalo nan alah dilakuan amaknyo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan inyo bakarajo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nan jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sarupo sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah dilakuan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:46.665812715Z",
+  "model": "glm-5.3"
+}

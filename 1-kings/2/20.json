@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu inyo bakato: Ciek panyapoan ketek ambo maminteh ⟨את⟩ dari awak; jangan pilieh ⟨את⟩ muko ambo. Lalu rajo bakato kapadonyo: Mintehlah, mandeh ambo, karano ambo indak ka mamutuih ⟨את⟩ mukomu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "panyapoan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ketek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "maminteh"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "dari awak ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "piliah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko ambo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko ambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu rajo bakato"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "mintehlah"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mandeh ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ka mamutuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukomu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mukomu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:54.646472191Z",
+  "model": "glm-5.3"
+}

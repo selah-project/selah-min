@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Kulik ambo mangitam di badan ambo, jo tulang-tulang ambo tagoriang dek paneh.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "kulik ambo"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "mangitam"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "di badan ambo"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "jo tulang-tulang ambo"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "tagoriang"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dek"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "paneh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:11:29.443382411Z",
+  "model": "glm-5.3"
+}

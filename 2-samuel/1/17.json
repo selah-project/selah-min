@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Dawid malagu-lagu duka jo ⟨את⟩ lagu duka iko, ateh Shaul jo ateh Yehonatan anaknyo.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "malagu-lagu duka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lagu duka iko"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "lagu duka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:34:51.089710466Z",
+  "model": "glm-5.3"
+}

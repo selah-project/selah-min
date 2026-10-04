@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jadi kato ko manjadi duso, jo urang tu bajalan di muko ⟨את⟩ nan ciek sampai ka Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato ko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "manjadi duso"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "jo urang tu bajalan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:03.547501644Z",
+  "model": "glm-5.3"
+}

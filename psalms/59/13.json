@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 59,
+  "translation": "Doso pikanyo muluik urang tu, kato bibia urang tu — bia urang tu tatangkok dalam angkuahnyo; jo dek sumpah jo pambohongan urang tu manyabuiknyo.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "doso pikanyo"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "muluik urang tu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "bibia urang tu"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "bia urang tu tatangkok"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "dalam angkuahnyo"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "jo dek sumpah"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "jo pambohongan"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "urang tu manyabuiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:55.080536408Z",
+  "model": "glm-5.3"
+}

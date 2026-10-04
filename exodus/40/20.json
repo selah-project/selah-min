@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Diambieknyo, dan dimasuakannyo ⟨את⟩ kasaksian ka dalam aron itu; dipasangnyo ⟨את⟩ galah-galah tu ka aron itu, dan dibueknyo ⟨את⟩ paneutuik di ateh aron itu dari ateh.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "diambieknyo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dimasuakannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasaksian"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron itu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dipasangnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galah-galah tu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "galah-galah tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron itu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dibueknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paneutuik"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "paneutuik"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron itu"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "dari ateh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:22.705906212Z",
+  "model": "glm-5.3"
+}

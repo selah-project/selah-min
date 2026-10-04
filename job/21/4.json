@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Ambo — kapado manusiakah ambo basungguah-sungguah? Kok bana baitu, ba a kok indak ruakh ambo manjadi sampik?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kapado manusia"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "basungguah-sungguah ambo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kok bana"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ba a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "manjadi sampik"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:08:57.293621368Z",
+  "model": "glm-5.3"
+}

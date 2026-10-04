@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 85,
+  "translation": "Untuak pamimpin musik, dek anak-anak Korach, mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak pamimpin musik"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dek anak-anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:45.409344342Z",
+  "model": "glm-5.3"
+}

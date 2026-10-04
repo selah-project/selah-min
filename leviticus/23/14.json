@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 23:14",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo roti, jo jaguang sangrai, jo bulir baru, indak buliah dimakan sampai ari ko juo, sampai kalian mambaok ⟨את⟩ korban Elohim kalian; katumpek salamo-lamonyo untuak katurunan-katurunan kalian di sagalo tampek tingga kalian.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "jo roti"
+    },
+    {
+      "surface": "וקלי",
+      "gloss": "jo jaguang sangrai"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "jo bulir baru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "buliah dimakan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "ari ko juo ‹pati-patinyo›"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "kalian mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kalian"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "katumpek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "untuak katurunan-katurunan kalian"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "tampek tingga kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:34.121056214Z",
+  "model": "glm-5.3"
+}

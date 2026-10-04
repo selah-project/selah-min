@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu SamuEl mangadili ⟨את⟩ Yisrael salamo sado ari-ari iduiknyo.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "lalu mangadili"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "SamuEl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "iduiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:14.673336513Z",
+  "model": "glm-5.3"
+}

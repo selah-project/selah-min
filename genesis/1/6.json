@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Elohim bakato: Ado rakia di tangah aia tu, jo rakia tu mamisahan aia dari aia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ado"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakia"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia tu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo ado"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "mamisahan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "למים",
+      "gloss": "dari aia"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:27.297764250Z",
+  "model": "glm-5.3"
+}

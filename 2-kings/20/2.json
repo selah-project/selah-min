@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo dibaliaknyo ⟨את⟩ mukonyo ka dindiang, jo badoanyo kapado Yahweh, bakato:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "jo dibaliaknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukonyo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "dindiang"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "jo badoanyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T06:04:39.560838249Z",
+  "model": "glm-5.3"
+}

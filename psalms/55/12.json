@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Kakancuroan ado di tangah-tangahnyo, jo indak lai bapindah dari lapangannyo panjapahan jo panipu-an.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "kakancuroan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tangah-tangahnyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak lai"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "bapindah"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "dari lapangannyo"
+    },
+    {
+      "surface": "תך",
+      "gloss": "panjapahan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "jo panipu-an"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:48.457792411Z",
+  "model": "glm-5.3"
+}

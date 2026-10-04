@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo Yoktan manurunkan ⟨את⟩ Almodad, jo ⟨את⟩ Sheleph, jo ⟨את⟩ Hatsarmavet, jo ⟨את⟩ Yerakh.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Jo Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Sheleph"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Sheleph"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Hatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yerakh"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerakh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:30.673931123Z",
+  "model": "glm-5.3"
+}

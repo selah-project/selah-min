@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Urang tu agiah racun sabagai makanan ambo, jo untuak haus ambo urang tu minumkan ambo cuko.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "urang tu agiah"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "sabagai makanan ambo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "racun"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "untuak haus ambo"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "urang tu minumkan ambo"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "cuko"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:07.210475541Z",
+  "model": "glm-5.3"
+}

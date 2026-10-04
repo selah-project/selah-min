@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Hei musuah, lah tamat rusaknyo salamanyo; jo koto-koto alah kau bongka, lah hilang ingekannyo basamo inyo.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Hei musuah"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "lah tamat"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "rusaknyo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "jo koto-koto"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "kau alah bongka"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "lah hilang"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ingekannyo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "basamo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:45.483282479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "karano nyawonyo salamo inyo iduik inyo mampuji, jo urang-urang ka mamuji ⟨angkau⟩ katiko angkau babaik kapado diri angkau surang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawonyo"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "salamo inyo iduik"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "mampuji"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "jo urang-urang ka mamuji angkau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "babaik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado diri angkau surang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:32.026210910Z",
+  "model": "glm-5.3"
+}

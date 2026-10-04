@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Sarah mambantah, bakato: Ambo indak tatawa — karano inyo takuik. Lalu ⟨inyo⟩ bakato: Indak, tapi kau memang tatawa.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "Lalu mambantah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "ambo tatawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu ⟨inyo⟩ bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "kau tatawa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:11.525709714Z",
+  "model": "glm-5.3"
+}

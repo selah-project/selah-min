@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Anak ambo, jago kato-kato ambo, jo parentah-parentah ambo simpan ⟨את⟩ mandapek jo ⟨diri ang⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "jago"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kato-kato ambo"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "jo parentah-parentah ambo"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "simpan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ mandapek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:29.776357723Z",
+  "model": "glm-5.3"
+}

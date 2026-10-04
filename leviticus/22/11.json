@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo imam, kok inyo mambali saurang jo pitih peraknyo, inyo buliah makan tu; jo nan lahia di rumahnyo, urang tu makan rotinyo.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "jo imam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "mambali"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "pambalian"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "pitih peraknyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "jo nan lahia"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "di rumahnyo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "makan"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "rotinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:58.888938742Z",
+  "model": "glm-5.3"
+}

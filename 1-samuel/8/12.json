@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "jo untuak mambuek untuak dirinyo pangulu ateh ribu jo pangulu ateh limo puluah, jo untuak mambajak sawahnyo, jo untuak manyabit panenanyo, jo untuak mambuek sanjato parangnyo jo parabot karetanyo.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "jo untuak mambuek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak dirinyo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ateh ribu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "jo pangulu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ateh limo puluah"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "jo untuak mambajak"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "sawahnyo"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "jo untuak manyabit"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "panenanyo"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "jo untuak mambuek"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sanjato"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "parangnyo"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "jo parabot"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "karetanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:16.915182241Z",
+  "model": "glm-5.3"
+}

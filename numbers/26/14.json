@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Iko adolah margi-margi urang Simeoni: duo puluah duo ribu jo duo ratus.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "marga-marga"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "urang Simeoni"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jo puluah duo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "jo duo ratus"
+    }
+  ],
+  "timestamp": "2026-10-04T04:47:18.435814463Z",
+  "model": "glm-5.3"
+}

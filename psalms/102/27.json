@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Urang tu kaancua, tapi Adonai tagak; jo saluruahnyo sarupo pakaian lah sanja; sarupo sanjo Adonai manggantiannyo, jo urang tu baganti.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "kaancua"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "tapi Adonai"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "jo saluruahnyo"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "sarupo pakaian"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "lah sanja"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "sarupo sanjo"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "manggantiannyo"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "baganti"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:45.986042427Z",
+  "model": "glm-5.3"
+}

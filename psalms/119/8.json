@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "⟨את⟩ Katantuik-Ku ambo jago; jan puekkan ambo sampai sanga.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katantuik-Ku"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Katantuik-Ku"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ambo jago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "puekkan ambo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanga"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:59.102853638Z",
+  "model": "glm-5.3"
+}

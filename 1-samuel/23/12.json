@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Lalu Dawid bakato: Apo tuan-tuan Keilah manyarah-an ⟨את⟩ ambo jo ⟨את⟩ urang-urang amba ka tangan Sha'ul? Lalu Yahweh bakato: Inyo akan manyarah-an.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu Dawid bakato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": ""
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Apo tuan-tuan Keilah manyarah-an"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "tuan-tuan"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang-urang amba"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "urang-urang amba"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu Yahweh bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Inyo akan manyarah-an"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:53.786979068Z",
+  "model": "glm-5.3"
+}

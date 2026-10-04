@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "Pujilah Adonai Para tuan-tuan nan lain, karano salamo-lamonyo hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kapado Adonai"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "Para tuan-tuan nan lain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:14.328268699Z",
+  "model": "glm-5.3"
+}

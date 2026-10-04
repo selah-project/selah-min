@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "jo ⟨את⟩ ha-khasidah, ha-anafah manuruik jiniahnyp, jo ⟨את⟩ ha-dukhiphat, jo ⟨את⟩ ha-atalef.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ha-khasidah"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "ha-khasidah"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "ha-anafah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "manuruik jiniahnyp"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ha-dukhiphat"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "ha-dukhiphat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ha-atalef"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "ha-atalef"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:50.116822480Z",
+  "model": "glm-5.3"
+}

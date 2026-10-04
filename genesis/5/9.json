@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Enosh iduik sambilan puluah taun, lalu bakaranam ⟨את⟩ Kenan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "sambilan puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "bakaranam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:55.439952481Z",
+  "model": "glm-5.3"
+}

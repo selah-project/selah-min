@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 8:10",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo dari anak-anak Shelomit, anak Yosifyah, jo jo inyo saratus anam puluah jantan.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "jo dari anak-anak"
+    },
+    {
+      "surface": "שלומית",
+      "gloss": "Shelomit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יוספיה",
+      "gloss": "Yosifyah"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "jo jo inyo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "anam puluah"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "jantan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:34:14.458688703Z",
+  "model": "glm-5.3"
+}

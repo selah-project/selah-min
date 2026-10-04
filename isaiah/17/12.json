@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Woi, ribuik urang banyak, sarupo hadangan lauik-lauaik urang tu mahadang, jo garuak bangso-bangso, sarupo garuak aia gadang urang tu manggaruak.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "woi"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ribuik"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "sarupo hadangan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lauik-lauaik"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "urang tu mahadang"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "jo garuak"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "sarupo garuak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "urang tu manggaruak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:18.435138463Z",
+  "model": "glm-5.3"
+}

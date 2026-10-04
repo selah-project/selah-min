@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jo kini, apo lai nan ambo tunggu, Adonai? Harapan ambo ⟨ado⟩ kapado Angku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Jo kini"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo lai"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nan ambo tunggu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Harapan ambo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado Angku"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ado⟩ inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:50.424391470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "jo Yahweh, Elohim ang, ka manyarah inyo ka muko ang, jo ang mambueh inyo — habih musnah ang musti mamusnah inyo ⟨את⟩; indak ang buliah mamutuih parjanjian jo inyo, jo indak ang buliah maagiah raso bakti kapado inyo.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "jo ka manyarah inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ang"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ka muko ang"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "jo ang mambueh inyo"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "habih musnah"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "ang musti mamusnah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ang buliah mamutuih"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "ang buliah maagiah raso bakti kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:53:56.868916060Z",
+  "model": "glm-5.3"
+}

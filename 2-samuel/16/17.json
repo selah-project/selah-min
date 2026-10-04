@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu Abshalom bakato kapado Khushai: Iko kahesednyo kapado ⟨את⟩ kawanmu? Baa awak indak pai ⟨את⟩ kawanmu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Khushai"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kahesednyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanmu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kawanmu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "pai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanmu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kawanmu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:40:00.389879358Z",
+  "model": "glm-5.3"
+}

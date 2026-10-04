@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Awak tau ⟨את⟩ Avner anak Ner, karano inyo tibo untuak mambujua ang, jo untuak mancaliak ⟨את⟩ baa ang kalua jo ⟨את⟩ baa ang masuak, jo untuak mancaliak ⟨את⟩ sagalo nan ang sadang buat.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "untuak mambujua ang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "jo untuak mancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baa ang kalua"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "baa ang kalua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "baa ang masuak"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "baa ang masuak"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "jo untuak mancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan ang sadang buat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sadang buat"
+    }
+  ],
+  "timestamp": "2026-10-04T05:35:41.795417214Z",
+  "model": "glm-5.3"
+}

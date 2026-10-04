@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Suaro ambo kapado Elohim, jo ambo mandeaguik; suaro ambo kapado Elohim, jo Iyo mancondoiang ambo.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "jo ambo mandeaguik"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "jo Iyo mancondoiang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:13.255848899Z",
+  "model": "glm-5.3"
+}

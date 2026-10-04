@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu inyo manuang dari minyak urapan itu ka ateh kapalo Aharon, jo inyo maurap ⟨את⟩ inyo untuak manyucikannyo.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "manuang"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "dari minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "maurap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "untuak manyucikannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:10.625677255Z",
+  "model": "glm-5.3"
+}

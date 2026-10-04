@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Inyo manyambuik urang nan patah atinyo, jo mambaluik luko-luko amarahnyo.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "manyambuik"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "urang nan patah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "mambaluik"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "luko-luko amarahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:55.926910324Z",
+  "model": "glm-5.3"
+}

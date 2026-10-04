@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Lalu Iyob mati, tuo jo kanyang ari-ari.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Lalu mati"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "jo kanyang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:14:25.864151568Z",
+  "model": "glm-5.3"
+}

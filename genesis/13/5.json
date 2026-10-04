@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo juo ka Lot, nan bajalan ⟨את⟩ Avram, ado kambiang, jo jawi, jo khemah.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "ka Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nan bajalan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambiang"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "jo jawi"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "jo khemah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:26.170609973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Dan imam nan diurapi, nan mangisi ⟨את⟩ tangannyo untuak manjadi imam manggantikan apaknyo, inyo mambuek pangampunan, jo mamakai ⟨את⟩ pakaian linen — pakaian nan suci.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "dan mambuek pangampunan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "diurapi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "mangisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuak manjadi imam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "manggantikan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "jo mamakai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian linen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nan suci"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:24.254535284Z",
+  "model": "glm-5.3"
+}

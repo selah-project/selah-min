@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "kok sanak mancari inyo sarupo perak, jo mancari inyo sarupo harta nan tasimpan;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "sanak mancari inyo"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "sarupo perak"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "jo sarupo harta nan tasimpan"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "mancari inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:35.874073546Z",
+  "model": "glm-5.3"
+}

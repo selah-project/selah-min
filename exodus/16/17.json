@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Urang Yisrael pun barajo demikian, jo inyo malakat — nan maambiak banyak, jo nan maambiak saketek.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "barajo demikian"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "malakat"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "nan maambiak banyak"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "jo nan maambiak saketek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:28.069542392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Juo tantang Izevel Yahweh alah bakato, bakato: anjiang-anjiang ka makan ⟨את⟩ Izevel di parik Yizreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "tantang Izevel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alah bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "anjiang-anjiang"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ka makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "di parik"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-10-04T05:53:23.249545509Z",
+  "model": "glm-5.3"
+}

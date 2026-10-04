@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Ambo alah mambaokan kaba tsedeq di dalam jamaah nan rayo; caliak-lah, bibia ambo indak ambo tahan, Yahweh; Angkau tau.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ambo alah mambaokan kaba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "di dalam jamaah"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rayo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak-lah"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibia ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "ambo tahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Angkau"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:24.115263355Z",
+  "model": "glm-5.3"
+}

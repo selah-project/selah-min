@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu bumi baguncang jo bagariak, parimuik bukik-bukik baguncang jo bagariak pulo, dek karano murka-Nyo manyalo.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "baguncang"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "bagariak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "parimuik"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bukik-bukik"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "baguncang"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "bagariak pulo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "murka-Nyo manyalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨di dalam diri-Nyo⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:13.106986503Z",
+  "model": "glm-5.3"
+}

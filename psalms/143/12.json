@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 143,
+  "translation": "Jo dalam hesed-Mu, punaskan urang nan banci kapadonyo, jo binasaan sado musuah jiwo ambo, karano ambo ambo urang padio-Mu.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "jo dalam hesed-Mu"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "punaskan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "urang nan banci kapadonyo"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "jo binasaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwo ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "urang padio-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:38.671521113Z",
+  "model": "glm-5.3"
+}

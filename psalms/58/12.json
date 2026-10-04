@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 58,
+  "translation": "Jo urang bakato: Baiak ado buah untuak urangdapek bana, baiak ado Elohim nan mahukum di bumi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jo urang bakato"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אך",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "untuak urangdapek bana"
+    },
+    {
+      "surface": "אך",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "nan mahukum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:05.232711300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo sungguah bana inyo adiak padusi ambo, anak padusi ayah ambo ⟨inyo⟩, tapi bukan anak padusi mandeh ambo, jo inyo manjadi bini ambo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo pun"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "sungguah bana"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "adiak padusi ambo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah ambo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mandeh ambo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "jo inyo manjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo punyo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sabagai bini"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:32.817845682Z",
+  "model": "glm-5.3"
+}

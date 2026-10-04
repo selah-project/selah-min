@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Tapi Adonai ⟨adalah nan samo⟩, jo taun-taun Adonai indak akan barakhia.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tapi Adonai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nan samo⟩"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "jo taun-taun Adonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "barakhia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:45.986202516Z",
+  "model": "glm-5.3"
+}

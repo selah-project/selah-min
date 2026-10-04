@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu urang tu mangantuang ⟨את⟩ Haman di ateh kayu nan alah disadioannyo untuak Mordekhai, jo kamaraah rajo lah reda.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Lalu urang tu mangantuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "disadioannyo"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "untuak Mordekhai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "jo kamaraah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "lah reda"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:45.424360062Z",
+  "model": "glm-5.3"
+}

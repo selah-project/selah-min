@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lalu inyo bakato: Kok inyo tu kalua untuak damai, tangkok urang tu iduik-iduik; tapi kok inyo tu kalua untuak paparangan, tangkok urang tu iduik-iduik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "untuak damai"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "tangkok urang tu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iduik-iduik"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tapi kok"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuak paparangan"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iduik-iduik"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "tangkok urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:53:46.073626728Z",
+  "model": "glm-5.3"
+}

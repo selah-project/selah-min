@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 27:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Lalu Rivkah maambek ⟨את⟩ pakaian Esav anaknyo nan tuo, pakaian nan rancak nan ado ⟨את⟩ jo inyo di rumah, lalu inyo mamakaikan ⟨את⟩ Yaakov anaknyo nan ketek.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "maambek"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian Esav"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nan tuo"
+    },
+    {
+      "surface": "החמדת",
+      "gloss": "nan rancak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ jo inyo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "mamakaikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nan ketek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:14.888795399Z",
+  "model": "glm-5.3"
+}

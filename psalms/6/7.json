@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Ambo lah lalah dek lereh ambo; sapanjang malam ambo mambanjiri ranjaak ambo, jo aia mato ambo maancuaan balai-balai ambo.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "lah lalah"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "dek lereh ambo"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "mambanjiri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ranjaak ambo"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "jo aia mato ambo"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "balai-balai ambo"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "maancuaan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:21.775179675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "jo kamiskinanmu tibo sarupo urang bajalan, jo kalangkaanmu sarupo urang babarih jo paneang.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "jo ... tibo"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "sarupo urang bajalan"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kamiskinanmu"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "jo kalangkaanmu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sarupo urang"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "babarih jo paneang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:50.300919246Z",
+  "model": "glm-5.3"
+}

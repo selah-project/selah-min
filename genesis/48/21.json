@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Jo Yisrael bakato kapado Yosef: Caliak, ambo ka mati, tapi Elohim ka basamo jo kalian, jo inyo ka mambaok kalian baliak ka tanah datuak-niniek kalian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo ... bakato"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ka mati"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo ka tajadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "basamo jo kalian"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "jo ka mambaok baliak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "datuak-niniek kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:25.611904723Z",
+  "model": "glm-5.3"
+}

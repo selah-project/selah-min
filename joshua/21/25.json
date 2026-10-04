@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo dari satangah suku Menashe ⟨את⟩ Taanakh jo ⟨את⟩ pakampuangan-nyo, jo ⟨את⟩ Gat-Rimon jo ⟨את⟩ pakampuangan-nyo: kota-kota duo.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "jo dari satangah"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanakh"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakampuangan-nyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pakampuangan-nyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakampuangan-nyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pakampuangan-nyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:24.088477346Z",
+  "model": "glm-5.3"
+}

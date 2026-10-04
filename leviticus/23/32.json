@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Shabat, Shabat katatapan, inyo untuak sanak; jo sanak manyiksa ⟨את⟩ diri sanak; pado ari kasambilan bulan itu, pado patang ari, dari patang ari sampai patang ari, sanak baparihanti Shabat sanak.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabat katatapan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak sanak"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "jo sanak manyiksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diri sanak"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "diri sanak"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "pado ari kasambilan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan itu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pado patang ari"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "dari patang ari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "patang ari"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "sanak baparihanti"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Shabat sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:59.209559810Z",
+  "model": "glm-5.3"
+}

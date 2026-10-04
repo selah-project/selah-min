@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Tangkan pandang, jawablah ambo, Yahweh Elohim ambo; tarangkan mato ambo, supayo indak lalok lalok kamatian,",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "tangkan pandang"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawablah ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "tarangkan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lalok kamatian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:03.106965096Z",
+  "model": "glm-5.3"
+}

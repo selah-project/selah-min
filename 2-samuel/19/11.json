@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Sadang Avshalom, nan kito urapi ateh kito, lah mati dalam paparangan; kini baa kalian babuah sajo, indak mambaok baliak ⟨את⟩ rajo tu?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Sadang Avshalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "kito urapi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ateh kito"
+    },
+    {
+      "surface": "מת",
+      "gloss": "lah mati"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dalam paparangan"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "babuah sajo"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "mambaok baliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo tu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:41:57.626049707Z",
+  "model": "glm-5.3"
+}

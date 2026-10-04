@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 122,
+  "translation": "Kaki kito alah tagak di gapuro-gapuronyo, wahai Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "היו",
+      "gloss": "alah"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "kaki kito"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "di gapuro-gapuronyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:32.130345885Z",
+  "model": "glm-5.3"
+}

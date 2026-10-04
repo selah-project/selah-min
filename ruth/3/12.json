@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo kini, bana, ambo goel, tapi ado juo goel nan labiah dakek dari ambo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "sacaro bana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "tapi ado juo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nan labiah dakek"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:16.455016620Z",
+  "model": "glm-5.3"
+}

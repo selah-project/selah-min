@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Hathak tibo, jo bakaba kapado Ester ⟨את⟩ kato-kato Mordekhai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hathak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "bakaba"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kapado Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:21.707747078Z",
+  "model": "glm-5.3"
+}

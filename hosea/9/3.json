@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Urang tu indak akan tingga di tanah Yahweh; tapi Efrayim baliak ka Mitsrayim, jo di Asyur inyo makan nan indak suci.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "akan tingga urang tu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "tapi baliak"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "jo di Asyur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nan indak suci"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "inyo makan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:02.286380283Z",
+  "model": "glm-5.3"
+}

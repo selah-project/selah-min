@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Maka katiko Akhab caliak ⟨את⟩ Eliyahu, Akhab bakato kapadonyo: Sanangah angku ko, panggaduak Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka katiko"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "sanangah angku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "panggaduak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:10.212467050Z",
+  "model": "glm-5.3"
+}

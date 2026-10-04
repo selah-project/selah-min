@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo rusaklah bumi di muko Elohim, jo panuahlah bumi jo kajam.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "rusak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "panuah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kajam"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:11.608711447Z",
+  "model": "glm-5.3"
+}

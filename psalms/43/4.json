@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Maka ambo pai ka mazbah Elohim, ka El, suko jo girang ambo; jo ambo mamuji-Mu jo kinor, Elohim, Elohim ambo.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Maka ambo pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "suko"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "jo girang ambo"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "jo ambo mamuji-Mu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "jo kinor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:34.337486861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo ⟨את⟩ sado lamaknyo inyo angkek dari inyo, jo mambakanyo di ateh atar tu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado lamaknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "lamaknyo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "inyo angkek"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari inyo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "jo mambakanyo"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di ateh atar tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:48.455988079Z",
+  "model": "glm-5.3"
+}

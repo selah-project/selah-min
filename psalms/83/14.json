@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 83,
+  "translation": "Elohim ambo, jadikan inyo tu sarupo gulung-gulungan, sarupo daham di muko ruakh.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "jadikan inyo tu"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "sarupo gulung-gulungan"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "sarupo daham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:02.358726172Z",
+  "model": "glm-5.3"
+}

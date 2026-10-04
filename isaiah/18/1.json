@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Aduhai, tanah nan daiang sayok, nan di sabalah lauik dari batang aia-aia Kush!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduhai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "daiang"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "sayok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "di sabalah lauik dari"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "batang aia-aia"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-10-04T06:12:19.622879741Z",
+  "model": "glm-5.3"
+}

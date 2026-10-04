@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Indak lai mangalah tonggak awan tu siang ari, jo tonggak api tu malam ari, dari mungko bangso tu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indak"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "lai mangalah"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "tonggak"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan tu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang ari"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "jo tonggak"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api tu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam ari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dari mungko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso tu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:23.163002124Z",
+  "model": "glm-5.3"
+}

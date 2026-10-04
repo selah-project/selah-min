@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Lalu Dawid samakin maju jo samakin gadang, karano Yahweh, Elohim Tsebaot, basamo inyo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lalu bajalan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "samakin maju"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "jo samakin gadang"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "karano Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:36:10.619441145Z",
+  "model": "glm-5.3"
+}

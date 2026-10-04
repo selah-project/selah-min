@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo pangulu-pangulu tu maagiah ⟨את⟩ pancurahanan altar pado ari inyo diurapi ⟨את⟩ inyo; jo pangulu-pangulu tu maagiah ⟨את⟩ korban inyo di mungkiah altar.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "pangulu-pangulu tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pancurahanan altar"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "pancurahanan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "inyo diurapi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "altar"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "pangulu-pangulu tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban inyo"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "korban inyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di mungkiah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-10-04T04:40:02.387719145Z",
+  "model": "glm-5.3"
+}

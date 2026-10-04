@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Biharapo Reuven iduik jo indak mati, jo urang-urangnyo ⟨saketek⟩ bilangnyo.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "biharapo iduik"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo manjadi"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "urang-urangnyo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨saketek⟩ bilangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:03:03.889882147Z",
+  "model": "glm-5.3"
+}

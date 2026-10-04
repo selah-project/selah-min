@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Jo Iyo bakato: Indak angkau dapek caliak ⟨את⟩ muko Ambo, karano indak ado manusia nan caliak Ambo jo tetap iduik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo Iyo bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "angkau dapek"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko Ambo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko Ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "caliak Ambo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "jo tetap iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:30.132309930Z",
+  "model": "glm-5.3"
+}

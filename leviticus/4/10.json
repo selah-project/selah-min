@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "sarupo nan diambiak dari jawi kurban shelamim; jo imam mambakaanyo di ateh mezbah kurban bakaran.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "diambiak"
+    },
+    {
+      "surface": "משור",
+      "gloss": "dari jawi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "jo mambakaanyo (asok)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:47.746496455Z",
+  "model": "glm-5.3"
+}

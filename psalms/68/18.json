@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Kareta-kareta Elohim bamilyar-milyar, ribu nan baulang-ulang; Adonai ado di tangah inyo, di Sinai, di tampek nan suci.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "kareta-kareta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "bamilyar-milyar"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "nan baulang-ulang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di tangah inyo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "di Sinai"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tampek nan suci"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:32.551136048Z",
+  "model": "glm-5.3"
+}

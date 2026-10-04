@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Di muko uban kau tagak, muko urang tuo kau hormati, jo kapado Elohim kau kau barimo; ambo Yahweh.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "uban"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kau tagak"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "jo kau hormati"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "urang tuo"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "jo kau barimo"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "kapado Elohim kau"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:24.532752951Z",
+  "model": "glm-5.3"
+}

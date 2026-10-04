@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jo inyo mambaa ⟨את⟩ inyo ka ateh balah-balah bahu ephod — batu paringoatan untuak anak-anak Yisrael — sarupo nan disuruah Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "jo inyo mambaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (batu-batu tu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "balah-balah bahu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "paringoatan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "untuak anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "disuruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:30.315182086Z",
+  "model": "glm-5.3"
+}

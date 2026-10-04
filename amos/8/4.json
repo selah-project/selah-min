@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Taikek iko, hai awak nan manalan ⟨את⟩ urang miskin, jo mambuek abih urang sansaro di nagari!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Taikek"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "hai awak nan manalan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "jo mambuek abih"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "urang sansaro"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di nagari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:11:53.832835231Z",
+  "model": "glm-5.3"
+}

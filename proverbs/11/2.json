@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Datang angek sangko, lalu datang pulo aiia, jo ⟨את⟩ urang nan randah ati adaik banaik.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "anggek sangko"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lalu datang pulo"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "aiia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang nan randah ati"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "urang nan randah ati"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "adaik banaik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:51.051968105Z",
+  "model": "glm-5.3"
+}

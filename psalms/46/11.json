@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Barih baa jo katahuilah baso Ambo Elohim; Ambo tinggi di antaro bangso-bangso, Ambo tinggi di bumi.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Barih baa"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "katahuilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "Ambo tinggi"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antaro bangso-bangso"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "Ambo tinggi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:23.319258134Z",
+  "model": "glm-5.3"
+}

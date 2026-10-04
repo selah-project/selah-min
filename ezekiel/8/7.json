@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dan inyo mambaok ⟨את⟩ ambo ka muko pintu laman tu; lalu ambo caliak, jo barck iko ado lobang ciek di dindiang.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muko pintu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "laman tu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "lalu ambo caliak"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo barck iko"
+    },
+    {
+      "surface": "חר",
+      "gloss": "lobang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "di dindiang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:18:51.458703405Z",
+  "model": "glm-5.3"
+}

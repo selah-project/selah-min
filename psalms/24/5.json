@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Inyo mandapek baso dari ⟨את⟩ Yahweh, jo tsedeq dari Elohim, palapeh inyo.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "mandapek"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "baso"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩",
+      "marks": "baso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "jo tsedeq"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "dari Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "palapeh inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:40.698486932Z",
+  "model": "glm-5.3"
+}

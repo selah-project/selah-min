@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 25:5",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo aku ka mambuek ⟨את⟩ Rabbah jadi kandang unta, jo ⟨את⟩ urang Ammon jadi tampek baradia kawanan domba; jo sanak ka tau baso ambo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jo aku ka mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "jadi tampek tingga"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "unta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "למרבץ",
+      "gloss": "jadi tampek baradia"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan domba"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "jo sanak ka tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:57:04.529030442Z",
+  "model": "glm-5.3"
+}

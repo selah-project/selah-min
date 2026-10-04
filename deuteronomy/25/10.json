@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "jo namonyo disabuik di Yisrael: Rumah urang nan sandalnyo tanggal.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "disabuik"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Rumah"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "nan tanggal"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "sandalnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:09.509242017Z",
+  "model": "glm-5.3"
+}

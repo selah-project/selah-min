@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Sarupo saurang ambo manyayangi anak-anaknyo, baitu pulo Yahweh manyayangi urang nan takuik kapado-Nyo.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "sarupo manyayangi"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "manyayangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "urang nan takuik kapado-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:32.943378420Z",
+  "model": "glm-5.3"
+}

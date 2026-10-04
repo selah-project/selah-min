@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu rajo Babel manjadiakan ⟨את⟩ Mattanyah, om-nyo, rajo di tampek-nyo, jo mangubah ⟨את⟩ namonyo manjadi Tsidkiahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "manjadiakan rajo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanyah"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanyah"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "om-nyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "di tampek-nyo"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "mangubah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:10.753657050Z",
+  "model": "glm-5.3"
+}

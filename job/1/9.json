@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Hasatan manjawab ⟨את⟩ Yahweh jo bakato: Apo Iyub mambatang Elohim sacaro sia-sia?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lalu … manjawab"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Hasatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "sacaro sia-sia"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mambatang"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:20.715376889Z",
+  "model": "glm-5.3"
+}

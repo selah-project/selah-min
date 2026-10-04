@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Dalam kamurkaan Kau malangkah di bumi, dalam amarah Kau manampi banso-banso.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "dalam kamurkaan"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "Kau malangkah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "באף",
+      "gloss": "dalam amarah"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "Kau manampi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "banso-banso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:17:13.132401366Z",
+  "model": "glm-5.3"
+}

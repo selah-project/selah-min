@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo urang tu alah mambuang ⟨את⟩ tuhan-tuhan urang tu ka dalam api, karano indak tuhan-tuhan bana urang tu, tapi buatan tangan manusia, kayu jo batu; makonyo urang tu mangancangkan urang tu.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "urang tu alah mambuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhan-tuhan urang tu"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan-tuhan urang tu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka dalam api"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan bana"
+    },
+    {
+      "surface": "המה",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "saja"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "urang tu mangancangkan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:03:53.839460641Z",
+  "model": "glm-5.3"
+}

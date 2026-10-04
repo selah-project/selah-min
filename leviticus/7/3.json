@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo ⟨את⟩ sadoalah lamaknyo urang mandakek-an dari itu: ⟨את⟩ ikua lamak, jo ⟨את⟩ lamak nan manyalimuik ⟨את⟩ isi paruik.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sadoalah lamaknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "lamaknyo"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "urang mandakek-an"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikua lamak"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ikua lamak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "lamak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nan manyalimuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi paruik"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "isi paruik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:08.736717913Z",
+  "model": "glm-5.3"
+}

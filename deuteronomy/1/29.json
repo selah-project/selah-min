@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu ambo bakato kapado sanak: jan tagoriak, jo jan takuik kapado inyo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lalu ambo bakato"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "tagoriak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:54.728180479Z",
+  "model": "glm-5.3"
+}

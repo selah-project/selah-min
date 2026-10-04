@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 76,
+  "translation": "Katiko Elohim bangkik untuak manguadili, untuak manyalamaikan sado urang nan randah ati di bumi. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "Katiko bangkik"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "untuak manguadili"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "untuak manyalamaikan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "urang nan randah ati"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:59.145080396Z",
+  "model": "glm-5.3"
+}

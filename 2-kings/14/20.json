@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Urang tu mambaok ⟨את⟩ inyo di ateh kudo-kudo, lalu inyo dikubuaan di Yerushalayim basamo apak-apaknyo, di kota Dawid.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kudo-kudo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikubuaan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "apak-apaknyo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:31.555881188Z",
+  "model": "glm-5.3"
+}

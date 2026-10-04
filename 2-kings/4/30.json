@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo ibu anak itu bakato: Yahweh iduik, jo nyawomu iduik, indak ambo ka maninggaan awok. Kudian inyo bangkik jo pai mangikuikinyo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "jo iduik"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawomu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ambo maninggaan awok"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "mangikuikinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:57:08.606240047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Anak ambo, Torah ambo jangan lupo, jo parintah ambo ingek di ati ⟨kau⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lupo"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "jo parintah ambo"
+    },
+    {
+      "surface": "יצור",
+      "gloss": "ingek"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ati kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:14.443304194Z",
+  "model": "glm-5.3"
+}

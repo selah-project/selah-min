@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Sagalo karajo dibuek Yahweh untuak tujuannyo surang, bahkan urang jaah pun untuak ari kaburukoan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "untuak tujuannyo surang"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "bahkan pun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jaah"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "untuak ari"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kaburukoan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:58:01.132250010Z",
+  "model": "glm-5.3"
+}

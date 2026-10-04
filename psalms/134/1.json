@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 134,
+  "translation": "Lagu dapek naiak. Santuah, barekati ⟨את⟩ Yahweh, sado hamba Yahweh, nan tagak di rumah Yahweh pado malam-malam.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dapek naiak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Santuah"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barekati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "nan tagak"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "pado malam-malam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:08.201347327Z",
+  "model": "glm-5.3"
+}

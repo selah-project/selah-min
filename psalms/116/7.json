@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Baliaklah, napsu ambo, ka tampek barantian kau, karano Yahweh alah babuek elok kapado kau.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Baliaklah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napsu ambo"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "ka tampek barantian kau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "alah babuek elok"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "kapado kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:26.031476369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Baraik tajadi katiko rajo mandanga ⟨את⟩ kato-kato Torah itu, inyo mangoyak ⟨את》 pakaiannyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Baraik tajadi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "katiko mandanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato Torah itu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah itu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "inyo mangoyak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannyo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:00:12.452610254Z",
+  "model": "glm-5.3"
+}

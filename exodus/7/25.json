@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu genaplah tujuah ari sasudah Yahweh mamukua ⟨את⟩ Ye'or.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "genaplah"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "mamukua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ye'or"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Ye'or"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:40.999407005Z",
+  "model": "glm-5.3"
+}

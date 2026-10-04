@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo ⟨את⟩ Yatir jo ⟨את⟩ padang rumpuiknyo, jo ⟨את⟩ Esytemoa jo ⟨את⟩ padang rumpuiknyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Esytemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Esytemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:13.051773411Z",
+  "model": "glm-5.3"
+}

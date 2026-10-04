@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Yahweh, ambo pancintai tampek tingga rumah-Mu, jo tampek Mishkan kamuliaan-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ambo pancintai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tampek tingga"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah-Mu"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "jo tampek"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kamuliaan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:16.653600954Z",
+  "model": "glm-5.3"
+}

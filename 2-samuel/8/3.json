@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dawid juo mambalah ⟨את⟩ Hadadezer anak Rechob, rajo Zobah, katiko inyo pai untuak mambaliakan tangannyo di tapi batang aia.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mambalah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer anak Rechob, rajo Zobah"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zobah"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "katiko inyo pai"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "untuak mambaliakan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "di tapi batang aia"
+    }
+  ],
+  "timestamp": "2026-10-04T05:36:58.658129142Z",
+  "model": "glm-5.3"
+}

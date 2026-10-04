@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Mariantu, makanlah roti ambo, jo minumlah anggur nan alah ambo campua.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Mariantu"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "makanlah"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "roti ambo"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "jo minumlah"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "nan alah ambo campua"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:47.496797329Z",
+  "model": "glm-5.3"
+}

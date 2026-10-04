@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jan kau makan sagalo nan biasonyo bamomualan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "nan biasonyo bamomualan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:49.587913383Z",
+  "model": "glm-5.3"
+}

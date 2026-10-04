@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 11:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu urang tu bakato, saurang ka kawannyo: Mari kito buek batu bata, jo kito baka sampai tabaka; mako batu bata manjadi batu bagi urang tu, jo aspa lia manjadi papek bagi urang tu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lalu urang tu bakato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kawannyo"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "mari"
+    },
+    {
+      "surface": "נלבנה",
+      "gloss": "kito buek batu bata"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "batu bata"
+    },
+    {
+      "surface": "ונשרפה",
+      "gloss": "jo kito baka"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "sampai tabaka"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mako manjadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi urang tu"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "batu bata"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "והחמר",
+      "gloss": "jo aspa lia"
+    },
+    {
+      "surface": "היה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi urang tu"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "papek"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:03.085404158Z",
+  "model": "glm-5.3"
+}

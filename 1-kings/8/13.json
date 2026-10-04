@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Mambangun, alah ambo mambangun rumah tampek tingga untuak Angkau, tampek tagak untuak duduak Angkau salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "alah ambo mambangun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "tampek tingga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak Angkau"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tampek tagak"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "untuak duduak Angkau"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:59.665012423Z",
+  "model": "glm-5.3"
+}

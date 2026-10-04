@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Tsedeq, tsedeq awak agiah tau, supayo awak iduik jo awak barasiahi ⟨את⟩ tanah tu, nan Yahweh Elohim awak barikan kapado awak.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "awak agiah tau"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "awak iduik"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "jo awak barasiahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah tu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim awak"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "barikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:25.571759621Z",
+  "model": "glm-5.3"
+}

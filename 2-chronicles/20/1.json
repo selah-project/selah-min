@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Sasudah itu, urang Moab jo urang Ammon, jo basamo inyo urang Ammon nan lain, datang manyarang Yehoshafat untuak baperang.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Sasudah itu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "jo basamo inyo"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "urang Ammon nan lain"
+    },
+    {
+      "surface": "על",
+      "gloss": "manyarang"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuak baperang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:33:01.144435579Z",
+  "model": "glm-5.3"
+}

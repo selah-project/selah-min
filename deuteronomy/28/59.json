@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "deuteronomy 28:59",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "mako Yahweh ka mambuek lua biaso ⟨את⟩ panyakik-panyakik ang, jo ⟨את⟩ panyakik-panyakik katurunan ang — panyakik-panyakik nan gadang jo nan taruih-manaruah, jo panyakik-panyakik nan jaek jo nan taruih-manaruah.",
+  "tokens": [
+    {
+      "surface": "והפלא",
+      "gloss": "mambuek lua biaso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panyakik-panyakik ang"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "panyakik-panyakik ang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panyakik-panyakik katurunan ang"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "panyakik-panyakik"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "katurunan ang"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "panyakik-panyakik"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "ונאמנות",
+      "gloss": "jo nan taruih-manaruah"
+    },
+    {
+      "surface": "וחלים",
+      "gloss": "jo panyakik-panyakik"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "nan jaek"
+    },
+    {
+      "surface": "ונאמנים",
+      "gloss": "jo nan taruih-manaruah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:52.958569783Z",
+  "model": "glm-5.3"
+}

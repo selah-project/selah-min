@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo ⟨את⟩ lombu tu, ⟨את⟩ kuliknyo, ⟨את⟩ dagiangnyo, jo ⟨את⟩ taiinyo, inyo dibaka jo api di lua pakampuahan, sarupo nan diparentahkan Yahweh kapado ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lombu tu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lombu tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuliknyo"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "kuliknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagiangnyo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taiinyo"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "taiinyo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pakampuahan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:35.197771258Z",
+  "model": "glm-5.3"
+}

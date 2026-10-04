@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Lalu Yaakov dakek kapado Yitskhak abiaknyo, lalu inyo diraso; lalu inyo bakato: \"Suara ko suara Yaakov, tapi tangan-tangan ko tangan Esav.\"",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abiaknyo"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "diraso"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "suara ko"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "tapi tangan-tangan ko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:05.411448844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Anak panahmu nan tajam — urang banyak jatuah di bawahmu — talamak di ati musuah-musuah rajo.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "anak panahmu"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "nan tajam"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "di bawahmu"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "di ati"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuah-musuah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:19.793954790Z",
+  "model": "glm-5.3"
+}

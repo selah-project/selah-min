@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dan Binyamin manurunkan ⟨את⟩ Bela anak sulungnyo, Ashbel nan kaduo, jo Ajarakh nan katigo.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Dan Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak sulungnyo"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "jo Ajarakh"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nan katigo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:24.159640721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Baranti dari amuak, jo tinggakan paneh murko; jangan barangeh — dek itu hanyo mambauek kajaatannyo.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Baranti"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "dari amuak"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "jo tinggakan"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "paneh murko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "barangeh"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dek itu hanyo"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "mambauek kajaatannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:05.076643872Z",
+  "model": "glm-5.3"
+}

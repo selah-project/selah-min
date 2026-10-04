@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "⟨את⟩ Ramoth jo ⟨את⟩ tampek pataranannyo, ⟨את⟩ Anem jo ⟨את⟩ tampek pataranannyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ramoth"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tampek pataranannyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tampek pataranannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Anem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tampek pataranannyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tampek pataranannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:11.115918808Z",
+  "model": "glm-5.3"
+}

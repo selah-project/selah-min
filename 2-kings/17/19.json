@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Yehudah juo indak manjago ⟨את⟩ parentah Yahweh Elohim urang tu, tapi urang tu bajalan jo adaik-adaik nan dipatuik dek Yisrael, nan karajoan urang tu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "manjago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim urang tu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "tapi urang tu bajalan"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "jo adaik-adaik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "karajoan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:03:09.954473049Z",
+  "model": "glm-5.3"
+}

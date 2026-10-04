@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Yonatan malangkoki ⟨את⟩ pos Plishtim nan ado di Giva, lalu Plishtim mandangaannyo; jo Saul manyarankan shofar kasado tanah, maingekan: Bia urang Ibrani mandanga!",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "malangkoki"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pos Plishtim"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "pos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "di Giva"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "lalu mandangaannyo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtim"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "jo Saul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "manyarankan"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kasado"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "maingekan"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bia mandanga"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "urang Ibrani"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:48.393056885Z",
+  "model": "glm-5.3"
+}

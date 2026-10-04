@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Tapi Esau balari ka arah inyo, jo maangkuak inyo, jo jatuah ka lihianyo, jo mancium inyo, jo mareka manangih.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "balari"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ka arah inyo"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "maangkuak inyo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "lihianyo"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "mancium inyo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "manangih"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:43.100631363Z",
+  "model": "glm-5.3"
+}

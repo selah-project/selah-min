@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lalu dipakabaikan ka Dawid ⟨את⟩ nan alah dikerajoahkan dek Ritspah anak padusi Aya, gundik Saul.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dipakabaikan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan alah dikerajoahkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "dikerajoahkan"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "gundik"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-10-04T05:42:54.932658616Z",
+  "model": "glm-5.3"
+}

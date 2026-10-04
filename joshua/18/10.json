@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 18:10",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Yehosua mambuang undi untuak urang tu di Shiloh, di muko Yahweh; di sinan Yehosua mambagi ⟨את⟩ bumi ko kapado anak-anak Yisrael manuruik pamabagiannyo.",
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "mambuang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak urang tu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "undi"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "di Shiloh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויחלק",
+      "gloss": "mambagi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi ko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi ko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kapado anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "manuruik pamabagiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:09:13.459268736Z",
+  "model": "glm-5.3"
+}

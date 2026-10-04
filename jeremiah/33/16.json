@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 33:16",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Pado ari-ari itu Yehudah ka salamaik, jo Yerushalayim ka tingga dangan aman; jo iko ⟨namo⟩ nan ka dipanggia kapadonyo: Yahweh Tsidqenu.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "pado ari-ari"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "itu"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "ka salamaik"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jo Yerushalayim"
+    },
+    {
+      "surface": "תשכון",
+      "gloss": "ka tingga"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "dangan aman"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ka dipanggia"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדקנו",
+      "gloss": "Tsidqenu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:39:07.289568183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Kok tapakai apak mangirim ⟨את⟩ sanak kami ⟨את⟩ basamo awak urang, turunkami, jo kamilah mambali untuak apak makanan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "tapakai"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanak kami"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "sanak kami"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ basamo awak urang"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "turunkami"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "jo kamilah mambali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak apak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:38.444509816Z",
+  "model": "glm-5.3"
+}

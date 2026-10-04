@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Yahweh managakkan urang nan randah ati, inyo mandasakan urang jahat sampai ka bumi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "managakkan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "urang nan randah ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "mandasakan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:55.971520328Z",
+  "model": "glm-5.3"
+}

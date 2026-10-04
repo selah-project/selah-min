@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Karano pambaikan-pambaikanki lah malampoi kapalaku, sarupo ameh nan barek, lah barek bana untuak ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "pambaikan-pambaikanki"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "lah malampoi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalaku"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "sarupo babinan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nan barek"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "lah barek bana"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:46.490652127Z",
+  "model": "glm-5.3"
+}

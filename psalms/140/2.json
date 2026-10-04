@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 140,
+  "translation": "Lapaskan ambo, Yahweh, dari urang jahat; dari urang karasasan ⟨ Sanak ⟩ jago ambo.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "lapaskan ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dari urang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari urang"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "karasasan"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "jago ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:58.397451529Z",
+  "model": "glm-5.3"
+}

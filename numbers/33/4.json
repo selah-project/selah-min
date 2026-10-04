@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Urang Mitsrayim mangubuaan ⟨את⟩ nan-dipukua dek Yahweh di antaro inyo, sagalo anak sulung; jo kapado elohim-elohim inyo Yahweh mangarajokan panghukuman-panghukuman.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "jo urang Mitsrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "mangubuaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan-dipukua dek Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "dipukua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di antaro inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "jo kapado elohim-elohim inyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mangarajokan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "panghukuman-panghukuman"
+    }
+  ],
+  "timestamp": "2026-10-04T04:50:43.649749778Z",
+  "model": "glm-5.3"
+}

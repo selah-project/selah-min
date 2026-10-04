@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Pado wakatu itu Khizkiyahu mamanciang ⟨את⟩ daun-daun pintu istano Yahweh jo ⟨את⟩ tiang-tiang nan alah ditumpangi ameh dek Khizkiyahu rajo Yehuda, lalu maâagiahnyo kapado rajo Ashur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "pado wakatu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "mamanciang"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daun-daun pintu istano Yahweh"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "daun-daun pintu"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "istano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "alah ditumpangi ameh"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "dek Khizkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "lalu maâagiahnyo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kapado rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:03.603670287Z",
+  "model": "glm-5.3"
+}

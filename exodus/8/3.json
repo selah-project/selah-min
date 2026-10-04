@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Urang-urang panenung mambuek pulo baitu jo ilimu sirah masiang-masiang, lalu inyo mandataangan ⟨את⟩ katak-katak ateh bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mambuek pulo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "Urang-urang panenung"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "jo ilimu sirah masiang-masiang"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "lalu inyo mandataangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katak-katak"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:08.865771526Z",
+  "model": "glm-5.3"
+}

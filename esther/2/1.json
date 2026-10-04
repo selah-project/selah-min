@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Sasudah kajadian-kajadian itu, katiko murko rajo Akhashverosh maila, inyo mangana ⟨את⟩ Washti, jo ⟨את⟩ nan alah inyo buek, jo ⟨את⟩ nan alah diputuih atehnyo.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kajadian-kajadian itu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "katiko maila"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "murko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Washti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Washti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nan alah inyo buek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "alah inyo buek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nan alah diputuih atehnyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "alah diputuih"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:06.920080730Z",
+  "model": "glm-5.3"
+}

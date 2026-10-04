@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo kok inyo tiup jo kaduo-duonyo, mako sagalo jamaah tu bakumpua kapado dirimu, di mungko pintu Khemah Patamuan.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "kok inyo tiup"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "jo kaduo-duonyo"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "mako bakumpua"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado dirimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di mungko"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:29.370684465Z",
+  "model": "glm-5.3"
+}

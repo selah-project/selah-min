@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Hikmah mandakek ka ⟨את⟩ muko urang nan paham, tapi mato urang bodoh ka ujuang-ujuang bumi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko urang nan paham"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "urang nan paham"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "tapi mato"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "di ujuang-ujuang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:57:42.695751778Z",
+  "model": "glm-5.3"
+}

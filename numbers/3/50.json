@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Dari ⟨את⟩ anak-anak sulung bani Yisrael inyo maambiak ⟨את⟩ pitih tu: limo puluah anam saribu tigo ratus limo puluah anam syikal, manuruik syikal kasucian.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitih tu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pitih tu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "limo"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "jo anam puluah"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "jo tigo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "saribu"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "manuruik syikal"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kasucian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:13.224065516Z",
+  "model": "glm-5.3"
+}

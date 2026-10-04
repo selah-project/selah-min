@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo ⟨את⟩ Kibtsayim jo ⟨את⟩ padang rumbunnyo, jo ⟨את⟩ Beit Horon jo ⟨את⟩ padang rumbunnyo — ampek koto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Kibtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumbunnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumbunnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Beit Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumbunnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumbunnyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "koto"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:03.113075703Z",
+  "model": "glm-5.3"
+}

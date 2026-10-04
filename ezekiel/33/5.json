@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Suaro shofar alah dicalaminyo, tapi inyo indak mandapek paringatan — darahnyo ka ateh dirinyo surang; tapi kalau inyo mandapek paringatan, nyawonyo salamaik.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaro shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dicalaminyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "mandapek paringatan"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ateh dirinyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "tapi inyo"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "mandapek paringatan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawonyo"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "salamaik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:00:07.946164110Z",
+  "model": "glm-5.3"
+}

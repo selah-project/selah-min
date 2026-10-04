@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Baranak lamaknyo kato-Mu di langik-langik muluik ambo — labiah lamak dari madu di muluik ambo!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "baranak"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "di langik-langik muluik ambo"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kato-Mu"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "dari madu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "di muluik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:07.294424837Z",
+  "model": "glm-5.3"
+}

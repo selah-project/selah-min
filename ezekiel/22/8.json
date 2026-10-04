@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Baro suci-Ku angkau hinoi, jo ⟨את⟩ Shabat-Shabat-Ku angkau barosek.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "baro suci-Ku"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "hinoi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat-Shabat-Ku"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabat-Shabat-Ku"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "barosek"
+    }
+  ],
+  "timestamp": "2026-10-04T06:54:12.486138800Z",
+  "model": "glm-5.3"
+}

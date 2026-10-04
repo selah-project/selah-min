@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu Moshe manghituang, sasuai jo parentah Yahweh ⟨את⟩ kapadonyo, ⟨את⟩ sagalo anak patamo di antaro anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "lalu manghituang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sasuai jo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kapadonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo anak patamo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "anak patamo"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "di antaro anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:20.639610200Z",
+  "model": "glm-5.3"
+}

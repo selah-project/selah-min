@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Sasungguahnyo musuah kito alah ilang — api lah makan siso-siso inyo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sasungguahnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak lai"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "musuah kito"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "siso-siso inyo"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "makan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-10-04T08:08:53.962856074Z",
+  "model": "glm-5.3"
+}

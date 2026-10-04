@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Lupak-an ambo dari darah, wahai Elohim, Elohim nan salamaik-an ambo; mako lido ambo ka manyanyiak tsedaqat-Mu.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "lupak-an ambo"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "dari darah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nan"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "salamaik-an ambo"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "ka manyanyiak"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lido ambo"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedaqat-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:37.121925810Z",
+  "model": "glm-5.3"
+}

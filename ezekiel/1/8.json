@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo tangan manusia di bawah sayok inyo, pado ampek sisi inyo, jo muko inyo jo sayok inyo — ampek ampeknyo.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "jo tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "sayok inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "sisi inyo"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "jo muko inyo"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "jo sayok inyo"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "ampek ampeknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:47:13.664970961Z",
+  "model": "glm-5.3"
+}

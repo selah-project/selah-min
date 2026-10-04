@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Yekhizkiyahu jo pangulu-pangulu masuak jo caliak ⟨את⟩ tumpuak-tumpuak tu, lalu marek basyukua kapado ⟨את⟩ Yahweh jo ⟨את⟩ kaum-Nyo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yekhizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "jo pangulu-pangulu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "jo caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumpuak-tumpuak tu"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "tumpuak-tumpuak tu"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "lalu marek basyukua kapado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaum-Nyo Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaum-Nyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T08:58:08.706057404Z",
+  "model": "glm-5.3"
+}

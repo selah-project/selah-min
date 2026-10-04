@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo kaukarih pulo ciek mezbah untuak mambaka ketoret; dari kayu shitim kaukarih ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo kaukarih pulo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "untuak mambaka"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ketoret"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dari kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kaukarih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "mezbah iko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:31.722508676Z",
+  "model": "glm-5.3"
+}

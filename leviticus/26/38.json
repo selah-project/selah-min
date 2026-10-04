@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo urang tu ka punah di antaro bangso-bangso, jo bumi musuah-musuah sanang ka mamakan ⟨את⟩ urang tu.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "urang tu ka punah"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antaro bangso-bangso"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ka mamakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuah-musuah sanang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:50.578848758Z",
+  "model": "glm-5.3"
+}

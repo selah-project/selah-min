@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Yahweh tampak kapado Shelomoh untuak nan kaduo kalinyo, sarupo inyo alah tampak kapado inyo di Givon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "tampak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "untuak nan kaduo kalinyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "lah tampak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "di Givon"
+    }
+  ],
+  "timestamp": "2026-10-04T05:49:07.698079571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu inyo mambuek ⟨את⟩ batang-batang itu dari kayu akasia, ⟨את⟩ jo inyo malapihnyo jo ameh, untuak mambaok ⟨את⟩ meja itu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batang-batang itu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "batang-batang itu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "malapihnyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jo inyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "untuak mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja itu"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:16.842026036Z",
+  "model": "glm-5.3"
+}

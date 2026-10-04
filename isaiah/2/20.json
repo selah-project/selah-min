@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Pado ari itu manusia mambuang ⟨את⟩ patuang-patuang peraknyo jo ⟨את⟩ patuang-patuang amehnyo, nan urang-urang buek untuak dirinyo kok inyo manyambah, kapado curut-curut jo kapado kampanggalari.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "mambuang"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patuang-patuang peraknyo"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "patuang-patuang"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "peraknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "patuang-patuang amehnyo"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "patuang-patuang"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "amehnyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "urang-urang buek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak dirinyo"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "kok inyo manyambah"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "kapado curut-curut"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "curut-curut"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "jo kapado kampanggalari"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:48.259259693Z",
+  "model": "glm-5.3"
+}

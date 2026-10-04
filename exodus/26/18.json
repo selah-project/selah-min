@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo awak buek ⟨את⟩ papan-papan untuak Mishkan: dua puluah papan ka arah salatan, ka tapi selatan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo awak buek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "untuak Mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluah"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "papan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "salatan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ka tapi selatan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:15.813853828Z",
+  "model": "glm-5.3"
+}

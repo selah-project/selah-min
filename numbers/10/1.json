@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu Yahweh bakato kapado Moshe, katannyo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:29.370285220Z",
+  "model": "glm-5.3"
+}

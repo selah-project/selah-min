@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 31:15",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo inyo bangkik sadang malam, jo agiah makanan ka rumah tanggonyo, jo sajo ka pambantu-pambantunyo.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "jo inyo bangkik"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "sadang"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "jo agiah"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "ka rumah tanggonyo"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "jo sajo"
+    },
+    {
+      "surface": "לנערתיה",
+      "gloss": "ka pambantu-pambantunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:32.753936378Z",
+  "model": "glm-5.3"
+}

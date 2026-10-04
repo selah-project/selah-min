@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Ambo-ama kami mahasuik, jo inyo indak lai; kamilah nan mamikua doso-doso inyo.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ambo-ama kami"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mahasuik"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "indak lai"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kamilah"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "doso-doso inyo"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "mamikua"
+    }
+  ],
+  "timestamp": "2026-10-04T08:19:59.938570910Z",
+  "model": "glm-5.3"
+}

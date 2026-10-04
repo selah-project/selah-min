@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Indak aka jado kaba buruak mandakek kapado sanak, jo panyakik indak aka mandakek jo lamek-lamek ka khemah sanak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "aka jado"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kaba buruak"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "jo panyakik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "aka mandakek"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ka khemah sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:01.685026690Z",
+  "model": "glm-5.3"
+}

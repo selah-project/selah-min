@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Akhimaats di Naftali; inyo pulo ambiak ⟨את⟩ Bosmat anak padusi Shelomoh manjadi bini.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Akhimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "di Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pulo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bosmat anak padusi Shelomoh"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "manjadi bini"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:20.807044009Z",
+  "model": "glm-5.3"
+}

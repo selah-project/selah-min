@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Anak-anak Elpaal: Ever, jo Misham, jo Shamed — inyo lah nan mambangun ⟨את⟩ Ono jo ⟨את⟩ Lod jo kampuang-kampuangnyo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "jo Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "jo Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo lah"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "jo kampuang-kampuangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:01.508356591Z",
+  "model": "glm-5.3"
+}

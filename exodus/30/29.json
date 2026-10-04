@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Dan angku manyucikan ⟨את⟩ inyo, dan inyo manjadi suci nan paliang suci; sagalo nan manyantuah inyo ka saci.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "angku manyucikan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan inyo manjadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nan paliang suci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nan manyantuah"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ka saci"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:33.091262899Z",
+  "model": "glm-5.3"
+}

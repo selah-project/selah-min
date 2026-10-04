@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Adoki ambo sasuai jo tsedeq-Mu, Yahweh Elohim ambo, jo jan bia ka mandanga ati atas ambo.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Adoki ambo"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "sasuai jo tsedeq-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mandanga ati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "atas ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:25.672979405Z",
+  "model": "glm-5.3"
+}

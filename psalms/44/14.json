@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Engkau mambuek kami manjadi aib di mato tatanggo kami, sansaro jo bahan galak untuak urang-urang nan mangaliliangi kami.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "mambuek kami manjadi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "aib"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "untuak tatanggo kami"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "sansaro"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "dan bahan galak"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "untuak urang-urang nan mangaliliangi kami"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:11.003378422Z",
+  "model": "glm-5.3"
+}

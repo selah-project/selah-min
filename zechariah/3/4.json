@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 3:4",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu inyo manjawaik jo bakato kapado urang-urang nan tagak di mukonyo, bakato: Tangkok pakaian tapakia tu dari badannyo. Lalu bakato kapadonyo: Caliak, ambo alah maagiah lalu duso angkau dari ateh angkau, jo ambo mamakaian angkau jo pakaian pesta.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lalu manjawaik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "urang-urang nan tagak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "tangkok"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "הצאים",
+      "gloss": "tapakia"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "dari badannyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "העברתי",
+      "gloss": "ambo alah maagiah lalu"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "dari ateh angkau"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "duso angkau"
+    },
+    {
+      "surface": "והלבש",
+      "gloss": "jo mamakaian"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ angkau",
+      "marks": "pakaian pesta"
+    },
+    {
+      "surface": "מחלצות",
+      "gloss": "pakaian pesta"
+    }
+  ],
+  "timestamp": "2026-10-04T07:19:24.770857995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo kini, hai panduduak Yerushalayim jo urang Yehuda, hakamilah kini antaro ambo jo kebun anggur ambo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "hakamilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antaro ambo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "kebun anggur ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:50.555410388Z",
+  "model": "glm-5.3"
+}

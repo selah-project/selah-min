@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Lalu Paroh mareh parentah pado ari nan samo juo kapado ⟨את⟩ mandor-mandor panegek urang itu jo ⟨את⟩ para pangawasonyo, mangecek:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "lalu mareh parentah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nan samo juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mandor-mandor panegek urang itu"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "mandor-mandor panegek"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "urang itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "para pangawasonyo"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "para pangawasonyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:54.214672401Z",
+  "model": "glm-5.3"
+}

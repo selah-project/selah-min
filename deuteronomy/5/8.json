@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jan kalian buek untuak diri kalian patuang, bantuak apo pun nan ado di langik di ateh, jo nan ado di bumi di bawah, jo nan ado di aia di bawah bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kalian buek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak diri kalian"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patuang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apo pun"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "bantuak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo nan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo nan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di aia"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:42.552383594Z",
+  "model": "glm-5.3"
+}

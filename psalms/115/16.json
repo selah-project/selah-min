@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 115,
+  "translation": "Langik, sakali langik, adolah ⟨punyo⟩ Yahweh; tapi bumi diagiah-Nyo kapado anak-anak Adam.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sakali langik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "punyo Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "tapi bumi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diagiah-Nyo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kapado anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:55.334521515Z",
+  "model": "glm-5.3"
+}

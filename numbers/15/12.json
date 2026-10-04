@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Manuruik jomlah nan awak buek, sarupo itu pulo awak buek untuak masiang-masiang manuruik jomlahnyo.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "manuruik jomlah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "awak buek"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "sarupo itu pulo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "awak buek"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "untuak masiang-masiang"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "manuruik jomlahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:43:43.112076294Z",
+  "model": "glm-5.3"
+}

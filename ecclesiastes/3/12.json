@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Ambo tau baso indak ado nan elok bagi urang, kacuali untuak baguria jo untuak buek elok salamo inyo iduik.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ambo tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bagi urang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kacuali"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "untuak baguria"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "jo untuak buek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "salamo iduiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:46.558158354Z",
+  "model": "glm-5.3"
+}

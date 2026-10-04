@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Mako hujan awak sanak ambo agiah pado wakatunyo, jo tanah maagiah hasianyo, jo kayu-kayu di ladang maagiah buahnyo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mako ambo agiah"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "hujan awak sanak"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "pado wakatunyo"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "jo maagiah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "hasianyo"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "jo kayu-kayu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:32.267204879Z",
+  "model": "glm-5.3"
+}

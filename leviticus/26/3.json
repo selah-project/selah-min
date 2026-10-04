@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Kok dalam sangoo-sangoo ambo sanak bajalan, jo ⟨את⟩ parentah-parentah ambo dijago, jo dikarajo-an ⟨את⟩ inyo-i:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "dalam sangoo-sangoo ambo"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "sanak bajalan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "parentah-parentah ambo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah-parentah ambo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "dijago"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "jo dikarajo-an"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo-i",
+      "marks": "parentah-parentah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:32.267065743Z",
+  "model": "glm-5.3"
+}

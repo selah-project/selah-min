@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Tapi urang tu takuik ⟨את⟩ kapado Elohim, urang tu indak mambuek sarupo nan dikatokan kapado urang tu dek rajo Mitsrayim, tapi mambiakan iduik ⟨את⟩ anak-anak tu.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "urang tu takuik"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nan dikatokan"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "mambiakan iduik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak tu"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "anak-anak tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:15.908736783Z",
+  "model": "glm-5.3"
+}

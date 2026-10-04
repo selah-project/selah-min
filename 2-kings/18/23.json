@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo kini, baradiahanlah kiro-kiro jo ⟨את⟩ tuan ambo, jo ⟨את⟩ rajo Ashur — kok ambo kaagiah kapadomu duo ribu kudo, kok dapek dirimu maagiah untuak dirimu panunggang ka atehnyo?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "baradiahanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiro-kiro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuan ambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "kok ambo kaagiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapadomu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duo ribu"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kudo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "dapek dirimu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak dirimu"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "panunggang"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:03:22.503778090Z",
+  "model": "glm-5.3"
+}

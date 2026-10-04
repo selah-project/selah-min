@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo Balak anak Tsipor caliak ⟨את⟩ sagalo nan alah dibaikan dek Yisrael kapado urang Amori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah dibaikan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kapado urang Amori"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:21.508343958Z",
+  "model": "glm-5.3"
+}

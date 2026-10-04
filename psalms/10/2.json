@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Dek kabanggaan urang jahat, urang sanang tapadang; inyo tatangkok dalam rancangan nan alah inyo pikia",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "Dek kabanggaan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "tapadang"
+    },
+    {
+      "surface": "עני",
+      "gloss": "urang sanang"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "inyo tatangkok"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "dalam rancangan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "inyo pikia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:06.944742456Z",
+  "model": "glm-5.3"
+}

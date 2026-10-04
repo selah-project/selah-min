@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo nan inyo buek itu jahat di mato Yahweh, mako inyo mamatuih inyo juo.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inyo buek"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mamatuih"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Onan)"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:49.698766462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 58,
+  "translation": "Apo bana, mandam-dam, tsedeq kalian ucapkan? Nan luruik kalian hukum, anak-anak Adam?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "apo bana"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "mandam-dam"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "kalian ucapkan"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "nan luruik"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "kalian hukum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:37.577914579Z",
+  "model": "glm-5.3"
+}

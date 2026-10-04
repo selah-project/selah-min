@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Dalam parentah-parentah-Mu ambo barenung, jo ambo mamandang jalan-jalan-Mu.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "dalam parentah-parentah-Mu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ambo barenung"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "jo ambo mamandang"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "jalan-jalan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:21.270269629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Bacak elok raso cinto muo, sudaro kanduang ambo, pangantin! Bacak lamak raso cinto muo dari anggur, jo baio minyak muo malabihi sagalo bawang-bawang!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bacak"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "elok"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "raso cinto muo"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sudaro kanduang ambo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pangantin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bacak"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "raso cinto muo"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "dari anggur"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "jo baio"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "minyak muo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "malabihi sagalo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "bawang-bawang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:15:01.167917361Z",
+  "model": "glm-5.3"
+}

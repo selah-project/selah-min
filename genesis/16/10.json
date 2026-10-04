@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu malaika Yahweh bakato kapadonyo: Paguno banjak-banjak ambo ⟨את⟩ beniahmu, sampai indak dapek dihituang karano banyaknyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "banjak-banjak"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "paguno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beniahmu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniahmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sampai indak"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "dapek dihituang"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "karano banyaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:04.540574334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Tapi kok inyo malueh bana di kulik, jo imam manyatoan inyo ⟨את⟩ indak barasiah: inyo tu panyakik.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tapi kok"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "malueh"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "malueh bana"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "di kulik"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "manyatoan indak barasiah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (urang nan disakik)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "panyakik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:19.823679151Z",
+  "model": "glm-5.3"
+}

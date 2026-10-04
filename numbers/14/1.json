@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Lalu sadoalah jamaah mangangkek suaronyo, mangaluan ⟨את⟩ suaronyo, jo urang tu manangih pado malam itu.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mangaluan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaronyo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "suaronyo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "manangih"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pado malam"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:42:54.921582893Z",
+  "model": "glm-5.3"
+}

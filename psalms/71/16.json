@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Ambo ka tibo jo kakuatan Adonai Yahweh; ambo ka manganang tsedeq-Mu, Erikah sajo.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ambo ka tibo"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "jo kakuatan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ambo ka manganang"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeq-Mu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "Erikah sajo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:41.279062026Z",
+  "model": "glm-5.3"
+}

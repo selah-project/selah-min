@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Dan urang tu mangangkek ⟨את⟩ bareh balinyo ka ateh keledai masiang-masiang, lalu bajalan dari sinan.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bareh balinyo"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "bareh balinyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "keledai masiang-masiang"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:56.878153383Z",
+  "model": "glm-5.3"
+}

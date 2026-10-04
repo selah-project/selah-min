@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sadangkan awak tu mahinokan ⟨את⟩ inyo, katiko bakato: Meja Adonai tacemar inyo, jo buahnyo hina makanannyo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "sadangkan awak tu"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "mahinokan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Namo ambo (Yahweh)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "katiko bakato"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "Meja"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "tacemar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "jo buahnyo"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "hina"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "makanannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:23.448526590Z",
+  "model": "glm-5.3"
+}

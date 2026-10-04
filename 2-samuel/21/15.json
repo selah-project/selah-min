@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lalu ado lai parang urang Palisya malawan ⟨את⟩ Yisrael; turunlah Dawid jo hamba-hambanyo basamo inyo, jo urang tu bajurang malawan ⟨את⟩ Palisya, jo Dawid kalahia.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "lalu ado"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "parang"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "untuak urang Palisya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "jo hamba-hambanyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "jo urang tu bajurang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Palisya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palisya"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "kalahia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T05:42:50.271412957Z",
+  "model": "glm-5.3"
+}

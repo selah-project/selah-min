@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 2:2",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Pai, jo saraokan ka talingo Yerushalayim, nak bakato: Bakehiko kato Yahweh: Ambo ingek ka awak ⟨elok⟩ maso mudo awak, kasiah maso pangantin awok, katiko awok mangikuik ambo di gurun, di tanah nan indak ditabua.",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "jo saraokan"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ka talingo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nak bakato"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bakehiko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "ambo ingek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka awak"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed ⟨elok⟩"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "maso mudo awak"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "kasiah"
+    },
+    {
+      "surface": "כלולתיך",
+      "gloss": "maso pangantin awok"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "katiko awok mangikuik"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "זרועה",
+      "gloss": "ditabua"
+    }
+  ],
+  "timestamp": "2026-10-04T06:26:16.445703766Z",
+  "model": "glm-5.3"
+}

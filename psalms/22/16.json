@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Kakuatan ambo karing bak pecah tanah, lido ambo malakek ka rahang ambo, jo Ka ma dabu kamatian ambo alah mambujuakannyo.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "karing"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "bak pecah tanah"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kakuatan ambo"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "lido ambo"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "malakek ka"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "rahang ambo"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "jo ka dabu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatian"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "mambujuakannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:20.629729737Z",
+  "model": "glm-5.3"
+}

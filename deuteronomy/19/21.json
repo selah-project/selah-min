@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jan mato ⟨ambo⟩ basayang: nyao bana nyao, mato bana mato, gigi bana gigi, tangan bana tangan, kaki bana kaki.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "basayang"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "mato ⟨ambo⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyao"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "bana nyao"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "bana mato"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "bana gigi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bana tangan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "bana kaki"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:17.493358321Z",
+  "model": "glm-5.3"
+}

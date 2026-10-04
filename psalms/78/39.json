@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Jo Inyo ingek baso inyo dagiang, ruakh nan lapeh jo nan indak baliak.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Jo Inyo ingek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nan lapeh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo nan indak"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "baliak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:28.262174576Z",
+  "model": "glm-5.3"
+}

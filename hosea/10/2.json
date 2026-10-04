@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Ati mareko alah mailau; kini mareko ka basalah; Iyo ka mangampek mazbah-mazbah mareko, ka mahancua tiang-tiang mareko.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "mailau"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ati mareko"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ka basalah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "ka mangampek"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "mazbah-mazbah mareko"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "ka mahancua"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "tiang-tiang mareko"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:26.148593764Z",
+  "model": "glm-5.3"
+}

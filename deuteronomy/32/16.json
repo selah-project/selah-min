@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Tuhan-tuhan asiang mambuek inyo cemburu; dek baro nan jijik inyo dibuek murka.",
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "mambuek inyo cemburu"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "tuhan-tuhan asiang"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "dek baro nan jijik"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "inyo dibuek murka"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:50.934055139Z",
+  "model": "glm-5.3"
+}

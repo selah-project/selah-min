@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 5:10",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Ambo juo, dunsanak-dunsanak ambo jo bujang-bujang ambo, manjariahan kapado urang tu perak jo padi; bia kito tinggakan kini ⟨את⟩ ban iko.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dunsanak-dunsanak ambo"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "jo bujang-bujang ambo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "manjariahan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "jo padi"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "bia kito tinggakan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ban iko"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ban"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T08:36:27.348817947Z",
+  "model": "glm-5.3"
+}

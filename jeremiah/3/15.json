@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo ambo ka agiah ka jamu panggombala sasuai ati ambo, jo inyo ka manggombalakan ⟨את⟩ jamu jo pangatahuan jo pangarati.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jo ka agiah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka jamu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "panggombala"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "sasuai ati ambo"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "jo ka manggombalakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jamu"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "pangatahuan"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "jo pangarati"
+    }
+  ],
+  "timestamp": "2026-10-04T06:27:57.151223296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Anak ambo, kok ambiak ambo kato-kato ambo, jo parentah-parentah ambo simpan ⟨di dalam⟩ diri ⟨sanak⟩;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ambiak"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kato-kato ambo"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "jo parentah-parentah ambo"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "simpan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "diri sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:35.873555420Z",
+  "model": "glm-5.3"
+}

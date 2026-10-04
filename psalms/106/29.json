@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 106:29",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Karajo-karajo mako urang tu mambuek bana taraso, jo wabah mareteak di antaro urang tu.",
+  "tokens": [
+    {
+      "surface": "ויכעיסו",
+      "gloss": "mambuek bana taraso"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "dek karajo-karajo urang tu"
+    },
+    {
+      "surface": "ותפרץ",
+      "gloss": "jo mareteak"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di antaro urang tu"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "wabah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:25.665895437Z",
+  "model": "glm-5.3"
+}

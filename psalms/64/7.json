@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Inyo mancali-cali kasalahan; kami alah manyalasaian pancalikan nan sampurno, kato inyo; jo isi batinyo sasaurang, jo ati, danaamnyo.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "inyo mancali-cali"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kasalahan"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "kami alah manyalasaian"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "pancalikan"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "nan sampurno"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "jo isi batinyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sasaurang"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "jo ati"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "danaamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:51.367948470Z",
+  "model": "glm-5.3"
+}

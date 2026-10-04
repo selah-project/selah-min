@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Urang jahat mangidam jariah kajahatan; tapi akar urang tsedeq maagiah ⟨buah⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "mangidam"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "jariah"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "tapi akar"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang tsedeq"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maagiah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:16.297325015Z",
+  "model": "glm-5.3"
+}

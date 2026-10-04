@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Iko, dalam kadurhakaan ambo dilahiakan, jo dalam doso ibu ambo manganduang ambo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "dalam kadurhakaan"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ambo dilahiakan"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "jo dalam doso"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "manganduang ambo"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibu ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:55.235599603Z",
+  "model": "glm-5.3"
+}

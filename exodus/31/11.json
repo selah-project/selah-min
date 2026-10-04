@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "jo ⟨את⟩ minyak urapan jo ⟨את⟩ udu-uduan rempah-rempah untuak tampek nan suci; sagalo nan ambo suruah ka angkau, bueknyo inyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "udu-uduan rempah-rempah"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "udu-uduan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rempah-rempah"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "untuak tampek nan suci"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ambo suruah ka angkau"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bueknyo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:35.819199364Z",
+  "model": "glm-5.3"
+}

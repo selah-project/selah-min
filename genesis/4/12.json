@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Karano katiko ang bakarajo ⟨את⟩ tanah itu, inyo indak ka lai mangasihi kakuatannyo kapado ang; urang nan pai jo balilik jo urang nan bagaua ang ka jadi di bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano katiko"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ang bakarajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ka lai"
+    },
+    {
+      "surface": "תת",
+      "gloss": "mangasihi"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "kakuatannyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ang"
+    },
+    {
+      "surface": "נע",
+      "gloss": "urang nan pai jo balilik"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "urang nan bagaua"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ang ka jadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:53.884329121Z",
+  "model": "glm-5.3"
+}

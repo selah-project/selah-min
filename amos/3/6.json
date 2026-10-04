@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Kok sarune dibunyian di sabuah koto, sadang rakyek indak gatah? Kok ado kajahatan di sabuah koto, sadang Yahweh indak nan mambueknyo?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "dibunyian"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sarune"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di sabuah koto"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "sadang rakyek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "gatah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok ado"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di sabuah koto"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "sadang Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:48.528412884Z",
+  "model": "glm-5.3"
+}

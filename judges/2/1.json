@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 2:1",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu naiak surang malaika Yahweh dari Gilgal ka Bokhim, jo bakato: Ambo alah manaiak-an ⟨את⟩ kamu dari Mitsrayim, jo ambo alah mambaok ⟨את⟩ kamu ka bumi nan alah sumpah ambo kapado ambo-ambo niniak moyang awak; jo ambo alah bakato: ambo indak ka mambuek batal parjanjian ambo ⟨jo⟩ kamu salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lalu naiak"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבכים",
+      "gloss": "Bokhim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "alah manaiak-an awak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu (objek dari manaiak-an, dari Mitsrayim)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "jo ambo mambaok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu (objek dari mambaok, ka bumi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ampai sumpah ambo"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "kapado niniak moyang awak"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jo ambo bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "mambuek batal"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian ambo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jo kamu",
+      "marks": "parjanjian ambo jo kamu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:07:05.442381623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Caliak parjanjian sanak, karano tampek-tampek lomok di bumi lah panuah rumah karasakan.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "parjanjian sanak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "lah panuah"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "tampek-tampek lomok"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "karasakan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:51.096075230Z",
+  "model": "glm-5.3"
+}

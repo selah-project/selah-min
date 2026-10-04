@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo kau buek untuaknyo bingkai satepan tangan sakaliliang, jo kau buek untuak bingkainyo mahkota ameh sakaliliang.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo kau buek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "bingkai"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "satepan tangan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "jo kau buek"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "untuak bingkainyo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:41.105713908Z",
+  "model": "glm-5.3"
+}

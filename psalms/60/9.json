@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Gilad punyo ambo, jo Menashsheh punyo ambo; Efrayim kakuatan kapalo ambo; Yehudah pangacak hukum ambo.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "punyo ambo"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "jo punyo ambo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo ambo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "pangacak hukum ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:57.200034376Z",
+  "model": "glm-5.3"
+}

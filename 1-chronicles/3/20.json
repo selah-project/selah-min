@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Hashubah, jo Ohel, jo Berekhyah, jo Hasadyah, jo Yushab-hesed — limo urang.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "jo Hashubah"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "jo Ohel"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "jo Berekhyah"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "jo Hasadyah"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Yushab-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limo urang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:06.093163967Z",
+  "model": "glm-5.3"
+}

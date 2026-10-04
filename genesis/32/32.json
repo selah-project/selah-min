@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Matoari timua atehnyo katiko inyo lah malewati ⟨את⟩ Pnuel, dan inyo tangkaiak pado pahanyo.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "matoari timua"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "lah malewati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pnuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Pnuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan inyo"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "tangkaiak"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "pahanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:13.562594528Z",
+  "model": "glm-5.3"
+}

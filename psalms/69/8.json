@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Karano dek angkau ambo manangguang hino, malu lah manuduhi muko ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dek angkau"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ambo manangguang"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hino"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "lah manuduhi"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "malu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:13.994915450Z",
+  "model": "glm-5.3"
+}

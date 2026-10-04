@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Indakah ⟨את⟩ awak inyo nan mahantui lauik, aia dareh nan gadang; nan mambuek dasa-dasa lauik jadi jalan untuak dilalui dek nan ditubui?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "indakah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awak"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "nan mahantui"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aia"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "dareh"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "nan mambuek"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "dasa-dasa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "untuak dilalui"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "dek nan ditubui"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:58.918372971Z",
+  "model": "glm-5.3"
+}

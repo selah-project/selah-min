@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo Elioh mamancaliak ⟨את⟩ kasusahan nenek moyang kito di Mitsrayim, jo ⟨את⟩ tariakan urang tu El danga di tapi Yam Suf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "mamancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasusahan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "nenek moyang kito"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tariakan urang tu"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "tariakan urang tu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "El danga"
+    },
+    {
+      "surface": "על",
+      "gloss": "di tapi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-04T08:37:55.480138785Z",
+  "model": "glm-5.3"
+}

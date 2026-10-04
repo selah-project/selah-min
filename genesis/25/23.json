@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 25:23",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo Yahweh bakato kapadonyo: Duo bangso ⟨ado⟩ di padirianmu, jo duo lom bangso-bangso dari dalam paruikmu ⟨ka⟩ dipisahan; jo ciek lom labiah kuek dari lom nan lain, jo nan tuo ka mangabekan nan ketek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo … bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "גיים",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "di padirianmu"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jo duo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "lom-lom (bangso-bangso)"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "dari dalam paruikmu"
+    },
+    {
+      "surface": "יפרדו",
+      "gloss": "dipisahan"
+    },
+    {
+      "surface": "ולאם",
+      "gloss": "jo ciek lom"
+    },
+    {
+      "surface": "מלאם",
+      "gloss": "dari lom nan lain"
+    },
+    {
+      "surface": "יאמץ",
+      "gloss": "labiah kuek"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "jo nan tuo"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ka mangabekan"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "nan ketek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:43.117730248Z",
+  "model": "glm-5.3"
+}

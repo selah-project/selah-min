@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 95,
+  "translation": "Mari kito raok kapado Yahweh, kito buniak kareh kapado Tsur kasalamatan kito.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Mari kito"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "raok"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "kito buniak kareh"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kapado Tsur"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "kasalamatan kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:47.694218849Z",
+  "model": "glm-5.3"
+}

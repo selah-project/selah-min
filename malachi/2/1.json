@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo kini, kapado kamu parintah iko, hai para imam.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kapado kamu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "parintah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "hai para imam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:33.442997758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Engkau mangagiah kami sarupo kambiang untuak dimakan, jo di antaro bangso-bangso Engkau manyebarkan kami.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Engkau mangagiah kami"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sarupo kambiang"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "untuak dimakan"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "jo di antaro bangso-bangso"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "Engkau manyebarkan kami"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:15.088000817Z",
+  "model": "glm-5.3"
+}

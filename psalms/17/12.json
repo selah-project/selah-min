@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Ruponyo sarupo singo nan haus mamcah, jo sarupo anak singo duduak basobok di tampek-tampek rahasio.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "ruponyo"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sarupo singo"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "haus"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "mamcah"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "jo sarupo anak singo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduak basobok"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "di tampek-tampek rahasio"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:24.187647464Z",
+  "model": "glm-5.3"
+}

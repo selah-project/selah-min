@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo urang tu mangadili ⟨את⟩ bangso tu pado satiok wakatu; ⟨את⟩ pakaro nan barek inyo tu bao kapado Moshe, tapi satiok pakaro nan ketek inyo tu mangadili surang.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "Jo urang tu mangadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso tu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pado satiok"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaro nan barek"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "nan barek"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "inyo tu bao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tapi satiok"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nan ketek"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "inyo tu mangadili"
+    },
+    {
+      "surface": "הם",
+      "gloss": "surang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:31.503312986Z",
+  "model": "glm-5.3"
+}

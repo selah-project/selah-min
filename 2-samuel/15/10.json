@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Avshalom mangiriman mata-mata ka sado suku-suku Yisrael, bakato: Kok kalian mandanga ⟨את⟩ bunyi shofar, kalian bakato: Avshalom alah manjadi rajo di Khevron.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangiriman"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka sado"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "kok kalian mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunyi shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "kalian bakato"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "manjadi rajo"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Khevron"
+    }
+  ],
+  "timestamp": "2026-10-04T05:39:39.106031232Z",
+  "model": "glm-5.3"
+}

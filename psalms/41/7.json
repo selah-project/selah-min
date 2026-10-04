@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Dan kok ado nan datang mailiang ambo, inyo bakato sipu; atinyo maumpuak katujahan untuak dirinyo, kok inyo kalua, inyo manyampaikannyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jo kok"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mailiang"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sipu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "maumpuak"
+    },
+    {
+      "surface": "און",
+      "gloss": "katujahan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak dirinyo"
+    },
+    {
+      "surface": "יצצא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "ka lua"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "manyampaikannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:37.656431193Z",
+  "model": "glm-5.3"
+}

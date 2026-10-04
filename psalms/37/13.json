@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Adonai maliek-gia ka urang tu, karano inyo alah caliak baso ari urang tu ka tibo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "maliek-gia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka urang tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ka tibo"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ari urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:57.973752399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jagokan-lah ⟨את⟩ bulan Abib, jo bueklah Paskah untuak Yahweh, Elohim angkok; karano pado bulan Abib Yahweh, Elohim angkok, mambaok angkok kalua dari Mitsrayim pado malam ari.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Jagokan-lah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulan Abib"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "jo bueklah"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim angkok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "pado bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "mambaok angkok kalua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim angkok"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pado malam ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:13.052041806Z",
+  "model": "glm-5.3"
+}

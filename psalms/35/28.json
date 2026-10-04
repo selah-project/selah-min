@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Jo lido ambo maucok ⟨צדקך⟩ tsedeq Sanak, sadonyo ari pujian Sanak.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "jo lido ambo"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "maucok"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedeq Sanak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "pujian Sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:55.376282047Z",
+  "model": "glm-5.3"
+}

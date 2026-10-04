@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Karano mahubuangan urang tu jo doso kasalahan kok urang tu makan ⟨את⟩ barang sucinyo; karano ambo Yahweh nan manyucikan urang tu.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "mahubuangan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ urang tu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "doso"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "kasalahan"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "kok urang tu makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang sucinyo"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "barang sucinyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "nan manyucikan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:37.175722652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "El kaâdangaik jo manjawab inyo, inyo nan basitampak sajak dahulu — Selah — urang nan indak ado parubahan, jo indak takuik kapado Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "kaâdangaik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "jo manjawab inyo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "inyo nan basitampak"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sajak dahulu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "urang nan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "parubahan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kapado Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:49.523924433Z",
+  "model": "glm-5.3"
+}

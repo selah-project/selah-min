@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Inyo maagiah makanannyo kapado binatang, kapado anak-anak gagak nan mambuek suaro.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "kapado binatang"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "makanannyo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kapado anak-anak"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gagak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "mambuek suaro"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:42.880623714Z",
+  "model": "glm-5.3"
+}

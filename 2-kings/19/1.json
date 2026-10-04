@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Maka katiko rajo Chizkiyahu mandanga itu, inyo manciak ⟨את⟩ pakaiannyo, jo mangkok dirinyo jo kain sak, lalu masuak ka rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka katiko"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "manciak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannyo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannyo"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "mangkok dirinyo"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "jo kain sak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:14:26.316314524Z",
+  "model": "glm-5.3"
+}

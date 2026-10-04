@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 143,
+  "translation": "Jangan masuak ka dalam pangadilan basamo ⟨את⟩ hamba-⟨Mu⟩, karano indak ado nan hiduik nan tsedeq di hadapan-⟨Mu⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jo jangan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka dalam pangadilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-⟨Mu⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-⟨Mu⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "nan tsedeq"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapan-⟨Mu⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nan hiduik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:03.075164921Z",
+  "model": "glm-5.3"
+}

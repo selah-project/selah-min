@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 21:20",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo Ahab bakato kapado Elia: Apokah kau lah manamukan ambo, musuah ambo? Jo inyo bakato: Ambo lah manamukan ⟨kau⟩, karano kau lah manjua diri surang untuak mambuek nan jahat di mato Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo Ahab bakato"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "המצאתני",
+      "gloss": "apokah kau lah manamukan ambo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuah ambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ambo lah manamukan"
+    },
+    {
+      "surface": "יען",
+      "gloss": "karano"
+    },
+    {
+      "surface": "התמכרך",
+      "gloss": "kau lah manjua diri surang"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak mambuek"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nan jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:13:13.455509177Z",
+  "model": "glm-5.3"
+}

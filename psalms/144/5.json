@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Yahweh, turunkan ⟨את⟩ langik-Mu jo turunlah; ratoi gunuang-gunuang, jo inyo bakokok asok.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "turunkan"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "langik-Mu"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "jo turunlah"
+    },
+    {
+      "surface": "גע",
+      "gloss": "ratoi"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "jo inyo bakokok asok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:35.127613218Z",
+  "model": "glm-5.3"
+}

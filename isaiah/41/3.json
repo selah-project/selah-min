@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Inyo mangaja jo malewati jo salamaik, jalan nan indak dimasuak riaknyo.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "mangaja"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "malewati"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jo salamaik"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "riaknyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dimasuak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:11.900903684Z",
+  "model": "glm-5.3"
+}

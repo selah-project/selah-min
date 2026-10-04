@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo saluruah jamaah anak-anak Yisrael mahuto kapado Moshe jo kapado Aharon di gurun itu.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "jo ... mahuto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:25.741658972Z",
+  "model": "glm-5.3"
+}

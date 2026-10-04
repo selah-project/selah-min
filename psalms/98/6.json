@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 98,
+  "translation": "Jo sarune jo suaro shofar, buniakanlah di muko rajo Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Jo sarune"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "jo suaro"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "buniakanlah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:28.846448833Z",
+  "model": "glm-5.3"
+}

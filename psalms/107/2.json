@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Bakato urang-urang nan ditebus Yahweh, nan alah ditebus-Nyo dari tangan musuah:",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "urang-urang nan ditebus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ditebus-Nyo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:27.292952816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Baitu juo rajo Ashur ka mangajak ⟨את⟩ tawanan Mitsrayim jo ⟨את⟩ urang Kush nan diangi, urang mudo jo urang tuo, talanjang jo indak bapalantiak kaki, jo pungguang tabukak — kajatan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ka mangajak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawanan Mitsrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Kush nan diangi"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "urang nan diangi"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "urang mudo"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "jo urang tuo"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "talanjang"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "jo indak bapalantiak kaki"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "jo tabukak"
+    },
+    {
+      "surface": "שת",
+      "gloss": "pungguang"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kajatan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:13:54.148944780Z",
+  "model": "glm-5.3"
+}

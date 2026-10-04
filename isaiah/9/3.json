@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Karano ⟨את⟩ aug beban nyo jo ⟨את⟩ tungkek balikang nyo, gala nan manakan inyo — alah dipatahkan, sarupo ari Midian.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aug beban nyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "aug"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "beban nyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tungkek balikang nyo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tungkek"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "balikang nyo"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "gala"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "nan manakan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "alah dipatahkan"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sarupo ari"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:10.350042848Z",
+  "model": "glm-5.3"
+}

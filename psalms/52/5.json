@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "Ang cinto kapado jahat labiah daripado elok, kapado kabo­do­ng labiah daripado mangecek tsedeq. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ang cinto kapado"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "labiah daripado elok"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kabodong"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "labiah daripado mangecek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:25.291765928Z",
+  "model": "glm-5.3"
+}

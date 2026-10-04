@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Inyo ka tibo jo malapek an tsedeq-Nyo kapado banso nan ka dilahia, karano Inyo alah mambueknyo.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "ka tibo"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "jo malapek an"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedeq-Nyo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kapado banso"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "nan ka dilahia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah mambueknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:44.968324773Z",
+  "model": "glm-5.3"
+}

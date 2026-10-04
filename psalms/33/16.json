@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Indak ado rajo nan salamat dek banyak bala; urang gagah indak ka lieh dek banyak kakuatan.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "salamat"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "deak banyak"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bala"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "urang gagah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "lieh"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "deak banyak"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:39.600677577Z",
+  "model": "glm-5.3"
+}

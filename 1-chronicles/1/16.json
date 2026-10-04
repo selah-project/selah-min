@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "jo ⟨את⟩ urang Arvadi, jo ⟨את⟩ urang Tsemari, jo ⟨את⟩ urang Khamati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Arvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "urang Arvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Tsemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "urang Tsemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Khamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "urang Khamati"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:17.128872845Z",
+  "model": "glm-5.3"
+}

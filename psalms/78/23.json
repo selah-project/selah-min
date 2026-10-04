@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Lalu inyo mamintak ⟨kapado⟩ awan-awan dari ateh, jo pinto-pinto langik dibukak.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "lalu inyo mamintak"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "jo pinto-pinto"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dibukak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:15.613033045Z",
+  "model": "glm-5.3"
+}

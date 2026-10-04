@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo sadoalah urang nagari itu basuka cito, jo kota itu baranti ⟨adalah⟩ tanang, jo ⟨את⟩ Atalyahu inyo bunuah jo padang.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "basuka cito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari itu"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "jo kota itu"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "baranti tanang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "bunuah"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "jo padang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:54:17.568336652Z",
+  "model": "glm-5.3"
+}

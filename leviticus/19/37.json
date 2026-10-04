@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Urang tu musti jago ⟨את⟩ sagalo aturan ambo jo ⟨את⟩ sagalo hukum ambo, jo karajoan ⟨אתם⟩; ambo ⟨adalah⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "urang tu musti jago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo aturan ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "aturan ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo hukum ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum ambo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "jo karajoan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "aturan ambo jo hukum ambo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:36.954111273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Jo Yosef mamintak ⟨את⟩ hamba-hambanyo, urang-urang ubaik tu, supayo manyadiakan rampah-rampah untuak mangawetan apaknyo; mangko urang-urang ubaik tu mangawetan ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mamintak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang ubaik tu"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "urang-urang ubaik tu"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "supayo mangawetan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apaknyo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "mangawetan"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "urang-urang ubaik tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:48.181019188Z",
+  "model": "glm-5.3"
+}

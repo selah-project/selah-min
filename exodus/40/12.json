@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo kau dakek-an ⟨את⟩ Aharon jo ⟨את⟩ anak-anaknyo ka muko pintu Ohel Moed tu, jo basuahkan ⟨את⟩ urang tu jo aia.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "jo kau dakek-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muko pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "jo basuahkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "Aharon jo anak-anaknyo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "jo aia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:08.202747578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Mako inyo mambuek jamuan untuak urang tu, lalu urang tu makan jo minum.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak urang tu"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "jamuan"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "urang tu makan"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "urang tu minum"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:26.975050889Z",
+  "model": "glm-5.3"
+}

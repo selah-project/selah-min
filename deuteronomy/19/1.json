@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Katiko Yahweh, Elohim ang, mamanciang ⟨את⟩ bangso-bangso nan tanahnyo Yahweh, Elohim ang, agiah ka ang, jo ang mandarati inyo, jo ang tingga di kota-kota inyo jo di rumah-rumah inyo,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "mamanciang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso-bangso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah inyo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tanah inyo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "jo ang mandarati inyo"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "jo ang tingga"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "di kota-kota inyo"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "jo di rumah-rumah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:58:03.762712187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Sacaro ko kato Yahweh nan mambueknyo, Yahweh nan mambantuaknyo untuak mangukuaknyo — Yahweh namonyo:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sacaro ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan mambueknyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "nan mambantuaknyo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "inYo (nan dibuek)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "untuak mangukuaknyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:39:42.265424379Z",
+  "model": "glm-5.3"
+}

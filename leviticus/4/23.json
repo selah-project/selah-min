@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Atok kalau dosonyo nan alah inyo buat tu dikanaokan kapadonyo, inyo mambaok ⟨את⟩ kurbannyo: anak kambing jantan, nan indak bacalè.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "atok"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "dikanaokan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dosonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "inyo buat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "inyo mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurbannyo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurbannyo"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "anak kambing jantan"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kambing"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "jantan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nan indak bacalè"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:03.080275994Z",
+  "model": "glm-5.3"
+}

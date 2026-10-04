@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Pakaro-pakaro dosa alah mangalabiahi ambo, tapi palanggaran kito — dapek-Mu manutuik iyo.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "pakaro-pakaro"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "lah mangalabiahi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "palanggaran kito"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "dapek-Mu"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "manutuik iyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:36.900761565Z",
+  "model": "glm-5.3"
+}

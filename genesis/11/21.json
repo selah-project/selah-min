@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo Reu iduik sasudah inyo manurunkan ⟨את⟩ Serug tujuah puluah jo duo ratus taun, jo inyo manurunkan anak laki-laki jo anak padusi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "jo duo ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "jo anak padusi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:28.123301830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Karano Inyo nan mancari darah alah mangana ⟨את⟩ inyo; indak lupo Inyo surek urang-urang nan sansaro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mangana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "lupo"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "surek"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "urang-urang nan sansaro"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:46.911774103Z",
+  "model": "glm-5.3"
+}

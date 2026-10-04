@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 4:8",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Maningga-an inyo, jo inyo ka'a mangangkek muo kau; inyo ka'a mamulia-an kau, bilo kau malangkoki inyo.",
+  "tokens": [
+    {
+      "surface": "סלסלה",
+      "gloss": "maningga-an inyo"
+    },
+    {
+      "surface": "ותרוממך",
+      "gloss": "jo inyo ka'a mangangkek muo kau"
+    },
+    {
+      "surface": "תכבדך",
+      "gloss": "inyo ka'a mamulia-an kau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "תחבקנה",
+      "gloss": "kau malangkoki inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:04.627333835Z",
+  "model": "glm-5.3"
+}

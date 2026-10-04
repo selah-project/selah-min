@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo kalian makan dagiang anak laki-laki kalian, jo dagiang anak padusi kalian ka kalian makan.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "jo kalian makan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak laki-laki kalian"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "jo dagiang"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "anak padusi kalian"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ka kalian makan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:53.374707621Z",
+  "model": "glm-5.3"
+}

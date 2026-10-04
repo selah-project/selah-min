@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo bait nan dibuek rajo Shelomo untuak Yahweh itu: panjangnyo anam puluah hasta, lebanyo duo puluah, jo tingginyo tigo puluah hasta.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "jo bait"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "anam puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnyo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebanyo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "tigo puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tingginyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:06.430049697Z",
+  "model": "glm-5.3"
+}

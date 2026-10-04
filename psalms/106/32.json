@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Jo urang tu mambuek murko di aia Merivah, jo munsarik bagi Moshe dek ulah urang tu.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "mambuek murko"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aia"
+    },
+    {
+      "surface": "מריבা",
+      "gloss": "Merivah"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "munsarik"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "bagi Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "dek ulah urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:25.666463363Z",
+  "model": "glm-5.3"
+}

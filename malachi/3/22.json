@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Ingatlah Torah Moshe, hamba ambo, nan ambo suruik kapadonyo di Horeb, untuak sado Yisrael, adaik-adaik jo hukum-hukum.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ambo suruik"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "kapadonyo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "di Horeb"
+    },
+    {
+      "surface": "על",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "adaik-adaik"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "jo hukum-hukum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:12.699389048Z",
+  "model": "glm-5.3"
+}

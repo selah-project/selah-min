@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Karano urang nan bengkak tu kabencian bagi Yahweh, tapi jo ⟨את⟩ urang luruih inyo mambagi rahasia nyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kabencian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "urang nan bengkak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "jo urang luruih"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "urang luruih"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "rahasia nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:35.038698032Z",
+  "model": "glm-5.3"
+}

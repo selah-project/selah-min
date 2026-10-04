@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Lintehi tanah ko sarupo Sungai Nil, hai anak Tarshish; indak ado lai ikal pinggang.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "lintehi"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanah ko"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "sarupo Sungai Nil"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "ikal pinggang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    }
+  ],
+  "timestamp": "2026-10-04T06:12:46.474900214Z",
+  "model": "glm-5.3"
+}

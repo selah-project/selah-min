@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Jo Yosef bakato kapado inyo: Iko nan alah ambo katakan kapado kalian, yo itu: kalian pamantau.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "alah ambo katakan"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kapado kalian"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yo itu"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "pamantau"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:31.557068317Z",
+  "model": "glm-5.3"
+}

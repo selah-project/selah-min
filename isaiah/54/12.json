@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 54,
+  "translation": "Jo ambo ka mambuek jandela-jandela ang jo batu ruby, jo gapuro-gapuro ang jo batu karbunkel, jo saluruah bateh ang jo batu nan rancak Ago.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "jo ambo ka mambuek"
+    },
+    {
+      "surface": "כדכוד",
+      "gloss": "jo batu ruby"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "jandela-jandela ang"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "jo gapuro-gapuro ang"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "karbunkel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo saluruah"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "bateh ang"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nan rancak Ago"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:54.870747964Z",
+  "model": "glm-5.3"
+}

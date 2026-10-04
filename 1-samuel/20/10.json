@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo Dawid bakato kapado Yehonatan: sia nan agiah tahu kapado ambo? Apo kok ayah kau manjawek kau jo kasa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo … bakato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "agiah tahu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "או",
+      "gloss": "apo kok"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "manjawek kau"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayah kau"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "jo kasa"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:59.975842509Z",
+  "model": "glm-5.3"
+}

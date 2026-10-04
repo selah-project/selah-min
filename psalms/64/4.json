@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Nang manajamkan lidahnyo sarupo padang, mambuek anak jo sumbuanyo — kato nan pahik.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nang"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "manajamkan"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "sarupo padang"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidahnyo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "mambuek anak jo sumbuanyo"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "anak jo sumbuanyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "מר",
+      "gloss": "pahik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:41.200969477Z",
+  "model": "glm-5.3"
+}

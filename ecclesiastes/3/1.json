@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Untuak sagalonyo ado wakatunyo, jo wakatu untuak sado kakahandak di bawah langik.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "untuak sagalonyo"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "wakatu nan ditantukan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jo wakatu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak sado"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kakahandak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:37.825725229Z",
+  "model": "glm-5.3"
+}

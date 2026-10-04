@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 90,
+  "translation": "Engkau manyaram urang tu sarupo aia; urang tu jadi sarupo lalok; pado pagi urang tu baganti sarupo rampai.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Engkau manyaram urang tu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sarupo lalok"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sarupo rampai"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "baganti"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:33.595879151Z",
+  "model": "glm-5.3"
+}

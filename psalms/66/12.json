@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Engkau alah mamandirikan manusia di ateh kapalo kami; kami masuak ka dalam api jo ka dalam aia, jo Engkau mangaluaan kami ka kamurahan.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "mamandirikan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "di ateh kapalo kami"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "kami masuak"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka dalam api"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "jo ka dalam aia"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "jo Engkau mangaluaan kami"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "ka kamurahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:04.118424645Z",
+  "model": "glm-5.3"
+}

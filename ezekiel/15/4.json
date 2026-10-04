@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 15:4",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Caliek, inyo dibari ka api untuak baka; ⟨את⟩ kaduo ujuangnyo dimakan api, jo tangahnyo hanguih — kok inyo tapakai untuak karajo?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "caliek"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "ka api"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibari"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "untuak baka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaduo ujuangnyo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaduo"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "ujuangnyo"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ותוכו",
+      "gloss": "jo tangahnyo"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "hanguih"
+    },
+    {
+      "surface": "היצלח",
+      "gloss": "kok inyo tapakai"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "untuak karajo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:51:48.361856209Z",
+  "model": "glm-5.3"
+}

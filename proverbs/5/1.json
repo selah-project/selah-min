@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Anak ambo, talingokan ⟨kapado⟩ hakiah ambo, condongkan talingo ang kapado aka ambo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "kapado hakiah ambo"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "talingokan"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "kapado aka ambo"
+    },
+    {
+      "surface": "הט",
+      "gloss": "condongkan"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "talingo ang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:47.511011025Z",
+  "model": "glm-5.3"
+}

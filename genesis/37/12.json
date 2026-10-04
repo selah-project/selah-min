@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu sanak-sanaknyo pai maagiah makan ⟨את⟩ kambiang domba ambo — kawanan ambo — dari ayahnyo di Sikhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sanak-sanaknyo"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "maagiah makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanan damarah ambo — dari ayahnyo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan damarah ambo — dari ayahnyo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ayahnyo"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "di Sikhem"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:22.105385422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Langik mancritoakan kabangakan El, jo rakiak mamuek karya tangan-⟨Nyo⟩.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "mancritoakan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabangakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "jo karya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangan-Nyo"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "mamuek"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakiak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:24.127529662Z",
+  "model": "glm-5.3"
+}

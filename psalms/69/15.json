@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Lapekkanlah ambo dari lambuak, jan sampai ambo tinggalam; salamatkanlah ambo dari urang nan banci kapadoku, jo dari kak-dalam aia.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "lapekkanlah ambo"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "dari lambuak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "sampai ambo tinggalam"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "salamatkanlah ambo"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "dari urang nan banci kapadoku"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "jo dari kadalamannyo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:13.686365808Z",
+  "model": "glm-5.3"
+}

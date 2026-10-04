@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dan ang ka mangecek ⟨את⟩ kato-kato ambo kapado urang tu, jiko mandanga atau jiko baranti, karano urang pambangkang inyo urang tu.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "ang ka mangecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato ambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato ambo"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jiko"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jiko"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "baranti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "urang pambangkang"
+    },
+    {
+      "surface": "המה",
+      "gloss": "urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:48:02.229139362Z",
+  "model": "glm-5.3"
+}

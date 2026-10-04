@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Urang-urang tu basuo ⟨את⟩ Moshe jo ⟨את⟩ Aharon nan sadang tagak mananti inyo, katiko inyo kalua dari ⟨את⟩ hadirat Firaun.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "Urang-urang tu basuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "mananti inyo"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "katiko inyo kalua"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firaun"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:04.465378341Z",
+  "model": "glm-5.3"
+}

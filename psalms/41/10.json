@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Bahkan saurang urang, urang damai ambo, nan ambo pacik bana kapadonyo, makan roti basamo ambo, alah maagiah talapak kaki ka ateh ambo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "urang damai ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ambo pacik bana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "roti ambo"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "maagiah... gadang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka ateh ambo"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "talapak kaki"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:53.044058009Z",
+  "model": "glm-5.3"
+}

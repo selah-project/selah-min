@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Tapi kok kalian indak mandanga suaro Yahweh, malah mamusuahi ⟨את⟩ muluik Yahweh, maka tangan Yahweh ka timpa kalian jo urang tuo kalian.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kalian mandanga"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "mamusuahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muluik Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "maka ka ado"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ka kalian"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "jo urang tuo kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:10.170500313Z",
+  "model": "glm-5.3"
+}

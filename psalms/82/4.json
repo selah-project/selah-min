@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 82,
+  "translation": "Lapehan urang lamah jo urang miskin, dari tangan urang nan jahat salamatkan ⟨inyo⟩.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Lapehan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "urang lamah"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jo urang miskin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang nan jahat"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "salamatkan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:04.457868777Z",
+  "model": "glm-5.3"
+}

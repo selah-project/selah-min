@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Dek Namo Yahweh ambo manyeru: O, Yahweh, lapehan nyawa ambo!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Dek Namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ambo manyeru"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "O"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "lapehan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:29.756978636Z",
+  "model": "glm-5.3"
+}

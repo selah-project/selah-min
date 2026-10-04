@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu Yahweh bakato kapado Moshe: Masuaklah ka Paro, jo kaukato kapadonyo: Beginilah kato Yahweh: Lepaskanlah ⟨את⟩ umat-Ko, supayo inyo maimba kapado Ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuaklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויאמרת (ואמרת)",
+      "gloss": "kaukato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lepaskanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ko"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "supayo inyo maimba kapado Ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:40.999627512Z",
+  "model": "glm-5.3"
+}

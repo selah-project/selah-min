@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Lalu Dawid bakato kapadonyo: Kok awak pai basamo ⟨את⟩ ambo, awak ka manjadi babei kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "ambo"
+    },
+    {
+      "surface": "והית",
+      "gloss": "ka manjadi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "babei"
+    }
+  ],
+  "timestamp": "2026-10-04T05:40:18.058478940Z",
+  "model": "glm-5.3"
+}

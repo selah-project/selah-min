@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Saparsepuah kalian pasti maambiak ⟨את⟩ sagalo hasil beniah kalian, nan kalua dari ladang, taun demi taun.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "saparsepuah"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "kalian pasti maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo hasil beniah kalian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "hasil"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniah kalian"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "nan kalua"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dari ladang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "demi taun"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:45.886457194Z",
+  "model": "glm-5.3"
+}

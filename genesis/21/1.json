@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Dan Yahweh maalami ⟨את⟩ Sarayah sarupo nan alah dikatoannyo, dan Yahweh babuek kapado Sarayah sarupo nan alah diucapannyo.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dan Yahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "maalami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarayah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarayah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alah dikatoannyo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan babuek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kapado Sarayah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alah diucapannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:18.562003949Z",
+  "model": "glm-5.3"
+}

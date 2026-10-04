@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu Yahweh turun untuak caliak ⟨את⟩ kota jo ⟨את⟩ manaro nan dibuek dek anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "lalu turun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "untuak caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "manaro"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "manaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:49.425321300Z",
+  "model": "glm-5.3"
+}

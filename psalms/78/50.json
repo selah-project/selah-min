@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Inyo malar jalan untuak amarahnyo; inyo indak maila ⟨את⟩ nyao inyo dari kamatian, tapi ⟨את⟩ hiduik inyo disarahkan kapado wabah.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "malar"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "untuak amarahnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "maila"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dari kamatian"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyao inyo"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "hiduik inyo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kapado wabah"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "disarahkan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:38.120736870Z",
+  "model": "glm-5.3"
+}

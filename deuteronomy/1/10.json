@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim awak sakalian, alah manambaik ⟨את⟩ awak sakalian, jo kini caliak, awak sakalian pado ari ko sarupo bintang-bintang di langik ka balimpah-limpah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim awak sakalian"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "alah manambaik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awak sakalian",
+      "marks": "awak sakalian"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "jo kini caliak awak sakalian"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pado ari ko"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "sarupo bintang-bintang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ka balimpah-limpah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:18.626390155Z",
+  "model": "glm-5.3"
+}

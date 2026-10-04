@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu bakato Yehosafat: Ado ⟨את⟩ di inyo kato Yahweh. Kudatu turun ka inyo rajo Yisrael, Yehosafat, jo rajo Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "kato Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "lalu turun"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "jo Yehosafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "jo rajo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:53.049655158Z",
+  "model": "glm-5.3"
+}

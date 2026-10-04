@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu ambo maambiak ⟨את⟩ kapalo-kapalo suku awak, urang-urang nan bijaksano jo nan tanamo, lalu ambo maangkek inyo manjadi kapalo di ateh awak: pangulu ribu, pangulu ratuih, pangulu limo puluah, pangulu sapuluah, sarato petugas-petugas untuak suku-suku awak.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "lalu ambo maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalo-kapalo suku awak"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo-kapalo"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "suku awak"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "nan bijaksano"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "jo nan tanamo"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "lalu ambo maangkek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "manjadi kapalo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "di ateh awak"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratuih"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limo puluah"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "petugas-petugas"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "untuak suku-suku awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:21.198846146Z",
+  "model": "glm-5.3"
+}

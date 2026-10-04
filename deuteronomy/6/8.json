@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo ikek-i benda-benda tu sabagai tando di tangan sanak, jo benda-benda tu manjadi tantado di antaro mato sanak.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "iek-nyo sabagai"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tando"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan sanak"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "tantado"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mato sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:40.090036297Z",
+  "model": "glm-5.3"
+}

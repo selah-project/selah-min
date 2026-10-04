@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Untuak Dawid. Yahweh ⟨adolah⟩ cahayo ambo jo salamaik ambo — dari sia ambo takuik? Yahweh ⟨adolah⟩ benteng iduak ambo — dari sia ambo gatah?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuak Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "cahayo ambo"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "jo salamaik ambo"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "dari sia"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ambo takuik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "benteng"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "iduak ambo"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "dari sia"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ambo gatah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:55.581668350Z",
+  "model": "glm-5.3"
+}

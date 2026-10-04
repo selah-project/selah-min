@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu Paroh mamarintahkan urang-urang tantang inyo, jo urang tu maanta pai inyo, jo ⟨את⟩ bininyo, jo ⟨את⟩ sagalo nan dipunyoinyo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tentang inyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "urang tu maanta pai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bininyo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bininyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan dipunyoinyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dipunyoinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:05.161516365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Indak kaliaan mancuri, indak kaliaan maindak-i karajo, indak kaliaan manggalok-i ciek urang kapado kawannyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "kaliaan mancuri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "kaliaan maindak-i karajo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "kaliaan manggalok-i"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciek urang"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "kapado kawannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:34.868136067Z",
+  "model": "glm-5.3"
+}

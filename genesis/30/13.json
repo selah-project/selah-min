@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Lapeh Lea bakato: Rasonyo sanang ambo, karano anak-anak padusi manyanangkan ambo. Lapeh inyo manyabuik ⟨את⟩ namonyo Asyer.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "Rasonyo sanang ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "manyanangkan ambo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak padusi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "manyabuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asyer"
+    }
+  ],
+  "timestamp": "2026-10-04T04:03:04.648214056Z",
+  "model": "glm-5.3"
+}

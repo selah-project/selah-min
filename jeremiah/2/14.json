@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Kok Israel urang nan diparbudak? Kok inyo lahia di rumah tuan? Ba a lai inyo manjadi rampasan?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "urang nan diparbudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kok"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "lahia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Ba a lai"
+    },
+    {
+      "surface": "היה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "rampasan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:26:05.211641390Z",
+  "model": "glm-5.3"
+}

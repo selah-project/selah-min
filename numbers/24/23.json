@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu inyo maangkek patatahnyo, lalu bakato: Aduhai, sia nan ka iduik katiko El mamiliah?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "lalu inyo maangkek"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "patatahnyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "aduhai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ka iduik"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "katiko ... mamiliah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:32.991885186Z",
+  "model": "glm-5.3"
+}

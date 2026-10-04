@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu Yahweh turun ka ateh gunuang Sinai, ka puncak gunuang tu, jo Yahweh manggia Moshe ka puncak gunuang tu, lalu Moshe naik.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "puncak"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunuang tu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "manggia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "puncak"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunuang tu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "naik"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:44.969698060Z",
+  "model": "glm-5.3"
+}

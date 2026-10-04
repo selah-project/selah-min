@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "jo mambaokan hesed inggo ka ribu katurunan, kapado nan mangasihi Awak jo kapado nan mamatuik parentah-parentah Awak.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "jo mambaokan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "inggo ka ribu katurunan"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kapado nan mangasihi Awak"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "jo kapado nan mamatuik"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "parentah-parentah Awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:53.813450384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo angkau danga ka suaro Yahweh, Elohim angkau, jo angkau babuek ⟨את⟩ parentah-Nyo jo ⟨את⟩ katantuan-Nyo, nan ambo parentahkan kapado angkau pado ari ko.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "jo angkau danga"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka suaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim angkau"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "jo angkau babuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah-Nyo"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "parentah-Nyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "katantuan-Nyo"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "katantuan-Nyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parentahkan kapado angkau"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pado ari ko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:27.695494386Z",
+  "model": "glm-5.3"
+}

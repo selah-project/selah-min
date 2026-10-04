@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Sungguah, Yahweh, rajo-rajo Asyur alah marabuih ⟨את⟩ sadolah nagari-nagari, jo ⟨את⟩ nagari inyo surang.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "sungguah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "alah marabuih"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadolah nagari-nagari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadolah"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "nagari-nagari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nagari inyo surang"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nagari inyo surang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:02.581857301Z",
+  "model": "glm-5.3"
+}

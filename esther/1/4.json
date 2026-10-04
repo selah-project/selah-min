@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "wakatu inyo mamancangkan ⟨את⟩ kakayoan kamuliaan karajaannyo jo ⟨את⟩ kamaha-agungan hagatan kaanggunannyo, ari-ari nan banyak — dlapan puluah jo saratus ari.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "wakatu inyo mamancangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakayoan kamuliaan karajaannyo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kakayoan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamuliaan"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "karajaannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kamaha-agungan hagatan kaanggunannyo"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "hagatan"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kaanggunan"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "kamaha-agungannyo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "dlapan puluah"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "jo saratus"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:26.618152151Z",
+  "model": "glm-5.3"
+}

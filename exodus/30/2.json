@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Ciek hasta panjangnyo, jo ciek hasta lebaanyo; ampek sagi ⟨ia⟩; jo duo hasta tingginyo; tanduak-tanduaknyo barasa dari inyo.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "ciek hasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnyo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "jo ciek hasta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebaanyo"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ampek sagi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "jo duo hasta"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tingginyo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari inyo"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tanduak-tanduaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:31.722753001Z",
+  "model": "glm-5.3"
+}

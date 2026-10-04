@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu Yehoshafat, rajo Yehudah, baliak ka rumahnyo dangan damai, ka Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lalu baliak"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "dangan damai"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ka Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:54:35.782955095Z",
+  "model": "glm-5.3"
+}

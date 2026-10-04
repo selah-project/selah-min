@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 15:35",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo Yahweh bakato kapado Moshe: Urang tu pasti dibunuah, sadoalah jamaah malempari inyo ⟨את⟩ jo batu, di lua pakampuan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dibunuah"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pasti dibunuah"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "malempari jo batu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (urang tu)"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pakampuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:43:36.570579648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Lah Kudiso inyo manuruik kakarehan atinyo surang, inggo inyo bajalan manuruik rancangannyo surang.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Lah Kudiso inyo"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "manuruik kakarehan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "atinyo surang"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "inyo bajalan"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "manuruik rancangannyo surang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:04.639378369Z",
+  "model": "glm-5.3"
+}

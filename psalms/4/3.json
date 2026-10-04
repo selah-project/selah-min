@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Hai anak-anak laki-laki, sampai bilo kaglorian ambo dijadian aib? Kok lamo kalian cindo ka kasundalan, mancari lokah? Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kaglorian ambo"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "dijadian aib"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "kalian cindo"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "kasundalan"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lokah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:37.452825053Z",
+  "model": "glm-5.3"
+}

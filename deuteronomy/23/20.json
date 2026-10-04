@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Sanak jan managih bungo kapado dunsanak sanak: bungo pitih perak, bungo makanan, bungo barang apo pun nan ditagih bungonyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "sanak managih bungo"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kapado dunsanak sanak"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bungo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pitih perak"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bungo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bungo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barang apo pun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨barang⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ditagih bungonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:37.461561542Z",
+  "model": "glm-5.3"
+}

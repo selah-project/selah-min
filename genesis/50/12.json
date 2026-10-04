@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Anak-anaknyo malakukan untuak inyo demikian, sarupo nan alah diperintahkannyo ka inyo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "malakukan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak inyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צום",
+      "gloss": "alah diperintahkannyo ka inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:23.264167879Z",
+  "model": "glm-5.3"
+}

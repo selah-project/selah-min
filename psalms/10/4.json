@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Urang jahat, inggo angkonyo hilaknyo, indak mancari: 'Indak ado Elohim' — sagalo rancangannyo",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Urang jahat"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "inggo tingginyo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hilaknyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Indak ado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "rancangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:06.945028759Z",
+  "model": "glm-5.3"
+}

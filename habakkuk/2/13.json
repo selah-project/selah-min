@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Indakkah, lia, dari ⟨את⟩ Yahweh Tsebaot: bangso-bangso basusah payah di dalam api, jo umat-umek basusah payah sia-sia, lalu lalah?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "indakkah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lia"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩",
+      "marks": "Yahweh Tsebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "basusah payah"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "di dalam"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "jo umat-umek"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "lalah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:16:25.077556263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Hitam ambo, tapi rancak, O anak-anak padusi Yerushalayim, sarupo khemah-khemah Kedar, sarupo kain-kain palambang Shelomo.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "hitam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "tapi rancak"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak padusi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "sarupo khemah-khemah"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "sarupo kain-kain palambang"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:16:04.938256159Z",
+  "model": "glm-5.3"
+}

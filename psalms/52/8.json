@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "Jo urang-urang nan saleh ka caliak, jo ka takuik, jo ka malatak di atehnyo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "jo ka caliak"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang-urang nan saleh"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "jo ka takuik"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "jo ka malatak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:25.292245637Z",
+  "model": "glm-5.3"
+}

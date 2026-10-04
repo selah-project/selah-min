@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Urang tu maapek ⟨את⟩ dunsanaknyo, lalu manyucikan diri, jo masuak sasuai parentah rajo manuruik kato-kato Yahweh, untuak manyuciahan rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "urang tu maapek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dunsanaknyo"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "dunsanaknyo"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "manyucikan diri"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "sasuai parentah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "manuruik kato-kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "untuak manyuciahan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:57:25.765709165Z",
+  "model": "glm-5.3"
+}

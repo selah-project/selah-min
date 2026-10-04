@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jiko matoari alah tariak atehnyo, ado doso darah untuaknyo; inyo musti mambayia panuah; jiko indak ado ⟨pio⟩ padanyo, inyo dijua karano pancurian tu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jiko"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "tariak"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "doso darah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "mambayia"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mambayia panuah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jiko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "לו",
+      "gloss": "padanyo"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "inyo dijua"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "karano pancurian tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:59.927966606Z",
+  "model": "glm-5.3"
+}

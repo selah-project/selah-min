@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo katahuilah baso Yahweh alah mamiliak untuak-Nyo urang nan banar; Yahweh ka mandanga katiko ambo manyeru kapado-Nyo.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "jo katahuilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "הפלha",
+      "gloss": "alah mamiliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "urang nan banar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak-Nyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ka mandanga"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "katiko ambo manyeru"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapado-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:37.452969497Z",
+  "model": "glm-5.3"
+}

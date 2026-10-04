@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Tapi inyo indak mandanga, indak pulo mampamanjokan ⟨את⟩ talingo nyo, malah inyo mangedok-an edok ⟨את⟩ lihianyo supayo indak mandanga jo indak manarimo pangajaran.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak pulo"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "mampamanjokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talingo nyo"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "talingo nyo"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "mangedok-an edok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lihianyo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "lihianyo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "jo supayo indak"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "manarimo"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pangajaran"
+    }
+  ],
+  "timestamp": "2026-10-04T06:32:48.430983707Z",
+  "model": "glm-5.3"
+}

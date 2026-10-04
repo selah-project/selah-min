@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Dan kok inyo bana menebus ⟨את⟩ binatang itu, inyo musti manambah saparampek haragonyo di ateh panilaian sanak.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan kok"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "menebus"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "inyo bana menebus inyo"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "inyo musti manambah"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "saparampek haragonyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "panilaian sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:32.199980864Z",
+  "model": "glm-5.3"
+}

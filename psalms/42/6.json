@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Baa kÅnyo maido, bareh ati ambo, jo baa kÅnyo gaduah dalam ambo? Sananglah tunggu kapado Elohim, karano ambo ka mangaku bana ka Inyo lai, iyolah patolong dari muko-Nyo.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "kÅnyo maido"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bareh ati ambo"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "jo kÅnyo gaduah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dalam ambo"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "sananglah tunggu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ambo ka mangaku bana ka Inyo"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "patolong"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "dari muko-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:45.486271166Z",
+  "model": "glm-5.3"
+}

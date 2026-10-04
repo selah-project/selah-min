@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 101,
+  "translation": "Ati nan bengkak musti mailia dari ambo; nan jaek indak den katahui.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "nan bengkak"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "musti mailia"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nan jaek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "den katahui"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:49.634519712Z",
+  "model": "glm-5.3"
+}

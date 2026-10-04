@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Mikal mangambiak ⟨את⟩ patuang-patuang rumah tu lalu maagiahnyo ka tampek lalok, jo ⟨את⟩ kain baniah bulu kambiang maagiahnyo di kapalinyo, lalu ditutuiknyo jo ulas.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "mangambiak"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patuang-patuang rumah"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "patuang-patuang rumah"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "maagiahnyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tampek lalok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kain baniah bulu kambiang"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "kain baniah"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bulu kambiang"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "maagiahnyo"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "di kapalinyo"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ditutuiknyo"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "jo ulas"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:32.493536238Z",
+  "model": "glm-5.3"
+}

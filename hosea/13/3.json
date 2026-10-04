@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Dek karano itu inyo urang tu akan sarupo awan pagi, jo sarupo ambun nan maila pagi-pagi, sarupo dabu nan dibaliak ribuik dari tampek manumbuak padi, jo sarupo asok dari janela.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dek karano itu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "inyo urang tu akan jadi"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "sarupo awan"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "jo sarupo ambun"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "pagi-pagi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "maila"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "sarupo dabu"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "dibaliak ribuik"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "dari tampek manumbuak padi"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "jo sarupo asok"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "dari janela"
+    }
+  ],
+  "timestamp": "2026-10-04T09:21:27.048520977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Urang nagari maambiak ⟨את⟩ Yehoachaz anak Yoasyahu, jo mangajainyo manjadi rajo manggantikan apaknyo di Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoasyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "mangajainyo manjadi rajo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "manggantikan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:00:35.931615655Z",
+  "model": "glm-5.3"
+}

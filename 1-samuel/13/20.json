@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Mako saluruah Yisrael turun ka urang Pelishtim untuak manajam-anjam, urang saurang ⟨את⟩ bajaknyo, jo ⟨את⟩ paculnyo, jo ⟨את⟩ kapaknyo, jo ⟨את⟩ tanjam-tanjamnyo.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "urang Pelishtim"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "untuak manajam-anjam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang saurang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajaknyo"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "bajaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "paculnyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "paculnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kapaknyo"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "kapaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tanjam-tanjamnyo"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "tanjam-tanjamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:25:50.249784026Z",
+  "model": "glm-5.3"
+}

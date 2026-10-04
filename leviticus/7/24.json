@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lamak lemak binatang nan mati surang jo lamak lemak nan dimangso binatang buas buliah dipakai untuak sagalo karajo, tapi jananga kalian makan inyo.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "lamak lemak"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "binatang nan mati surang"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "jo lamak lemak"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "nan dimangso binatang buas"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buliah dipakai"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak sagalo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "tapi makan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jananga"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "kalian makan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:12.673516403Z",
+  "model": "glm-5.3"
+}

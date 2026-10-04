@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "jo ⟨את⟩ buruang yoana, jo ⟨את⟩ takhmas, jo ⟨את⟩ sakaf, jo ⟨את⟩ naz manuruik jinihnyo",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buruang yoana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "buruang"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "yoana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "takhmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "takhmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "sakaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "naz"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "naz"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "manuruik jinihnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:14.851450871Z",
+  "model": "glm-5.3"
+}

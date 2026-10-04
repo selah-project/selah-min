@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo Yehonatan mungkahi parjanjian jo Dawid, karano inyo mangasihi ⟨אתו⟩ inyo sarupo nyawanyo surang.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "jo inyo mungkahi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "jo Dawid"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "karano mangasihi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "sarupo nyawanyo surang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:19.222141614Z",
+  "model": "glm-5.3"
+}

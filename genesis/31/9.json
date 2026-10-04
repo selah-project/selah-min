@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo Elohim mancubokan ⟨את⟩ tampek taranak ambo-ambo kalian, jo agiahnyo kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "mancubokan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampek taranak ambo-ambo kalian"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "tampek taranak"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ambo-ambo kalian"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "agiahnyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:21.315538427Z",
+  "model": "glm-5.3"
+}

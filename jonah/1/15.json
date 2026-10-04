@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu inyo mangangkek ⟨את⟩ Yonah jo mailakkannyo ka lauik, jo lauik baranti dari kamaraohnyo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "mailakkannyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "baranti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "dari kamaraohnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:40.702816486Z",
+  "model": "glm-5.3"
+}

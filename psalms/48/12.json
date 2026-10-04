@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Bakariah bukik Tsiyon, basuko-suko binti-binti Yehuda, dek hukum-hukum-Mu.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bakariah"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukik"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "basuko-suko"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "binti-binti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dek"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:29.990563162Z",
+  "model": "glm-5.3"
+}

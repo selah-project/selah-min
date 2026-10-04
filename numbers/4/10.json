@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Urang tu ka manaruh ⟨את⟩ inyo jo ⟨את⟩ sagalo pakakehnyo ka dalam tuwuik kulik takhas, lalu manaruhnyo di ateh tungkek pangangkok.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "manaruh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo pakakehnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "pakakehnyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka dalam"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "tuwuik"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhas"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "manaruh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "tungkek pangangkok"
+    }
+  ],
+  "timestamp": "2026-10-04T04:39:08.517165644Z",
+  "model": "glm-5.3"
+}

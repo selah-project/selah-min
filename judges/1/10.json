@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Yehuda pai manantang urang Kanaan nan tingga di Khebron — dan namo Khebron pado mulonyo Kiryat-Arba — lalu inyo mahantam ⟨את⟩ Sheshai jo ⟨את⟩ Akhiman jo ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lalu pai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "nan tingga"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Khebron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "pado mulonyo"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lalu inyo mahantam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Akhiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Akhiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-10-04T05:11:20.546529242Z",
+  "model": "glm-5.3"
+}

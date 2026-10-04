@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo Aharon mambaok ⟨את⟩ kambiang jantan nan atehnyo naiak ⟨את⟩ undian untuak Yahweh, jo mambueknyo jadi kurban doso.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "jo mambaok"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambiang jantan"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kambiang jantan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "undian"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "jo mambueknyo"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kurban doso"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:33.273465351Z",
+  "model": "glm-5.3"
+}

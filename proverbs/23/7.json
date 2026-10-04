@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Karano sarupo nan dipakirokannyo dalam dirinyo, baitulah inyo; 'Makan jo minum,' inyo bakato kapado kau, tapi atinyo indak basamo kau.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "шער",
+      "gloss": "dipakirokannyo"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "dalam dirinyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitulah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "jo minum"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "tapi atinyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo kau"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:16.641335549Z",
+  "model": "glm-5.3"
+}

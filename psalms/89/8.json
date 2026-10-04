@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "El nan mambuek gaduah di dalam pasabuahan urang-urang nan suci, nan tagadang, jo nan mambuek takuik ateh sagalo nan di sakaliliang-Nyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "nan mambuek gaduah"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "di dalam pasabuahan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "urang-urang nan suci"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nan tagadang"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "jo nan mambuek takuik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "nan di sakaliliang-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:05.794000062Z",
+  "model": "glm-5.3"
+}

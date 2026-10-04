@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Ambo indak dapek ambo surang sajo mamikua ⟨את⟩ sagalo urang tu ko, karano inyo lampau barek untuak ambo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "surang sajo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "mamikua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo urang tu ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lampau barek"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:42:57.404345158Z",
+  "model": "glm-5.3"
+}

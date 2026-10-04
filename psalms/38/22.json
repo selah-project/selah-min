@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jan tinggakan ambo, Yahweh, Elohim ambo; jan jauah dari ambo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tinggakan ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jauahlah"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:44.821783341Z",
+  "model": "glm-5.3"
+}

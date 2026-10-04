@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 134,
+  "translation": "Angkaikkan tangan sanjak ka tampek nan suci, jo barekati ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Angkaikkan"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "tangan sanjak"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ka tampek nan suci"
+    },
+    {
+      "surface": "ו ברכו",
+      "gloss": "jo barekati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:08.201630487Z",
+  "model": "glm-5.3"
+}

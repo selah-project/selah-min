@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Kini, hinggo jo pangatahuan biajo ka ambo, supayo ambo kalua masuak di muko bangso iko, karano sia nan dapek mangadili ⟨את⟩ bangso-Mu nan gadang iko?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hinggo"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "jo pangatahuan"
+    },
+    {
+      "surface": "תן",
+      "gloss": "biajo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "supayo ambo kalua"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di mukuak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ו אבואה",
+      "gloss": "jo masuak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "dapek mangadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso-Mu nan gadang iko"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangso-Mu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nan gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:49:14.664873353Z",
+  "model": "glm-5.3"
+}

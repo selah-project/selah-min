@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Jo bangso-bangso bajalan ka cahayomu, jo rajo-rajo ka kagamilahan pancarianganmu.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "ka cahayomu"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "jo rajo-rajo"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ka kagamilahan"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "pancarianganmu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:24:28.217421345Z",
+  "model": "glm-5.3"
+}

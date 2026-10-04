@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 111,
+  "translation": "Pujilah Yah! Ambo manganjo basukujo kapado Yahweh jo sadoalah ati, dalam siraaik urang-urang nan luruih jo dalam jamaah.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ambo manganjo basukujo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "dalam siraaik"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "urang-urang nan luruih"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "jo dalam jamaah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:21.481032515Z",
+  "model": "glm-5.3"
+}

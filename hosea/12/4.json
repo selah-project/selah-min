@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Dalam rahim inyo maambek tumik ⟨את⟩ kakaknyo, jo dalam kakuatannyo inyo babaku jo ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "dalam rahim"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "maambek tumik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakaknyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kakaknyo"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "jo dalam kakuatannyo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "babaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:16.199884375Z",
+  "model": "glm-5.3"
+}

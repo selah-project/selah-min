@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Chetsron manjadiakan ⟨את⟩ Ram, jo Ram manjadiakan ⟨את⟩ Aminadab.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "jo Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manjadiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "jo Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manjadiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:17.814284519Z",
+  "model": "glm-5.3"
+}

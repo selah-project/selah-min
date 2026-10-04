@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Maka katiko salasai makan ⟨את⟩ bareh nan dibao urang tu dari Mitsrayim, apak urang tu bakato kapado urang tu: Pailah baliak, baliaklah untuak kami saketek makanan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "salasai"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bareh"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "bareh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "dibao urang tu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "apak urang tu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "pailah baliak"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kami"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:38.444145284Z",
+  "model": "glm-5.3"
+}

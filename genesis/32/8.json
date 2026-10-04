@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Mako Yaakov sangaik takuik, dan sasauik hatinyo; lalu inyo mambagi ⟨את⟩ urang banyak nan basamo inyo, jo ⟨את⟩ kawan-biri-biri, jo ⟨את⟩ lembu, jo unta tu, manjadi duo kamp.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "sasauik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "mambagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "basamo ⟨את⟩ inyo",
+      "marks": "basamo inyo — panando kadiakan, bukan objek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kawan-biri-biri"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kawan-biri-biri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lembu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "jo unta tu"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "manjadi duo"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "kamp"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:39.099978276Z",
+  "model": "glm-5.3"
+}

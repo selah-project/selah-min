@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Kok Kau alah maluluih kami di tampek srigalo, jo manutuik kapado kami jo kalam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "Kau alah maluluih kami"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "srigalo"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "jo manutuik"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kapado kami"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "jo kalam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:23.480488280Z",
+  "model": "glm-5.3"
+}

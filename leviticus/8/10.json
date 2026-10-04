@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Moshe maambiak ⟨את⟩ minyak urapan itu, jo inyo maurap ⟨את⟩ Mishkan itu jo ⟨את⟩ sagalo nan ado di dalamnyo, lalu inyo manyucikannyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urapan itu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan itu"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "maurap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan itu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan ado di dalamnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ado di dalamnyo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "manyucikannyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:10.625086490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 12:2",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Ephrajim manggembala ruakh, jo mahabuih angin timua; satiok ari inyo mambaok banyak dusta jo kajahatan; jo inyo mangaruiang parjanjian jo Ashshur, jo minyak dibao ka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "manggembala"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "jo mahabuih"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "angin timua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "jo kajahatan"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "mambaok banyak"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "jo parjanjian"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "mangaruiang"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "dibao"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:16.199600307Z",
+  "model": "glm-5.3"
+}

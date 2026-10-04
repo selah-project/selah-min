@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 63,
+  "translation": "Baitu ambo ka mamuji Angkau salamo ambo iduik; jo dalam namo Angkau ambo maangkek talapak tangan ambo.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ambo ka mamuji Angkau"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "salamo ambo iduik"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "dalam namo Angkau"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ambo maangkek"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "talapak tangan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:45.577049307Z",
+  "model": "glm-5.3"
+}

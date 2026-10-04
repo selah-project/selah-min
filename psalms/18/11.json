@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo DISO balayang di ateh kerub, jo DISO tabang, DISO maambek di ateh janiah angin.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "DISO balayang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "jo DISO tabang"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "DISO maambek"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "janiah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:41.683517727Z",
+  "model": "glm-5.3"
+}

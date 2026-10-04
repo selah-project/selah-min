@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Rumah tanggo Levi, bakahekilah ⟨את⟩ Yahweh; urang nan takuik kapado Yahweh, bakahekilah ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "rumah tanggo"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bakahekilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "urang nan takuik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bakahekilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:46.621352710Z",
+  "model": "glm-5.3"
+}

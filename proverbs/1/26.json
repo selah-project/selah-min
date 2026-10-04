@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Ambo juo ka galak katiko musibah kalian tibo, ambo ka mahia katiko katarik kalian pulang.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "katiko musibah kalian"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "ka galak"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "ka mahia"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "katiko tibo"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "katarik kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:43.947658812Z",
+  "model": "glm-5.3"
+}

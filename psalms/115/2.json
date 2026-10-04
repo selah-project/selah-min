@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 115,
+  "translation": "Baa kok bangso-bangso kafir bakato: Di ma kini tuhan-tuhan inyo?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso kafir"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan-tuhan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:03.254128780Z",
+  "model": "glm-5.3"
+}

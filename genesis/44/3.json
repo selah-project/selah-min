@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Pagi bamanalah, urang tu diuahan pai, inyo jo kuda-kudanyo.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "bamanalah"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "jo urang tu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "diuahan pai"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "jo kuda-kudanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:00.538269847Z",
+  "model": "glm-5.3"
+}

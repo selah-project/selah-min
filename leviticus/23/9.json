@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo Yahweh bakato kapado Moshe, nan kato-Nyo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan kato-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:24.622568777Z",
+  "model": "glm-5.3"
+}

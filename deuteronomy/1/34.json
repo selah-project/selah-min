@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Yahweh mandanga ⟨את⟩ suaro kato-kato kalian, jo inyo mamarahi, jo basumpah, bakato:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lalu mandanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaro kato-kato kalian"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "kato-kato kalian"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "jo inyo mamarahi"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "jo basumpah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato:"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:39.612179767Z",
+  "model": "glm-5.3"
+}

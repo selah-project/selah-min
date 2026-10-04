@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo Ambo ka mambuek parjanjian-Ambo di antaro Ambo jo ang, dan Ambo ka mamadangkan ang bana-bana sabana banyak.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ambo ka mambuek"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian-Ambo"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "di antaro Ambo"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "jo di antaro ang"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "Ambo ka mamadangkan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ang",
+      "marks": "ang"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "bana-bana"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sabana banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:48.982150454Z",
+  "model": "glm-5.3"
+}

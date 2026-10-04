@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Dan inyo ambiak dari darahnyo, jo latakkan pado duo tiang pintu jo pado palang ateh, pado rumah-rumah tampek inyo makan inyo ⟨את⟩ di sinan.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "dan inyo ambiak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "jo latakkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "tiang pintu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo pado"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "palang ateh"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "inyo makan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (anak domba itu)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:47.367224399Z",
+  "model": "glm-5.3"
+}

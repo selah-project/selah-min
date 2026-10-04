@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Inyo bakato-kato jo ⟨את⟩ inyo jo kato-kato nan elok, lalu manarangkan ⟨את⟩ takhtanyo di ateh takhta rajo-rajo nan ado ⟨את⟩ basamo inyo di Babel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "inyo bakato-kato"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "jo ⟨את⟩ inyo"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "kato-kato nan elok"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lalu manarangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takhtanyo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhtanyo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ basamo inyo"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "di Babel"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:33.497677803Z",
+  "model": "glm-5.3"
+}

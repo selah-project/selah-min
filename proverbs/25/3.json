@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Langik pado katinggian, bumi pado kadalaman, jo ati rajo-rajo indak dapek disaliaki.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "pado katinggian"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jo bumi"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "pado kadalaman"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "jo ati"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "panyaliakan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:47.682690772Z",
+  "model": "glm-5.3"
+}

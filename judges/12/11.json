@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Sasudah inyo, Elon urang Zebulun manguasai ⟨את⟩ Yisrael; jo inyo manguasai ⟨את⟩ Yisrael salamo sapuluah tahun.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "manguasai"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sasudah inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "urang Zebulun"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "jo manguasai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-10-04T05:18:35.533502122Z",
+  "model": "glm-5.3"
+}

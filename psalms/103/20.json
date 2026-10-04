@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Barakaiklah Yahweh, hai malaikek-Nyo, urang nan gagah kakuatan, nan bakuakui mangarajoan kato-Nyo, untuak mandanga ka suaro kato-Nyo.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Barakaiklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaikek-Nyo"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "urang nan gagah"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "nan mangarajoan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kato-Nyo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "untuak mandanga"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka suaro"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kato-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:55.482347814Z",
+  "model": "glm-5.3"
+}

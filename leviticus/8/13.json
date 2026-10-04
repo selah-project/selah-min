@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 8:13",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lapeh itu Moshe mandakek-an ⟨את⟩ anak-anak Aharon, inyo dipakaian kuto, diikuek jo ⟨את⟩ ikek pinggang, jo maikakan kapado inyo tutuik kapalo — sarupo nan diparentahkan Yahweh kapado ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "mandakek-an"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Aharon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "dipakaian kuto"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kuto"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "diikuek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iek-iek pinggang"
+    },
+    {
+      "surface": "אבנט",
+      "gloss": "iek-iek pinggang"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "maikakan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "tutuik kapalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:51.701291313Z",
+  "model": "glm-5.3"
+}

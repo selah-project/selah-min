@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Imam nan diurapi mambiak dari darah lombu itu, jo mambaok ⟨את⟩ inyo ka dalam kemah patamuan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mambiak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "nan diurapi"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dari darah"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lombu"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "jo mambaok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (darah lombu itu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka dalam"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:37.628863777Z",
+  "model": "glm-5.3"
+}

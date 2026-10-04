@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Tangan ka tangan, urang jahat indak ka dilapeh, tapi beniah urang nan bana ka lolos.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ka dilapeh"
+    },
+    {
+      "surface": "רע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "tapi beniah"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang nan bana"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "ka lolos"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:20.506661711Z",
+  "model": "glm-5.3"
+}

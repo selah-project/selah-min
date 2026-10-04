@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Yahweh maimbau Moshe, jo mangecek kapado inyo dari Ohel Moed, bakato:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maimbau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "jo mangecek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "dari khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed (patamuan)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:14.907856651Z",
+  "model": "glm-5.3"
+}

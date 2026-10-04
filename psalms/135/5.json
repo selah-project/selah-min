@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Karano ambo tau baso Yahweh gadang, jo Adonai kito labiah dari sagalo tuhan-tuhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "jo Adonai kito"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labiah dari sagalo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:46.098557187Z",
+  "model": "glm-5.3"
+}

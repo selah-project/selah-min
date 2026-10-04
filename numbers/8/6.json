@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Ambiaklah ⟨את⟩ urang Lewi dari tangah-tangah anak-anak Yisrael, jo sucikanlah ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ambiaklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Lewi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tangah-tangah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "jo sucikanlah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (urang Lewi)"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:18.052788741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo inyo malewakan ⟨את⟩ rumah tu jo batu nan maha untuak rancaknyo, jo amehnyo ameh Parvaim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "jo inyo malewakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "nan maha"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "untuak rancaknyo"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "jo amehnyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvaim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:50:01.222614827Z",
+  "model": "glm-5.3"
+}

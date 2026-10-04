@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 122,
+  "translation": "Yerushalayim, nan bakota tuo, dibangun sarupo kota nan tasabuik manjadi ciek sacaro basamo.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "dibangun"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "sarupo kota"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "nan tasabuik manjadi ciek"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sacaro basamo ⟨jo inyo⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sacaro basamo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:32.130502761Z",
+  "model": "glm-5.3"
+}

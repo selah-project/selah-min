@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Ciek lai ambo bakato, dan ambo indak manjawab; duo lai, dan ambo indak manambah lai.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ciek lai"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "manjawab"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "duo lai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "manambah lai"
+    }
+  ],
+  "timestamp": "2026-10-04T08:13:13.607458308Z",
+  "model": "glm-5.3"
+}

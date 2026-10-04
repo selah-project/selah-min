@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo ⟨את⟩ Bet-Nimrah, jo ⟨את⟩ Bet-Haran, koto-koto benteang, jo kandang-kandang bifeng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Bet-Nimrah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimrah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Bet-Haran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "benteang"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "jo kandang-kandang"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bifeng"
+    }
+  ],
+  "timestamp": "2026-10-04T04:49:21.930926887Z",
+  "model": "glm-5.3"
+}

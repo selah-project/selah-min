@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo kini, sasuai jo sagalo kaindak jiwa ang, hai rajo, untuak turun — turunlah; jo kito nan ka manyarahkan inyo ka tangan rajo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sasuai jo sagalo"
+    },
+    {
+      "surface": "אות",
+      "gloss": "kaindak"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jiwa ang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hai rajo"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "untuak turun"
+    },
+    {
+      "surface": "רד",
+      "gloss": "turunlah"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "jo kito"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "ka manyarahkan inyo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:00.770945359Z",
+  "model": "glm-5.3"
+}

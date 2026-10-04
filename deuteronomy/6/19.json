@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "untuak mausai ⟨את⟩ sagalo musuah awak dari muko awak, sarupo nan alah Yahweh ucapkan.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "untuak mausai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo musuah awak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuah awak"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari muko awak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alah ucapkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:53:06.980579786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Anak manusia, patuahkan jo ⟨את⟩ Yerushalayim ⟨את⟩ kajijikannyo:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "patuahkan jo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kajijikannyo"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "kajijikannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:51:51.157204421Z",
+  "model": "glm-5.3"
+}

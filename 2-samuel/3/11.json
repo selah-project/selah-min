@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo ⟨inyo⟩ indak dapek lai manjawab ⟨את⟩ Avner ciek kato, karano takuiknyo ⟨את⟩ kapado inyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "manjawab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ciek kato"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "karano takuiknyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:35:01.950895569Z",
+  "model": "glm-5.3"
+}

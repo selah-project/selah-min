@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 8:20",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo dari urang Netinin, nan alah diagiah dek Dawid jo para pangulu untuak karajo urang Lewi, urang Netinin duoratus duopuluah; sagalonyo dilandiak jo namo-namo.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "urang Netinin"
+    },
+    {
+      "surface": "שנתן",
+      "gloss": "nan alah diagiah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "dek Dawid"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "jo para pangulu"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "untuak karajo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Lewi"
+    },
+    {
+      "surface": "נתינים",
+      "gloss": "urang Netinin"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duoratus"
+    },
+    {
+      "surface": "וועשרים",
+      "gloss": "duopuluah"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sagalonyo"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "dilandiak"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "jo namo-namo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:35:23.938704755Z",
+  "model": "glm-5.3"
+}

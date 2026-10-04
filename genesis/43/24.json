@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Urang tu mambaok ⟨את⟩ urang-urang tu ka rumah Yosef, inyo maagiah aia, jo urang tu mambasuh kaki urang tu, jo inyo maagiah makanan balando untuak kalompai-kalompai urang tu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mambaok ka dalam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang tu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang-urang tu"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ka rumah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jo inyo maagiah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "jo urang tu mambasuh"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "kaki urang tu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jo inyo maagiah"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "makanan balando"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "untuak kalompai-kalompai urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:45.490536280Z",
+  "model": "glm-5.3"
+}

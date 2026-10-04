@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Inyo adolah Yahweh, Elohim kito; di sadoalah bumi ado hukum-hukum-Nyo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sadoalah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hukum-hukum-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:40.350691141Z",
+  "model": "glm-5.3"
+}

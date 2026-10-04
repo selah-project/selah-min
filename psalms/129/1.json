@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 129,
+  "translation": "Lagu dapek nan naik. Banyak inyo manyasak ambo sajak mudo ambo — katoa nai Yisrael.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dapek nan naik"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Banyak"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "inyo manyasak ambo"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sajak mudo ambo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "katoa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:08.483370640Z",
+  "model": "glm-5.3"
+}

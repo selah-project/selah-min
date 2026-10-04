@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "jo batang nan ditanam dek tangan suok Kau, jo anak nan Kau kuekkan untuak Kau surang.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "jo batang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "ditanam"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dek tangan suok Kau"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo atas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "Kau kuekkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak Kau surang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:19.782442075Z",
+  "model": "glm-5.3"
+}

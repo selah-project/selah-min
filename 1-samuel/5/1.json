@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Urang Paliset mamunguah ⟨את⟩ potuang Elohim jo mambaoknyo dari Even-ha-Ezer ka Asydod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Urang Paliset"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "mamunguah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potuang Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "potuang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "jo mambaoknyo"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "dari Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ka Asydod"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:40.316679958Z",
+  "model": "glm-5.3"
+}

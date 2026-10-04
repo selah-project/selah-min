@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Tapi Ambo, Ambo alah managakan Rajo ambo di ateh Tsiyon, gunuang suci ambo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi Ambo"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "alah managakan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Rajo ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "suci ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:26.989411653Z",
+  "model": "glm-5.3"
+}

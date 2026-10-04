@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Dakek Calah Engkau, Yahweh, jo sagalo parintah-Mu ⟨itu⟩ bana.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Calah Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parintah-Mu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨itu⟩ bana"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:04.812909506Z",
+  "model": "glm-5.3"
+}

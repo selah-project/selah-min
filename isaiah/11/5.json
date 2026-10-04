@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Dan tsedeq manjadi ikek pinggangnyo, jo kasatiaan ikek pinggangnyo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan manjadi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ikek"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "pinggangnyo"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "jo kasatiaan"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ikek"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "pinggangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:10:09.904258561Z",
+  "model": "glm-5.3"
+}

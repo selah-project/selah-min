@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Tapi ambo, kapado Engkau ambo basadio, Yahweh; ambo bakato: Elohim ambo ⟨adolah⟩ Engkau.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kapado Engkau"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ambo basadio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:30.198288703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo untuak sampiang kaduo dari Mishkan, ka arah utara: dua puluah papan.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "jo untuak sampiang"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kaduo"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluah"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "papan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:15.814212493Z",
+  "model": "glm-5.3"
+}

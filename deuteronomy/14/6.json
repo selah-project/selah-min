@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo satiok binatang nan mambalah kuku, mambalah kuku manjadi duo, jo manaikkan gerah di antaro binatang — ⟨את⟩ inyo kalian makan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo satiok"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "nan mambalah"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "mambalah manjadi"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "tabalah"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "manaikkan"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerah"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "di antaro binatang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kalian makan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:38.891209836Z",
+  "model": "glm-5.3"
+}

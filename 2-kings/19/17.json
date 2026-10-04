@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Sungguah bana, Yahweh, rajo-rajo Asyur alah mangaruakkan ⟨את⟩ bangso-bangso itu jo ⟨את⟩ nagari urang tu.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "sungguah bana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "mangaruakkan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso-bangso itu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nagari urang tu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nagari urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:03:53.839147866Z",
+  "model": "glm-5.3"
+}

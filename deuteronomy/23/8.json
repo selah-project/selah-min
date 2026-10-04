@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jan pabenci urang Edom, karano inyo adaik kalian; jan pabenci urang Mitsrayim, karano kalian parnah manjadi urang asiang di nagarinyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "pabenci"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "urang Edom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "adoik kalian"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "pabenci"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גר",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "היית",
+      "gloss": "kalian parnah manjadi"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "di nagarinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:08.350089768Z",
+  "model": "glm-5.3"
+}

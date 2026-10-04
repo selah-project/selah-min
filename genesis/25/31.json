@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Lalu Yaakov bakato: Unjuang kini ko juo ⟨את⟩ hak kasulungan mu kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "unjuang"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kini ko juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hak kasulungan mu"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "hak kasulungan mu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:25.679964878Z",
+  "model": "glm-5.3"
+}

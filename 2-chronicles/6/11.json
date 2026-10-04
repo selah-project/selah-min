@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo ambo lapeh di sinan ⟨את⟩ peti parjanjian Yahweh, nan alah inyo potong jo urang-urang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "jo ambo lapeh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti parjanjian"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "alah inyo potong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T08:50:08.464685486Z",
+  "model": "glm-5.3"
+}

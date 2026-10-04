@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Sacaro sia-sia Ambo alah mambantui anak-anak kalian ⟨את⟩; inyo indak manarimo pangaja. Padang kalian lah mamanarih nabi-nabi kalian, sarupo singo nan pamusnah.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "Ambo alah mambantui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak kalian"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anak kalian"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pangaja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "manarimo"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "lah mamanarih"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "padang kalian"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "nabi-nabi kalian"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sarupo singo"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "nan pamusnah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:26:20.880462305Z",
+  "model": "glm-5.3"
+}

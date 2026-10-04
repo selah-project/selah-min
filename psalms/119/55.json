@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ambo mangana Namo-Mu, Yahweh, di malam hari, jo ambo mahago Torah-Mu.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ambo mangana"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "di malam hari"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Namo-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "jo ambo mahago"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:38.690649921Z",
+  "model": "glm-5.3"
+}

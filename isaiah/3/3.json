@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Kapalo limo puluah, urang nan diargakan mukonyo, panasihaik, urang pandai karajinan, jo urang nan pahamu jampi.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limo puluah"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "jo nan diangkek"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muko"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "jo panasihaik"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "jo urang pandai"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "karajinan"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "jo urang pahamu"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "jampi"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:59.448386889Z",
+  "model": "glm-5.3"
+}

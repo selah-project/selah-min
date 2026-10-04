@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Sanjo jo pagi jo tangah ari ambo bamusabaraik jo mangaruak, jo inyo mandanga suaro ambo.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "sanjo"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "jo pagi"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "jo tangah ari"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ambo bamusabaraik"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "jo mangaruak"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "jo inyo mandanga"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaro ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:08.638297576Z",
+  "model": "glm-5.3"
+}

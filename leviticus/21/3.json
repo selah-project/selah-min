@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "jo untuak sudarinyo padusi, gadang nan alun balaki, nan dakek kapado inyo, nan alun pernah punyo laki — untuaknyo inyo buliah manjadi najis.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "jo untuak sudarinyo padusi"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "gadang nan alun balaki"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "nan dakek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alun"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "pernah"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "punyo laki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "inyo manjadi najis"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:14.218169985Z",
+  "model": "glm-5.3"
+}

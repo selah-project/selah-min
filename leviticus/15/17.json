@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo satiok pakaian, jo satiok kulik nan ka ado di atehnyo pancurahan beniah, ka dibasuh jo aia, jo indak suci sampai patang ari.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo satiok"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo satiok"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka ado"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "pancurahan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ka dibasuh"
+    },
+    {
+      "surface": "במים",
+      "gloss": "jo aia"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "jo indak suci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "patang ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:53.457076275Z",
+  "model": "glm-5.3"
+}

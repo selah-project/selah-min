@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Wakatu untuak manangih, jo wakatu untuak bakatoanyo; wakatu untuak bamatian, jo wakatu untuak manari.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "untuak manangih"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jo wakatu"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "untuak bakatoanyo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "untuak bamatian"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jo wakatu"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "untuak manari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:37.826364190Z",
+  "model": "glm-5.3"
+}

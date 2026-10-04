@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Iko, kito mandangaannyo di Efrata; kito manamuannyo di ladang rimbo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "kito mandangaannyo"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "di Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "kito manamuannyo"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "יער",
+      "gloss": "rimbo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:28.451099728Z",
+  "model": "glm-5.3"
+}

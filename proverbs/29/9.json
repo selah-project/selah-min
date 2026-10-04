@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Urang nan bijak maadili ⟨את⟩ urang nan bodoh, tapi nyo marah jo manawa, indak ado katenangan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nan bijak"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "maadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang nan bodoh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "nan bodoh"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "tapi nyo marah"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "jo manawa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "katenangan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:15.695808146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Gunuang-gunuang naiak, lembah-lembah turun, ka tampek nan You alah tandokan untuak inyo.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "lembah-lembah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "You alah tandokan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:53.279868960Z",
+  "model": "glm-5.3"
+}

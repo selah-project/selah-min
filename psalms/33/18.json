@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Calikah, mato Yahweh ka arah urang nan takuik kapado-Nyo, ka urang nan manyangko kapado hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "calikah"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "urang nan takuik kapado-Nyo"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "ka urang nan manyangko"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "kapado hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:28.463195583Z",
+  "model": "glm-5.3"
+}

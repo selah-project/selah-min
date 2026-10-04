@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Sarupo bayiyo nan lalu, lai indak ado urang nakia; tapi urang banar adolah pamatang nan kalahiran.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "sarupo lalu"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "bayiyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lai indak ado"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang nakia"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "tapi urang banar"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "pamatang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nan kalahiran"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:57.517280868Z",
+  "model": "glm-5.3"
+}

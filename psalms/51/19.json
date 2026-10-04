@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Korban-korban untuak Elohim ⟨adolah⟩ ruakh nan patah; ati nan patah jo tatuok, wa Elohim, indak tauk hinokan.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "korban-korban"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "untuak Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "nan patah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "nan patah"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "jo tatuok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "hinokan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:47.781153876Z",
+  "model": "glm-5.3"
+}

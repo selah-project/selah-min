@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Dawid mamacik ⟨את⟩ bajunyo, jo mamaruaknyo, jo sadoalah urang-urang nan basamo ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "mamacik"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "bajunyo"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "jo mamaruaknyo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "basamo ⟨את⟩ inyo",
+      "marks": "urang-urang nan basamo Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T09:10:15.465774547Z",
+  "model": "glm-5.3"
+}

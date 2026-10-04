@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Ang ka maagiah kasatiaan kapado Yaakov, hesed kapado Avraham, nan alah ang baia kapado dato-dato kito sajak ari-ari nan lampau.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kasatiaan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kapado Yaakov"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kapado Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "alah baia"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "kapado dato-dato kito"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "sajak ari-ari"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "nan lampau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:15:47.870693810Z",
+  "model": "glm-5.3"
+}

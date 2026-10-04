@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 22:4",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Yahweh nan tapuji, ambo manyeru; jo dari musuah-musuah ambo ambo salamaik.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "nan tapuji"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ambo manyeru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומאיבי",
+      "gloss": "jo dari musuah-musuah ambo"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ambo salamaik"
+    }
+  ],
+  "timestamp": "2026-10-04T09:10:17.677210480Z",
+  "model": "glm-5.3"
+}

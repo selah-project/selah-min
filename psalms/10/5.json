@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jalan-jalannyo kokoh salamo waktu; hukum-hukummu di tampek tinggi, jauah dari matoinyo; sado musuahnyo inyo mandehakan.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "kokoh"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalan-jalannyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "di tampek tinggi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukummu"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "jauah dari matoinyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "musuahnyo"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "mandehakan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka mereka"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:01.157342846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Yahweh, jangan buliah ambo mailang muko, karano ambo alah manyeru namo-Mu; buek urang jahat mailang muko, buek inyo bungkam sampai ka Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ambo mailang muko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ambo alah manyeru namo-Mu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mailang muko"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "bungkam"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sampai ka Sheol"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:24.119688564Z",
+  "model": "glm-5.3"
+}

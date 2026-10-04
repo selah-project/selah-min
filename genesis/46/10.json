@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Jo anak-anak Shimon: Yemuel, jo Yamin, jo Ohad, jo Yakhin, jo Tsokhar, jo Shaul anak padusi Kanaan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "jo Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "jo Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "jo Yakhin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "jo Tsokhar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "jo Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "padusi Kanaan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:16.293477216Z",
+  "model": "glm-5.3"
+}

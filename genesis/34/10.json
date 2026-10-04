@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo ⟨את⟩ kalian tingga basamo, jo bumi tu manjadi di muko kalian; tingga lah, baniagoi bumi tu, jo paciak cekak tanah tu.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "jo ⟨את⟩ kito"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "kalian tingga"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "jo bumi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di muko kalian"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "tingga lah"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "baniagoi"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "paciak cekak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di bumi tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:21.220251358Z",
+  "model": "glm-5.3"
+}

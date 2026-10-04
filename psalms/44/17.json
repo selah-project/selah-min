@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Dek suaro urang nan maehok jo nan mauto, dek muko musuah jo urang nan mambaleh dendam.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "dek suaro"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "urang nan maehok"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "jo nan mauto"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dek muko"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "jo urang nan mambaleh dendam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:23.479983006Z",
+  "model": "glm-5.3"
+}

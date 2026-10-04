@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Indak Ester managahan ⟨את⟩ bangsonyo jo ⟨את⟩ katurunannyo, karano Mordekhai alah manyuruh inyo supayo indak diagiah tau.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "managahkan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsonyo"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bangsonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "katurunannyo"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "katurunannyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "manyuruh"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "diagiah tau"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:44.768393290Z",
+  "model": "glm-5.3"
+}

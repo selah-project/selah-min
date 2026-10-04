@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Apokah hesed-Nyo laah habih salamanyo? Apokah janji-Nyo gugu untuak angkatan ka angkatan?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "apokah laah habih"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "gugu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "janji-Nyo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "untuak angkatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ka angkatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:41.518560572Z",
+  "model": "glm-5.3"
+}

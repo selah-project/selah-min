@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Yahweh bakato kapado Syemuel: Tangahilan suaro rakyaik tu, sado nan urang tu katakan kapado sanak, karano bukan ⟨את⟩sanak urang tu tolak, tapi ⟨את⟩Aku urang tu tolak, manghalalkan Aku dari bakuaso ateh urang tu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tangahilan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyaik tu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "urang tu katakan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩sanak",
+      "marks": "sanak (objek nan ditolak)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "urang tu tolak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩Aku",
+      "marks": "Aku (objek nan ditolak)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "urang tu tolak"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "dari bakuaso"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ateh urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:29.247839726Z",
+  "model": "glm-5.3"
+}

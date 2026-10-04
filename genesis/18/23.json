@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Avraham mandakek jo bakato: Aa pun barasa Kau manyapu urang banaik basamo urang jahat?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "mandakek"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "האף",
+      "gloss": "aa pun barasa"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "manyapu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang banaik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:56.054009372Z",
+  "model": "glm-5.3"
+}

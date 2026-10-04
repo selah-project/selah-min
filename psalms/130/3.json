@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 130,
+  "translation": "Kalau È maharok doso-doso, Yah, Adonai, siapo nan dapek tagak?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "doso-doso"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "È maharok"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dapek tagak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:14.739427797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Lalu Avraham bangkik, jo manunduak diri kapado urang nagari itu, kapado anak-anak Chet.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu bangkik"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "jo manunduak diri"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kapado urang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari itu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kapado anak-anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:22.539738866Z",
+  "model": "glm-5.3"
+}

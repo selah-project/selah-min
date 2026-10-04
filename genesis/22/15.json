@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Laju surang malaikkek Yahweh maanyuak kapado Avraham kaduo kalinyo, dari langik.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maanyuak"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "surang malaikkek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kaduo kalinyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:10.422957602Z",
+  "model": "glm-5.3"
+}

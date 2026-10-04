@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Ambo manganang Elohim jo ambo mangadeh; ambo bamusua jo urang, ruakh ambo jadi lamah. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "ambo manganang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "jo ambo mangadeh"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ambo bamusua jo urang"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "jadi lamah"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ambo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:13.256155947Z",
+  "model": "glm-5.3"
+}

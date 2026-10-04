@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 112,
+  "translation": "Atinyo basandari tagak, indak takuik, sampai inyo mancaliak musuah-musuahnyo.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "basandari tagak"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "musuah-musuahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:13.196547291Z",
+  "model": "glm-5.3"
+}

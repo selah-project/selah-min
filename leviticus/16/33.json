@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu inyo mangaleh doso ⟨את⟩ tampek suci nan paliang suci, jo ⟨את⟩ Tenda Partamuan, jo ⟨את⟩ mezbah inyo manyucikan; jo untuak urang imam jo untuak sagalo urang jamaah inyo mangaleh doso.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "mangaleh doso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampek suci nan paliang suci"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "tampek suci"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nan paliang suci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Tenda Partamuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Partamuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "mezbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "manyucikan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo untuak"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "urang imam"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo untuak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "mangaleh doso"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:03.206909976Z",
+  "model": "glm-5.3"
+}

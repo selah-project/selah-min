@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Dek inyo pai, jo mambuek sarupo kato Eliyahu; dek makan inyo jo inyo jo urang rumahnyo salamo ari-ari.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "dek inyo pai"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "jo mambuek"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sarupo kato"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dek makan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "jo urang rumahnyo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "salamo ari-ari"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:59.558625639Z",
+  "model": "glm-5.3"
+}

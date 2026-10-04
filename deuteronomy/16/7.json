@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 16:7",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo kau masak, jo kau makan, di tampek nan dipiliah Yahweh Elohim-mu; jo kau baliak pado pagi, jo kau pai ka khemah-khemahmu.",
+  "tokens": [
+    {
+      "surface": "ובשלת",
+      "gloss": "jo kau masak"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "jo kau makan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "dipiliah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "(di) inyo"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "jo kau baliak"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "jo kau pai"
+    },
+    {
+      "surface": "לאהליך",
+      "gloss": "ka khemah-khemahmu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:41.688702163Z",
+  "model": "glm-5.3"
+}

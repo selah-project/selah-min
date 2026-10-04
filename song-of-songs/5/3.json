@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Ambo alah talapeh ⟨את⟩ baju ambo, baa ambo mamakainyo baliak? Ambo alah mambasuah ⟨את⟩ kaki ambo, baa ambo mancalinyo baliak?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "alah talapeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baju ambo"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "baju ambo"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "mamakainyo baliak"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "alah mambasuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaki ambo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kaki ambo"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "mancalinyo baliak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:15:38.297271368Z",
+  "model": "glm-5.3"
+}

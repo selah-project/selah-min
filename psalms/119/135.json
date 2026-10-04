@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Buek muko-Mu basinar ateh hamba-Mu, jo ajaikan ambo ⟨את⟩ katantuan-katantuan-Mu.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    },
+    {
+      "surface": "האר",
+      "gloss": "Buek basinar"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "ateh hamba-Mu"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "jo ajaikan ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katantuan-katantuan-Mu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katantuan-katantuan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:02.751254183Z",
+  "model": "glm-5.3"
+}

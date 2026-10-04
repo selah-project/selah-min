@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Urang nan mancintoi pitih indak ka kanyang dek pitih, jo urang nan mancintoi kabanyakan indak dapek hasianyo; ko pun kabasian.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "mancintoi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pitih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ka kanyang"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dek pitih"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jo urang nan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mancintoi"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "kabanyakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "dapek hasianyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ko pun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kabasian"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:03.963476100Z",
+  "model": "glm-5.3"
+}

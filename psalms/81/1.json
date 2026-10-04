@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Untuak pamimpin musik, ateh Gittit, untuak Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak pamimpin musik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "untuak Asaf"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:14.875544629Z",
+  "model": "glm-5.3"
+}

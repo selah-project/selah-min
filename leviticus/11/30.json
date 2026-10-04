@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo cicak gadang, jo biawak, jo kadal, jo bengkaruang, jo bunglon.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "jo cicak gadang"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "jo biawak"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "jo kadal"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "jo bengkaruang"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "jo bunglon"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:19.931863908Z",
+  "model": "glm-5.3"
+}

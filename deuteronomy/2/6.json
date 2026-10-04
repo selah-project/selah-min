@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Makanan awak sanak bali dari ⟨את⟩ inyo jo perak, lalu awak sanak makan; juo aia awak sanak bali dari ⟨את⟩ inyo jo perak, lalu awak sanak minum.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "awak sanak bali"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "dari ⟨את⟩ inyo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "jo perak"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "lalu awak sanak makan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "awak sanak beli"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "dari ⟨את⟩ inyo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "jo perak"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "lalu awak sanak minum"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:22.403933329Z",
+  "model": "glm-5.3"
+}

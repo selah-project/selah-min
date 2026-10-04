@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo Aku ka mambuang angkau, jo ⟨את⟩ induak angkau nan malahiaan angkau, ka bumi nan lain, nan indak angkau dilahiaan di sinan; jo di sinan angkau ka mati.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "Jo Aku ka mambuang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ angkau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "induak angkau"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "induak angkau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "malahiaan angkau"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "angkau dilahiaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo di sinan"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "angkau ka mati"
+    }
+  ],
+  "timestamp": "2026-10-04T06:33:11.294600895Z",
+  "model": "glm-5.3"
+}

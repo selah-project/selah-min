@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Yahweh indak ka mangantaannyo di tangan urang tu, jo indak ka manyasalinyo katiko inyo diadili.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "ka mangantaannyo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangan urang tu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "ka manyasalinyo"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "katiko inyo diadili"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:33.944048085Z",
+  "model": "glm-5.3"
+}

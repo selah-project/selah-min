@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 18:34",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Inyo mambuek kaki ambo sarupo kaki kijang, jo di ateh tampek-tampek tinggi ambo inyo tagakkan ambo.",
+  "tokens": [
+    {
+      "surface": "משוה",
+      "gloss": "mambuek rato sarupo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kaki ambo"
+    },
+    {
+      "surface": "כאילות",
+      "gloss": "sarupo kaki kijang"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo di ateh"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "tampek-tampek tinggi ambo"
+    },
+    {
+      "surface": "יעמידני",
+      "gloss": "inyo tagakkan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:07.157245873Z",
+  "model": "glm-5.3"
+}

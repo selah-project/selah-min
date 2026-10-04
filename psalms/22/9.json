@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Gulinkan ka Yahweh — biar inyo malapehnyo, biar inyo manyalamatannyo, karano inyo sanang kapadonyo!",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Gulinkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "malapehnyo"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "manyalamatannyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:02.663304668Z",
+  "model": "glm-5.3"
+}

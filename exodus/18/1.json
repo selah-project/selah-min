@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Yitro, imam Midyan, mintuo Moshe, mandanga ⟨את⟩ sagalo nan alah dibuek Elohim kapado Moshe jo kapado Yisrael, umatnyo, karano Yahweh alah mangaluaan ⟨את⟩ Yisrael dari Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mintuo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kapado Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "jo kapado Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "mangaluaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:32.733423081Z",
+  "model": "glm-5.3"
+}

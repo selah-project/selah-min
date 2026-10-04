@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Lalu inyo mangumpuaan ⟨את⟩ urang tu ka dalam tahanan, tigo ari.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "lalu inyo mangumpuaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka dalam"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "tahanan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:17.353941675Z",
+  "model": "glm-5.3"
+}

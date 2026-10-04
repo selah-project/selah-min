@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Parjanjian ambo lai jo ⟨את⟩ inyo — kahidupan jo kadamaian; jo ambo agiah ⟨את⟩ kaduo-duonyo kapadonyo sabagai raso takuik, jo inyo takuik kapado ambo, jo dek muko Namo ambo inyo tarcacek — inyo.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "Parjanjian ambo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Parjanjian — kapado Levi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kahidupan"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "jo kadamaian"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "jo ambo agiah ⟨את⟩ kaduo-duonyo",
+      "marks": "kahidupan jo kadamaian"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "sabagai raso takuik"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "jo inyo takuik kapado ambo"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "jo dek muko"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Namo ambo"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "tarcacek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:30.944084701Z",
+  "model": "glm-5.3"
+}

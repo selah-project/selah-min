@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo ⟨את⟩ tambok Yerushalayim sakitarannyo dibongkok dek sado bala tentera Kasdim nan ado jo kapalo para pangancua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tambok Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tambok"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakitarannyo"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "dibongkok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bala tentera"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "para pangancua"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:30.276875251Z",
+  "model": "glm-5.3"
+}

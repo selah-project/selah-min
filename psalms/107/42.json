@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Urang-urang nan luruih mcaliak jo bagia, jo sado kalancangan maidam mukonyo.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "urang-urang nan luruih"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "jo bagia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kalancangan"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "maidam"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:34.803260232Z",
+  "model": "glm-5.3"
+}

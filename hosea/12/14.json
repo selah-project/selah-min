@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo dek saurang nabi Yahweh mambaok ⟨את⟩ Yisrael naiak dari Mitsrayim, jo dek saurang nabi inyo dijago.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "jo dek saurang nabi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mambaok naiak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "jo dek saurang nabi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "dijago"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:58.588765461Z",
+  "model": "glm-5.3"
+}

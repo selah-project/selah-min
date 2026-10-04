@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Lalu Ambo ka mangujuak ⟨את⟩ talapak tangan-Ambo, jo kau ka caliak ⟨את⟩ balakang-Ambo; tapi muko-Ambo indak ka caliak.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Ambo ka mangujuok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talapak tangan-Ambo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "talapak tangan-Ambo"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "jo kau ka caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balakang-Ambo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "balakang-Ambo"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "tapi muko-Ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ka caliak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:21.687083211Z",
+  "model": "glm-5.3"
+}

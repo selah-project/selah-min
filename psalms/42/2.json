@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Sarupo ruso jantan rindu ka aliran aia, baitu nafasku rindu kapado-Mu, ya Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Sarupo ruso jantan"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "rindu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "aliran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafasku"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "rindu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:49.830374822Z",
+  "model": "glm-5.3"
+}

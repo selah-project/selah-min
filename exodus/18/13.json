@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Maka bajalan kajadian pado kakinian ari: Moshe duduak manguadili ⟨את⟩ urang banyak tu, jo urang banyak tu tagak di muko Moshe dari pagi sampai sanjo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bajalan kajadian"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pado kakinian ari"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "duduak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "manguadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang banyak tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sanjo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:56.686981501Z",
+  "model": "glm-5.3"
+}

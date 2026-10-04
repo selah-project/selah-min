@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Di ma buruang-buruang mambuek sarangnyo; hasidah, sipres-sipres adolah rumahnyo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "buruang-buruang"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "mambuek sarangnyo"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "hasidah"
+    },
+    {
+      "surface": "ברושׁים",
+      "gloss": "sipres-sipres"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "rumahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:46.083060742Z",
+  "model": "glm-5.3"
+}

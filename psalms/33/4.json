@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Karano luruih kato Yahweh, jo sagalo pabuek-Nyo ⟨dipabuek⟩ dalam kasatiaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "luruih"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "pabuek-Nyo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "dalam kasatiaan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:49.364380774Z",
+  "model": "glm-5.3"
+}

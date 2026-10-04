@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Mako inyo ka mandayu ambo, tapi ambo indak ka manjawek; inyo ka mancari ambo saari-ari, tapi indak ka manamu ambo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "mako"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "inyo ka mandayu ambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ambo ka manjawek"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "inyo ka mancari ambo saari-ari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "ka manamu ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:43.947986256Z",
+  "model": "glm-5.3"
+}

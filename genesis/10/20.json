@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Iko adolah anak-anak Ham manuruik masyarakaik-masyarakaiknyo, manuruik bahaso-bahasonyo, di nagari-nagarinyo, jo di bangso-bangsonyo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "manuruik masyarakaik-masyarakaiknyo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "manuruik bahaso-bahasonyo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "di nagari-nagarinyo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "di bangso-bangsonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:32.385593394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo bakato inyo: Baa bareh ⟨untuak⟩ ang ka inyi, ari ko? Indak bulan baru, indak pulo Shabat. Jo bakato inyo: Salamaik.",
+  "tokens": [
+    {
+      "surface": "ובאמר",
+      "gloss": "jo bakato inyo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "baa bareh ⟨untuak⟩"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ang"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ka inyi ang"
+    },
+    {
+      "surface": "אלבו",
+      "gloss": "kapado baliau"
+    },
+    {
+      "surface": "הביום",
+      "gloss": "ari ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bulan baru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak pulo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jo bakato inyo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salamaik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:57:07.009690916Z",
+  "model": "glm-5.3"
+}

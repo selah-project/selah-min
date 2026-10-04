@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 124,
+  "translation": "Lagu naiak, dek Dawid. Kalau indak Yahweh — nan ado untuak kito — kini baiaklah Yisrael bakato:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dek Dawid"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "kalau indak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nan ado"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kito"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini baiaklah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:42.268441043Z",
+  "model": "glm-5.3"
+}

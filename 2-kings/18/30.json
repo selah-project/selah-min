@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo jan ang Chizkiyahu mambuek ⟨את⟩ kau sadono picayo kapado Yahweh, nan bakato: Yahweh pasti malapeh kami, jo ⟨את⟩ kota ko indak ka diagiah ka tangan rajo Ashshur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jo jan ang"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "picayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kau sadono",
+      "marks": "kau sadono"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "malapeh kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ka diagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota ko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-10-04T06:03:37.461474106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Maka pado ari katiko urang ang malewati ⟨את⟩ Yarden ka tanah nan Yahweh Elohim ang maagiah kapado sanak, diriakkan-lah untuak sanak batu-batu gadang, jo lapi ⟨את⟩ urang tu jo kapua.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "urang ang malewati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "diriakkan-lah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak sanak"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "jo lapi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu gadang"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "jo kapua"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:14.871024160Z",
+  "model": "glm-5.3"
+}

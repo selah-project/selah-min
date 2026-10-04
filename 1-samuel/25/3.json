@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 25:3",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo namo urang itu Nabal, jo namo biniinyo Avigayil; padusi itu elok aka jo rancak rupo, samantaro urang itu kasa jo jahat dalam tindakannyo, jo inyo urang Kalev.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang itu"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "biniinyo"
+    },
+    {
+      "surface": "אבגיל",
+      "gloss": "Avigayil"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "elok"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "aka"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "jo rancak"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "samantaro urang itu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "jo jahat"
+    },
+    {
+      "surface": "מעללים",
+      "gloss": "dalam tindakannyo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "כלבו",
+      "gloss": "urang Kalev"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:52.270029900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 93,
+  "translation": "Dari suaro-suaro aia nan rami, aguang ombak Lauik — labiah aguang di tampek tinggi Yahweh.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "dari suaro-suaro"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "rami"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "aguang"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ombak"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Lauik"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "labiah aguang"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "di tampek tinggi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:57.594850566Z",
+  "model": "glm-5.3"
+}

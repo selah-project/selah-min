@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ⟨את⟩ lamak, jo ⟨את⟩ ginjal, jo ⟨את⟩ ,jo ⟨את⟩ bareh ati dari hati, dari korban doso, inyo manyalakan di ateh mazbeah, sarupo nan diparentahkan Yahweh kapado ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lamak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ginjal"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bareh ati"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "bareh ati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban doso"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "manyalakan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mazbeah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T09:04:09.435699788Z",
+  "model": "glm-5.3"
+}

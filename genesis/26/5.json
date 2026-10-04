@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Karano Avraham alah mandanga suaro ambo, jo mahago panjagoan ambo, parentah-parentah ambo, katantuan-katantuan ambo, jo Torah ambo.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "alah mandanga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "jo mahago"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "panjagoan ambo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah-parentah ambo"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "katantuan-katantuan ambo"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "jo Torah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:26.383055442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo anak-anak Aharon maangek ⟨את⟩ inyo di ateh mezbah, di ateh korban bakar nan di ateh kayu-kayu nan di ateh api — korban api, bau nan mamueh untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "jo ... maangek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (korban tu)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "korban api"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nan mamueh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:52.800093766Z",
+  "model": "glm-5.3"
+}

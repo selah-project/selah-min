@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Lalu Yahweh bakato kapado Moshe jo kapado Aharon, barkato:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "barkato"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:48.498389339Z",
+  "model": "glm-5.3"
+}

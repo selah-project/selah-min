@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Inyo mambaliak ⟨את⟩ aia urang tu manjadi darah, jo mamatiakan ⟨את⟩ ikan urang tu.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "mambaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aia urang tu"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "aia urang tu"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "manjadi darah"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "jo mamatiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikan urang tu"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ikan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:16.446494273Z",
+  "model": "glm-5.3"
+}

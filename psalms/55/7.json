@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Jo ambo bakato: Siapo nan maagiah ka ambo sayok sarupo buruang daratu, supayo ambo tabang jo baristirahat?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jo ambo bakato"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "sayok"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "sarupo buruang daratu"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ambo tabang"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "jo baristirahat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:34.952491867Z",
+  "model": "glm-5.3"
+}

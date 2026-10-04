@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Bibir ang sarupo banang sirah, jo ujar ang elok; lapang pipi ang sarupo keping delimau di balik kain paneh ang.",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "sarupo banang"
+    },
+    {
+      "surface": "השני",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "bibir ang"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "jo ujar ang"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "elok"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "sarupo keping"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "delimau"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "lapang pipi ang"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "di balik"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "kain paneh ang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:16:06.518802482Z",
+  "model": "glm-5.3"
+}

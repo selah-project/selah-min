@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 87,
+  "translation": "Yahweh mangasihi gapuro-gapuro Tzion, labiah dari sagalo tampek tingga Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "mangasihi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "gapuro-gapuro"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labiah dari sagalo"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "tampek tingga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:04.352716653Z",
+  "model": "glm-5.3"
+}

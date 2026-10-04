@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 112,
+  "translation": "Gagah di bumi ka manjadi katurunannyo; katurunan urang nan luruih ka mandapek berakah.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "gagah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka manjadi"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "katurunannyo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "urang nan luruih"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ka mandapek berakah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:04.215921093Z",
+  "model": "glm-5.3"
+}

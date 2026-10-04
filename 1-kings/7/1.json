@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo Shelomoh mambangun ⟨את⟩ rumahnyo salamo tigo baleh taun, lalu inyo manyalasaikan ⟨את⟩ sado ⟨את⟩ rumahnyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rumahnyo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "manyalasaikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:40.603060608Z",
+  "model": "glm-5.3"
+}

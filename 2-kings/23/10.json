@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo inyo manajiskan ⟨את⟩ Tofet nan di lei anak-anak Hinnom, supayo indak ado urang mambuek anaknyo laki jo padusinyo malewati ⟨את⟩ anaknyo jo ⟨את⟩ padusinyo dalam api untuak Molekh.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "jo inyo manajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "di lei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "mambuek lalu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaknyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "padusinyo"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "padusinyo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "untuak Molekh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:01.324350521Z",
+  "model": "glm-5.3"
+}

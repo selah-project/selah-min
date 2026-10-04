@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 6:12",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Rumah ko, nan ang pajaday: kok ang bajalan jo hukum-hukumKu, ang malakuan ⟨את⟩ patimbanganKu, ang mamaliharo sado parentahKu untuak bajalan joinyo, mako Aku ka managakkan ⟨את⟩ katoKu ⟨jo ang⟩, nan Aku ucapkan kapado Dawid, ayah ang.",
+  "tokens": [
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pajaday"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ang bajalan"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "jo hukum-hukumKu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "patimbanganKu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "patimbanganKu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ang malakuan"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ang mamaliharo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado parentahKu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentahKu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuak bajalan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "joinyo"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "mako Aku ka managakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katoKu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "katoKu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jo ang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Aku ucapkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayah ang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:37.520068295Z",
+  "model": "glm-5.3"
+}

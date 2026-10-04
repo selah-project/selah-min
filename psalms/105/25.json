@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Inyo mambalik ati urang tu untuak banci ka umat-Nyo, untuak bapakaro tahadok hamba-hamba-Nyo.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "mambalik"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "untuak banci"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ka umat-Nyo"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "untuak bapakaro"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "tahadok hamba-hamba-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:17.227638525Z",
+  "model": "glm-5.3"
+}

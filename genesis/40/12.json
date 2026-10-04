@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Lalu Yosef bakato kapadonyo: Iko lah taafsiaannyo: tigo dahan tu, tigo ari lah inyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "taafsiaannyo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "dahan tu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הם",
+      "gloss": "lah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:48.882428957Z",
+  "model": "glm-5.3"
+}

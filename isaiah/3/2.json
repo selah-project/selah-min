@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Urang gagah jo urang parang, hakim jo nabi, urang tenung jo urang gaek.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "urang gagah"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "parang"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "jo nabi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "jo urang tenung"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "jo urang gaek"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:59.448243423Z",
+  "model": "glm-5.3"
+}

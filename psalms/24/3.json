@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Sia nan ka naiak ka bukik Yahweh? Sia nan ka tagak di tampek kasucian-Nyo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sia"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ka naiak"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ka bukik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jo sia"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ka tagak"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kasucian-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:39.925014753Z",
+  "model": "glm-5.3"
+}

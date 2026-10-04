@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 3:13",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Yahweh tagak untuak bajuang, jo tagak untuak manguadili bangso-bangso.",
+  "tokens": [
+    {
+      "surface": "נצב",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "untuak bajuang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "jo tagak"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "untuak manguadili"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangso-bangso"
+    }
+  ],
+  "timestamp": "2026-10-04T06:07:47.721483873Z",
+  "model": "glm-5.3"
+}

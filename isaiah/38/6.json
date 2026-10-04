@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "jo ambo ka malapehan angkau jo ⟨את⟩ kota iko dari tangan rajo Ashshur, jo ambo ka malinduangi kota iko.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "jo dari tangan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ka malapehan angkau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kota iko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "jo ka malinduangi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:35.244308739Z",
+  "model": "glm-5.3"
+}

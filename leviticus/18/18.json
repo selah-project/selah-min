@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 18:18",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo padusi ka dunsanak padusinyo jan ambiak, untuak mahasioi, untuak maambek katorangannyo di atehnyo, salamo inyo iduik.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "jo padusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "dunsanak padusinyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ambiak"
+    },
+    {
+      "surface": "לצרר",
+      "gloss": "untuak mahasioi"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "untuak maambek"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "katorangannyo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "בחייה",
+      "gloss": "salamo inyo iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T09:04:17.906979813Z",
+  "model": "glm-5.3"
+}

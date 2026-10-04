@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 75,
+  "translation": "Katiko Ambo mang ambiak wakatu nan ditantuikan, Ambo surang nan mangadili jo kaadilan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Ambo mang ambiak"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wakatu nan ditantuikan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo surang"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "jo kaadilan"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "mangadili"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:00.893761003Z",
+  "model": "glm-5.3"
+}

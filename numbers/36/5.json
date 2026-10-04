@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Lalu Moshe mamarintahkan ⟨את⟩ anak-anak Yisrael manuruik kato Yahweh, bakato: Bana kato marga anak-anak Yusuf.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mamarintahkan lalu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "manuruik"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "marga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:32.171218007Z",
+  "model": "glm-5.3"
+}

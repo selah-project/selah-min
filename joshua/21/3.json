@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lah urang Yisrael mangasiakan kapado urang Lewi, dari tanah pusako urang tu, manuruik kato Yahweh, ⟨את⟩ kota-kota iko jo ⟨את⟩ ladang-ladangnyo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "lah mangasiakan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kapado urang Lewi"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "dari tanah pusako urang tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manuruik"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota iko"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ladang-ladangnyo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ladang-ladangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:25.063114263Z",
+  "model": "glm-5.3"
+}

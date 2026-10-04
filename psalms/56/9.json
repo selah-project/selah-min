@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Pai-base ambo Kaambo alah manyuangi, tampekkan aia mato ambo di botol Kaambo; nan indak, sadonyo tacatek di kitab Kaambo?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "pai-base ambo"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "Kaambo alah manyuangi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kaambo"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "tampekkan"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "aia mato ambo"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "di botol Kaambo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nan indak"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "di kitab Kaambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:56.957015629Z",
+  "model": "glm-5.3"
+}

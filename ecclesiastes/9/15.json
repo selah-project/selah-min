@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo tasuo di sinan surang miskin nan bijak, jo inyo mancalapehkan ⟨את⟩ nagari tu jo kakarunannyo; tapi indak ado urang maingek ⟨את⟩ urang miskin tu.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "jo tasuo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "surang"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nan bijak"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "jo mancalapehkan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagari tu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nagari tu"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "jo kakarunannyo"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "tapi urang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maingek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang miskin tu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "miskin tu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:05.060939241Z",
+  "model": "glm-5.3"
+}

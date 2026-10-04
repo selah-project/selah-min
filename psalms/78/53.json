@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Dan inyo mamimpin mareka salamaik, indak mareka takuik, tapi lauik manutuik ⟨את⟩ musuah-musuah mareka.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "mamimpin mareka salamaik"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "salamaik"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "mareka takuik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "musuah-musuah mareka"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "musuah-musuah mareka"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "manutuik"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:39.911571041Z",
+  "model": "glm-5.3"
+}

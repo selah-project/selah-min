@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Karano tampek kato rajo ado ⟨ado⟩ kuaso; jo sia nan dapek mangecek kapadonyo: Apo nan kaukoki?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "kuaso"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jo sia"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kaukoki"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:33.452121299Z",
+  "model": "glm-5.3"
+}

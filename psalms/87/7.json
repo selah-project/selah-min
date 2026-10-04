@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 87,
+  "translation": "Jo urang-urang manyanyi sarupo urang nan manari: sagalo mumbuang ambo ado di dalam diam.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "jo urang-urang manyanyi"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "sarupo urang nan manari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mumbuang ambo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ado di dalam diam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:06.966923196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo ⟨את⟩ ladang kota itu jo ⟨את⟩ pakampuang-pakampuangnyo inyo agiah ka Kalev anak Yefuneh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ladang kota itu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pakampuang-pakampuangnyo"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "pakampuang-pakampuangnyo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ka Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:03.974031889Z",
+  "model": "glm-5.3"
+}

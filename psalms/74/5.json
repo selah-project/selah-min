@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Dikana urang nan maangkek ka ateh di dalam rumpuak kayu — kapak-kapak.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "dikana"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "sarupo urang nan maangkek"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "di dalam rumpuak"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "kapak-kapak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:46.958539761Z",
+  "model": "glm-5.3"
+}

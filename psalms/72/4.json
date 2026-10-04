@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Inyo mangadili urang miskin dari bangso tu, inyo malapehan anak-anak urang sansaro, jo inyo mahancua urang panjaleh.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "mangadili"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dari bangso tu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "malapehan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "urang sansaro"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "mahancua"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "urang panjaleh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:05.381712854Z",
+  "model": "glm-5.3"
+}

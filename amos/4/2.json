@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Adonai Yahweh alah basumpah jo kasucian-Nyo: sungguah, caliaklah, ari-ari tibo ateh awak sanak, jo awak ka diangka jo kail, jo siso awak jo kail pancing.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "alah basumpah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "jo kasucian-Nyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliaklah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ateh awak sanak"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ka diangka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "awak sanak"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "jo kail"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "jo siso awak"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "jo kail pancing"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "panyiang ikan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:11:00.218721529Z",
+  "model": "glm-5.3"
+}

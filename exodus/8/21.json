@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Paroh manggia Moshe jo Aharon, jo inyo bakato: Pergilah kamu, baliahlah untuak Elohim kito di bumi iko.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "manggia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "jo Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Pergilah kamu"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "baliahlah"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "untuak Elohim kito"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi iko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:35.394659717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo urapi ⟨את⟩ mezbah tu, mezbah baruang holokok itu, jo ⟨את⟩ sagalo pakaian-parabotnyo; jo kau sucikan ⟨את⟩ mezbah tu, dan mezbah tu manjadi suci nan sapantiang-sapantiang.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "jo urapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah tu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "baruang holokok itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo pakaian-parabotnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pakaian-parabotnyo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "jo kau sucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah tu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah tu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan manjadi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah tu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nan sapantiang-sapantiang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:08.202277649Z",
+  "model": "glm-5.3"
+}

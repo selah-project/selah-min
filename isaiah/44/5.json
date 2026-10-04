@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Nan ciek ka bakato: Ambo untuak Yahweh, jo nan ciek ka mangecekan dirinyo jo namo Yaakov, jo nan ciek ka manulih jo tangannyo: Untuak Yahweh, jo jo namo Yisrael inyo ka mambari gala dirinyo.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ka bakato"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "jo nan ciek"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ka mangecekan dirinyo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "jo nan ciek"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "ka manulih"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jo tangannyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "jo jo namo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "ka mambari gala dirinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:19.960063512Z",
+  "model": "glm-5.3"
+}

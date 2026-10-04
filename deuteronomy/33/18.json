@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 33:18",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Jo takaik Zevulun inyo bakato: Sananglah Zevulun katiko ang kau kalua, jo Yissaskhar katiko ang di lambak-lambak ang.",
+  "tokens": [
+    {
+      "surface": "ולזבולן",
+      "gloss": "jo takaik Zevulun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "sananglah"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "katiko ang kau kalua"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "jo Yissaskhar"
+    },
+    {
+      "surface": "באהליך",
+      "gloss": "di lambak-lambak ang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:20.698031522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jan tarik ambo basamo urang jaang, jo urang nan karajo kejaikan, nan bakato damai kapado kawan-kawannyo, sadangkeh kaburuek ado di ati inyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jan"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "tarik ambo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jaang"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "urang nan karajo"
+    },
+    {
+      "surface": "און",
+      "gloss": "kejaikan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "kawan-kawannyo"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "jo kaburuek"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "di ati inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:52.753701616Z",
+  "model": "glm-5.3"
+}

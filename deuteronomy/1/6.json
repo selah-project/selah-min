@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Yahweh Elohim kito bakato kapado kito di Khoreb, bakato: Alah cukup lamo kito duduk di bukik iko.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kapado kito"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "di Khoreb"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Alah cukup lamo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di bukik"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:19.739135947Z",
+  "model": "glm-5.3"
+}

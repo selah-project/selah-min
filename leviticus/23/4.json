@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Iko wakatu tatantu Yahweh, pangumpulan suci, nan urang tu saruak ⟨את⟩ di wakatunyo masiang-masiang.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iko"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "wakatu tatantu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "pangumpulan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "urang tu saruak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "di wakatunyo masiang-masiang"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "di wakatunyo masiang-masiang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:59.980798943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo leba laman itu untuak sisi barat: kain-kain langiangan lima puluah hamba, tiang-tiangnyo sapuluah, jo dasa-dasanyo sapuluah.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "jo leba"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "laman itu"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "untuak sisi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "barat"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "kain-kain langiangan"
+    },
+    {
+      "surface": "חמישים",
+      "gloss": "lima puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "tiang-tiangnyo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "jo dasa-dasanyo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:28.672045768Z",
+  "model": "glm-5.3"
+}

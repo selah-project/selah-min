@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Bahkan katiko ambo manyaruk jo mambantuak, Inyo manutuik doa ambo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "manyaruk"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "jo mambantuak"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "manutuik"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:18:15.861591749Z",
+  "model": "glm-5.3"
+}

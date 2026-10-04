@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Inyo alah mandakek-an ⟨את⟩ ang, jo ⟨את⟩ sagalo dunsanak ang, anak-anak awak Levi, basamo ang — dan kini sanak manggia juo kahakiman imam?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Inyo alah mandakek-an"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ang",
+      "marks": "ang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo dunsanak ang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dunsanak ang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak awak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "basamo ⟨את⟩ ang"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "dan sanak manggia"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "kahakiman imam"
+    }
+  ],
+  "timestamp": "2026-10-04T04:44:09.478151826Z",
+  "model": "glm-5.3"
+}

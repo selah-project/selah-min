@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lapeh rajo Dawid mangirim urang, jo diambiaknyo inyo dari rumah Makhir anak Ammiel, dari Lo-Devar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "jo diambiaknyo inyo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "dari Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devar"
+    }
+  ],
+  "timestamp": "2026-10-04T05:37:03.985145316Z",
+  "model": "glm-5.3"
+}

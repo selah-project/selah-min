@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Inyo lupo Eloh, nan malapehan inyo, pambuek kaco-kaco gadang di Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "lupo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloh"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "nan malapehan inyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pambuek"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "kaco-kaco gadang"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:45.100740576Z",
+  "model": "glm-5.3"
+}

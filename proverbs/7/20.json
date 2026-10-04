@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Pitasan perak dibaoannyo di tangannyo; pado hari bulan panuah inyo pulang ka rumahnyo.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "pitasan"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dibaoannyo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannyo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pado hari"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "bulan panuah"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "inyo pulang"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ka rumahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:32.099409271Z",
+  "model": "glm-5.3"
+}

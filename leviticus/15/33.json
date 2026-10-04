@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "jo padusi nan di dalam niddahnyo, jo urang nan maleceh ⟨את⟩ malecehnyo, untuak nan laki-laki jo untuak nan padusi, jo untuak urang nan lalok jo padusi nan indak barasiah.",
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "jo padusi nan sakik"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "di dalam niddahnyo"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "jo urang nan maleceh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malecehnyo"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "malecehnyo"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "untuak nan laki-laki"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "jo untuak nan padusi"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "jo untuak urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "padusi nan indak barasiah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:55.083145611Z",
+  "model": "glm-5.3"
+}

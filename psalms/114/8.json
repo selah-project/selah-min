@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 114,
+  "translation": "Nan mambaliakan ⟨את⟩ batu manjadi kolam aia, ⟨את⟩ batu kilek manjadi mato aia.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Nan mambaliakan"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "kolam aia"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "batu kilek"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "manjadi mato aia"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:15.901370459Z",
+  "model": "glm-5.3"
+}

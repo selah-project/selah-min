@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo ⟨את⟩ Ayin jo ⟨את⟩ padang rumpuiknyo, jo ⟨את⟩ Yutah jo ⟨את⟩ padang rumpuiknyo, ⟨את⟩ Bet-Syemes jo ⟨את⟩ padang rumpuiknyo — sambilan kuta dari ⟨את⟩ kaduo suku iko.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Ayin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ayin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yutah"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yutah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Syemes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Syemes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumpuiknyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumpuiknyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sambilan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaduo"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "suku"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:13.052714250Z",
+  "model": "glm-5.3"
+}

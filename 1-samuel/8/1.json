@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Maka katiko Shemuel alah tuo, inyo mambuek ⟨את⟩ anak-anaknyo manjadi hakim untuak Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka katiko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "untuak Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:08.045747108Z",
+  "model": "glm-5.3"
+}

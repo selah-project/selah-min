@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Roti indak barambang ka dimakan ⟨את⟩ tujuah ari tu, jo indak nampak di hadapan ang nan barambang, jo indak nampak di hadapan ang ragi di sagalo bateh ang.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "roti indak barambang"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ka dimakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuah ari tu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ari tu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nampak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "di hadapan ang"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "nan barambang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nampak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "di hadapan ang"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ragi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "bateh ang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:19.761419441Z",
+  "model": "glm-5.3"
+}

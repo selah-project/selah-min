@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo Shem iduik sasudah inyo bakaroman jo ⟨את⟩ Arpakhshad limo ratuih taun, jo inyo bakaroman anak laki-laki jo anak padusi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jo iduik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "bakaroman jo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratuih"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "bakaroman"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "anak padusi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:36.882076648Z",
+  "model": "glm-5.3"
+}

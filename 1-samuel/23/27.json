@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 23:27",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo surang utusan datang kapado Saul, bakato: Capek, jo pulang, karano Filistin alah manyarang nagari.",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "jo surang utusan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "capek"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "jo pulang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "lah manyarang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:30.377054244Z",
+  "model": "glm-5.3"
+}

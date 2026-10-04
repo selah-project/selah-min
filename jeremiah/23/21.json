@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Indak ambo mangirim ⟨את⟩ nabi-nabi tu, tapi inyo lari; indak ambo bacarito kapado inyo, tapi inyo manubiak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ambo mangirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabi-nabi tu"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nabi-nabi tu"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tapi inyo"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "lari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ambo bacarito"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tapi inyo"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "manubiak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:34:44.513500835Z",
+  "model": "glm-5.3"
+}

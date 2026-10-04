@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Dan bakalan tajadi, katiko anak-anak kalian bakato kapado kalian: Apo ibadaik iko untuak kalian?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bakalan tajadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kapado kalian"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anak kalian"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ibadaik"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:55.375610558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Bariak ambo aka, jo ambo ka manjago Torah-Mu, jo ambo ka mahiganyo jo saluruah ati.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "Bariak ambo aka"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "jo ambo ka manjago"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah-Mu"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "jo ambo ka mahiganyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo saluruah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:32.910411509Z",
+  "model": "glm-5.3"
+}

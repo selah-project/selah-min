@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "«Jan lah sai jo urang-urang nan diurapi-Ku, jo jan jadio buruak kapado nabi-nabi-Ku»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "sai jo"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "urang-urang nan diurapi-Ku"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "jo kapado nabi-nabi-Ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "jadio buruak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:21.469075284Z",
+  "model": "glm-5.3"
+}

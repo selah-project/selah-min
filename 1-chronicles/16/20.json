@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "jo inyo bajalan dari ciek bangso ka bangso lain, jo dari ciek karajoan ka umaik lain.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "jo inyo bajalan"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "dari ciek bangso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangso lain"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "jo dari ciek karajoan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umaik"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:38.008217216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Mako Yehosua mamberkati inyo, jo maagiah ⟨את⟩ Khevron kapado Kalev anak Yefuneh manjadi warisan.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "mamberkati inyo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kapado Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "manjadi warisan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:07:36.977271853Z",
+  "model": "glm-5.3"
+}

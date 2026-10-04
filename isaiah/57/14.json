@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 57:14",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 57,
+  "translation": "Jo bakato: Buek jalan! Buek jalan! Padangkan jalan, angkek sangkalo dari jalan bangso Ambo!",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "buek jalan!"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "buek jalan!"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "padangkan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "angkek"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "sangkalo"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "dari jalan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bangso Ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:23:50.128370833Z",
+  "model": "glm-5.3"
+}

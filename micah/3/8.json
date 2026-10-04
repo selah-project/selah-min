@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Tapi ambo, ambo taisi dek kakuatan, ⟨את⟩ ruakh Yahweh, jo hukum jo kagagahan, untuak manyampaikan ka Yaakov palanggarannyo, jo ka Yisrael dosonyo.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Tapi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "taisi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jo hukum"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "jo kagagahan"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "untuak manyampaikan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ka Yaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "palanggarannyo"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "jo ka Yisrael"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dosonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:58.408879255Z",
+  "model": "glm-5.3"
+}

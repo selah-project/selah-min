@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Ado tuhan-tuhan bangso-bangso tu nan manolong ⟨את⟩ inyo, nan dirusak dek nenek moyang ambo — ⟨את⟩ Gozan jo ⟨את⟩ Haran, jo Retsef, jo urang Eden nan ado di Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "adolah nan manolong"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (bangso-bangso tu)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "dirusak"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "dek nenek moyang ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "וורצף",
+      "gloss": "jo Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "ado di Telassar"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:31.898257026Z",
+  "model": "glm-5.3"
+}

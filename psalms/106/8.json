@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Tapi Iyo maanta saramat untuak dahulu namo-Nyo, untuak mambaritahuan ⟨את⟩ kakuatan-Nyo.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "tapi Iyo maanta saramat untuak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "untuak dahulu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namo-Nyo"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "untuak mambaritahuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuatan-Nyo"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "kakuatan-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:09.222787159Z",
+  "model": "glm-5.3"
+}

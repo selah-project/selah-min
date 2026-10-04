@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 114,
+  "translation": "Gunuang-gunuang malompek sarupo kambiang jantan, bukik-bukik sarupo anak kambiang",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "malompek"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "sarupo kambiang jantan"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bukik-bukik"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "sarupo anak"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambiang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:15.926390298Z",
+  "model": "glm-5.3"
+}

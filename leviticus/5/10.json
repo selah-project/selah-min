@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo ⟨את⟩ nan kaduo inyo buat sabagai olah manuruik hukum, jo imam tu manyudeh dosonyo — doso nan alah inyo buek — jo diampuankan untuaknyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nan kaduo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "inyo buat"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "manuruik hukum"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "jo manyudeh"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam tu"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "dari dosonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "doso"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "jo diampuankan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:02.564728983Z",
+  "model": "glm-5.3"
+}

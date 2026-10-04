@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Dan Adam baliak mangatahui ⟨את⟩ bininyo, jo inyo malahiakan saurang anak laki-laki, jo inyo manyabuik ⟨את⟩ namonyo Shet, karano ― katonyo ― \"Elohim alah manampekan untuak ambo beniah nan lain manggantian Hevel, karano Kayin alah mambunuah inyo.\"",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "baliak mangatahui"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bininyo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bininyo"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "jo inyo malahiakan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "jo inyo manyabuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שת",
+      "gloss": "manampekan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "manggantian"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "mambunuah inyo"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:38.251432625Z",
+  "model": "glm-5.3"
+}

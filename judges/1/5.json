@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu urang tu manamui ⟨את⟩ Adoni-Bezek di Bezek, lalu baparang jo inyo, jo urang tu mahantam ⟨את⟩ urang Kanaan jo ⟨את⟩ urang Perizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "lalu urang tu manamui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "di Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "lalu baparang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "jo urang tu mahantam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Perizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "urang Perizi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:11:46.276536145Z",
+  "model": "glm-5.3"
+}

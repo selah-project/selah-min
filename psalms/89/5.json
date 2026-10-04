@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Sampai salamanyo-lamonyo ambo akan mambuek kok ⟨את⟩ beniahmu, jo ambo akan mambangkik tahtamu sampai angkatan ka angkatan. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo-lamonyo"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ambo akan mambuek kok"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniahmu"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "jo ambo akan mambangkik"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sampai angkatan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ka angkatan"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tahtamu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:05.793444848Z",
+  "model": "glm-5.3"
+}

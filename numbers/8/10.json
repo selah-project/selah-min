@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo inyo musti mambaok ⟨את⟩ urang Levi ka muko Yahweh, jo anak-anak Yisrael musti manangkan ⟨את⟩ tangannyo di ateh urang Levi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "inyo musti mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Levi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "musti manangkan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannyo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Levi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:40:55.385716835Z",
+  "model": "glm-5.3"
+}

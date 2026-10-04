@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Jo urang tu picayo kapado kato-kato-Nyo, urang tu manyanyikan pujian-Nyo.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "urang tu picayo"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "kapado kato-kato-Nyo"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "urang tu manyanyikan"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:54.731750651Z",
+  "model": "glm-5.3"
+}

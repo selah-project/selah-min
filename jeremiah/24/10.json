@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo Aku ka mangiriman kapado inyo ⟨את⟩ padang, ⟨את⟩ kalaparan, jo ⟨את⟩ panyakik wabah, sampai inyo punah dari ateh tanah nan Aku baagiah kapado inyo jo kapado niniak muyang inyo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Jo Aku ka mangiriman"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padang"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalaparan"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "jo ⟨את⟩",
+      "marks": "panyakik wabah"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "panyakik wabah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "inyo punah"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku baagiah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "jo kapado niniak muyang inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:34:41.907485448Z",
+  "model": "glm-5.3"
+}

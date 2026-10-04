@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 16:9",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Maka baancang mangeceakannyo dayangnyo Zimri, pangulu satangah kareta parang, sadang inyo di Tirtzah sadang minum sampai mabuak di rumah Artsa, nan mamarintah rumah itu, di Tirtzah.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "baancang mangeceakannyo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mangeceakannyo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "dayangnyo"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "satangah"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kareta parang"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "sadang inyo"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "di Tirtzah"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "minum"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "mabuak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ארצא",
+      "gloss": "Artsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "mamarintah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "di Tirtzah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:39.345182063Z",
+  "model": "glm-5.3"
+}

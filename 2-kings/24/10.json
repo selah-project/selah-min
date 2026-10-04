@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Pado wakatu tu para hamba Nebukhadnetsar, rajo Babel, naiak ka Yerushalayim, lalu koto tu masuak ka dalam panengahan.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "pado wakatu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "para hamba"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukhadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "lalu masuak"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "koto tu"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ka dalam panengahan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:46.666070590Z",
+  "model": "glm-5.3"
+}

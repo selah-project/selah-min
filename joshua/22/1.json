@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Kokko Yehoshua maimbau urang Reuben, urang Gad, jo satangah suku Menashshe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "kokko"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "maimbau"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "urang Reuben"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "jo urang Gad"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "jo satangah"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:49.251715198Z",
+  "model": "glm-5.3"
+}

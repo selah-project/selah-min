@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo iko untuak angkau tando dari ⟨את⟩ Yahweh, baso Yahweh ka mambuek ⟨את⟩ kato iko nan lah diucapkan:",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak angkau"
+    },
+    {
+      "surface": "האות",
+      "gloss": "tando"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "baso"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ka mambuek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lah diucapkan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:35.244474556Z",
+  "model": "glm-5.3"
+}

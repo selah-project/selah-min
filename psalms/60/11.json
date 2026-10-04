@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Sia nan mambaok ambo ka kota bantuak? Sia nan mamandu ambo sampai ka Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sia"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "nan mambaok ambo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "bantuak"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sia"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "nan mamandu ambo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:57.200501863Z",
+  "model": "glm-5.3"
+}

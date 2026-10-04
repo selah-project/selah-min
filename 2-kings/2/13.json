@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lapeh inyo maangkek ⟨את⟩ jubah gadang Eliyahu nan jatuh dari atehnyo, lalu inyo baliak jo tagak di tapi Yordan.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah gadang Eliyahu"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "jubah gadang"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "dari atehnyo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:16.426567355Z",
+  "model": "glm-5.3"
+}

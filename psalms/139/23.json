@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Salidiki ambo, El, jo katahui ati ambo; uji ambo, jo katahui kagaluauan ambo.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Salidiki ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "jo katahui"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "uji ambo"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "jo katahui"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "kagaluauan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:43.064109022Z",
+  "model": "glm-5.3"
+}

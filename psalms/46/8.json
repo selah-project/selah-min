@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Yahweh Tsebaot basamo kito, kubu dek kito Elohim Yaakov, Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "basamo kito"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dek kito"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:47.022750703Z",
+  "model": "glm-5.3"
+}

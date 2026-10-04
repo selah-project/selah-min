@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo tulihannyo pado tiang-tiang pintu rumah awak jo pado gapuro-gapuro awak.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "tulihannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tiang-tiang pintu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah awak"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "jo pado gapuro-gapuro awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:14.570592907Z",
+  "model": "glm-5.3"
+}

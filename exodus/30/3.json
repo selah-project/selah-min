@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo kaliliangan ⟨את⟩ inyo jo ameh murni: ⟨את⟩ atoknyo, jo ⟨את⟩ dindiangnyo sakaliliang, jo ⟨את⟩ tanduak-tanduaknyo; jo kaukarih untuaknyo ciek mahkota ameh sakaliliang.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "jo kaliliangan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "ameh murni iko"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atoknyo"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "atoknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "dindiangnyo"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "dindiangnyo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tanduak-tanduaknyo"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tanduak-tanduaknyo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "jo kaukarih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:31.722943684Z",
+  "model": "glm-5.3"
+}

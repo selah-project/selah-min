@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Urang tu ka mambangun rumah jo tingga di dalamnyo; ka mananam kabun anggur jo makan buahnyo.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ka mambangun"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "jo tingga"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ka mananam"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "kabun anggur"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "jo makan"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "buahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:25:21.520355802Z",
+  "model": "glm-5.3"
+}

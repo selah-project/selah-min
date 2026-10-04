@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Sampai bilo, urang balo, ⟨kamu⟩ lalok? Bilo kayua dari lalokmu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "urang balo"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kayua"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "lalokmu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:50.300498837Z",
+  "model": "glm-5.3"
+}

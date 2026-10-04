@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Dan Khanokh bajalan-bajalan jo ⟨את⟩ Elohim, dan inyo indak lai, karano Elohim alah maambek ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "bajalan-bajalan"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "indak lai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "maambek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:10.492019393Z",
+  "model": "glm-5.3"
+}

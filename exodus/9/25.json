@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Es mancalam di saluruah tanah Mitsrayim ⟨את⟩ sagalo nan ado di ladang, dari manusia sampai binatang; jo es mancalam ⟨את⟩ sagalo rumpuik ladang, jo ⟨את⟩ sagalo kayu ladang dipacahnyo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mancalam"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "es"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di saluruah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan ado di ladang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dari manusia"
+    },
+    {
+      "surface": "וועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo rumpuik ladang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "rumpuik"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "mancalam"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "es"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kayu ladang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "dipacahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:03.039492849Z",
+  "model": "glm-5.3"
+}

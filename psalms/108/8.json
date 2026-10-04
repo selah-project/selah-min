@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 108,
+  "translation": "Elohim alah bakato dalam kasucian-Nyo: ambo ka bagembira, ambo ka mambagi Shekhem, jo mangukua lembah Sukot.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alah bakato"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "dalam kasucian-Nyo"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ambo ka bagembira"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ambo ka mambagi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "jo lembah"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "mangukua"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:10.842657027Z",
+  "model": "glm-5.3"
+}

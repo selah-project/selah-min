@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo ⟨את⟩ kulik jawi tu, jo ⟨את⟩ sagalo dagiangnyo, samo kapalonyo, samo tungkaiinyo, jo isi paruiknyo, jo taihnyo —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "kulik jawi tu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "jawi tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "sagalo dagiangnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "samo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo samo"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "tungkaiinyo"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "jo isi paruiknyo"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "jo taihnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:47.746876282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Elohim, sajak mudo ambo Dikau alah manaja ambo, dan sampai kini ambo kabaokan kaja-kaja ajaib Dikau.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "Dikau alah manaja ambo"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sajak mudo ambo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ambo kabaokan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kaja-kaja ajaib Dikau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:51.489958977Z",
+  "model": "glm-5.3"
+}

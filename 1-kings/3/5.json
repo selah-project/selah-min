@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Di Gibeon Yahweh muncua kapado Shlomo dalam mimpim malam, jo Elohim bakato: Mintak-lah — apo ambo ka bari kapado kau?",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Di Gibeon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "muncua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "dalam mimpim"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "mintak-lah"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ambo ka bari"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kau"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:47.751863624Z",
+  "model": "glm-5.3"
+}

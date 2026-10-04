@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "kapado tukang-tukang kayu, tukang-tukang batu, jo tukang-tukang pagar, jo untuak mambali kayu jo batu-batu tarabuang, untuak manguekkan ⟨את⟩ rumah itu.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "kapado tukang-tukang kayu"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "jo kapado tukang-tukang batu"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "jo kapado tukang-tukang pagar"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "jo untuak mambali"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "jo batu-batu"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "tarabuang"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "untuak manguekkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:04:28.600217218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Untuak mancaritoan Namo Yahweh di Tsiyon, jo pujian-Nyo di Yerushalayim;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "untuak mancaritoan"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tsiyon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "jo pujian-Nyo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:12.739219710Z",
+  "model": "glm-5.3"
+}

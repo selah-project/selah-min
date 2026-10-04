@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Bajoji urang nan mangatahui sorak-sorai; dalam cahayo muko-Mu, Yahweh, inyo bajalan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "bajoji"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "nan mangatahui"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "sorak-sorai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באור",
+      "gloss": "dalam cahayo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "inyo bajalan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:35.539295353Z",
+  "model": "glm-5.3"
+}

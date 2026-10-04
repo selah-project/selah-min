@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Sananglah jo ⟨את⟩ Yerushalayim, jo bariaha di dalamnyo sagalo nan mangasiainyo; basukacitalah ⟨את⟩ jo inyo sampai rancak, sagalo nan bakabuduah untuaknyo.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Sananglah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "jo bariaha"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "nan mangasiainyo"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "basukacitalah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ jo inyo"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "sampai rancak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "nan bakabuduah"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "untuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:25:17.432114344Z",
+  "model": "glm-5.3"
+}

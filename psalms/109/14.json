@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Biar kasalahan ayah-ayahnyo diingek di hadapan Yahweh, jo doso ibunyo jan diapuih.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "biar diingek"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasalahan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ayah-ayahnyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "jo doso"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "diapuih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:43.478058387Z",
+  "model": "glm-5.3"
+}

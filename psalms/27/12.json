@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Janga serahan ambo ka napeh musuah-musuah ambo, karano alah bangesak saksi-saksi palsu mahadok ambo, jo nan manyarokanan kakarasan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janga"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "serahan ambo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ka napeh"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "musuah-musuah ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "alah bangesak"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mahadok ambo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "palsu"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "jo nan manyarokanan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kakarasan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:11.989833641Z",
+  "model": "glm-5.3"
+}

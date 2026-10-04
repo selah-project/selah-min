@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Yahweh manguadili umat-umat; kokokan ambo, Yahweh, manuruik tsedeq ambo jo manuruik katamaman ambo nan ado dalam diri ambo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "manguadili"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "kokokan ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "manuruik tsedeq ambo"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "jo manuruik katamaman ambo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nan ado dalam diri ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:52.256045186Z",
+  "model": "glm-5.3"
+}

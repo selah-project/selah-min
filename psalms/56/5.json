@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Di dalam Elohim ambo puji ⟨את⟩ kato-Nyo, di dalam Elohim ambo basandaro; indak ambo takuik, apo nan dapek dagiang buat kapado ambo.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "di dalam Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ambo pujai"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kato-Nyo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di dalam Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ambo basandaro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ambo takuik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dapek buat"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:10.751721481Z",
+  "model": "glm-5.3"
+}

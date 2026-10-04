@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo di atehnyo batu-batu nan maha, manuruik ukuran batu gazit, jo aroz.",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "jo di atehnyo"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "nan maha"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "manuruik ukuran"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "batu gazit"
+    },
+    {
+      "surface": "וארז",
+      "gloss": "jo aroz"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:22.159631349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Karano karusakan urang miskin, karano raungan urang takadarang, kini ambo ka baliak, kato Yahweh; ambo ka manampekannyo lamak-lamak dalam kasalamatan — urang nan mangambuih mandapeknyo.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "karano karusakan"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "karano raungan"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "urang takadarang"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ambo ka baliak"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ambo ka manampekannyo"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "lamak-lamak dalam kasalamatan"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "urang nan mangambuih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mandapeknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:26.286165715Z",
+  "model": "glm-5.3"
+}

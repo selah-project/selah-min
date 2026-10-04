@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 3:26",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo gapuro-gapuronyo ka manyusuah jo maratuih, jo inyo nan kosong ka duduak di ateh tanah.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "jo maratuih"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ka manyusuah"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "gapuro-gapuronyo"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "jo nan kosong"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "di ateh tanah"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ka duduak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:07:21.327092752Z",
+  "model": "glm-5.3"
+}

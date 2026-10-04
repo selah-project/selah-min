@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Indak manyambiaik ateh ragi ⟨את⟩ darah kurban-Ku, jo indak tasiso sampai pagi ⟨את⟩ kurban hari rayo Pesakh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "manyambiaik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ragi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kurban-Ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "tasiso (baralam)"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sampai pagi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "חג",
+      "gloss": "hari rayo"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesakh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:22.154302271Z",
+  "model": "glm-5.3"
+}

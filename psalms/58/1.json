@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 58,
+  "translation": "Ka kapalo paduan suaro; \"Jangan rusak\"; mazmur untuak Dawid; miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ka kapalo paduan suaro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "rusak"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:37.577648881Z",
+  "model": "glm-5.3"
+}

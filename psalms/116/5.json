@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Penuah raso Yahweh jo tsedeq, jo Elohim kito pangasiah.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "penuah raso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "jo tsedeq"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "jo Elohim kito"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "pangasiah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:26.031132232Z",
+  "model": "glm-5.3"
+}

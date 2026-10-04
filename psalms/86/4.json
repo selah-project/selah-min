@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 86,
+  "translation": "Buek sanang ati hamba Kau, karano kapado Kau, Adonai, ati ambo ambo angkek.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Buek sanang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba Kau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado Kau"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ambo angkek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:44.473034968Z",
+  "model": "glm-5.3"
+}

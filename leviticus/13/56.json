@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Dan kok imam ma caliak, dan basonyo luka tu mangandam sasudah dicucinyo, mako dipacik inyo tu dari pakaian, atau dari kulik, atau dari benang lungsi, atau dari benang pakan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan kok"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ma caliak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan basonyo"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "mangandam"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "luka tu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "dicuci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "dipacik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kulik"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "benang lungsi"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "benang pakan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:46.766518407Z",
+  "model": "glm-5.3"
+}

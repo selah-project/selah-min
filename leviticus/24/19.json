@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Dan kalau surang urang mambuek luko pado kawannyo, sarupo nan alah inyo buek, co itu juo dibuek kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dan kalau surang urang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "מום",
+      "gloss": "luko"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "pado kawannyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan alah inyo buek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "co itu juo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:41.142062179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 149,
+  "translation": "Bialah inyo mamuji namo-Nyo jo tariangan, jo tamburin jo kecapi inyo bajanji untuak-Nyo.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Bialah inyo mamuji"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namo-Nyo"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "jo tariangan"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "jo tamburin"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "jo kecapi"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "inyo bajanji"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:30.619748129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 36:20",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Dan siso nan tasisiah dari padang inyo pindahkan ka Babel, dan mareka manjadi amba baginyo jo amba anak-anaknyo, sampai bakuaso karajaan Paras.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "pindahkan"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "siso nan tasisiah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginyo"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "jo amba anak-anaknyo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "amba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bakuaso"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    }
+  ],
+  "timestamp": "2026-10-04T09:00:37.176061548Z",
+  "model": "glm-5.3"
+}

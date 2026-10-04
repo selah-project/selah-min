@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Untuak Shelomo. Yo Elohim, barikan hukum-hukum-Mu kapado rajo, jo tsedeq-Mu kapado anak rajo.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Untuak Shelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kapado rajo"
+    },
+    {
+      "surface": "תן",
+      "gloss": "barikan"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "jo tsedeq-Mu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "kapado anak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:05.381118944Z",
+  "model": "glm-5.3"
+}

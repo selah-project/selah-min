@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Kato-kato ambo, tagaklah talingo, Yahweh; pahamoi runtuangan ambo.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "kato-kato ambo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tagaklah talingo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "pahamoi"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "runtuangan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:56.571581712Z",
+  "model": "glm-5.3"
+}

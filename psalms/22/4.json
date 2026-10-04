@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Ang ⟨adalah⟩ nan suci, nan badadok di ateh puji-pujian Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nan badadok"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:44.328164699Z",
+  "model": "glm-5.3"
+}

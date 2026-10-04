@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Mordekhai baliak ka gapuro rajo, sadangkan Haman baparik ka rumahnyo, sadiah jo kapalo tatutuik.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "sadangkan Haman"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "baparik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sadiah"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "jo tatutuik"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:25:31.339265548Z",
+  "model": "glm-5.3"
+}

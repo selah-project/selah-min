@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Di mukonyo urang gurun baturuik, jo musuahnyo mamaru dabu.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "baturuik"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "urang gurun"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "jo musuahnyo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "mamaru"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:05.891695584Z",
+  "model": "glm-5.3"
+}

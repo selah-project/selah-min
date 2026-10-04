@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Gulirkan ka Yahweh jalan ang, jo pacik pulo kapado-Nyo, jo Diyo nan ka mambahasiaannyo.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Gulirkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan ang"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "jo pacik pulo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kapado-Nyo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo Diyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nan ka mambahasiaannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:05.075946169Z",
+  "model": "glm-5.3"
+}

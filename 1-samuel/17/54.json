@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo Dawid maambiak ⟨את⟩ kapalo urang Palishti itu, mambaoknyo ka Yerushalayim, sadangkan ⟨את⟩ sanjatonyo inyo taruih di tendanyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalo urang Palishti itu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "urang Palishti itu"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "mambaoknyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sanjatonyo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sanjatonyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "taruih"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "di tendanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:22.365689639Z",
+  "model": "glm-5.3"
+}

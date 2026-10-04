@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "jo ⟨את⟩ palito paneungguah jo ⟨את⟩ parabotnyo jo ⟨את⟩ lampu-lampunyo, jo ⟨את⟩ minyak untuak paneungguah",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "palito paneungguah"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "palito paneungguah"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "paneungguah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "parabotnyo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "parabotnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "lampu-lampunyo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampu-lampunyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "minyak"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "paneungguah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:04.940392407Z",
+  "model": "glm-5.3"
+}

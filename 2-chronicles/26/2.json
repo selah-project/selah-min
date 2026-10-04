@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Inyo nan mambangun ⟨את⟩ Eilot jo mangambalikannyo untuak Yehuda, sasudah rajo lareh basamo niniak moyangnyo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Inyo nan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "mangambalikannyo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "untuak Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lareh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "niniak moyangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:55:56.568607876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Elohim mandanga, lalu marah bana, jo benci bana inyo kapado Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "marah bana"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "benci"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kapado Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:24.609024780Z",
+  "model": "glm-5.3"
+}

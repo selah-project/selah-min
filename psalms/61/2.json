@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 61,
+  "translation": "Dangaan, Elohim, saruuak ambo; pasiaan talingo kapado sampeuatan ambo.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "dangaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "saruuak ambo"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "pasiaan talingo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sampeuatan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:26.288857769Z",
+  "model": "glm-5.3"
+}

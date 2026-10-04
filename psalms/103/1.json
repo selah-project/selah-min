@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Dek Dawid. Barakati, oi jiwa ambo, ⟨את⟩ Yahweh, jo sadoalah nan ado di dalam ambo, barakati ⟨את⟩ namo sucinyo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dek Dawid"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "barakati"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "oi jiwa ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "nan ado di dalam ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo sucinyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sucinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:11.000529817Z",
+  "model": "glm-5.3"
+}

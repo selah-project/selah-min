@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Lalu Yirmeyahu mamarentahkan ⟨את⟩ Barukh, kato: Ambo dipancuang, indak dapek masuak ka rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "mamarentahkan"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Barukh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "dipancuang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:40:03.391672907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Lalu urang nagari mambunuah ⟨את⟩ sagalo urang nan maujanji manantang rajo Amon, lalu urang nagari manjadian ⟨את⟩ Yoasya anaknyo manjadi rajo manggantian inyo.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "mambunuah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo urang nan maujanji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "urang nan maujanji"
+    },
+    {
+      "surface": "על",
+      "gloss": "manantang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "manjadian manjadi rajo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoasya"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoasya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "manggantian inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:59:47.430074929Z",
+  "model": "glm-5.3"
+}

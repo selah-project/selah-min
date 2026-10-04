@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Untuak kapalo musik. Nyanyian, mazmur. Salaguiklah untuak Elohim, sadoalah bumi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak kapalo musik"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "salaguiklah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "untuak Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:08.029011093Z",
+  "model": "glm-5.3"
+}

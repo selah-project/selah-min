@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lalu Moshe mamintak-n ⟨את⟩ muko Yahweh, Elohim inyo, dan bakato: Baa, Yahweh, ateh ang manyalo kapado bangso ang, nan ang alah kalua-an dari tanah Mitsrayim jo kakuatan gadang jo jo tangan kuek?",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "mamintak-n"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim inyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan bakato"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "manyalo"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ateh ang"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "kapado bangso ang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "ang alah kalua-an"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "jo kakuatan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "jo tangan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kuek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:47.044410625Z",
+  "model": "glm-5.3"
+}

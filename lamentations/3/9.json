@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Inyo mangaliliangi jalan-jalannyo jo batu tagak, inyo mamuek laluan-laluan ambo.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "mangaliliangi jo tembok"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalannyo"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "jo batu tagak"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "laluan-laluan ambo"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "mamuek"
+    }
+  ],
+  "timestamp": "2026-10-04T08:18:08.751313033Z",
+  "model": "glm-5.3"
+}

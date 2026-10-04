@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Dan kini biakanlah ambo, supayo ateh ambo manyalo kapado inyo, lalu ambo musnahan inyo; dan ambo jadian ⟨את⟩ inggau bangso gadang.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "biakanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "supayo manyalo"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "lalu ambo musnahan inyo"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "dan ambo jadian"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ inggau",
+      "marks": "bangso gadang"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:47.044176359Z",
+  "model": "glm-5.3"
+}

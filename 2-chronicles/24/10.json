@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo sado panghulu jo sado urang banyak tagamang, lalu inyo mambaokan jo mahumbuang ka dalam kotak tu, sampai salasai.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "tagamang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "panghulu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mambaokan"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "mahumbuang"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ka dalam kotak tu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "salasai"
+    }
+  ],
+  "timestamp": "2026-10-04T08:56:07.056618046Z",
+  "model": "glm-5.3"
+}

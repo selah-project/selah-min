@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo paparangan manjadi barek ateh Sha-ul, jo urang pamanah manamukannyo jo paneh, jo inyo taluko dek urang pamanah.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "manjadi barek"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "paparangan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "manamukannyo"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "urang pamanah"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "jo paneh"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "taluko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dek"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "urang pamanah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:32:10.288974636Z",
+  "model": "glm-5.3"
+}

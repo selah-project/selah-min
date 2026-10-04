@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Kamu alah caliak sanndirinyo nan Ambo buek kapado Mitsrayim, jo Ambo mambao kamu di ateh sayok buruang alang, jo Ambo mambaokan kamu ka Ambo.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "alah caliak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Ambo buek"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kapado Mitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "jo Ambo mambao"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "kamu ⟨את⟩",
+      "marks": "kamu (objek partamo)"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sayok"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "buruang alang"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "jo Ambo mambaokan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "kamu ⟨את⟩",
+      "marks": "kamu (objek kaduo)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka Ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:33.214496978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Urang nan bajalan jo ⟨את⟩ urang-urang bijak maka bijak pulo, tapi kawan urang bodoh ka rusak.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "urang nan bajalan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang bijak"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "urang-urang bijak"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "maka bijak pulo"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "tapi kawan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ka rusak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:48.342837142Z",
+  "model": "glm-5.3"
+}

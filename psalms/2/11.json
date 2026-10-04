@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Bakarajolah kapado ⟨את⟩ Yahweh jo takuik, jo bacandolah jo gataik.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "bakarajolah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "jo takuik"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "jo bacandolah"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "jo gataik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:55.221052937Z",
+  "model": "glm-5.3"
+}

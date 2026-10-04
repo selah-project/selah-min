@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Sadang Abimelekh alun dakek ka inyo, kudian inyo bakato: Adonai, aro bangso nan banar pun ka Kau bunuah?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "sadang Abimelekh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alun"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kudian bakato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "aro bangso"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nan banar"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ka Kau bunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:01.219443698Z",
+  "model": "glm-5.3"
+}

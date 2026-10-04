@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Adoni-Bezek lari, lalu urang tu manujuaknyo, manangkok ⟨את⟩ inyo, jo mamotong ⟨את⟩ ibu jari tangannyo jo ibu jari kakiinyo.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "lari"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "lalu urang tu manujuaknyo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sudahnyo"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "manangkok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "jo mamotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibu jari tangannyo jo ibu jari kakiinyo"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "ibu jari"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "jo kakiinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:11:46.277020394Z",
+  "model": "glm-5.3"
+}

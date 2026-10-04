@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jo barieh nan katigo — lesyem, syebo, jo ahlamah.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "jo barieh"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nan katigo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "lesyem"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "syebo"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "jo ahlamah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:52.375553946Z",
+  "model": "glm-5.3"
+}

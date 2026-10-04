@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Wakatu untuak mahambuiangkan batu, jo wakatu untuak mangumpuakan batu; wakatu untuak malangkuak ⟨dalam⟩ palukan, jo wakatu untuak jauah dari palukan.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "mahambuiangkan"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jo wakatu"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "mangumpuakan"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "malangkuak"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jo wakatu"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "jauah"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "dari palukan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:16.392133261Z",
+  "model": "glm-5.3"
+}

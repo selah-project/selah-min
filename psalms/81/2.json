@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Dendangkanlah kapado Elohim, kakuatan kito; bariaklah kapado Elohim-nyo Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "dendangkanlah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "kakuatan kito"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bariaklah"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kapado Elohim-nyo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:14.875772121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Lalu Yahweh mamulangkan ⟨את⟩ kapulangan Iyov katiko inyo barapo untuak sanak-sanaknyo; jo Yahweh manambahi ⟨את⟩ sado nan punyo Iyov manjadi duo kali lipaik.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Lalu Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mamulangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapulangan Iyov"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "kapulangan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "katiko inyo barapo"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sanak-sanaknyo"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "jo manambahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado nan punyo Iyov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "punyo Iyov"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "manjadi duo kali lipaik"
+    }
+  ],
+  "timestamp": "2026-10-04T08:15:32.994354380Z",
+  "model": "glm-5.3"
+}

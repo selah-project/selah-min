@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Nan muluiknyo mangecek sia-sia, jo tangan suoknyo ⟨adolah⟩ tangan suok pambohongan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nan"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "muluiknyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "jo tangan suoknyo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan suok"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "pambohongan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:35.128082101Z",
+  "model": "glm-5.3"
+}

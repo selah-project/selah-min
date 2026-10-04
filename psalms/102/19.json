@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Iko musti ditulih untuak katurunan nan ka tibo, supayo kaum nan ka dijadiakan mamuji Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "musti ditulih"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "untuak katurunan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "nan ka tibo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jo kaum"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "ka dijadiakan"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:34.988905758Z",
+  "model": "glm-5.3"
+}

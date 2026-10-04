@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Dan ⟨את⟩ adiak laki urang tu nan bungsu urang tu bawa kapado ambo, supayo kato-kato urang tu tabukti bana, jo urang tu indak akan mati. Lalu urang tu buek baitu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "adiak laki urang tu nan bungsu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "adiak laki urang tu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nan bungsu"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "urang tu bawa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "supayo tabukti bana"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "kato-kato urang tu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "urang tu akan mati"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "lalu urang tu buek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:17.354562895Z",
+  "model": "glm-5.3"
+}

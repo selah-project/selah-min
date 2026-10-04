@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Sadangkan ambo ulat, bukan urang; hina Manusia, jo runduang urang banyak.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "sadangkan ambo"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "hina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Manusia"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "jo runduang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:02.941483889Z",
+  "model": "glm-5.3"
+}

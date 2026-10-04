@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Sadonyo ari aib ambo ado di muko ambo, dan raso malu muko ambo alah manuduhi ambo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "aib ambo"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "di muko ambo"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "dan raso malu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko ambo"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "manuduhi ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:11.003683723Z",
+  "model": "glm-5.3"
+}

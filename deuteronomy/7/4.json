@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "karano inyo ka mamiliah ⟨את⟩ anak ang dari maikek Aku, jo inyo ka manyambah elohim-elohim lain; jo murko Yahweh ka manyala ateh ang, jo inyo ka mambinasoan ang sacaro sapadeh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ka mamiliah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak ang"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anak ang"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "dari maikek"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "jo inyo ka manyambah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim-elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "jo ka manyala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "murko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ateh ang"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "jo ka mambinasoan ang"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "sacaro sapadeh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:53:56.869254958Z",
+  "model": "glm-5.3"
+}

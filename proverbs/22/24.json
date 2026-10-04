@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jangan bakawan jo ⟨את⟩ urang nan mudah marah, jo ⟨את⟩ urang nan angek amarahnyo jan kau dakeki;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "bakawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang nan mudah marah"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "urang nan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mudah marah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang nan angek amarahnyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "nan angek amarahnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kau dakeki"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:55.559739092Z",
+  "model": "glm-5.3"
+}

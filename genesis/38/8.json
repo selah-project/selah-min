@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Lalu Yehudah bakato kapado Onan: Masuak ka bini sudaro-mu, laksanakan kawin-ipar jo ⟨את⟩ inyo, jo tagakkan beniah untuak sudaro-mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "kapado Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sudaro-mu"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "laksanakan kawin-ipar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tagakkan beniah"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "tagakkan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "untuak sudaro-mu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:30.007014577Z",
+  "model": "glm-5.3"
+}

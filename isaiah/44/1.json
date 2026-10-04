@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Dan kini danga, wahai Yaakov hamba ambo, jo Yisrael — lah ambo pilia inyo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan kini"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "danga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba ambo"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "jo Yisrael"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "lah ambo pilia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:16:01.388939688Z",
+  "model": "glm-5.3"
+}

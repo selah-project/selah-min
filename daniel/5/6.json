@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Kok rajo — mukonyo barubah, jo pikirannyo manggaduah; sendi-sendi pinggangnyo malongga, jo lutuiknyo nan ciek batumbuak jo nan ciek lai.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "kok"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "barubah"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "jo pikirannyo"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "manggaduah"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "jo sendi-sendi"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "pinggangnyo"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "malongga"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "jo lutuiknyo"
+    },
+    {
+      "surface": "דא",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "jo nan ciek lai"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "batumbuak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:30:00.462342222Z",
+  "model": "glm-5.3"
+}

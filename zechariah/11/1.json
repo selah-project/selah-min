@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Bukak, wahai Livanon, ⟨את⟩ pintu-pintu-mu, supayo api makan ⟨את⟩ araz-araz-mu.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Bukak"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "wahai Livanon"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "pintu-pintu-mu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "supayo api makan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "araz-araz-mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:20:09.906332300Z",
+  "model": "glm-5.3"
+}

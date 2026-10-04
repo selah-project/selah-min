@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lah tajadi, katiko para imam kalua dari tampek nan suci, mako awan mangisi ⟨את⟩ rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lah tajadi"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "katiko kalua"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tampek nan suci"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "mako awan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mangisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:40.637597894Z",
+  "model": "glm-5.3"
+}

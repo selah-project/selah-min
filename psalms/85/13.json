@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 85,
+  "translation": "Yahweh juo maagiah ⟨את⟩ nan elok, jo tanah kito maagiah hasianyo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "jo tanah kito"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "hasianyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:39.422956573Z",
+  "model": "glm-5.3"
+}

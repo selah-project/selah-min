@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo inyo mandapek di dalam pusako mereka: Be'er-Syeba, jo Syeba, jo Moladah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo mandapek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "di dalam pusako mereka"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "jo Syeba"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "jo Moladah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:09:28.007416758Z",
+  "model": "glm-5.3"
+}

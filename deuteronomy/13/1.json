@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "⟨את⟩ sagalo kato nan ambo parintahkan ⟨את⟩ kapado awak saluruah, ⟨את⟩ inyo awak jago untuak dikarajokan; jan ditambahi ka atehnyo, jo jan dikurangi daripadanyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "parintahkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kapado awak saluruah",
+      "marks": "awak saluruah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "sagalo kato"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "awak jago"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak dikarajokan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ditambahi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka atehnyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "dikurangi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:50.686878615Z",
+  "model": "glm-5.3"
+}

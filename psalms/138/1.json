@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 138,
+  "translation": "Untuak Dawid. Ambo mamuji Kau jo sado ati ambo, di muko Elohim ambo manyanyian puji-pujian ka Kau.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuak Dawid"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ambo mamuji Kau"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ambo manyanyian puji-pujian ka Kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:53.973031427Z",
+  "model": "glm-5.3"
+}

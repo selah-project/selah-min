@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 27:22",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Lalu Moshe babuek sarupo nan diparentahkan Yahweh kapadonyo; inyo maambiak ⟨את⟩ Yehosyua, lalu managakkan inyo di muko Elazar, imam tu, jo di muko sagalo jamaah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lalu babuek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kapadonyo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lalu maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosyua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "lalu managakannyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "jo di muko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:48:15.284957354Z",
+  "model": "glm-5.3"
+}

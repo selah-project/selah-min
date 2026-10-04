@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "Ka kapalo padusi, lagu pangaja, dek Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ka kapalo padusi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "lagu pangaja"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dek Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:25.079797151Z",
+  "model": "glm-5.3"
+}

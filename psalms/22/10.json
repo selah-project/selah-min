@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Karano Sanalah nan mangaluakan ambo dari rahim, nan mambuek ambo bapacik, di ateh susu ibu ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sanalah"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "mangaluakan"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dari rahim"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "mambuek ambo bapacik"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "susu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibu ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:02.663577351Z",
+  "model": "glm-5.3"
+}

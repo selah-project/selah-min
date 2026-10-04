@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Siapo nan bijak? Inyo maingek-i ⟨ini⟩, jo mangarti kasiah-kasiah hesed Yahweh.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nan bijak"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "maingek-i"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨ini⟩"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "jo mangarti"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "kasiah-kasiah hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:34.803399856Z",
+  "model": "glm-5.3"
+}

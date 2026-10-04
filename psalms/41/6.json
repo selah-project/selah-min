@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Musuah-musuah ambo bakato nan jahat tantang ambo: Bilo inyo mati, jo ilang namonyo?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Musuah-musuah ambo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nan jahat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tantang ambo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "jo ilang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:37.656204819Z",
+  "model": "glm-5.3"
+}

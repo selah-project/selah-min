@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 57,
+  "translation": "Tinggiah ⟨Mu⟩ di ateh langik, wahai Elohim; di ateh saluruah bumi kamuliaan ⟨Mu⟩.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "tinggiah ⟨Mu⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kamuliaan ⟨Mu⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:49.993009470Z",
+  "model": "glm-5.3"
+}

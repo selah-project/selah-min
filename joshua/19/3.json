@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "jo Khatsar-Syual, jo Balah, jo Etsem,",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "jo Khatsar-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Syual"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "jo Balah"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "jo Etsem"
+    }
+  ],
+  "timestamp": "2026-10-04T05:09:28.007970435Z",
+  "model": "glm-5.3"
+}

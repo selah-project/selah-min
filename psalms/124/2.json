@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 124,
+  "translation": "kalau indak Yahweh nan ado untuak kito, katiko urang bangkik malawan kito,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "kalau indak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nan ado"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kito"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "katiko bangkik"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "malawan kito"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:42.268706322Z",
+  "model": "glm-5.3"
+}

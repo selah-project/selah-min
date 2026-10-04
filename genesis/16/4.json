@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lapek inyo masuak ka Hagar, jo inyo manganduang; kok caliak inyo alah manganduang, mako gadiangnyo dipandang randah di matonyo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "masuak ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "manganduang"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "kaliak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "alah manganduang"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "dipandang randah"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "gadiangnyo"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "di matonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:27.866567027Z",
+  "model": "glm-5.3"
+}

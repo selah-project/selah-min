@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Inyo mangingguakan aia maleleh dari batu, jo mandindiah aia turun sarupo sungai-sungai.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mangingguakan"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "aia nan maleleh"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "dari batu"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "mandindiah turun"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "sarupo sungai-sungai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:15.854892043Z",
+  "model": "glm-5.3"
+}

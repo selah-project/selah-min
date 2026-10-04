@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu bakato ambo: Ka ma sanpai ang? Lalu inyo bakato kapado ambo: Untuak maagiah tando ukua ⟨את⟩ Yerushalayim, untuak mailiang sabarapo lebanyo jo sabarapo panjangnyo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lalu bakato ambo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ka ma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "sanpai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "למד",
+      "gloss": "untuak maagiah tando ukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak mailiang"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "sabarapo"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lebanyo"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "jo sabarapo"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "panjangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:32.643912151Z",
+  "model": "glm-5.3"
+}

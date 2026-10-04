@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Maka kini indak usah takuik; ambo aka mamaliharo ⟨את⟩ sanak jo ⟨את⟩ anak-anak sanak. Lalu inyo maàgiah sanang kapado urang tu, jo bakato sacaro manyantuak ati urang tu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "maka kini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indak usah"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo aka"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "mamaliharo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sanak",
+      "marks": "sanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak sanak"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "anak-anak sanak"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "maàgiah sanang kapado"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "על",
+      "gloss": "sacaro manyantuak"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ati urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:31.966066994Z",
+  "model": "glm-5.3"
+}

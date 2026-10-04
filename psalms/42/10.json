@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Ambo ka bakato kapado El, batu ambo: baa ⟨kau⟩ lupo kapado ambo? baa ambo bajalan muruang dek panejakan musuah?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ambo ka bakato"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kapado El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "batu ambo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "⟨kau⟩ lupo kapado ambo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "muruang"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ambo bajalan"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "dek panejakan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:33.683730950Z",
+  "model": "glm-5.3"
+}

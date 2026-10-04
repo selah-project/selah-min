@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Biar imam-imam kau mamakai tsedeq, jo urang-urang setia kau mandendangkan kariahan.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "imam-imam kau"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "mamakai"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "jo urang-urang setia kau"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "mandendangkan kariahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:16.938050904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Mako Yahweh mangalahkan ⟨את⟩ sagalo bangso-bangso iko dari muko awak all, jo awak all ka mawarisi bangso-bangso nan gadang jo nan kuaik daripado awak all.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "mako … mangalahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo bangso-bangso iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "dari muko awak all"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "jo awak all ka mawarisi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "jo nan kuaik"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "daripado awak all"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:02.973086576Z",
+  "model": "glm-5.3"
+}

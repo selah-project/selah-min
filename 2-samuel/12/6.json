@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "jo ⟨את⟩ anak domba itu inyo mambayia baliak ampek kali lipek, dek karano inyo alah mambuek ⟨את⟩ pakaro iko, jo dek karano inyo indak ado balas sayang.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak domba itu"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "anak domba itu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mambayia baliak"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "ampek kali lipek"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "−"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lah mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaro iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo dek karano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "−"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "balas sayang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:30.513786413Z",
+  "model": "glm-5.3"
+}

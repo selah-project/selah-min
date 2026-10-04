@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Yahweh bakato kapado Kayin: Baa kok sanjang kapado awak, jo baa kok mukomu manurun?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "sanjang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado awak"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "jo baa kok"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "manurun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mukomu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:45.409643474Z",
+  "model": "glm-5.3"
+}

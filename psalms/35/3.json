@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Jo tarekklah tombak jo sarik panghalau untuak manamui urang nan mangedjar ambo; katakan kapado jiwok ambo: Ambo ko patolongan sanang untuak kau.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Jo tarekklah"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tombak"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "jo sarik panghalau"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "untuak manamui"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "urang nan mangedjar ambo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kapado jiwok ambo"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "patolongan sanang untuak kau"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo ko"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:47.411488885Z",
+  "model": "glm-5.3"
+}

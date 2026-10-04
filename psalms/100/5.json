@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 100,
+  "translation": "Karano Yahweh elok, salamo-lamonyo hesed-Nyo, jo sampai ka katurunan jo katurunan kabanaran-Nyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo sampai ka"
+    },
+    {
+      "surface": "דר",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jo katurunan"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "kabanaran-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:59.066565868Z",
+  "model": "glm-5.3"
+}

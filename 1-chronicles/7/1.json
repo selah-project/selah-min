@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Dan anak-anak laki-laki Yissaskar: Tola, jo Pua, Yasyub, jo Shimron, ampek.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "jo anak-anak laki-laki"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "jo Pua"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Yasyub"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "jo Shimron"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ampek"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:47.844953244Z",
+  "model": "glm-5.3"
+}

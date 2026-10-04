@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Kami alah mandanga ⟨את⟩ kaba tu; tangan kami malamah; kasusahan mamancik kami, sakik sarupo padusi nan malahiakan.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Kami alah mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaba tu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kaba"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "malamah"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "tangan kami"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "mamancik kami"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sakik"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "sarupo padusi nan malahiakan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:27:16.923630766Z",
+  "model": "glm-5.3"
+}

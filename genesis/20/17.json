@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lalu Avraham baruaik kapado ⟨אל⟩ Elohim, jo Elohim manyuruahkan ⟨את⟩ Avimelekh jo ⟨את⟩ bininyo jo amba-amba padusinyo, sarato urang tu babini anak baliak.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "baruaik"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado ⟨אל⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "manyuruahkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bininyo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bininyo"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "jo amba-amba padusinyo"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "urang tu babini anak baliak"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:00.023341574Z",
+  "model": "glm-5.3"
+}

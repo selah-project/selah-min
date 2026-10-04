@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Lalu inyo mambaok ⟨את⟩ bando-bando suci amboinyo jo bando-bando suci inyo surang ka rumah Yahweh: perak, ameh, jo bando-bando lain.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "inyo mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bando-bando suci amboinyo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "bando-bando suci"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amboinyo"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "jo bando-bando suci inyo surang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "jo bando-bando lain"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:51.495097353Z",
+  "model": "glm-5.3"
+}

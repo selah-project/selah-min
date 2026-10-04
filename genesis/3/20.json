@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Adam maagiah namo bini inyo Khawah, karano inyo alah manjadi ibu sado nan iduik.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "jo maagiah namo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bini inyo"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Khawah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lah manjadi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nan iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:46.797312682Z",
+  "model": "glm-5.3"
+}

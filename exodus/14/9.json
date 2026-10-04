@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 14:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Urang Mitsrayim mangujui inyo, sadangnyo urang tu lagak dakek lauik, jo sagalo kudo jo kareta Paroh, jo pasukan kudonyo, jo tantaranyo, mancapai inyo — sagalonyo di Pi-ha-Khirot, di mungko Baal-Tsefon.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "mangujui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "mancapai"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (urang tu)"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "sadangnyo urang tu lagak"
+    },
+    {
+      "surface": "על",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kudo"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "jo pasukan kudonyo"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "jo tantaranyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Pi-"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "ha-Khirot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di mungko"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefon"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:24.464872547Z",
+  "model": "glm-5.3"
+}

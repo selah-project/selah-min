@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Kamudian ambo baliak, jo ambo mancaliek kasia-siaan di bawah matoari.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "kamudian ambo baliak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "jo ambo mancaliek"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kasia-siaan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:05.640789095Z",
+  "model": "glm-5.3"
+}

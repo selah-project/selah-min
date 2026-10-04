@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Dan inyo mambuek ⟨את⟩ sagalo paralatan mazbeach itu: ⟨את⟩ ranchang-ranchang, jo ⟨את⟩ sapu-sapu, jo ⟨את⟩ bokoa pakek, ⟨את⟩ garpu daging, jo ⟨את⟩ panyuluah api; sagalo paralatannyo inyo buek dari tambago.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo paralatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "paralatan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbeach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranchang-ranchang"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "ranchang-ranchang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sapu-sapu"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "sapu-sapu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bokoa pakek"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "bokoa pakek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garpu daging"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "garpu daging"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "panyuluah api"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "panyuluah api"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "paralatannyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inyo buek"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambago"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:16.445133321Z",
+  "model": "glm-5.3"
+}

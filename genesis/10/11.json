@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Dari tanah itu Asyur kalua, jo inyo mambangun ⟨את⟩ Ninewe, ⟨את⟩ Rekhobot-Ir, jo ⟨את⟩ Kelakh.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "jo mambangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninewe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rekhobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rekhobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kelakh"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelakh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:32.467573084Z",
+  "model": "glm-5.3"
+}

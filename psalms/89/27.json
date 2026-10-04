@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Inyo akan manyeru ambo: «Kau amak ambo, El ambo, jo batu kasalamatan ambo.»",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "akan manyeru ambo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amak ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ambo"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kasalamatan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:01.351826266Z",
+  "model": "glm-5.3"
+}

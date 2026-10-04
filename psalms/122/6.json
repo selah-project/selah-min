@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 122,
+  "translation": "Pintaolah shalom untuak Yerushalayim; salamaiklah urang-urang nan mangasihi ⟨kau⟩.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "pintaolah"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "salamaiklah"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "urang-urang nan mangasihi ⟨kau⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:45.671502475Z",
+  "model": "glm-5.3"
+}

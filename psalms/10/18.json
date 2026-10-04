@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Untuak manguapaki anak yatim jo urang nan tasaso, supayo indak lai ado manusia fana di bumi nan manakuik-nakuik.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "untuak manguapaki"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "anak yatim"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "jo urang nan tasaso"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak lai"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ado nan manambah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "manakuik-nakuik"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:18.301821007Z",
+  "model": "glm-5.3"
+}

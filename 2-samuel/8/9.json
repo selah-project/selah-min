@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Toi rajo Hamat mandanga baso Dawid alah mangalahan ⟨את⟩ sado pasukan Hadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lalu mandanga"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "alah mangalahan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado pasukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    }
+  ],
+  "timestamp": "2026-10-04T05:36:39.498815341Z",
+  "model": "glm-5.3"
+}

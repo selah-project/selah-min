@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Laju Shaul mandakek ka ⟨את⟩ Shemuel di tangah gapuro, jo bakato: Tuniangan ambo, di ma rumah urang nan mancaliak tu?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "mandakek"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Tuniangan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אי",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "urang nan mancaliak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:09.151437702Z",
+  "model": "glm-5.3"
+}

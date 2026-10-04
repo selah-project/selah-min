@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Rancanakan sabuah rancana, dan inyo akan dibubuikan; ucapkan sabuah kato, dan inyo indak akan tagak, karano El basamo kito.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "rancanakan"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "sabuah rancana"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "dan inyo akan dibubuikan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ucapkan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabuah kato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akan tagak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "basamo kito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T06:07:55.097629796Z",
+  "model": "glm-5.3"
+}

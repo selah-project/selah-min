@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Laki-laki jo padusi inyo ciptakan inyo, dan inyo marantaḦi ⟨את⟩ mereka, dan inyo manyabuik ⟨את⟩ namo mereka Adam, pado ari inyo diciptakan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "jo padusi"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "inypciptakan inyo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan inyo marantaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan inyo manyabuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo mereka"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "namo mereka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "inypciptakan mereka"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:50.401611277Z",
+  "model": "glm-5.3"
+}

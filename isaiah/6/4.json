@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo bagaraklah tiang-tiang ambang pintu dek suaro nan mangajak tu, jo rumah itu panuah asok.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "bagaraklah"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tiang-tiang ambang pintu"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ambang pintu"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "dek suaro"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "nan mangajak"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "jo rumah itu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "panuah"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asok"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:53.960771085Z",
+  "model": "glm-5.3"
+}

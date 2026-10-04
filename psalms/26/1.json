@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Untuak Dawid. Hakimilah ambo, Yahweh, karano ambo bajalan dalam kaluruian ambo, jo kapado Yahweh ambo ampuah diri, indak ambo goyang.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuak Dawid"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Hakimilah ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "dalam kaluruian ambo"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ambo bajalan"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "jo kapado Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ambo ampuah diri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "ambo goyang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:34.470615270Z",
+  "model": "glm-5.3"
+}

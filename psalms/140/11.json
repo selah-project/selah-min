@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 140,
+  "translation": "Galeang bana bajatuah ka ateh inyo; ka dalam api dilapeak inyo; ka lubang-lubang dalam — indak lai inyo bangkik.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "bajatuah"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka ateh inyo"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "galeang bana"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka dalam api"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "dilapeak inyo"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "ka lubang-lubang dalam"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak lai"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "bangkik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:17.693781829Z",
+  "model": "glm-5.3"
+}

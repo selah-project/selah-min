@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Pado ari ambo manyuruak, musuah ambo ka baliak ka balakang; iko lah ambo kataui, baso Elohim untuak ambo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "pado wakatu itu"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ka baliak"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuah ambo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka balakang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ambo manyuruak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo lah kataui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:56.957300954Z",
+  "model": "glm-5.3"
+}

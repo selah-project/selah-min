@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Tokok ambo sasuai jo kato-Mu, supayo ambo iduik; jan pulo bia ambo malu ateh harok ambo.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "tokok ambo"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "sasuai jo kato-Mu"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "supayo ambo iduik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jan pulo"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "bia ambo malu"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ateh harok ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:36.929665526Z",
+  "model": "glm-5.3"
+}

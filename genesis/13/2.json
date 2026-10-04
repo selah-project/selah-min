@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo Avraham barek sangaik dalam taranak, dalam perak jo dalam ameh.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Jo Avraham"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "barek"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "dalam taranak"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dalam perak"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "jo dalam ameh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:18.881719170Z",
+  "model": "glm-5.3"
+}

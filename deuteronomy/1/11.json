@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Semoga Yahweh, Elohim niniak moyang awak sakalian, manambahan kapado awak sakalian sarupo ko sabanyo saribu kali, jo mancaragoi ⟨את⟩ awak sakalian sarupo nan alah Inyo ujok kapado awak sakalian.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "niniak moyang awak sakalian"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "manambahan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kapado awak sakalian"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "sarupo ko"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "saribu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "jo mancaragoi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awak sakalian",
+      "marks": "awak sakalian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Inyo ujok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado awak sakalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:18.626543679Z",
+  "model": "glm-5.3"
+}

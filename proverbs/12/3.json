@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Dangan kaburukoan urang indak ka tagok, tapi aka urang-urang nan banar indak sapanjangnyo bagoyang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ka tagok"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "dangan kaburukoan"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "tapi aka"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang-urang nan banar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak sapanjangnyo"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bagoyang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:41.213527193Z",
+  "model": "glm-5.3"
+}

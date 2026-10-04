@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Nan lapar makan panennyo, jo dari duri inyo diambiak, jo nan haus manggapuah kakayoannyo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "panennyo"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nan lapar"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "duri"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "diambiak"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "jo manggapuah"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "nan haus"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kakayoannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:04:49.717246926Z",
+  "model": "glm-5.3"
+}

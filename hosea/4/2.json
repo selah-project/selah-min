@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Mamuah kutuak jo mandUSTA, mambunuah jo mancari, jo bazina; inyo marusak batua-batua, jo darah manyangajo darah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "mamuah kutuak"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "jo mandUSTA"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "mambunuah"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "bazina"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "marusak batua-batua"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "jo darah"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "darai darah"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "manyangajo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:18.018174806Z",
+  "model": "glm-5.3"
+}

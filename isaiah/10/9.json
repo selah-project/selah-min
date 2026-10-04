@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Bukankah Kalno sarupo Karkemish? Bukankah Hamat sarupo Arpad? Bukankah Shomeron sarupo Damsek?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "sarupo Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "sarupo Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "sarupo Damsek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:15.758421887Z",
+  "model": "glm-5.3"
+}

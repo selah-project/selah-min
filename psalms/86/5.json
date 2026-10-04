@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 86,
+  "translation": "Karano San, Adonai, elok jo ampuno, jo hesed nan banyak kapado sado nan mangiro Kaâ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "San"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "jo ampuno"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "jo nan banyak"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado sado"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "nan mangiro Kaâ"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:20.430614659Z",
+  "model": "glm-5.3"
+}

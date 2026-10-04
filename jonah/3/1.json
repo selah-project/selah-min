@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu tibo kato Yahweh kapado Yona kaduo kalinyo, nan bakato:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lalu tibo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kaduo kalinyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:22.348614910Z",
+  "model": "glm-5.3"
+}

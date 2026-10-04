@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Elohim mambuek ⟨את⟩ rakia tu, jo inyo mamisahan aia nan di bawah rakia tu dari aia nan di ateh rakia tu; jadi bana lai.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakia tu"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakia tu"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "mamisahan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakia tu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo di antaro"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakia tu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bana lai"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:27.297933839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 7:13",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu inyo bakato: Taguehlah kini, oi bait Dawid! Apo lah ketek bana dek awak mandegek manusia, sampai awak mandegek juo ⟨את⟩ Elohim ambo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "taguehlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "apo lah ketek bana"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "dek awak"
+    },
+    {
+      "surface": "הלאות",
+      "gloss": "mandegek"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "תלאו",
+      "gloss": "mandegek juo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ambo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:24.206690084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 146,
+  "translation": "Pambuek langik jo bumi, ⟨את⟩ lauik jo ⟨את⟩ sagalo nan ado di dalamnyo, Nan manjago kabanaran salamanyo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Pambuek"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jo bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lauik"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo nan ado di dalamnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ado di dalamnyo"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Nan manjago"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:17.269543033Z",
+  "model": "glm-5.3"
+}

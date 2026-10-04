@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "jo ⟨את⟩ satiok gagak manuruik jinisnyo",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "satiok gagak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gagak"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "manuruik jinisnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:05:52.634916938Z",
+  "model": "glm-5.3"
+}

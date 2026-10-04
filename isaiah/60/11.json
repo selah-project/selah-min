@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 60:11",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Jo tabukak gapuro-gapuromu salalu, siang jo malam indak ditutuik, supayo dibao ka dalam kaammu kakayoan bangso-bangso, jo rajo-rajonyo digambaok masuak.",
+  "tokens": [
+    {
+      "surface": "ופתחו",
+      "gloss": "jo tabukak"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "gapuro-gapuromu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "salalu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jo malam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "ditutuik"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "supayo dibao"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka dalam kaammu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kakayoan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "jo rajo-rajonyo"
+    },
+    {
+      "surface": "נהוגים",
+      "gloss": "digambaok masuak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:23:56.491260175Z",
+  "model": "glm-5.3"
+}

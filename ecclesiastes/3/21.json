@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Siapo nan tahu, ruakh anak-anak manusia nan naiak ka ateh — naiakkah inyo — jo ruakh binatang nan turun ka bawah, ka bumi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nan tahu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nan naiak"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "jo ruakh"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "nan turun"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ka bawah"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:18.362815072Z",
+  "model": "glm-5.3"
+}

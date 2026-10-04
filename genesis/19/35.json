@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 19:35",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo urang tu mambaok minum juo pado malam itu ⟨את⟩ amboinyo anggur, jo nan mudo bangun, lapeh jo inyo, jo inyo indak tau katiko inyo lapeh jo katiko inyo bangun.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "mambaok minum"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pado malam"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amboinyo"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "amboinyo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "nan mudo"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "lapeh jo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "katiko inyo lapeh"
+    },
+    {
+      "surface": "ובקמה",
+      "gloss": "jo katiko inyo bangun"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:03.973839774Z",
+  "model": "glm-5.3"
+}

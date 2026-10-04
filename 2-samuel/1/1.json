@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Maka tajadi sasudah kamatian Sha-ul, jo Dawid alah babaliak dari mambunuah ⟨את⟩ Amalek, jo Dawid tingga di Tsiklag salamo duo ari.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka tajadi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatian"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "jo Dawid"
+    },
+    {
+      "surface": "שב",
+      "gloss": "babaliak"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "dari mambunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jo tingga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "di Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:38.544690325Z",
+  "model": "glm-5.3"
+}

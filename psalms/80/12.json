@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "Inyo mangiriman dahan-dahannyo sampai lauik, jo pucuak-pucuaknyo sampai ka batang aia.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "mangiriman"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "dahan-dahanyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "batang aia"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "pucuak-pucuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:50.753721807Z",
+  "model": "glm-5.3"
+}

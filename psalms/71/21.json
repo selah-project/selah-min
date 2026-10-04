@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Ka patambah gadang-galanyo ambo, jo baliak maàga ambo.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "Ka patambah"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "gadang-galanyo ambo"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "jo baliak"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "maàga ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:49.308664030Z",
+  "model": "glm-5.3"
+}

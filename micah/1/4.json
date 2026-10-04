@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo gunuang-gunuang lakang di bawahnyo, jo lembah-lembah pacah, sarupo lilin di muko api, sarupo aia nan dituang ka tampek nan turun.",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "Jo lakang"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "di bawahnyo"
+    },
+    {
+      "surface": "ויעמקים",
+      "gloss": "jo lembah-lembah"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "pacah"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "sarupo lilin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sarupo aia"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "nan dituang"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "ka tampek nan turun"
+    }
+  ],
+  "timestamp": "2026-10-04T07:14:20.902221584Z",
+  "model": "glm-5.3"
+}

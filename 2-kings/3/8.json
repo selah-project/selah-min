@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Inyo bakato: Ma ari jalan ko kito ka naiak? Inyo manjawek: Jalan nan malintasi padang gurun Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "kito ka naiak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo manjawek"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:56.311526376Z",
+  "model": "glm-5.3"
+}

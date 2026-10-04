@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Dan angkau manabur pado taun kadalapan, lalu angkau makan dari hasil panen lamo sampai taun kasambilan; sampai datang hasil panennyo, angkau makan nan lamo.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "dan angkau manabur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taun kadalapan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "kadalapan"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "lalu angkau makan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "hasil panen"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "lamo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "kasambilan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasil panennyo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "angkau makan"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "nan lamo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:26.653660752Z",
+  "model": "glm-5.3"
+}

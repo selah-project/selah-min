@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Nan mamukua saurang urang laki sampai mati, pasti inyo dihukuih mati.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "nan mamukua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang laki"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "sampai mati"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dihukuih mati"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:01.455957190Z",
+  "model": "glm-5.3"
+}

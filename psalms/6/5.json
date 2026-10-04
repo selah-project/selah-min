@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Baliaklah, Yahweh, lapehan nyawo ambo; salamatkan ambo karano hesed-Mu.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Baliaklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "lapehan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawo ambo"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salamatkan ambo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:21.774611677Z",
+  "model": "glm-5.3"
+}

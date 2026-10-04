@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 4:32",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo tonggak-tonggak alaman sakaliliang, jo sendi-sendinyo, jo pacuaknyo, jo tali-talinyo, sado parabotnyo, jo sado karajo urang tu; jo sacaro banamo ikau tu musti mamiliak ⟨את⟩ parabot tanago tugeh maangkuih urang tu.",
+  "tokens": [
+    {
+      "surface": "ועמודי",
+      "gloss": "jo tonggak-tonggak"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "alaman"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "jo sendi-sendinyo"
+    },
+    {
+      "surface": "ויתדתם",
+      "gloss": "jo pacuaknyo"
+    },
+    {
+      "surface": "ומיתריהם",
+      "gloss": "jo tali-talinyo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "parabot urang tu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "karajo urang tu"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "jo sacaro banamo"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "ikau tu musti mamiliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parabot"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tanago tugeh"
+    },
+    {
+      "surface": "משאם",
+      "gloss": "maangkuih urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:54.368844056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Inyo ka tibo kapado angkatan urang tuo-tuonyo, sampai salamo-lamonyo inyo indak ka caliak cahayo.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ka tibo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "urang tuo-tuonyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ka caliak"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahayo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:32.026357030Z",
+  "model": "glm-5.3"
+}

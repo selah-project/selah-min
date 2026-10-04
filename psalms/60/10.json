@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Moab kuali basuhan ambo; ateh Edom ambo mambaliak sanok ambo; ateh ambo, Peleshet, bakuaklah mandapek.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kuali"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "basuhan ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ambo mambaliak"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sanok ambo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "bakuaklah mandapek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:57.200347850Z",
+  "model": "glm-5.3"
+}

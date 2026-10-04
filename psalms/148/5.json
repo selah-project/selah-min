@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 148,
+  "translation": "Baksiak ma ⟨את⟩ namo Yahweh, karano Inyo mamarintahkan, lalu tajadi inyo.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Baksiak ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "lalu tajadi inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:08.282106222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Penuah jo panjangei ati, Yahweh, lambek maangek, jo basaro hesed.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "penuah"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "jo panjangei ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lambek"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "maangek"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "jo basaro"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:44.817463773Z",
+  "model": "glm-5.3"
+}

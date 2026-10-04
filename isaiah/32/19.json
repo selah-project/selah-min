@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo batu es turun katiko hutan tu runtuah, jo kota tu direndahkan ka dataran randah.",
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "jo batu es"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "turun katiko"
+    },
+    {
+      "surface": "היער",
+      "gloss": "hutan tu"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "jo ka dataran randah"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "direndahkan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:19.564869193Z",
+  "model": "glm-5.3"
+}

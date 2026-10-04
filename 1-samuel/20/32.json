@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo Yonatan manjawek ⟨את⟩ Saul ayahnyo, jo bakato kapadonyo: Baa kok inyo dibunuah? Apo nan alah inyo buek?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jo manjawek"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul ayahnyo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dibunuah"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah inyo buek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:30.108212105Z",
+  "model": "glm-5.3"
+}

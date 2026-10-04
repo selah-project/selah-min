@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Bukankah sado bumi ado di muko ang? Pisiahi diri ang, lah, dari ambo; kok ka kida, ambo ka suok; kok ka suok, ambo ka kida.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di muko ang"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "pisiahi diri"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lah"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "ka kida"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "ambo ka suok"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ka suok"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "ambo ka kida"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:51.372468587Z",
+  "model": "glm-5.3"
+}

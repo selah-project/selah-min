@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu inyo pai dari sinan ka bukik Karmel, jo dari sinan inyo baliak ka Shomeron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lalu inyo pai"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sinan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukik"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "jo dari sinan"
+    },
+    {
+      "surface": "שב",
+      "gloss": "inyo baliak"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ka Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:38.558794891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Nan ambo pulo, katiko lalo ambo tanang, ambo bakato: ambo indak ka tagoncang salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nan ambo pulo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "katiko lalo ambo tanang"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak ka"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "tagoncang"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:52.800750104Z",
+  "model": "glm-5.3"
+}

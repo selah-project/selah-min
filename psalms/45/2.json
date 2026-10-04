@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Manggarik ati ambo kato nan elok; ambo mangatoan pakaarajo-an ambo tantang saurang rajo; lido ambo ⟨adolah⟩ panyurek panulih nan capek.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "manggarik"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mangatoan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "pakaarajo-an ambo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tantang saurang rajo"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lido ambo"
+    },
+    {
+      "surface": "עט",
+      "gloss": "panyurek"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "panulih"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "nan capek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:00.224418565Z",
+  "model": "glm-5.3"
+}

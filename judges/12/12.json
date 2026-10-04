@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 12:12",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu Elon urang Zebulun mati, jo inyo dikubuaan di Ayalon, di tanah Zebulun.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "urang Zebulun"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikubuaan"
+    },
+    {
+      "surface": "באילון",
+      "gloss": "di Ayalon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    }
+  ],
+  "timestamp": "2026-10-04T05:18:35.533641048Z",
+  "model": "glm-5.3"
+}

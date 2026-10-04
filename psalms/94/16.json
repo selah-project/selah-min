@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Sia ka bangkik untuak ambo mandampiangi urang-urang jahat? Sia ka tagak untuak ambo mandampiangi panggarago kajahatan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ka bangkik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mandampiangi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ka tagak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mandampiangi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "panggarago"
+    },
+    {
+      "surface": "און",
+      "gloss": "kajahatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:43.428973962Z",
+  "model": "glm-5.3"
+}

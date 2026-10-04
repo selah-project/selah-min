@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Tapi ambo bakato: Untuang liek ambo balalok, untuang nan kosong jo sia-sia garih ambo lah habih; namun sabana pangadilan ambo ⟨adalah⟩ pado ⟨את⟩ Yahweh, jo upah ambo ⟨adalah⟩ pado ⟨את⟩ Elohim ambo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "untuang liek"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ambo balalok"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "untuang nan kosong"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "jo sia-sia"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "garih ambo"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "lah habih"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "namun sabana"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "pangadilan ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "jo upah ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ambo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:19.166956330Z",
+  "model": "glm-5.3"
+}

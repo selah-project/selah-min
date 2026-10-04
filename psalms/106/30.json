@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Jo Pinehas tagak jo babaruih, jo wabah tau tartahan.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "babaruih"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "tau tartahan"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "wabah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:25.666134384Z",
+  "model": "glm-5.3"
+}

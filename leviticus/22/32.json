@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo jangan kalian manajok ⟨את⟩ namo kasucian ambo, supayo ambo diaKudusKan di tangah anak-anak Yisrael; ambo Yahweh, Nan mangudusKan kalian.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo jangan"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "kalian manajok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo kasucian ambo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kasucian ambo"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "supayo ambo diaKudusKan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Nan mangudusKan kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:28.445179503Z",
+  "model": "glm-5.3"
+}

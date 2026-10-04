@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Bangkik, jo kito naik pado wakatu malam, jo kito rusak ⟨את⟩ benti-benti kota rajanyo.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Bangkik"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "jo kito naik"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pado wakatu malam"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "jo kito rusak"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "benti-benti kota rajanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:27:39.320279321Z",
+  "model": "glm-5.3"
+}

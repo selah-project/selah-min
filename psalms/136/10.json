@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "Kapado nan mamukul Mitsrayim pado anak-anak sulung mereka, karano salamanyo-lamanyo hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "kapado nan mamukul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "pado anak-anak sulung mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo-lamanyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:07.480515597Z",
+  "model": "glm-5.3"
+}

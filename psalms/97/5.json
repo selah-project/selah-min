@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 97,
+  "translation": "Gunuang-gunuang sarupo lilin mancaia di muko Yahweh, di muko Adonai saluruah bumi.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "sarupo lilin"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "mancaia"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:57.912794889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo urang Mitsrayim mambuek urang Yisrael karajo jo kakarehan.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "mambuek karajo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "jo kakarehan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:51.434455245Z",
+  "model": "glm-5.3"
+}

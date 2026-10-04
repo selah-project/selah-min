@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 130,
+  "translation": "Dan Inyo mambabiah ⟨את⟩ Yisrael dari sagalo dursilanyo.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Dan Inyo"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "mambabiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "dursilanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:22.886861754Z",
+  "model": "glm-5.3"
+}

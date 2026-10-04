@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "Kapado nan mamarih ⟨את⟩ lauik Suph manjadi pacahan-pacahan, karano salamo-lamonyo hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "kapado nan mamarih"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "manjadi pacahan-pacahan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:00.951803129Z",
+  "model": "glm-5.3"
+}

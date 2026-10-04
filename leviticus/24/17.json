@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Dan kalau surang urang mamacak nyao manusia apo pun, dibunuah pasti inyo dibunuah.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dan kalau surang urang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "mamacak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apo pun"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyao"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dibunuah"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pasti inyo dibunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:41.141677601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu inyo bakato: Apek doso ambo, kok sandek mambarikan ⟨את⟩ hamba sandek ka tangan Ahab untuak mambunuah ambo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu inyo bakato"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apek"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "doso ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sande"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mambarikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba sandek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba sandek"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "untuak mambunuah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:05.238163208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Pakanjakan kabaiakan-Mu nan balimpah urang ka udua-an, jo tsedeq-Mu urang ka rancak-an.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "pakanjakan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nan balimpah"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "kabaiakan-Mu"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "urang ka udua-an"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "jo tsedeq-Mu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "urang ka rancak-an"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:44.817348804Z",
+  "model": "glm-5.3"
+}

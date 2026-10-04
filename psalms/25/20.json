@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jago-i nyao ambo jo salamaikan ambo; jangan bua ambo maimbau, karano ambo balinduang kapado Sanak.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "jago-i"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyao ambo"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "jo salamaikan ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "bua ambo maimbau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ambo balinduang"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kapado Sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:04.199517186Z",
+  "model": "glm-5.3"
+}

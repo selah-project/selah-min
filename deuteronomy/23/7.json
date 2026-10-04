@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jan kalian cari kaba baiknyo jo kaba eloknyo salamo ari umua kalian, salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "kalian cari"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "kaba baiknyo"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "jo kaba eloknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ari umua kalian"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:08.349918643Z",
+  "model": "glm-5.3"
+}

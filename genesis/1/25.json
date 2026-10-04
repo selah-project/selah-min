@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Elohim mambuek ⟨את⟩ binatang bumi manuruik jinihnyo, jo ⟨את⟩ taranak manuruik jinihnyo, jo ⟨את⟩ sagalo nan marayok di tanah manuruik jinihnyo; lalu Elohim caliak baso ⟨itu⟩ elok.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binatang bumi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "manuruik jinihnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taranak"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "taranak"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "manuruik jinihnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan marayok di tanah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nan marayok"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "manuruik jinihnyo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:20.374216679Z",
+  "model": "glm-5.3"
+}

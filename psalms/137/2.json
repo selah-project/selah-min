@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 137,
+  "translation": "Di ateherpuki-erpuki dalam tangahnyo kami manggantuang kinorot kami.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "di ate"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "erpuki-erpuki"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "dalam tangahnyo"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "kami manggantuang"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kinorot kami"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:58.094616982Z",
+  "model": "glm-5.3"
+}

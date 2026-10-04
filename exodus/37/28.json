@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu inyo mambuek ⟨את⟩ tongkek-tongkek itu dari kayu shitim, jo inyo malapisi ⟨את⟩ inyo jo ameh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkek-tongkek itu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tongkek-tongkek"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "jo inyo malapisi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (tongkek-tongkek)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:10.585530612Z",
+  "model": "glm-5.3"
+}

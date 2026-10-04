@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo bala tantaranyo jo nan tapareso urangnyo: tujuah puluah limo ribu jo ampek ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "jo bala tantaranyo"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "jo nan tapareso urangnyo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "puluah limo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "jo ampek"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:56.067652891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Lalu inyo bakato kapado ambo: Iko ⟨adolah⟩ rumah-rumah mambuluih, tampek para pelayan rumah tu mambuluih ⟨את⟩ korban bangso itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu inyo bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Iko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "mambuluih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "mambuluih"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinan"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "para pelayan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bangso itu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:05:06.510698389Z",
+  "model": "glm-5.3"
+}

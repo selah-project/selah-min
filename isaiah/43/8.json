@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Kaluaan ⟨את⟩ urang nan buto tapi mato ado, jo nan tuli tapi talingo ado.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "kaluaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang",
+      "marks": "urang nan buto tapi mato ado"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nan buto"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "jo mato"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "jo nan tuli"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "jo talingo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ado"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:49.817339278Z",
+  "model": "glm-5.3"
+}

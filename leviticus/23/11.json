@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo inyo maiangkan ⟨את⟩ omer tu di muko Yahweh, supayo ditarimo untuak kalian; pado esok ari sasudah Shabat, imam tu maianangkan inyo.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Jo inyo maiangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer tu"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer tu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "supayo ditarimo untuak kalian"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pado esok ari sasudah"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "maianangkan inyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:24.623144455Z",
+  "model": "glm-5.3"
+}

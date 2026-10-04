@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Indak ado nan kaguguaan jo nan mandaruah di nagari kalian; ⟨את⟩ bilangan ari-ari kalian ka Aka paniah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "nan kaguguaan"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "jo nan mandaruah"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di nagari kalian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilangan ari-ari kalian"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilangan"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ari-ari kalian"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "ka Aka paniah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:29.092005187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo iko ⟨adolah⟩ dari ayah Etam: Yizreel, jo Yisma, jo Yidbas; jo namo sudaro padusi mareka Tselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Jo iko"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "jo Yisma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "jo Yidbas"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo namo"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "sudaro padusi mareka"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Tselelponi"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:35.926116558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo Lubnan indak cukuik untuak kayu baka, jo binatang-binatangnyo indak cukuik untuak korban bakaran.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "jo Lubnan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak"
+    },
+    {
+      "surface": "די",
+      "gloss": "cukuik"
+    },
+    {
+      "surface": "בער",
+      "gloss": "untuak kayu baka"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "jo binatang-binatangnyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak"
+    },
+    {
+      "surface": "די",
+      "gloss": "cukuik"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "untuak korban bakaran"
+    }
+  ],
+  "timestamp": "2026-10-04T06:18:05.220424438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "jo indak bailah mahukua ambo ka tangan musuah, mailah mandiriakan kaki ambo di tampek nan lueh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "mahukua ambo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "mandiriakan"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "di tampek nan lueh"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kaki ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:24.754127212Z",
+  "model": "glm-5.3"
+}

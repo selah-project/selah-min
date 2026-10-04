@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Di atehnyo buruang-buruang langik badiam; di antaro dahan-dahan inyo mahasia ⟨jo⟩ suaro.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "buruang-buruang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "badiam"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "dahan-dahan"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "mahasia ⟨jo⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:23.651907255Z",
+  "model": "glm-5.3"
+}

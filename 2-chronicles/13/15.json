@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 13:15",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Urang Yehuda manyarukak parang, dan katiko urang Yehuda sadang manyarukak, Elohim mangalahan ⟨את⟩ Jeroboam jo sadoalah Yisrael di muko Avia jo Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויריעו",
+      "gloss": "manyarukak parang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan katiko itu"
+    },
+    {
+      "surface": "בהריע",
+      "gloss": "sadang manyarukak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "mangalahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeroboam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jo Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-04T08:53:05.244981774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Ambo ka mambaok jo mambari lorong ka inyo, masuak ka rumah ibu ambo; inyo ka maaja ambo; ambo ka managak inyo minum aia anggur nan babau campuran, jo sarupo siriah rimbo ambo.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "mambaok jo mambari lorong ka inyo"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "masuak ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibu ambo"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "ka maaja ambo"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "ka managak inyo minum"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "aia anggur"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "nan babau campuran"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "rimbo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:16:52.359623282Z",
+  "model": "glm-5.3"
+}

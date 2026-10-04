@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 62,
+  "translation": "Hanyo kapado Elohim ati ambo hania bana; dari-Nyo palupasan ambo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "hania bana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari-Nyo"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "palupasan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:37.735112725Z",
+  "model": "glm-5.3"
+}

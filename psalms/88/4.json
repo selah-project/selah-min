@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Karano kanyang pulo jo kalangkaro napeh iduik ambo, jo iduik ambo alah tibo ka Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "kanyang pulo"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "jo kalangkaro"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napeh iduik ambo"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "jo iduik ambo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "alah tabo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:17.889566087Z",
+  "model": "glm-5.3"
+}

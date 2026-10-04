@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Lalu Yisrael bajalan, jo inyo mambantang khemahnyo dakek Migdal-Eder.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "mambantang"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "khemahnyo"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Migdal"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Eder"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:03.354778432Z",
+  "model": "glm-5.3"
+}

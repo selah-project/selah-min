@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Kok itu Yisrael manyanyikan ⟨את⟩ nyanyian iko: Naiklah, oa sumur, pasebutlah untuaknyo!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "kok itu"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "manyanyikan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyanyian iko"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "naiklah"
+    },
+    {
+      "surface": "באר",
+      "gloss": "oa sumur"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "pasebutlah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "untuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:45:38.451462834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Jo ambo ka mangirim saurang malaekat di mukomu, jo ambo ka mangusir ⟨את⟩ urang Kanaan, urang Emori, urang Het, urang Perizi, urang Hewi, jo urang Yebusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "jo ambo ka mangirim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di mukomu"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaekat"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "jo ambo ka mangusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Kanaan, urang Emori, urang Het, urang Perizi, urang Hewi, jo urang Yebusi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "jo urang Het"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "jo urang Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "urang Hewi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "jo urang Yebusi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:40.688743118Z",
+  "model": "glm-5.3"
+}

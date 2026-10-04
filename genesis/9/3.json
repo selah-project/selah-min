@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Satiop nan maripek nan iduik, untuak urang tuo inyo ka manjadi makanan — sarupo sayok urang rumpuik ijo, Aku alah mangagiah kapado urang tuo ⟨את⟩ sadonyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "satiop"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nan maripek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak urang tuo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka manjadi"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "sarupo sayok"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "urang rumpuik ijo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku alah mangagiah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado urang tuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadonyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:47.858806487Z",
+  "model": "glm-5.3"
+}

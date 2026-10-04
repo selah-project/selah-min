@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Anak kasil adolah kasa untuak apaknyo, jo kapahitan untuak ibu nan malahiannyo.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "untuak apaknyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kasil"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "jo kapahitan"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "untuak ibu nan malahiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:58:15.086894021Z",
+  "model": "glm-5.3"
+}

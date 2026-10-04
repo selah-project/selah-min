@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo untuak ruakh hukum, kapado nan duduak manantuih hukum, jo untuak kakuatan kapado urang nan mailak-an baparak inggo ka gapuro.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "Jo untuak ruakh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "kapado nan duduak"
+    },
+    {
+      "surface": "על",
+      "gloss": "manantuih"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "jo untuak kakuatan"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "urang nan mailak-an"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "baparak"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "inggo ka gapuro"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:01.270026268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Sarupo jauahnyo timur dari barat, baitu Iyo manjauahan ⟨את⟩ palanggaran-palanggaran kito dari kito.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "sarupo jauahnyo"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "timur"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "dari barat"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "Iyo manjauahan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari kito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palanggaran-palanggaran kito"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "palanggaran-palanggaran kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:16.542317687Z",
+  "model": "glm-5.3"
+}

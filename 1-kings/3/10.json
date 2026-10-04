@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo kato tu elok di mato Adonai, karano Shelomoh alah mamintak ⟨את⟩ kato ko.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "jo ... elok"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato tu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "alah mamintak"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato ko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:22.246628212Z",
+  "model": "glm-5.3"
+}

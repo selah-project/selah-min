@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo kau ka mangecek kapado inyo ⟨את⟩ sagalo kato-kato ko, tapi indak inyo mandanga kau; jo kau ka manggia kapado inyo, tapi indak inyo manjawek kau.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "kau ka mangecek"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kato-kato ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "inyo mandanga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kau"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "jo kau ka manggia"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "inyo manjawek kau"
+    }
+  ],
+  "timestamp": "2026-10-04T06:29:27.106558902Z",
+  "model": "glm-5.3"
+}

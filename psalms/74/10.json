@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Sampai bilo, Yahweh-⟨Elohim⟩, musuah maijieh, lawan małaih Namo-Mu salamanyo?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "maijieh"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "malaieh"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lawan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Namo-Mu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:39.218814518Z",
+  "model": "glm-5.3"
+}

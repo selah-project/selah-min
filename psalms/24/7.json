@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Angkek lah kapalo-Mu, hai gapuro-gapuro, jo lah tatinggi, hai pintu-pintu nan salamo-lamonyo, supayo masuak rajo nan mulio!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "angkek lah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "hai gapuro-gapuro"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "kapalo-Mu"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "jo lah tatinggi"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "hai pintu-pintu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nan salamo-lamonyo"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "supayo masuak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "nan mulio"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:40.698880102Z",
+  "model": "glm-5.3"
+}

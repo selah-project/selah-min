@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "maka kau potong ⟨את⟩ tangannyo; matomu indak basadioan marasoni inyo.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "maka kau potong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannyo"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "basadioan marasoni"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "matomu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:29.421026820Z",
+  "model": "glm-5.3"
+}

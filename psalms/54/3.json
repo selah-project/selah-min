@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 54,
+  "translation": "O Elohim, jo Namu Salvationlah salamaikan ambo, jo kakuatan-Mu adili ambo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "jo Namu"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salamaikan ambo"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "jo kakuatan-Mu"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "adili ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:52.490301172Z",
+  "model": "glm-5.3"
+}

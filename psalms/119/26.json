@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Jalan-jalan ambo alah ambo caritokan, jo Kau jawab ambo; ajaari ambo katantuan-Kau.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan ambo"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "alah ambo caritokan"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "jo Kau jawab ambo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajaari ambo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katantuan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:39.645699422Z",
+  "model": "glm-5.3"
+}

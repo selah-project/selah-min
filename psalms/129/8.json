@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 129,
+  "translation": "Jo urang nan lalu indak bakato: Barka Yahweh ateh kalian; kami mamacik ⟨את⟩ kalian dangan Namo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "urang nan lalu"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ateh kalian"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "kami mamacik barka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kalian",
+      "marks": "kalian"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dangan Namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:31.766557894Z",
+  "model": "glm-5.3"
+}

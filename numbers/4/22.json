@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Angkek-daftakan ⟨את⟩ kapalo urang Gersyon, inyo juo, manuruik rumah adaik ambo-ambo darojo, manuruik marga-marga mareko.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "angkek-daftakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalo urang Gersyon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gersyon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "inyo juo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "manuruik rumah adaik"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ambo-ambo darojo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "manuruik marga-marga mareko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:44.692937136Z",
+  "model": "glm-5.3"
+}

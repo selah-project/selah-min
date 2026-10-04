@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo kapado bini urang nan basamo jo ambo, jangan maagiah baralek-rantok ⟨ambo⟩ untuak marambuah, jo ⟨mambarahiak⟩ diri jo inyo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "urang nan basamo jo ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "baralek-rantok ⟨ambo⟩"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "untuak marambuah"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "untuak mambarahiak diri jo ⟨inyo⟩"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:04:32.704885748Z",
+  "model": "glm-5.3"
+}

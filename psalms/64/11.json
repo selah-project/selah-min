@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Basukyo nan tsedeq di Yahweh, jo balinduang di Iyo; jo mamulia diri sadoalah nan luruah atinyo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "basukyo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nan tsedeq"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahweh"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "balinduang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di Iyo"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "mamulia diri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "nan luruah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:52.382699530Z",
+  "model": "glm-5.3"
+}

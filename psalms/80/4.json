@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "Elohim, baliakkan kito, jo pantari mukomu, jo kito ka salamaik.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "baliakkan kito"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "jo pantari"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mukomu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "jo kito ka salamaik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:25.251533706Z",
+  "model": "glm-5.3"
+}

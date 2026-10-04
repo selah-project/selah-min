@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Aponyo indak pernah mahadangnyo saari iduiknyo jo bakato: Baa ko karajo tu? Inyo juo rancak bana ruponyo, jo ⟨את⟩inyo dilahiaan ibunyo sasudah Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "mahadangnyo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aponyo"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "saari iduiknyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "baa"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "sarupo ko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "karajo tu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rancak"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Adonijah)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dilahiaan ibunyo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:35.290365269Z",
+  "model": "glm-5.3"
+}

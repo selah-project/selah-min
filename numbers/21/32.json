@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo Moshe mangirim urang untuak mancaliak ⟨את⟩ Yaezer, jo urang tu manangkok kampuang-kampuangnyo, jo urang tu mandorong kalua ⟨את⟩ urang Emori nan ado di sinan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "jo ... mangirim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "untuak mancaliak sacaro diam-diam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaezer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "jo urang tu manangkok"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "kampuang-kampuangnyo"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "jo urang tu mandorong kalua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ado di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:45:40.949751172Z",
+  "model": "glm-5.3"
+}

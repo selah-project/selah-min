@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 17:41",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lalu urang Palisdi tu turuik mandakek ka Dawid, jo urang nan mamacik paiang tu bajalan di mukonyo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "turuik bajalan"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "urang Palisdi tu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mandakek"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "laju mandakek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "jo urang tu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nan mamacik"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "paiang"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:18.081128921Z",
+  "model": "glm-5.3"
+}

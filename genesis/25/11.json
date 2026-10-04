@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo sasudah mati Avraham, Elohim maatok barakaik kapado ⟨את⟩ Yitskhak anaknyo; lalu Yitskhak tingga dakek Beer-Lachai-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo tajadilah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "maatok barakaik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak anaknyo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dakek"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:59.368051093Z",
+  "model": "glm-5.3"
+}

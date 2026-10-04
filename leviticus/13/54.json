@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "mako imam mamarintahkan, dan urang tu mancuci ⟨את⟩ nan ado luka tu di dalamnyo, dan mangisolasi baliak salamo tujuah ari kaduo kalinyo.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "mancuci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan ado luka tu di dalamnyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "luka tu"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "mangisolasi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "salamo tujuah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kaduo kalinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:46.765400786Z",
+  "model": "glm-5.3"
+}

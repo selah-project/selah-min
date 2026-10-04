@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "Baa kok Kau pacahkan pager-paganyo, sampai sado urang nan lalu di jalan mamboboknyo?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "Kau pacahkan"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "pager-paganyo"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "sampai mamboboknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "urang nan lalu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:19.781876244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Sampai ambo masuak ka tampek-tampek suci El, ambo mangingekan akai akhianyo urang tu.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ambo masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "tampek-tampek suci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "ambo mangingekan akai"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "akhianyo urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:22.954883592Z",
+  "model": "glm-5.3"
+}

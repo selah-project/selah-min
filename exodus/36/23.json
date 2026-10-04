@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Lalu inyo mambuek ⟨את⟩ papan-papan untuak Mishkan: dua puluah papan untuak sisi salatan, ka arah salatan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lalu inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "untuak Mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluah"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "papan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "untuak sisi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "salatan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ka arah salatan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:46.988684661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Sapanjang ari-ari bumi ado, maso tanam jo maso panen, dingin jo angek, musim paneh jo musim ujan, ari jo malam — indak ka baranti.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "maso tanam"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "jo maso panen"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "jo dingin"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "jo angek"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "jo musim paneh"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "jo musim ujan"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "jo ari"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jo malam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "ka baranti"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:05.406132042Z",
+  "model": "glm-5.3"
+}

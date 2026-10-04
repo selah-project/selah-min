@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Katiko Esav mandanga ⟨את⟩ kato-kato amaknyo, inyo maringkik jo rinyik nan gadang jo pahik bana, jo bakato kapado amaknyo: Maamongi ambo juo, amak.",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "katiko mandanga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amaknyo"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "maringkik"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "jo rinyik"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "jo pahik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kapado amaknyo"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "maamongi ambo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:43.034720676Z",
+  "model": "glm-5.3"
+}

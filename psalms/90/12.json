@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 90,
+  "translation": "Agaiahan kito manghituang ari-ari kito baitu, supayo kito mambaok ⟨kito mandapek⟩ ati nan bijak.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "manghituang"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ari-ari kito"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "agaiahan kito"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "supayo kito mambaok ⟨kito mandapek⟩"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nan bijak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:11.732971243Z",
+  "model": "glm-5.3"
+}

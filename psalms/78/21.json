@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Dek karano itu Yahweh mandanga, jo inyo barangsako; lalu api manyalo ateh Yaakov, jo pulo rimbo naik ateh Yisrael.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dek karano itu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "jo inyo barangsako"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "lalu api"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "manyalo"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ateh Yaakov"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo pulo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "rimbo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ateh Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:15.612701411Z",
+  "model": "glm-5.3"
+}

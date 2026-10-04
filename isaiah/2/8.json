@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Tanahnyo penuah barhala; ka karya tangan inyo inyo manyujudu, ka nan dibuek jari-jari inyo.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "penuah"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tanahnyo"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "barhala"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "ka karya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangan inyo"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "manyujudu"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ka nan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "jari-jari inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:46.593478749Z",
+  "model": "glm-5.3"
+}

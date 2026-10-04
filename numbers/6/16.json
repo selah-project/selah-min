@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu imam maadok inyo di mungko Yahweh, jo mambuek ⟨את⟩ kurban dosonyo jo ⟨את⟩ olahnyo.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "maadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di mungko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban dosonyo"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "kurban dosonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olahnyo"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "olahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:39:45.689039244Z",
+  "model": "glm-5.3"
+}

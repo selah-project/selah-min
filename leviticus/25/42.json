@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Karano hamba-hamba ambo inyo, nan ambo kaluakan ⟨את⟩ inyo dari tanah Mitsrayim; indak buliah inyo dijua jo caro jua hamba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba ambo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ambo kaluakan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (dari tanah Mitsrayim)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak buliah"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "dijua"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "jo caro jua"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:53.208662914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu Yahweh bakato kapado ikan itu, jo ikan itu mamuntahkan ⟨את⟩ Yunus ka darek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "kapado ikan itu"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "mamuntahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yunus"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "darek"
+    }
+  ],
+  "timestamp": "2026-10-04T09:20:50.943056561Z",
+  "model": "glm-5.3"
+}

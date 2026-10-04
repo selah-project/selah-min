@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo imam maambiak dari log minyak itu, jo mancuroannyo ka ateh talapak tangan imam nan kida.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "jo imam maambiak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "dari log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak itu"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "jo mancuroannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "כף",
+      "gloss": "talapak tangan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "nan kida"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:21.494046882Z",
+  "model": "glm-5.3"
+}

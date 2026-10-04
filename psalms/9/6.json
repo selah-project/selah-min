@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Kau alah mara bangso-bangso, kau alah mangancua urang jaek; namonyo kau alah mangapuih salamanyo, jo salalu.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "kau alah mara"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "kau alah mangancua"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jaek"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "kau alah mangapuih"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo salalu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:45.483121132Z",
+  "model": "glm-5.3"
+}

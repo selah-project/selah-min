@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Sampai bila urang jaah, Yahweh? Sampai bila urang jaah bagirang bagasoka?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bila"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jaah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bila"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jaah"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "bagirang bagasoka"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:41.437906722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Nan basamo-samo mamaniskan risaiah di rumah Elohim, basamo bajalan bakarumunan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo-samo"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "mamaniskan"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "risaiah"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "basamo bajalan"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "bakarumunan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:07.233596302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Bueklah jalan supayo padang dapek tibo ka ⟨את⟩ Rabbah urang Ammon jo ka ⟨את⟩ Yehudah di Yerushalayim nan tapao.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "bueklah"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "supayo dapek tibo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah urang Ammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "nan tapao"
+    }
+  ],
+  "timestamp": "2026-10-04T06:54:30.622982975Z",
+  "model": "glm-5.3"
+}

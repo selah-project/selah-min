@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 150,
+  "translation": "Pujui Inyo jo bunyi tiupan shofar; pujui Inyo jo nevel jo kinor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pujui Inyo"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "jo bunyi tiupan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujui Inyo"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "jo nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "jo kinor"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:29.633776627Z",
+  "model": "glm-5.3"
+}

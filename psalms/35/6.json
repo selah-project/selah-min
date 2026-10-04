@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Biaklah jalan urang tu galaik jo lincak, jo malak Yahweh mangejar urang tu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Biaklah"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jalan urang tu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "galaik"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "jo lincak"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "jo malak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "mangejar urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:43.551441819Z",
+  "model": "glm-5.3"
+}

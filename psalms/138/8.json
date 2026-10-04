@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 138,
+  "translation": "Yahweh akan manyalasaikan untuak ambo; Yahweh, hesed Sanyo sampai salamanyo; jangan buliah Sanyo tinggakan karya-karya tangan Sanyo!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "akan manyalasaikan"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed Sanyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai salamanyo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karya-karya"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan Sanyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan buliah"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "tinggakan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:40.727352923Z",
+  "model": "glm-5.3"
+}

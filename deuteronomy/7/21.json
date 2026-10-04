@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jan takuik di hadapan urang tu, karano Yahweh, Elohim ka, ado di tangah awak: El nan gadang jo nan garang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "di hadapan urang tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ka"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "di tangah awak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "jo nan garang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:11.913902782Z",
+  "model": "glm-5.3"
+}

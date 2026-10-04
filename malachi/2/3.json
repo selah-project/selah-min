@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Bekato ambo ka mamarèh untuak kamu ⟨את⟩ beniah, jo ambo ka manyebar badàn di muko kamu, badàn pakan rayo kamu, jo inyo ka mambaok ⟨את⟩ kamu ka inyo.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "bekato ambo"
+    },
+    {
+      "surface": "גער",
+      "gloss": "mamarèh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beniah"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "jo ambo ka manyebar"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "badàn"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "muko kamu"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "badàn"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "pakan rayo kamu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "jo inyo ka mambaok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:33.443635883Z",
+  "model": "glm-5.3"
+}

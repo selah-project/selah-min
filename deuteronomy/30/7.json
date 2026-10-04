@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Dan Yahweh Elohim kau ka mambarikan ⟨את⟩ sado kutuak-kutuak iko ateh musuah kau jo ateh urang nan banci kapadonyo, nan alah mambiau-biau kau.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "dan ka mambarikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado kutuak-kutuak iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "kutuak-kutuak"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuah kau"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "urang nan banci kapadonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "alah mambiau-biau kau"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:49.726951413Z",
+  "model": "glm-5.3"
+}

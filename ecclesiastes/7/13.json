@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Caliaklah ⟨את⟩ pausahaan Elohim, karano sia nan dapek mambana ⟨את⟩ nan inyo buek bengkok?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Caliaklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pausahaan Elohim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pausahaan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "mambana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan inyo buek bengkok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "inyo buek bengkok"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:20.533344109Z",
+  "model": "glm-5.3"
+}

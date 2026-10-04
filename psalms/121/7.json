@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 121,
+  "translation": "Yahweh ka manjago kau dari sado kaburuko; inyo ka manjago ⟨את⟩ nyao kau.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "ka manjago kau"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sado"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kaburuko"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ka manjago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyao kau"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyao kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:03.636318517Z",
+  "model": "glm-5.3"
+}

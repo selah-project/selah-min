@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Karano katiko ambo badian, tulang ambo lah lanyo, dalam urangan ambo salamo ari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "badian"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "lanyo"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang ambo"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "dalam urangan ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:06.822658822Z",
+  "model": "glm-5.3"
+}

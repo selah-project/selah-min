@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Iduik dipintanyo dari Sanak, Sanak agiah kapadonyo — unjuak ari-ari salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "dipintanyo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari Sanak"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Sanak agiah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "unjuak"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:21.600312256Z",
+  "model": "glm-5.3"
+}

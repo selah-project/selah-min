@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Dakekkanlah diri-Mu kapado napeh ambo, tebuslah inyo; dek karano musuah ambo, palapehlah ambo.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "dakekkanlah diri-Mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napeh ambo"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "tebuslah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuah ambo"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "palapehlah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:41.909576256Z",
+  "model": "glm-5.3"
+}

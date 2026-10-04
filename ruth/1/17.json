@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 1:17",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Di ma awak mati, ambo pun mati, jo di ma awak dimakamkan, di sinan juo ambo dimakamkan; baa Yahweh buaikan kapado ambo, jo baa inyo tambiah, kok bukan maut sajo nan mamisahan ambo jo awak.",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "תמותי",
+      "gloss": "awak mati"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ambo pun mati"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo di sinan"
+    },
+    {
+      "surface": "אקבר",
+      "gloss": "ambo dimakamkan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buaikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "jo baa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "tambiah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "המות",
+      "gloss": "maut"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "mamisahan"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "jo awak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:54.108993690Z",
+  "model": "glm-5.3"
+}

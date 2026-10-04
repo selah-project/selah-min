@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Ambo lah maninggakan ⟨את⟩ rumah Ambo, Ambo lah mambuang ⟨את⟩ pusako Ambo, Ambo lah manyarahkan ⟨את⟩ nan kasiah di nyawa Ambo ka dalam tangan musuahnyo.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "maninggakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Ambo"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumah Ambo"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "mambuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pusako Ambo"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "pusako Ambo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "manyarahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan kasiah di nyawa Ambo"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "nan kasiah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "di nyawa Ambo"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ka dalam tangan"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "musuahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:32:15.958391965Z",
+  "model": "glm-5.3"
+}

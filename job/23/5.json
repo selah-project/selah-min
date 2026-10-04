@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Ambo ka mangatahui kato-kato nan inyo jawek kapado ambo, jo ambo ka pahami a nan inyo katakán kapado ambo.",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "ambo ka mangatahui"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "nan inyo jawek kapado ambo"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "jo ambo ka pahami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "a"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "inyo katakán"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:09:20.961054814Z",
+  "model": "glm-5.3"
+}

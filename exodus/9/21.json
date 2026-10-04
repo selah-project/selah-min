@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Dan nan indak mamacik atinyo kapado kato Yahweh, maninggakan ⟨את⟩ ambo-amboinyo jo ⟨את⟩ taranaknyo di ladang.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mamacik"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "maninggakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambo-amboinyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ambo-amboinyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taranaknyo"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "taranaknyo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:42.087363557Z",
+  "model": "glm-5.3"
+}

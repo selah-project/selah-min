@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Ester bakato kapado Hathak, jo manyuruah inyo ⟨kapado⟩ Mordekhai:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "kapado Hathak"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "manyuruah inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:21.707990844Z",
+  "model": "glm-5.3"
+}

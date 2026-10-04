@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Ramai nan bakato ka nafieh ambo: Indak ado pasepen untuak inyo di Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Ramai"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ka nafieh ambo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Indak ado"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "pasepen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak inyo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:16.645495809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu Akhab maagiah tahu ka Izevel ⟨את⟩ sagalo nan alah dibuek Eliyahu, jo ⟨את⟩ sagalo nan alah dibunuahnyo — ⟨את⟩ sagalo nabi-nabi tu jo padang.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "maagiah tahu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "ka Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dibunuahnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nabi-nabi tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabi-nabi tu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "jo padang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:18.990652161Z",
+  "model": "glm-5.3"
+}

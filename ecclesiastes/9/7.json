@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "La, makan jo ria roti sanok, jo minum anggur sanok jo ati nan elok, karano lamo lai Elohim alah manarimo ⟨את⟩ karajo sanok.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "la"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "jo ria"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "roti sanok"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "jo minum"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "jo ati"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "anggur sanok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "lamo lai"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "alah manarimo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karajo sanok"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "karajo sanok"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:41.919328075Z",
+  "model": "glm-5.3"
+}

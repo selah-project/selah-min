@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Jo jiwa ambo bagiria di Yahweh, inyo basukokita di dalam kasalamatan-Nyo.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "jo jiwa ambo"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "bagiria"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahweh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "basukokita"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "di dalam kasalamatan-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:19.637941607Z",
+  "model": "glm-5.3"
+}

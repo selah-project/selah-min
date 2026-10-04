@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo inyo bakato: \"Ambo adolah hamba Avraham.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo adolah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:27.088735220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "⟨Urang⟩ nan bapikiran tapanciak Ka Disangkoi dalam dame, dame, karano kapado ⟨Engkau⟩ inyo basanda.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "pikiran"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "tapanciak basanda"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "Ka Disangkoi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "dame"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "dame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kapado ⟨Engkau⟩"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "basanda"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:22.184970117Z",
+  "model": "glm-5.3"
+}

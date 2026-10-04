@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Engkau mambaliakan kami dari musuah, jo urang nan banci kapadonyo alah manjarah untuak dirinyo surang.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Engkau mambaliakan kami"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka balakang"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "jo urang nan banci kapadonyo"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "lah manjarah"
+    },
+    {
+      "surface": "למו",
+      "gloss": "untuak dirinyo surang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:15.087822008Z",
+  "model": "glm-5.3"
+}

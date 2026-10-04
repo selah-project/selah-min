@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Sadoalah bangso itu caliak ⟨את⟩ tiang awan itu baadok di muncuak khemah, lalu sadoalah bangso itu bangkik, dan sadang sujuik, urang sanapek di muncuak khemahnyo masiang-masiang.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dan caliak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang awan itu"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "baadok"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di muncuak"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah itu"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "lalu bangkik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso itu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "dan sadang sujuik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang sanapek"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di muncuak"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "khemahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:16.784266026Z",
+  "model": "glm-5.3"
+}

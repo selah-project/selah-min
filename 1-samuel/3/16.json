@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu Eli manjapuik ⟨את⟩ Shemuél, jo bakato: Shemuél, anak ambo. Inyo bakato: Nih ambo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "manjapuik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuél"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nih ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:59.805566003Z",
+  "model": "glm-5.3"
+}

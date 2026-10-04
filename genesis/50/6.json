@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Lalu Paroh bakato: Naiaklah, jo kubuaanlah ⟨את⟩ bapakmu, sarupo nan inyo bambaue ikau bajaniah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu Paroh bakato"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naiaklah"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "jo kubuaanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapakmu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "mambaue ikau bajaniah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:24.478370061Z",
+  "model": "glm-5.3"
+}

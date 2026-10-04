@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo berkah urang nan luruih nagari ditinggiekan, tapi jo muluik urang jahat inyo diruntuhkan.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "jo berkah"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "urang nan luruih"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ditinggiekan"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "tapi jo muluik"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "diruntuhkan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:08.012427075Z",
+  "model": "glm-5.3"
+}

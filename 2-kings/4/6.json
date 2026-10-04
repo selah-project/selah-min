@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu tajadi, sasudah wadah-wadah tu panuah, inyo bakato kapado anaknyo: \"Agiah ambo lai ciek wadah.\" Baliau bakato kapadonyo: \"Indak ado lai wadah.\" Lalu minyak tu baranti.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lalu tajadi"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "sasudah panuah"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "wadah-wadah tu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "agiah lah dakek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ciek wadah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "baliau bakato"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "wadah"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "lalu baranti"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:57:44.100886811Z",
+  "model": "glm-5.3"
+}

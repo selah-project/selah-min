@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Tapi katiko ambo tasanduang, inyo bakariajo, jo bakumpua; urang-urang pambuko bakumpua manantang ambo, sadang ambo indak tau; inyo manyarik ambo, indak baranti.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "katiko ambo tasanduang"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "inyo bakariajo"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "jo bakumpua"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "bakumpua"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "manantang ambo"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "urang-urang pambuko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadang indak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tau"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "inyo manyarik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "baranti"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:37.735383958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Musuah inyo manjapuak inyo, jo inyo tunduak di bawah tangan inyo.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "manjapuak inyo"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "musuah inyo"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "jo inyo tunduak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:57.650006088Z",
+  "model": "glm-5.3"
+}

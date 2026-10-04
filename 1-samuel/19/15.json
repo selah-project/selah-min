@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu Saul mangutuih baliak ⟨את⟩ urang-urang tu untuak caliak ⟨את⟩ Dawid, bakato: Angkek inyo ⟨את⟩ jo tampek lalok ka ambo, untuak mambunuahnyo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangutuih baliak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "angkek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jo tampek lalok"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "jo tampek lalok"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "untuak mambunuahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:32.494153685Z",
+  "model": "glm-5.3"
+}

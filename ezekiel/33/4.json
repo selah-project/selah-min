@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "urang nan mandanga ⟨את⟩ bunyi sangkak tu tapi indak bahimbau, lalu tibo padang jo maambiak inyo — darahnyo di ateh kapalonyo surang.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "urang nan mandanga"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "nan mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunyi sangkak tu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "sangkak tu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "bahimbau"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "lalu tibo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "jo maambiak inyo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnyo"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "di ateh kapalonyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "surang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:59:44.993213163Z",
+  "model": "glm-5.3"
+}

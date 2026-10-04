@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 63,
+  "translation": "Jiwa ambo malakek sasudah-Mu; tangan suok-Mu nan manompang ambo.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "malakek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa ambo"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sasudah-Mu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pado ambo"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "manompang"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan suok-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:06.323461087Z",
+  "model": "glm-5.3"
+}

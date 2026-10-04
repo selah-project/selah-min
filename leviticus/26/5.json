@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Ari manumbuak kalian sampai ari mangambang anggur, jo ari mangambang anggur sampai ari mananam beniah, jo kalian makan roti kalian sampai kanyang, jo kalian tingga aman di tanah kalian.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "ari manumbuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ari mangambang anggur"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "ari mangambang anggur"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "jo ari mangambang anggur"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ari mananam beniah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ari mananam beniah"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "jo kalian makan"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "roti kalian"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sampai kanyang"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "jo kalian tingga"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "aman"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "di tanah kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:26.295470767Z",
+  "model": "glm-5.3"
+}

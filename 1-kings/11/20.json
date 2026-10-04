@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Kakak Tahpenes malahiakan untuak inyo sabuah anak laki-laki, Genubat anaknyo, jo Tahpenes manyapih ⟨את⟩ inyo di tangah rumah Paroh; jo Genubat tingga di rumah Paroh di tangah anak-anak Paroh.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak inyo"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "kakak"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tahpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubat anaknyo"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "manyapih inyo"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tahpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:34.949102796Z",
+  "model": "glm-5.3"
+}

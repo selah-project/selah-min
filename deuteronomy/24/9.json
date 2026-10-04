@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Ingo-i a ⟨את⟩ nan dibuek dek Yahweh, Elohim ang, kapado Miryam, di jalan, katiko ang kalua dari Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ingo-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nan dibuek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ang"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "kapado Miryam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "katiko ang kalua"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:12.547715818Z",
+  "model": "glm-5.3"
+}

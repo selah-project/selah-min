@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Dan kau ambiak dari sinan saketek sajo jumlahnyo, jo kau ikek ⟨את⟩ inyo tu di liang sayokmu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dan kau ambiak"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sinan"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sajo jumlahnyo"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "jo kau ikek"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ inyo tu",
+      "marks": "saketek sajo jumlahnyo"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "di liang sayokmu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:49:42.460222140Z",
+  "model": "glm-5.3"
+}

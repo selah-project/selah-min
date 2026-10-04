@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Dan kini, lah! Ambo ka basamo jo muluikmu, jo ambo ka maajakan kau apo nan ka kau katoan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lah"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ka basamo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jo muluikmu"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "jo ambo ka maajakan kau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo nan"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ka kau katoan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:31.754988415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Sagalo iko alah tibo kapado kami, kok indak kami lupo Kau, kok indak kami mambuang dalam parjanjian Kau.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "alah tibo kapado kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kok indak"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "kami lupo Kau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kok indak"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "kami mambuang"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "dalam parjanjian Kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:23.480210987Z",
+  "model": "glm-5.3"
+}

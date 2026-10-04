@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu Avraham bakato kapadonyo: Jago diri sanak, bia jangan sanak mambaok baliak ⟨את⟩ anak ambo ka sinan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "jago diri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bia jangan"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "sanak mambaok baliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak ambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:31.767013098Z",
+  "model": "glm-5.3"
+}

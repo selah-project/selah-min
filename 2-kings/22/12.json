@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Kamudian rajo mamarintahkan ⟨את⟩ Khilkiyah imam tu, ⟨jo את⟩ Akhikam anak Shafan, ⟨jo את⟩ Akhbor anak Mikhayah, ⟨jo את⟩ Shafan panulih tu, jo ⟨את⟩ Asayah hamba rajo, bakato:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khilkiyah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Khilkiyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨jo את⟩",
+      "marks": "Akhikam"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Akhikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨jo את⟩",
+      "marks": "Akhbor"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akhbor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "Mikhayah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨jo את⟩",
+      "marks": "Shafan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "panulih tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨jo את⟩",
+      "marks": "Asayah"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asayah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T06:04:07.926078081Z",
+  "model": "glm-5.3"
+}

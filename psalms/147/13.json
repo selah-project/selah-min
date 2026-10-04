@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Karano inyo alah manguekkan palang-palang gapuro⟨nyo⟩, alah memberkati anak-anak⟨nyo⟩ di tangah-tangah⟨Yerushalayim⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "manguekkan"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "palang-palang"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "gapuro⟨nyo⟩"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anak⟨nyo⟩"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "di tangah-tangah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:20.902178603Z",
+  "model": "glm-5.3"
+}

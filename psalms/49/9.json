@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Jo maha panebusan jiwo urang tu, jo inyo baranti salamanyo.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "jo maha"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "panebusan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jiwo urang tu"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "jo baranti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:36.685012358Z",
+  "model": "glm-5.3"
+}

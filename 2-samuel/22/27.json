@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo urang nan murni, Elohim manyangkun kamurnian-Nyo; tapi jo urang nan bapaliak, Elohim manyangkun kapaliak-an-Nyo.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "urang nan murni"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "manyangkun kamurnian-Nyo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "tapi jo"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "urang nan bapaliak"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "manyangkun kapaliak-an-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:10:53.703401639Z",
+  "model": "glm-5.3"
+}

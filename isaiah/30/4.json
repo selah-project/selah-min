@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Karano pangulu-pangulunyo alah di Tzoan, jo utusan-utusannyo sampai ka Khanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "היו",
+      "gloss": "alah"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "di Tzoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "pangulu-pangulunyo"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "jo utusan-utusannyo"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "ka Khanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "sampai"
+    }
+  ],
+  "timestamp": "2026-10-04T06:15:25.638230684Z",
+  "model": "glm-5.3"
+}

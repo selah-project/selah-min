@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Maka ambo mangirim api ka rumah Hazael, jo api itu maangkan bantuangan-bantuangan Ben-Hadad.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Maka ambo mangirim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka rumah"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "jo api itu maangkan"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "bantuangan-bantuangan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    }
+  ],
+  "timestamp": "2026-10-04T07:11:18.557268411Z",
+  "model": "glm-5.3"
+}

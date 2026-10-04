@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 121,
+  "translation": "Patolongan ambo ⟨adalah⟩ dari Yahweh, Pambuek langik jo bumi.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Patolongan ambo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Pambuek"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jo bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:51.325400619Z",
+  "model": "glm-5.3"
+}

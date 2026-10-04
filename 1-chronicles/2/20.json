@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Khur manurunkan ⟨את⟩ Uri, jo Uri manurunkan ⟨את⟩ Betzalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Jo Khur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "jo Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betzalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:26.490636545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Jo inyo mahapuih ⟨את⟩ el-el <foreign-gods> nan lua jo ⟨את⟩ patuang dari rumah Yahweh, jo sagalo mezbah nan dibueknyo di bukik rumah Yahweh jo di Yerushalayim, jo mahapuihnyo ka lua kota.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "mahapuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "el-el nan lua (tuhan-tuhan nan asiang)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "el-el nan lua (tuhan-tuhan nan asiang)"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "nan asiang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "patuang"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "patuang"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibueknyo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di bukik"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "jo di Yerushalayim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "jo mahapuihnyo"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ka lua"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-10-04T08:58:52.808182692Z",
+  "model": "glm-5.3"
+}

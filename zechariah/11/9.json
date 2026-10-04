@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu ambo bakato: ambo indak ka manggumbalakan ⟨אתכם⟩; nan ka mati, bia mati; nan ka hilang, bia hilang; nan tasiso, tiok padusi makan ⟨את⟩ dagiang kawan-kawannyo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lalu ambo bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "manggumbalakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "nan ka mati"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "bia mati"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "nan ka hilang"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "bia hilang"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "nan tasiso"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "makan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tiok padusi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiang"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "kawan-kawannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:20:21.329474928Z",
+  "model": "glm-5.3"
+}

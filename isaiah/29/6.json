@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Dek Yahweh Tsebaot inyo dibalas kunjuangan: jo guruh, jo guncangan, jo suaro gadang, jo puyuah, jo badai, jo lidah api nan mahabuih.",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "dek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "dibalas kunjuangan"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "jo guruh"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "jo guncangan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "jo suaro"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "puyuah"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "jo badai"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "jo lidah"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "nan mahabuih"
+    }
+  ],
+  "timestamp": "2026-10-04T06:15:09.121966487Z",
+  "model": "glm-5.3"
+}

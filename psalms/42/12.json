@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Baa Kau malamun, wa nyawa ambo, jo baa Kau bagarak di dalam ambo; taragaklah kapado Elohim, karano lai ambo ka mamuji-Nyo; inyo kaselamatan muko ambo, jo Elohim ambo.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "Kau malamun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "wa nyawa ambo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jo baa"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "Kau bagarak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di dalam ambo"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "taragaklah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ambo ka mamuji-Nyo"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kaselamatan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko ambo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "jo Elohim ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:33.684063562Z",
+  "model": "glm-5.3"
+}

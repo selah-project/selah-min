@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Yahweh bakato ka Kayin: Di ma Hebel, saudaro ang? Kato Kayin: Ambo indak tau; kok ambo panjago saudaro ambo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaro ang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tau"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "panjago"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaro ambo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:53.883569186Z",
+  "model": "glm-5.3"
+}

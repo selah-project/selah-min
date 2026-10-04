@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Tapi kau, Yahweh, duduak batahta salamo-lamonyo, jo paringatan kau kapado katurunan jo katurunan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tapi kau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "duduak batahta"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "jo paringatan kau"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kapado katurunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jo katurunan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:34.802412886Z",
+  "model": "glm-5.3"
+}

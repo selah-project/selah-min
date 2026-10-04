@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo anak-anak laki-laki Azrah: Yeter, jo Mered, jo Efer, jo Yalon; jo inyo manganduang ⟨את⟩ Miryam, jo ⟨את⟩ Syamai, jo ⟨את⟩ Yisbak, ayah Esytemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "jo anak-anak laki-laki"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Azrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "jo Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "jo Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "jo Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "jo inyo manganduang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Syamai"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Syamai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yisbak"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yisbak"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Esytemoa"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:38.770111624Z",
+  "model": "glm-5.3"
+}

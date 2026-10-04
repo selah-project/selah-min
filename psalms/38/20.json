@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo musuah ambo iduik, kuaik bana, jo urang nan banci kapadonyo lah banyak — urang nan banci ambo dustu-dustu.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "jo musuah ambo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "kuaik bana"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "lah banyak"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "urang nan banci kapadonyo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dustu-dustu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:47.730420093Z",
+  "model": "glm-5.3"
+}

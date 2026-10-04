@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Jo itu dipakiroan bana tsedeq kapadonyo, untuak katurunan sarato katurunan sampai salamanyo.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "dipakiroan bana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "untuak katurunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sarato katurunan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:25.666316964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 97,
+  "translation": "Tsiyon mandanga jo bagembira, jo anak-anak padusi Yehuda basuko ria, dek hukum-hukum Ang, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "jo bagembira"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "jo basuko ria"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak padusi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dek"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum Ang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:57.913586745Z",
+  "model": "glm-5.3"
+}

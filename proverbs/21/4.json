@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Mato nan tinggi jo ati nan lompang, paladangan urang durhaka — doso.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mato"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "jo lompang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "נר",
+      "gloss": "paladangan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang durhaka"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "doso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:07.751411903Z",
+  "model": "glm-5.3"
+}

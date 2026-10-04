@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu bangkiah Ezra, jo inyo mambuek sumpah kapado ⟨את⟩ para pangulu imam, urang Levi, jo saluruah Yisrael untuak buek sajo kato ko; jo mareka basumpah.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu bangkiah"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "jo inyo mambuek sumpah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pangulu imam"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Levi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo saluruah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak buek"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sajo kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "jo mareka basumpah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:34:36.858356872Z",
+  "model": "glm-5.3"
+}

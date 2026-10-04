@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo manusia dibungkuakkan, jo urang direndahkan, jo mato urang-urang angkuah direndahkan pulo.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "jo dibungkuakkan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "jo direndahkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "jo mato"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "urang-urang angkuah"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "direndahkan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:13.588826401Z",
+  "model": "glm-5.3"
+}

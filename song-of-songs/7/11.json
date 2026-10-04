@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Ambo untuak dakwa ambo, jo ka ambo kasiah-rindunyo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "untuak dakwa ambo"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "jo ka ambo"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "kasiah-rindunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:16:41.666900690Z",
+  "model": "glm-5.3"
+}

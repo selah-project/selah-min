@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Maka inyo pai lewat jalan nan lain, jo indak baliak di jalan nan inyo tibo ka Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "maka inyo pai"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lewat jalan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "שב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "inyo tibo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka situ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:22.729439816Z",
+  "model": "glm-5.3"
+}

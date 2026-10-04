@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Yahweh bakato kapado Moshe di gurun Sinai, di Khemah Patamuan, pado ari ciek bulan nan kaduo, pado taun nan kaduo sasudah kaluanyo urang tu dari tanah Mitsrayim, manandoi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patamuan"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "pado ari ciek"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pado taun"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "sasudah kaluanyo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "manandoi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:47.224195041Z",
+  "model": "glm-5.3"
+}

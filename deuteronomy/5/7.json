@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Indak ado Elohim nan lain untuak kalian di muko ambo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak kalian"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "пני",
+      "gloss": "muko ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:42.552195706Z",
+  "model": "glm-5.3"
+}

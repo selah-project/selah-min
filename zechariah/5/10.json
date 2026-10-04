@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Lalu bakato ambo kapado malaikaik nan mangecek jo ambo: Ka ma inyo mambaok ⟨את⟩ efa?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lalu bakato ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaikaik"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nan mangecek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ka ma"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    }
+  ],
+  "timestamp": "2026-10-04T07:18:38.640416531Z",
+  "model": "glm-5.3"
+}

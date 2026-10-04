@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ratu nagari Sheba caliak ⟨את⟩ kasarivan Shlomoh, jo rumah nan dibueknyo,",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasarivan Shlomoh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kasarivan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "jo rumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibueknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:52:06.042044765Z",
+  "model": "glm-5.3"
+}

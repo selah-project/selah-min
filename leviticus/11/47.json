@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Untuak mambedakan antaro nan indak suci jo nan barasiah, jo antaro binatang nan buliah dimakan jo binatang nan indak buliah dimakan.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "untuak mambedakan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antaro"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nan indak suci"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "nan barasiah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "nan buliah dimakan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "buliah dimakan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:02.156003050Z",
+  "model": "glm-5.3"
+}

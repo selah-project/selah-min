@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 54:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 54,
+  "translation": "Katiko urang Zif tibo jo bakato kapado Shaul: «Indakke Dawid manyuruak di amo jo kito?»",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "katiko tibo"
+    },
+    {
+      "surface": "הזיפים",
+      "gloss": "urang Zif"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kapado Shaul"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "indakke"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "manyuruak"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "di amo jo kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:52.490151908Z",
+  "model": "glm-5.3"
+}

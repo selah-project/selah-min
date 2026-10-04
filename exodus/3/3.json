@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Moshe bakato: Baok ambo pai dulu untuak mancaliak ⟨את⟩ patamuan nan gadang iko — baa kok dunsanak api tu indak tapiciak?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jo Moshe bakato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ambo pai dulu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Baok"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "untuak mancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patamuan nan gadang iko"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "tapiciak"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "dunsanak api tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:40.288691026Z",
+  "model": "glm-5.3"
+}

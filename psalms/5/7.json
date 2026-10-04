@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Urang nan mangecek dusta, Engkau musnahkan; urang padarah jo urang panipu — Yahweh mambanciai.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "Engkau musnahkan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "urang nan mangecek"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "padarah"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "jo urang panipu"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "mambanciai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:00.398117920Z",
+  "model": "glm-5.3"
+}

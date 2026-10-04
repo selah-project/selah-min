@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo inyo mamasang ⟨את⟩ sanjatonyo di rumah tuhan-tuahan inyo, tapi ⟨את⟩ tangkuraknyo inyo tapacak di rumah Dagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "inyo mamasang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanjatonyo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sanjatonyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan-tuahan inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tangkuraknyo"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "tangkuraknyo"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "inyo tapacak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-10-04T08:43:21.823131907Z",
+  "model": "glm-5.3"
+}

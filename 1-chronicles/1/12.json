@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo ⟨את⟩ orang Patros, jo ⟨את⟩ orang Kaslukh — dari tampeknyo kalua urang Palishti — jo ⟨את⟩ orang Kaftor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orang Patros"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "orang Patros"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orang Kaslukh"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "orang Kaslukh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari tampeknyo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palishti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orang Kaftor"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "orang Kaftor"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:10.364391331Z",
+  "model": "glm-5.3"
+}

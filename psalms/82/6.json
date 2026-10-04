@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 82,
+  "translation": "Ambo bakato: Elohim sanak, jo anak-anak Elyon sagalo sanak.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "sagalo sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:56.723139161Z",
+  "model": "glm-5.3"
+}

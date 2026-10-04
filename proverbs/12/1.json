@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Nan mangasihi didikan mangasihi pangatahuan, tapi nan mambanci koreksi tu bodoh.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "nan mangasihi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "didikan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mangasihi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangatahuan"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "tapi nan mambanci"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "koreksi"
+    },
+    {
+      "surface": "בער",
+      "gloss": "tu bodoh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:41.213221962Z",
+  "model": "glm-5.3"
+}

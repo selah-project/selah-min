@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Yitskhak maimbau Yaakov, maberkahi ⟨את⟩ inyo, mamarentahkan kapadonyo, jo bakato kapadonyo: Jan maambiak bini dari anak-anak Kanaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maimbau"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "jo maberkahi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "jo mamarentahkan kapadonyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bini"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "dari anak-anak"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:03:11.583411880Z",
+  "model": "glm-5.3"
+}

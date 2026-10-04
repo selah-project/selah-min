@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Bangkik, bajalan kaman bumi ko, sapanjangnyo jo salawehnyo, karano kapado ambo ka mangagiahannyo kapado kau.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "bajalan kaman"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "bumi ko"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "sapanjangnyo"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "jo salawehnyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ka mangagiahannyo kapado kau"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:27.267856990Z",
+  "model": "glm-5.3"
+}

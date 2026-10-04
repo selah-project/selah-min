@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Kakuasaan ambo jo pujian ambo ⟨adalah⟩ Yah, jo inyo manjadi salamat ambo; ko Eloah ambo, ambo mamuji inyo; Elohim ayah ambo, ambo mangangkek inyo.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "kakuasaan ambo"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "jo pujian ambo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo inyo manjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "salamat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eloah ambo"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "ambo mamuji inyo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah ambo"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "ambo mangangkek inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:43.945920819Z",
+  "model": "glm-5.3"
+}

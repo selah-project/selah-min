@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Inyo mambuek es sarupo potongan-potongan; di muko dinginnyo sio dapek tagak?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "es"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "sarupo potongan-potongan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "dinginnyo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sio"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dapek tagak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:04.219412056Z",
+  "model": "glm-5.3"
+}

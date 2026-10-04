@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu inyo pai jo maambiak ⟨את⟩ Gomer, anak padusi Diblajim; inyo manganduang jo malahiakan untuaknyo surang anak laki-laki.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lalu inyo pai"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "jo maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblajim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "inyo manganduang"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "jo malahiakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    }
+  ],
+  "timestamp": "2026-10-04T09:20:24.144843821Z",
+  "model": "glm-5.3"
+}

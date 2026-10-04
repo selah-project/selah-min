@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 23:35",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Dek itu baitulah kato Adonai Yahweh: Karano awak lupo kapado ambo, jo mambuang ambo ka balakang awak, awak juo ka manangguang ⟨את⟩ kajahatan awak jo ⟨את⟩ palacuran awak.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dek itu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "awak lupo"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "Yahweh nan dilupo"
+    },
+    {
+      "surface": "ותשליכי",
+      "gloss": "jo mambuang"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "Yahweh nan dibuang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "balakang awak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "awak"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "ka manangguang"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "kajahatan awak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "palacuran awak"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "palacuran awak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:56:16.580291844Z",
+  "model": "glm-5.3"
+}

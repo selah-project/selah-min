@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo jawi jo baruang tagabuik rumpuik basamo-sama, anak-anaknyo barbaring di situ; jo singo makan rayo sarupo jawi.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "jo jawi"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "jo baruang"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "tagabuik rumpuik"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo-sama"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "barbaring"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "jo singo"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "sarupo jawi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "rayo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:10:09.906492060Z",
+  "model": "glm-5.3"
+}

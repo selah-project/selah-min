@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 115,
+  "translation": "Barakaik awak-awak de Yahweh, nan mambuek ⟨את⟩ langik jo ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "barakaik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "awak-awak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "de Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan mambuek"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jo bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:55.334277330Z",
+  "model": "glm-5.3"
+}

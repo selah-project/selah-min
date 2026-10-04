@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Karano ambo maraso iri kapado urang nan sombong, katiko ambo maliek kadamaian urang-urang jahat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ambo maraso iri"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "kapado urang nan sombong"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kadamaian"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ambo maliek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:05.996345939Z",
+  "model": "glm-5.3"
+}

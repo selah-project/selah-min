@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Karano ambo indak pernah tingga di rumah, sajak ari katiko ambo mandaaan ⟨את⟩ Yisrael, sampai ari ko; dan ambo bajalan dari kemah ka kemah, dan dari Mishkan ka Mishkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ambo tingga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sajak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ambo mandaaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "dan ambo bajalan"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "dari kemah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "dan dari Mishkan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:46:38.724493926Z",
+  "model": "glm-5.3"
+}

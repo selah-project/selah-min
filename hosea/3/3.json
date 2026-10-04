@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo ambo bakato kapadonyo: ARI-ari nan banyak urang duduak untuak ambo, jan bakarajo zina, jo jan jadi bini urang; ambo pun samo, untuak kau.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "urang duduak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "bakarajo zina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bini urang"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "pun samo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "untuak kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:09.185090353Z",
+  "model": "glm-5.3"
+}

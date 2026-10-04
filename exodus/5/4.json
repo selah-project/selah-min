@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Kok rajo Mitsrayim bakato kapado urang tu: Baa alesannyo, Moshe jo Aharon, kalian maagiah urang tu lupo dari karajonyo? Pai, angkek baliak pikia kalian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kok … bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa alesannyo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jo Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "kalian maagiah urang tu lupo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "dari karajonyo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pai"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "angkek baliak pikia kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:56.611702946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Baa salamonyo Engkau malupokan ambo awak, mangantam ambo awak sampai lamo ari-ari?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Baa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamonyo"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "Engkau malupokan ambo awak"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "mangantam ambo awak"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "sampai lamo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:07.292442174Z",
+  "model": "glm-5.3"
+}

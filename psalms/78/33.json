@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Mako inyo manghabihia ari-ari urang tu dalam sia-sia, jo taun-taun urang tu dalam kagaduahan.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "mako inyo manghabihia"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "dalam sia-sia"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ari-ari urang tu"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "jo taun-taun urang tu"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "dalam kagaduahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:39.611207873Z",
+  "model": "glm-5.3"
+}

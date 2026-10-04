@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 11:13",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Hanyo sado koto-koto nan tagak di ateh tumpukan tanahnyo — indak dibaka dek Yisrael; kacuali ⟨את⟩ Hatsor sajo, inyo dibaka dek Yehosyua.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "nan tagak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "תלם",
+      "gloss": "tumpukan tanahnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שרפם",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "kacuali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "sajo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    }
+  ],
+  "timestamp": "2026-10-04T05:08:37.532764962Z",
+  "model": "glm-5.3"
+}

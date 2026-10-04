@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Yahweh manjago inyo jo ma iduikan inyo; inyo sanang di bumi; jo jan bia inyo dibariahan ka napas musuah-musuahnyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "manjago inyo"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "jo ma iduikan inyo"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "bia inyo dibariahan"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ka napas"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuah-musuahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:43.166896723Z",
+  "model": "glm-5.3"
+}

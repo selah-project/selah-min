@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "⟨את⟩ nan tumbuah surang dari panenmu indak ka kau sabuik, jo ⟨את⟩ anggur uyahmu nan indak ditagak untuak kau piciak; ta Shabat parhantian tu ka jadi untuak bumi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan tumbuah surang dari panenmu"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "nan tumbuah surang"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "panenmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ka kau sabuik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anggur uyahmu"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "uyahmu nan indak ditagak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "untuak kau piciak"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabat parhantian"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka jadi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "untuak bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:34.833009067Z",
+  "model": "glm-5.3"
+}

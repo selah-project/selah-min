@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Urang nan atinyo bapaliak adolah mamuak kapado Yahweh, tapi urang nan luruih jalaninyo adolah kasukoannyo.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "mamuak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "urang nan bapaliak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "tapi kasukoannyo"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "urang nan luruih"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalaninyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:52.368207980Z",
+  "model": "glm-5.3"
+}

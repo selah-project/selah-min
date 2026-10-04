@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Karano kasungiangan ⟨rumah⟩-Mu alah makan ambo, jo caacio urang-urang nan macaacio Engkau tajatuah ateh ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kasungiangan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah-Mu"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "alah makan ambo"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "jo caacio"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "urang-urang nan macaacio Engkau"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tajatuah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:02.247530546Z",
+  "model": "glm-5.3"
+}

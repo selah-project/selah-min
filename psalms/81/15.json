@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Jo sigap musuahnyo Ambo patangkan, jo Kaado urang nan panasahan-makannyo Ambo baliakkan tanganKu.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Jo sigap"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "musuahnyo"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "Ambo patangkan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo Kaado"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "urang nan panasahan-makannyo"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Ambo baliakkan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganKu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:04.639726347Z",
+  "model": "glm-5.3"
+}

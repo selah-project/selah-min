@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Dari Tsiyon, sampurno kasadio, Elohim basinar mancaliak dirinyo.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Dari Tsiyon"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "sampurno"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "kasadio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "basinar mancaliak dirinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:10.904524821Z",
+  "model": "glm-5.3"
+}

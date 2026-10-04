@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jadi ado patang, jadi ado pagi — ari nan kalimo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Jadi ado"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "patang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi ado"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "nan kalimo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:54.607758866Z",
+  "model": "glm-5.3"
+}

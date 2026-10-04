@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Tasalasai lah doa-doa Dawid, anak Yishai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Tasalasai lah"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "doa-doa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:56.945994979Z",
+  "model": "glm-5.3"
+}

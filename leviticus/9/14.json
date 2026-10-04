@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Dan inyo mabaasui ⟨את⟩ isi paruiknyo jo ⟨את⟩ tungkainyo, lalu mambakarnyo di ateh olah tu di ateh mezbah.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "mabaasui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi paruiknyo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "isi paruiknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tungkainyo"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "tungkainyo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "mambakarnyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah tu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di ateh mezbah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:07.381564816Z",
+  "model": "glm-5.3"
+}

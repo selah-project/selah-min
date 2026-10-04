@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 8:8",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Sarupo sado pabuatan nan urang tu buek saari Aku mambaok ⟨את⟩urang tu kalua dari Mitsrayim sampai ari ko — urang tu maninggaan Aku jo mamuja tuhan-tuhan nan lain — baa juo urang tu sadang buek kapado sanak.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sarupo sado"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "pabuatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "urang tu buek"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "saari"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "Aku mambaok kalua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩urang tu",
+      "marks": "urang tu (objek nan dibao kalua)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "urang tu maninggaan Aku"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "jo mamuja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baa juo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "sadang buek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:29.248053527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Wakatu bangso-bangso bakumpua basamo, jo karajoan-karajoan, untuak malayani ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "wakatu ... bakumpua"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "jo karajoan-karajoan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuak malayani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:12.739380009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "maka kau bawa kalua ⟨את⟩ urang tu, laki-laki tu, atau ⟨את⟩ bini tu, nan alah malakukan ⟨את⟩ sangko jahaik iko, ka gapuro-gapuro mu — ⟨את⟩ urang tu, laki-laki tu atau ⟨את⟩ bini tu — dan kau lantuak inyo jo batu-batu, sampai inyo mati.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "maka kau bawa kalua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu, laki-laki tu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu, laki-laki tu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini tu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "bini tu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "alah malakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sangko jahaik iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sangko"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "jahaik"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "gapuro-gapuro mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu, laki-laki tu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu, laki-laki tu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini tu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "bini tu"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "dan kau lantuak inyo"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "jo batu-batu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "sampai inyo mati"
+    }
+  ],
+  "timestamp": "2026-10-04T04:58:35.862376555Z",
+  "model": "glm-5.3"
+}

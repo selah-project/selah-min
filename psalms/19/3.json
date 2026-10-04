@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Ari ka ari mangalua kato, jo malam ka malam manunjuakan kailmuan.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ka ari"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "mangalua"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jo malam"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ka malam"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "manunjuakan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kailmuan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:24.127653012Z",
+  "model": "glm-5.3"
+}

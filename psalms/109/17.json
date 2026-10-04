@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Inyo pai jo kutuak, jo kutuak tu tibo padanyo; inyo indak lasuko barakaik, jo barakaik tu jauah dari padanyo.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "pai jo"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kutuak"
+    },
+    {
+      "surface": "וְ֭...",
+      "gloss": ""
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "tibo padanyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "lasuko"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "barakaik"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "jauah"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:46.716624521Z",
+  "model": "glm-5.3"
+}

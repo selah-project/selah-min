@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Katiko Natan nabi tu datang kapadonyo, katiko inyo masuak ka Bat-Syeba.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "katiko datang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi tu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:43.048138468Z",
+  "model": "glm-5.3"
+}

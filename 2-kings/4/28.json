@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu inyo bakato: Apokah ambo maminta anak dari tuan ambo? Bukankah ambo alah bakato: Jan maindak ambo?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Lalu inyo bakato"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "ambo maminta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ dari",
+      "marks": "tuan ambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo alah bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Jan"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "maindak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:57:23.529087599Z",
+  "model": "glm-5.3"
+}

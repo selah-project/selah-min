@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo dari suku Dan, ⟨את⟩ Elteqe jo ⟨את⟩ padang rumbunnyo, ⟨את⟩ Gibeton jo ⟨את⟩ padang rumbunnyo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "jo dari suku"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elteqe"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Elteqe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumbunnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumbunnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibeton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumbunnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumbunnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:03.113697342Z",
+  "model": "glm-5.3"
+}

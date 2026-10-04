@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo sado urang Yisrael, katiko urang tu mancaliak ⟨את⟩ urang tu, lari dari mukonyo, jo takuik bana.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "katiko urang tu mancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "lari"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari mukonyo"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "jo takuik"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:31.958332902Z",
+  "model": "glm-5.3"
+}

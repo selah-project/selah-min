@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Tapi kamudian urang tu baliak, jo urang tu mambauek baliak ⟨את⟩ ambo-ambo laki-laki jo ⟨את⟩ ambo-ambo padusi nan alah dilapehan manjadi urang bebas, jo urang tu manunduak urang tu baliak manjadi ambo laki-laki jo ambo padusi",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "urang tu baliak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kamudian"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mambauek baliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambo-ambo laki-laki"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ambo-ambo laki-laki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "ambo-ambo padusi"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ambo-ambo padusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "alah dilapehan"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "manjadi urang bebas"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "manunduak urang tu baliak"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "manjadi ambo laki-laki"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "jo ambo padusi"
+    }
+  ],
+  "timestamp": "2026-10-04T06:39:12.517332605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Urang tu mambuek ⟨את⟩ haefod: ameh, tekhelet, jo argaman, tolaat syani, jo syesy batuki, karejo urang nan pandai.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "urang tu mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haefod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "haefod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jo argaman"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "syani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jo syesy"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "batuki"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karejo"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "urang nan pandai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:31.834210379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu inyo mambuek ⟨את⟩ parabot nan ado di ateh meja itu: ⟨את⟩ piring-piringnyo, ⟨את⟩ suduik-suduiknyo, ⟨את⟩ mangkuak-mangkuaknyo, jo ⟨את⟩ anga-anganyo untuak manyuduik jo itu — dari ameh murni.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parabot"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piring-piringnyo"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "piring-piringnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "suduik-suduiknyo"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "suduik-suduiknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "mangkuak-mangkuaknyo"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "mangkuak-mangkuaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anga-anganyo"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "anga-anganyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "manyuduik"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "jo itu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:16.842883405Z",
+  "model": "glm-5.3"
+}

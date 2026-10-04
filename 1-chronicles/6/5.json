@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Untuak Gershom: Libni anaknyo, Yakhath anaknyo, Zimmah anaknyo.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "untuak Gershom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yakhath"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zimmah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:34.870413287Z",
+  "model": "glm-5.3"
+}

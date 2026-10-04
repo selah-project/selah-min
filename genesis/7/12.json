@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo hujan ko turun ka ateh bumi ampek puluah ari jo ampek puluah malam.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo tarjadi"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ampek puluah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "jo ampek puluah"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:13.827484135Z",
+  "model": "glm-5.3"
+}

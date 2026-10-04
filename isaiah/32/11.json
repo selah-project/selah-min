@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 32:11",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Garuik-garuiklah, hai nan tanang; gaduahlah, hai nan panyano; taluaklah baju, talanjanglah, jo ikeklah saluik patuik di pinggang.",
+  "tokens": [
+    {
+      "surface": "חרדו",
+      "gloss": "garuik-garuiklah"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "hai nan tanang"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "gaduahlah"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "hai nan panyano"
+    },
+    {
+      "surface": "פשטה",
+      "gloss": "taluaklah baju"
+    },
+    {
+      "surface": "וערה",
+      "gloss": "talanjanglah"
+    },
+    {
+      "surface": "וחגורה",
+      "gloss": "jo ikeklah saluik patuik"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "חלצים",
+      "gloss": "pinggang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:10.648448221Z",
+  "model": "glm-5.3"
+}

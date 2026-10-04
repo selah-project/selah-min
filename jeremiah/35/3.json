@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Lalu ambo mambao ⟨את⟩ Yaazanyah anak Yirmeyahu anak Khabatsanyah, jo ⟨את⟩ saudaro-saudaronyo, jo ⟨את⟩ sagalo anak-anaknyo, jo ⟨את⟩ sagalo isi rumah urang Rekhav.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Lalu ambo mambao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanyah"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Khabatsanyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "saudaro-saudaronyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaro-saudaronyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo anak-anaknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo isi rumah urang Rekhav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "isi rumah"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "urang Rekhav"
+    }
+  ],
+  "timestamp": "2026-10-04T06:39:23.927114862Z",
+  "model": "glm-5.3"
+}

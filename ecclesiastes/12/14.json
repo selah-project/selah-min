@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Karano Elohim akan mambaok ⟨את⟩ sagalo pabuatan ka dalam pangadilan, ateh sagalo nan tasuruak, baiak nan elok maupun nan jahat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo pabuatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pabuatan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "akan mambaok"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka dalam pangadilan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "נעללם",
+      "gloss": "nan tasuruak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "maupun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nan jahat"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:08.940024022Z",
+  "model": "glm-5.3"
+}

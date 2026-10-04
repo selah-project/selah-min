@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Inyo mangirim api ka tampek suci-Mu, ka bumi inyo mahinokan ⟨את⟩ Mishkan namo-Mu.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "inyo mangirim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "api"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "ka tampek suci-Mu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka bumi"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "inyo mahinokan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:46.958852257Z",
+  "model": "glm-5.3"
+}

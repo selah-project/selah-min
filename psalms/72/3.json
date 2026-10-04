@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Gunuang-gunuang mambaok shalom kapado bangso tu, jo bukik-bukik dangan tsedeq.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kapado bangso tu"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "jo bukik-bukik"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "dangan tsedeq"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:05.381555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Bakato kapado anak-anak Yisrael: Segalo lamak lemak jawi, domba, jo kambiang jananga kalian makan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ":"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segalo"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lamak lemak"
+    },
+    {
+      "surface": "שור",
+      "gloss": "jawi"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "jo kambiang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jananga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kalian makan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:12.673284860Z",
+  "model": "glm-5.3"
+}

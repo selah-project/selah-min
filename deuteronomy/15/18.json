@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 15:18",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jan sampai barek di matoimu katiko mancayian inyo ⟨את⟩ bebas dari kaumu, karano gando dari upah urang upahan inyo alah bakarajo untuak kau anam taun, jo Yahweh, Elohimimu, ka mambarkeki kau dalam sagalo nan kau buek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יקשה",
+      "gloss": "sampai barek"
+    },
+    {
+      "surface": "בעינך",
+      "gloss": "di matoimu"
+    },
+    {
+      "surface": "בשלחך",
+      "gloss": "katiko mancayian"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bebas"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "bebas"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "dari kaumu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "gando"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "upah"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "urang upahan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inyo alah bakarajo untuak kau"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "ka mambarkeki kau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimimu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kau buek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:23.740635341Z",
+  "model": "glm-5.3"
+}

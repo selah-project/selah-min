@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Mitsrayim manurunkan ⟨את⟩ orang Lud, ⟨את⟩ orang Anam, ⟨את⟩ orang Lehav, jo ⟨את⟩ orang Naftukh.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "jo Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Lud"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "orang Lud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orang Anam"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "orang Anam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orang Lehav"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "orang Lehav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orang Naftukh"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "orang Naftukh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:10.364215247Z",
+  "model": "glm-5.3"
+}

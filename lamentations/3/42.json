@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Kami alah malanggia jo alah maruntuah; Engkau indak maafkan.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "alah malanggia"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "jo alah maruntuah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "maafkan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:18:14.475536468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 127,
+  "translation": "Ida, anak-anak adolah pusako dari Yahweh; buah batin adolah upah ⟨darinyo⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ida"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "pusako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "upah"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "batin"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:53.073694781Z",
+  "model": "glm-5.3"
+}

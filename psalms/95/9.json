@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 95,
+  "translation": "Di ma nenek moyang kalian manguji ambo, mancubo ambo, padahal inyo lah caliak karyo-karyo ambo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "manguji ambo"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "nenek moyang kalian"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "mancubo ambo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "padahal"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "lah caliak"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "karyo-karyo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:07.094933964Z",
+  "model": "glm-5.3"
+}

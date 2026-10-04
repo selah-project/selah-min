@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu Haman bakato kapado rajo: Untuak urang nan rajo senang mamuliainyo —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "senang"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "mamuliainyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:09.636552520Z",
+  "model": "glm-5.3"
+}

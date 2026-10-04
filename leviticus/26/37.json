@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 26:37",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Urang tu tasanduang ciek kapado saudaronyo, sarupo dari muko padang, padahal indak ado nan mamburu; jo indak ado kakuatan untuak tagak di muko musuah-musuah sanang.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "tasanduang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "kapado saudaronyo"
+    },
+    {
+      "surface": "כמפני",
+      "gloss": "sarupo dari muko"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "mamburu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak sanang"
+    },
+    {
+      "surface": "תקומה",
+      "gloss": "kakuatan untuak tagak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuah-musuah sanang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:50.578599195Z",
+  "model": "glm-5.3"
+}

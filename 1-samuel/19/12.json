@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu Mikal manurunkan ⟨את⟩ Dawid malalui jandela, lalu inyo pai, lari, jo salamat.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "lalu manurunkan"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "malalui"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "jandela"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "lari"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "salamat"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:37.306742109Z",
+  "model": "glm-5.3"
+}

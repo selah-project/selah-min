@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Karano Sanak alah manyalamaikkan kito dari musuah kito, jo urang nan banci kito alah Sanak buek marasoi malu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "Sanak alah manyalamaikkan kito"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "dari musuah kito"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "jo urang nan banci kito"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "Sanak buek marasoi malu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:55.478669913Z",
+  "model": "glm-5.3"
+}

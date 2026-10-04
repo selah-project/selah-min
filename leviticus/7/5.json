@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo imam tu mambaka ⟨את⟩-nyo di ateh mezbah, sabagai api-lanjoan kapado Yahweh; inyo ⟨is⟩ lanjoan doso.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "mambaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-nyo",
+      "marks": "inyo (bagian-bagian itu)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di ateh mezbah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "api-lanjoan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "lanjoan doso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:20.264509282Z",
+  "model": "glm-5.3"
+}

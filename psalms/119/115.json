@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Paliah dari ambo, urang-urang nan mambuek jahat, supayo ambo mahisihi parentah Elohim ambo.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "paliah"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "urang-urang nan mambuek jahat"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "supayo ambo mahisihi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:36.929469256Z",
+  "model": "glm-5.3"
+}

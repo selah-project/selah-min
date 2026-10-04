@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Dami ambo bahubuang baraleh jo lalok, karano Sanak, Yahweh se, dangan aman mambaok ambo tingga.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "dami"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bahubuang"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "baraleh"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "jo lalok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sanak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "se"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "dangan aman"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "mambaok ambo tingga"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:27.587501580Z",
+  "model": "glm-5.3"
+}

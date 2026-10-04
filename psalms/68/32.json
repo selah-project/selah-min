@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Orang-orang gadang kayo ka datang dari Mitsrayim; Kush malajuik-an tangannyo ka Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "ka datang"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "orang-orang gadang kayo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "malajuik-an"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:54.954732432Z",
+  "model": "glm-5.3"
+}

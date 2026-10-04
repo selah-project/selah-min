@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Indak dibaka jo baragi; bagiannyo alah Ambo baiek dari ateh-ateh Ambo; suci dari nan paliang suci inyo ⟨adalah⟩, sarupo korban doso jo korban bala.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "jo baragi"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "bagiannyo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah Ambo baiek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ateh-ateh Ambo"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "dari ateh-ateh Ambo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nan paliang suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "sarupo korban doso"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "jo korban bala"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:25.554048041Z",
+  "model": "glm-5.3"
+}

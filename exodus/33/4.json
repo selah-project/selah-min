@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Urang tu mandanga ⟨את⟩ kaba buruak ko, lapeh bakabuang duka, indak ado saurang mamakai parhiasannyo di badannyo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaba buruak ko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kaba"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "buruak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "bakabuang duka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "mamakai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "parhiasannyo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di badannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:40.689702113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu urang tuo-tuo di rumahnyo bangaik mandakek kapadonyo, untuak manjadiang inyo dari tanah, tapi inyo indak nak, jo indak inyo makan roti basamo ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "bangaik"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "urang tuo-tuo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "di rumahnyo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "untuak manjadiang inyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "makan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (urang tuo-tuo rumahnyo)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:15.263912231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Baa ambo mangutuak, sadang El indak mangutuak? Jo baa ambo mamurka, sadang Yahweh indak mamurka?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "ambo mangutuak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "mangutuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jo baa"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ambo mamurka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "mamurka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:47:09.399810253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Karano urang tu indak bacarito damai, tapi tahadok urang-urang nan tanang di bumi urang tu manyusun kato-kato panipuan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bacarito"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "tahadok"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "urang-urang nan tanang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "panipuan"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "manyusun"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:47.409580871Z",
+  "model": "glm-5.3"
+}

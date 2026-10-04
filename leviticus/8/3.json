@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "dan ⟨את⟩ sadolah jamaah — kumpuakanlah di munggo Kemah Patamuan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "sadolah jamaah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadolah"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kumpuakanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "munggo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:32.450421763Z",
+  "model": "glm-5.3"
+}

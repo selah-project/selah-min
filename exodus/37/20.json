@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Jo pado menora ampek cawan bantuak badam, kaphtor-kaphtornyo jo kambang-kambangnyo.",
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "jo pado menora"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "cawan"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "bantuak badam"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "kaphtor-kaphtornyo"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "jo kambang-kambangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:23.325447925Z",
+  "model": "glm-5.3"
+}

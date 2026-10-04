@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Tabarakaik Yahweh dari Tsiyon, nan balokap di Yerushalayim. Pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Tabarakaik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari Tsiyon"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nan balokap"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:56.823613488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "jo Ambo alah maagiah ka kau ⟨את⟩ rumah tuan kau jo ⟨את⟩ bini-bini tuan kau ka pangkuan kau, jo Ambo alah maagiah ka kau ⟨את⟩ rumah Yisrael jo Yehudah; jo kok itu lah saketek, Ambo ka manambah ka kau co ko jo co ko.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "jo Ambo alah maagiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka kau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tuan kau"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuan kau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bini-bini tuan kau"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "bini-bini"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuan kau"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "ka pangkuan kau"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "jo Ambo alah maagiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka kau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Yisrael jo Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jo Yehudah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jo kok"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "lah saketek"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "Ambo ka manambah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka kau"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "co ko"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "jo co ko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:30.514234132Z",
+  "model": "glm-5.3"
+}

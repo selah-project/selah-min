@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 141,
+  "translation": "Dilantak mareka ka tapi batu, pangadili-pangadili mareka; lalu mareka mandanga kato-kato ambo, karano inyo lamak.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "dilantak"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ka tapi"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "batu"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "pangadili-pangadili mareka"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "lalu mandanga"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kato-kato ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "inyo lamak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:02.606233370Z",
+  "model": "glm-5.3"
+}

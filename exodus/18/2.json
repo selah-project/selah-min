@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Yitro, mintuo Moshe, maambiak ⟨את⟩ Zipora, bini Moshe, sasudah pangiriman baliaknyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mintuo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Zipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "pangiriman baliaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:32.733688011Z",
+  "model": "glm-5.3"
+}

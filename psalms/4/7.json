@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Urang banyak bakato: Siapo nan aka padok-an elok kapado kito? Yahweh, angkek lah cahayo muko-Mu di ateh kito.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "aka padok-an"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "angkek lah"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "di ateh kito"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahayo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:29.396906670Z",
+  "model": "glm-5.3"
+}

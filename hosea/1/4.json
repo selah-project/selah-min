@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Yahweh bakato kapadonyo: Katakan namonyo Yizreel, karano lah saketek lai, jo ambo ka mambari ⟨את⟩ darah Yizreel ateh rumah Yahwu, jo ambo ka mahapuih karajoan rumah Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lah"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek lai"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "jo ambo ka mambari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah Yizreel"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darah"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yahwu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "jo ambo ka mahapuih"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karajoan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T09:20:24.145121392Z",
+  "model": "glm-5.3"
+}

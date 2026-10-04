@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo panggillah Yishai ka batangan tu; ambo akan pambaritahukan kapado sanjo apo nan ka sanjo buek, jo minyalah untuak ambo urang nan ambo katakan kapado sanjo.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "jo panggillah"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ka batangan tu"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "akan pambaritahukan kapado sanjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apo nan ka sanjo buek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka sanjo buek"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "jo minyalah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang nan ambo katakan kapado sanjo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ambo katakan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado sanjo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:20.589943889Z",
+  "model": "glm-5.3"
+}

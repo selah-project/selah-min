@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 79,
+  "translation": "Karano inyo alah mamakan ⟨את⟩ Yaakov, jo ⟨את⟩ tampek tingganyo alah inyo rusak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "alah mamakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tampek tingganyo"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "tampek tingganyo"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "alus inyo rusak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:14.350482587Z",
+  "model": "glm-5.3"
+}

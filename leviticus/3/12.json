@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Kalau kambiang ⟨itu⟩ korban nyo, inyo mambaoknyo ka muko Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kambiang"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korban nyo"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "mambaoknyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:03.526693869Z",
+  "model": "glm-5.3"
+}

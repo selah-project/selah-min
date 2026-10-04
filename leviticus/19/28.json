@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo luko untuak urang nan alah mati indak kalian buwek di dagiang kalian; jo tulisan tando lakeh indak kalian buwek di badan kalian; ambo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "jo luko"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "untuak urang nan alah mati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kalian buwek"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "di dagiang kalian"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "jo tulisan"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "tando lakeh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kalian buwek"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "di badan kalian"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:48.156774325Z",
+  "model": "glm-5.3"
+}

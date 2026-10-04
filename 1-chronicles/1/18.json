@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Dan Arpakhsad manurunkan ⟨את⟩ Shelakh, dan Shelakh manurunkan ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Dan Arpakhsad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "dan Shelakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:12.584048954Z",
+  "model": "glm-5.3"
+}

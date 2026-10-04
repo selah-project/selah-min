@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 86,
+  "translation": "Indak ado nan sarupo San di antaro para elohim, Adonai, jo indak ado nan sarupo buatan San",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nan sarupo San"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di antaro para elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "nan sarupo buatan San"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:20.431150736Z",
+  "model": "glm-5.3"
+}

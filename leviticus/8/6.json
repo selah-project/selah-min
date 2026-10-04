@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Moshe mambaok ⟨את⟩ Aharon jo ⟨את⟩ anak-anaknyo, lalu mamaysuah ⟨את⟩ inyo tu jo aia.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "mambaok ka muko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "mamaysuah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo tu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "jo aia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:56.735153500Z",
+  "model": "glm-5.3"
+}

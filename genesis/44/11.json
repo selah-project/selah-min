@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Urang tu bausaho laju, lalu satiok urang manurunkan ⟨את⟩ karanjangnyo ka tanah, jo satiok urang mambukak karanjangnyo.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "Urang tu bausaho laju"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "satiok urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karanjangnyo"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "karanjangnyo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "satiok urang"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "karanjangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:15.284684368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 28:19",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Satiok kali inyo lalu, inyo ka mambaok ⟨את⟩ awak, karano pagi demi pagi inyo ka lalu, siang jo malam; jo anyo kagaduah sajo untuak mangarti kaba.",
+  "tokens": [
+    {
+      "surface": "מדי",
+      "gloss": "satiok kali"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "lalu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awak",
+      "marks": "awak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lalu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "jo malam"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "anyo"
+    },
+    {
+      "surface": "זועה",
+      "gloss": "kagaduah"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "untuak mangarti"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "kaba"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:10.959615057Z",
+  "model": "glm-5.3"
+}

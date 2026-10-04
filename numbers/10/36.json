@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 10:36",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Dan katiko inyo barado, inyo bakato: Baliaklah, Yahweh, kapado ribuan kalipado ribuan Yisrael.",
+  "tokens": [
+    {
+      "surface": "ובנחה",
+      "gloss": "katiko barado"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "Baliaklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רבבות",
+      "gloss": "ribuan kalipado"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:05.775945961Z",
+  "model": "glm-5.3"
+}

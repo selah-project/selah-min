@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo ⟨את⟩ duo ginjal, jo ⟨את⟩ lamak nan ado di atehnyo, nan ado di ateh pinggang, jo ⟨את⟩ salemak di ateh ati — basamo ginjal urang maambiaknyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "duo ginjal"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "lamak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pinggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "salemak di ateh ati"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "salemak di ateh ati"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ati"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "urang maambiaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:08.736988849Z",
+  "model": "glm-5.3"
+}

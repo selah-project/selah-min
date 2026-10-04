@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 48:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "dan bakato kapado ambo: Caliak, ambo ka mambuek ang babuah jo mam banyak ang, jo ambo ka manjadikan ang manjadi kumpulan banso-banso, dan ambo ka marehan ⟨את⟩ tanah iko kapado beniah ang sasudah ang, sabagai punyo salamanyo-lamanyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "מפרך",
+      "gloss": "mambuek ang babuah"
+    },
+    {
+      "surface": "והרביתך",
+      "gloss": "mam banyak ang"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "manjadikan ang"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "manjadi kumpulan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "banso-banso"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ambo ka marehan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah iko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "kapado beniah ang"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sasudah ang"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "punyo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo-lamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:01.943381458Z",
+  "model": "glm-5.3"
+}

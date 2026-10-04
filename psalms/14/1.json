@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Untuak nan mamimpin, mazmur Dawid. Urang bodoh bakato dalam atinyo: Indak ado Elohim. Urang tu alah mambauek rusak, alah mambauek jijnik bana tindakannyo; indak ado nan mangarajokan elok.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak nan mamimpin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "mazmur Dawid"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dalam atinyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "alah mambauek rusak"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "alah mambauek jijnik bana"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "tindakan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan mangarajokan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:02.891862995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Elohim mandanga ⟨את⟩ unyiak rindu urang tu, jo Elohim ingek ⟨את⟩ parjanjiannyo, ⟨את⟩ Avraham, ⟨את⟩ Yitskhak, jo ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyiak rindu urang tu"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "unyiak rindu urang tu"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ingek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjiannyo"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "parjanjiannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:40.601783328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 137,
+  "translation": "Bia malekek lido ambo ka langik-langik muncuik ambo, jikok indak ambo mangana dikau; jikok indak ambo mandakekkan ⟨את⟩ Yerushalayim di ateh kasukoan utamo ambo.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "bia malekek"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lido ambo"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ka langik-langik muncuik ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jikok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ambo mangana dikau"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jikok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ambo mandakekkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "(puncak)"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "kasukoan utamo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:09.484751855Z",
+  "model": "glm-5.3"
+}

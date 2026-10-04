@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Inyo basayang kapado urang miskin jo urang sansaro, jo nyao urang sansaro inyo salamaikan.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "basayang"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דל",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jo urang sansaro"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "jo nyao"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "urang sansaro"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "salamaikan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:45.621590278Z",
+  "model": "glm-5.3"
+}

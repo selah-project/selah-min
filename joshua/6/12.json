@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu Yehosyua bangun pagi-pagi, jo para imam maangkek ⟨את⟩ Aron Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bangun pagi-pagi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi hari"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:04:33.048306447Z",
+  "model": "glm-5.3"
+}

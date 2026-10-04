@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Wakatu lah langkah indak sampik; kok lari indak tataruih.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Wakatu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "sampik"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "langkah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "lari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "tataruih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:53:40.022727732Z",
+  "model": "glm-5.3"
+}

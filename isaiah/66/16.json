@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Karano jo api Yahweh mahadili, jo jo padang-Nyo ateh ⟨את⟩ sagalo dagiang; jo banyak urang nan ditampeh dek Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "mahadili"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "jo jo padang-Nyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo dagiang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "jo banyak"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "urang nan ditampeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:25:59.834154338Z",
+  "model": "glm-5.3"
+}

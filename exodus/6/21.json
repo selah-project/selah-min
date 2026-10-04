@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo anak-anak Yitshar: Korakh, Nefeg, jo Zikhri.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Yitshar"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakh"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "Nefeg"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "jo Zikhri"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:01.791650254Z",
+  "model": "glm-5.3"
+}

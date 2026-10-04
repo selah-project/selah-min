@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Inyo bakato: Ambo mancari ⟨את⟩ sanak-sanak ambo; kabaikanlah kini kapado ambo, di ma mareka maanguak kambiang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanak-sanak ambo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sanak-sanak ambo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "kabaikanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mareka"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "maanguak kambiang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:01.450684830Z",
+  "model": "glm-5.3"
+}

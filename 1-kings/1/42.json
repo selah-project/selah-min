@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 1:42",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Katiko inyo masih bacarito, caliaklah, Yonatan anak Evyatar Imam tibo, jo Adoniyah bakato kapadonyo: Masuaklah, karano angkau urang gagah, jo angkau mambaok kabar elok.",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "katiko inyo masih"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "bacarito"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo caliaklah"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Imam"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoniyah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuaklah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gagah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "jo elok"
+    },
+    {
+      "surface": "תבשר",
+      "gloss": "angkau mambaok kabar"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:35.512642612Z",
+  "model": "glm-5.3"
+}

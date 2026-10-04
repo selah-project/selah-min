@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Jo inyo mangiro ⟨את⟩ kalaparan ka ateh tanah, sadonyo panjapuik roti inyo patah",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "jo inyo mangiro"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "panjapuik"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "patah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:21.469503167Z",
+  "model": "glm-5.3"
+}

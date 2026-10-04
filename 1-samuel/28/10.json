@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo Saul basumpah kapadonyo jo Yahweh, kato: Sahiduik Yahweh, indak doso ka manimpa ang dek parkaro iko.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "basumpah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "jo Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sahiduik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "ka manimpa ang"
+    },
+    {
+      "surface": "עון",
+      "gloss": "doso"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dek parkaro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:53.909385846Z",
+  "model": "glm-5.3"
+}

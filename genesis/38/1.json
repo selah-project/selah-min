@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Pado wakatu itu tajadi, Yehudah turun dari ⟨את⟩ sanak-sanaknyo, jo balain ka saurang urang Adulam, nan namonyo Khirah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tajadi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pado wakatu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩",
+      "marks": "sanak-sanaknyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sanak-sanaknyo"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "balain"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "Adulam"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "nan namonyo"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Khirah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:58.374724432Z",
+  "model": "glm-5.3"
+}

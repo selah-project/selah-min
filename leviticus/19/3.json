@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Tiok urang, ibunyo jo amaknyo, musti kalian hormati, jo ⟨את⟩ Shabat-Shabat ambo kalian jago; akulah Yahweh, Elohim kalian.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "tiok urang"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunyo"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "jo amaknyo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kalian musti hormati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat-Shabat ambo"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabat-Shabat ambo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kalian jago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:16.993529370Z",
+  "model": "glm-5.3"
+}

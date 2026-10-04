@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Tapi Akhaz bakato: Ambo indak akan mamintak, jo ambo indak akan manguji ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Tapi bakato"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akhaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ambo mamintak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ambo manguji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:07:38.517103353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 3:27",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo untuak Kehat: marga Amrami, marga Yitskhari, marga Khevroni, jo marga Uzieli; iko-lah marga urang Kehati.",
+  "tokens": [
+    {
+      "surface": "ולקהת",
+      "gloss": "jo untuak Kehat"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "marga"
+    },
+    {
+      "surface": "העמרמי",
+      "gloss": "Amrami"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "jo marga"
+    },
+    {
+      "surface": "היצהרי",
+      "gloss": "Yitskhari"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "jo marga"
+    },
+    {
+      "surface": "החברני",
+      "gloss": "Khevroni"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "jo marga"
+    },
+    {
+      "surface": "העזיאלי",
+      "gloss": "Uzieli"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "הם",
+      "gloss": "-lah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "marga"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "urang Kehati"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:16.794962350Z",
+  "model": "glm-5.3"
+}

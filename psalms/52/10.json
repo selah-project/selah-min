@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "Tapi ambo sarupo zaitun nan hijau di rumah Elohim; ambo picayo dalam hesed Elohim, salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tapi ambo"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "sarupo zaitun"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "nan hijau"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ambo picayo"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "dalam hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:40.140857744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 85,
+  "translation": "Apo salamanyo Ang tasinggang kapado kami? Marelang bana kasidoan Ang dari satu katurunan ka katurunan?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Apo salamanyo"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Ang tasinggang"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kapado kami"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "Marelang bana"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kasidoan Ang"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dari satu katurunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ka katurunan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:01.798052553Z",
+  "model": "glm-5.3"
+}

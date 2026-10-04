@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu napaso-napaso rajo bakato kapadonyo: Tengok, Haman tagak di laman. Lalu rajo bakato: Bia inyo masuak.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "napaso-napaso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tengok"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "di laman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bia inyo masuak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:09.636027689Z",
+  "model": "glm-5.3"
+}

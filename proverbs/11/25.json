@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Nyawa nan mambari barakaik ka bakalamak, jo nan manyiram ⟨urang lain⟩, inyo juo ka disiram.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "nan mambari barakaik"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ka bakalamak"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "jo nan manyiram"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "ka disiram"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:58.511999775Z",
+  "model": "glm-5.3"
+}

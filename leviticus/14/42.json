@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo urang tu maambiak batu-batu nan lain, jo mambaoknyo ka tampek batu-batu tu, jo inyo maambiak dabu nan lain jo malapoik ⟨את⟩ rumah tu.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "jo urang tu maambiak"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "jo mambaok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu tu"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "jo dabu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "inyo ambiak"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "jo malapoik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:34.392089842Z",
+  "model": "glm-5.3"
+}

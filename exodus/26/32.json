@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 26:32",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo kalatakannyo ⟨את⟩ inyo di ataeh ampek tiang kayu syitim nan dilapih ameh, jo kait-kaitnyo ameh, di ateh ampek pondasi perak.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "jo kalatakannyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (tirai itu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ataeh"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "kayu syitim"
+    },
+    {
+      "surface": "מצפים",
+      "gloss": "nan dilapih"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "וקיהם",
+      "gloss": "jo kait-kaitnyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pondasi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:22.249648647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 95,
+  "translation": "Sampai ambo basumpah jo murka ambo: kok lai inyo masuak ka tampek parhantian ambo —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ambo basumpah"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "jo murka ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok lai"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "inyo masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "tampek parhantian ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:07.095351650Z",
+  "model": "glm-5.3"
+}

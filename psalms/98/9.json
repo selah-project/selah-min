@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 98,
+  "translation": "Di mukao Yahweh, karano inyo tibo untuak mahakimi bumi; inyo mangadili tevel jo tsedeq, jo bangso-bangso jo kamantapan.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "di mukao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "untuak mahakimi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "inyo mangadili"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "jo tsedeq"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "jo bangso-bangso"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "jo kamantapan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:02.176427875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 108,
+  "translation": "Bangunlah, hai nevel jo kinnor; ambo ka mambangunkan fajar.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "jo kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ambo ka mambangunkan"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:59.660062539Z",
+  "model": "glm-5.3"
+}

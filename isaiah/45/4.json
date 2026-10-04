@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Karano hamba-Ambo Yaakov, jo karano Yisrael pilihan-Ambo, ambo alah manandoi namonyo, ambo agiah gala kapadonyo, baitu inyo indak mangana ambo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-Ambo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "jo karano Yisrael"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "pilihan-Ambo"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "ambo alah manandoi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "ambo agiah gala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "inyo mangana ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:20:52.931025165Z",
+  "model": "glm-5.3"
+}

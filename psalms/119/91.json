@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Manuruik hukum-hukum-Mu sadonyo tagak sampai ari ko, karano sadonyo hamba-Mu.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "manuruik hukum-hukum-Mu"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:25.663956413Z",
+  "model": "glm-5.3"
+}

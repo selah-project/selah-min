@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "You alah mambaliak ratapan ambo manjadi tarian untuak ambo; You alah mambukak kain sak ambo, jo mampakawi ambo jo raso sanang.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "You alah mambaliak"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "ratapan ambo"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "manjadi tarian"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "You alah mambukak"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "kain sak ambo"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "jo mampakawi ambo"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "jo raso sanang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:10.833532873Z",
+  "model": "glm-5.3"
+}

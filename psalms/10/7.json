@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Sumpah kutuakannyo pono mamaruah, panipuikan jo kajahatan; di bawah lidahnyo kasaik jo kalaliman.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "sumpah kutuakan"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "panyo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pono mamaruah"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "panipuikan"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "lidahnyo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasaik"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "kalaliman"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:01.157741045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Yehoshua bangaik pagi-patang, jo mancaliak ⟨את⟩ urang banyak, lalu naiak inyo surang jo para tuwo tu Yisrael di muko urang banyak, ka Ai.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bangaiak pagi-patang"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lalu naiak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo surang"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "jo para tuwo tu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    }
+  ],
+  "timestamp": "2026-10-04T05:05:58.003786064Z",
+  "model": "glm-5.3"
+}

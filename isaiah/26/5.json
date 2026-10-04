@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Karano inyo mandapekkan urang-urang nan duduak di tampek tinggi, koto nan tinggi; inyo marandahkannyo, inyo marandahkannyo sampai ka bumi, inyo mampataminyo sampai ka dabu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "השח",
+      "gloss": "mandapekkan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "urang-urang nan duduak"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "tampek tinggi"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "koto"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "nan tinggi"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "inyo marandahkannyo"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "inyo marandahkannyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "inyo mampataminyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:15:36.382906705Z",
+  "model": "glm-5.3"
+}

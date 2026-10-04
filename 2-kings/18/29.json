@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Sarupo ko kato rajo: jan ang Chizkiyahu mambuek kau sadono sasat, karano inyo indak dapek palapeh ⟨את⟩ kau sadono dari tangannyo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sarupo ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan ang"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "mambuek sasat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kau sadono"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "palapeh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kau sadono",
+      "marks": "kau sadono (dinjago dari tangannyo)"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "dari tangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:03:37.461145057Z",
+  "model": "glm-5.3"
+}

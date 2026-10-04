@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu rajo manjawab ⟨את⟩ urang banyak jo kareh, jo maninggakan ⟨את⟩ nasihek urang tuo nan alah dinasihatkan kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lalu manjawab"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "jo kareh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "jo maninggakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasihek"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "nasihek"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "urang tuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "dinasihatkan kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:09.600045792Z",
+  "model": "glm-5.3"
+}

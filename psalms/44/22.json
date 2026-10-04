@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Nan indak kok Elohim mancalidiki iko? Karano inyo tau rahasio-rahasio ati.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nan indak kok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "mancalidiki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "rahasio-rahasio"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:12.011167133Z",
+  "model": "glm-5.3"
+}

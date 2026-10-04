@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Siapo nan mambantuak el, jo mancaia patuang tuangan, indak naguno?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "mambantuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "jo patuang"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "tuangan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "naguno"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:39.138701428Z",
+  "model": "glm-5.3"
+}

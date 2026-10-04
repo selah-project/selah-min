@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo kau ambiak tapuang lamak, jo kau manggunoan ⟨את⟩ inyo: duo baleh kue, duo saparatuah untuak satiok ciek kue.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "jo kau ambiak"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tapuang lamak"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "jo kau manggunoan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (duo baleh kue)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "kue"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "saparatuah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "satiosatiok ciek kue"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ciek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:26.907363365Z",
+  "model": "glm-5.3"
+}

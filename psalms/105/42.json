@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Karano ⟨inyo⟩ ingek ⟨את⟩ kato kasuciannyo, ⟨את⟩ Avraham hambonyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato kasuciannyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kasuciannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hambonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:43.370667714Z",
+  "model": "glm-5.3"
+}

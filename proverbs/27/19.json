@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Sarupo aia, muko manyapo muko, baitu ati urang kapado urang.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "sarupo aia"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "muko"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kapado muko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kapado urang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:06.910757084Z",
+  "model": "glm-5.3"
+}

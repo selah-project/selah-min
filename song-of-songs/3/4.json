@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Saketek lai ambo malantan inyo, lapeh tu ambo manamu ⟨את⟩ nan dikasihi dek napèh ambo; ambo mamacik inyo, jo indak ambo lapeh, sampai ambo mambaok inyo ka rumah mandeh ambo, jo ka kamar nan manganduang ambo.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "saketek lai"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "ambo malantan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "inyo (panjago)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "ambo manamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan dikasihi dek napèh ambo"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "nan dikasihi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dek napèh ambo"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "ambo mamacik inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "ambo lapeh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "ambo mambaok inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mandeh ambo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "nan manganduang ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:15:31.320030303Z",
+  "model": "glm-5.3"
+}

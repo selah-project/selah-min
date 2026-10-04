@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 96,
+  "translation": "Agiah lah kapado Yahweh, hai kaum-kaum bangso-bangso; agiah lah kapado Yahweh kagagahan jo kakuatan.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "agiah lah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "kaum-kaum"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "agiah lah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kagagahan"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "jo kakuatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:27.016425597Z",
+  "model": "glm-5.3"
+}

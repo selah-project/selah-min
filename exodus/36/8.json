@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 36:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Lalu sado nan pandai ati, di antaro pambuek-pambuek karajo tu, mambuek ⟨את⟩ Mishkan: sapuluah kain tiang; banang linen nan dipilin, jo biru, jo ungu, jo sirah karmizi, jo kerub-kerub — karajo tukanan nan mahia — inyo mambueknyo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "pandai"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "di antaro pambuek"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kain tiang"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "nan dipilin"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "jo biru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jo ungu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "jo karmizi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerub-kerub"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "nan mahia"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩nyo",
+      "marks": "sapuluah kain tiang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:49.428087475Z",
+  "model": "glm-5.3"
+}

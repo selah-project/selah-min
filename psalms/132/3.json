@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Kok ambo masuak ka dalam khemah rumah ambo, kok ambo manaik ka atas lampek lalok ambo,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kok"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ka dalam khemah"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumah ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "manaik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka atas"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "lampek lalok"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "lalok ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:28.733512568Z",
+  "model": "glm-5.3"
+}

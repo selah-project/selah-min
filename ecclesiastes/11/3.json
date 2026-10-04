@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Kok awan-awan panuah, ujan dikatuakan ka bumi; kok pohon tumbang di salatan, kok di utara — di tampek pohon itu jatuah, di situ pulo inyo barado.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kok"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "panuah"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ujan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "dikatuakan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "tumbang"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "di salatan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "di utara"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pohon itu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di situ pulo"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "barado"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:34.900227975Z",
+  "model": "glm-5.3"
+}

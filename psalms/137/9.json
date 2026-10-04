@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 137,
+  "translation": "Barakaolah inyo nan manggumuah jo mambanting ⟨את⟩ anak-anakmu ka batu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Barakaolah"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "nan manggumuah"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "jo mambanting"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anakmu"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "batu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:57.586538772Z",
+  "model": "glm-5.3"
+}

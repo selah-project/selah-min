@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Deknyo turun ka tampek mamisah jo dibueknyo sagalo nan alah diparentahkan mintuonyo.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ka tampek mamisah"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "dibueknyo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "alah diparentahkan"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mintuonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:04.521335779Z",
+  "model": "glm-5.3"
+}

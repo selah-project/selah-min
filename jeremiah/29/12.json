@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Dan baréla ka manjapuak Aku, baréla ka pai, jo baréla ka babaliah kapado Aku, dan Aku ka mandanga kapado baréla.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Dan baréla ka manjapuak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Aku"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "baréla ka pai"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "baréla ka babaliah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado Aku"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "Aku ka mandanga"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kapado baréla"
+    }
+  ],
+  "timestamp": "2026-10-04T06:37:02.861705282Z",
+  "model": "glm-5.3"
+}

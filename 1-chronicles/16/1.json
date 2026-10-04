@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu inyo mambaok ⟨את⟩ poti Elohim, jo malatakannyo di tangah khemah nan alah dibantang Dawid untuaknyo, lalu inyo mangaduok kurban bakaran jo kurban slamatan di muko Elohim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poti"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "poti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "malatakannyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "dibantang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "mangaduok"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "kurban slamatan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:57.375665100Z",
+  "model": "glm-5.3"
+}

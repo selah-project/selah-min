@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Baniahi ambo, O Elohim, karano manusia mandangaam ambo; satiok ari inyo baparang jo manakan ambo.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "baniahi ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "mandangaam ambo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "baparang"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "manakan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:16.971913544Z",
+  "model": "glm-5.3"
+}

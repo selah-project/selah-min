@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Jo Inyo bakato: Ambo El, Elohim apak ang; janga takuik turun ka Mitsrayim, karano ambo ka jadian ang bangso gadang di sinan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo Inyo bakato"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apak ang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janga"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "turun ka"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "ambo ka jadian ang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:42.656766643Z",
+  "model": "glm-5.3"
+}

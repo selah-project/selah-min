@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 34:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo Shekhem bakato kapado ayahnyo jo kapado saudaro-saudaro padusinyo: Cubo ambo mandapek raso sanang di mato kalian, jo apo nan kalian katakan kapado ambo, ambo agiah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ayahnyo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "saudaro-saudaronyo"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ambo mandapek"
+    },
+    {
+      "surface": "חן",
+      "gloss": "raso sanang"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "di mato kalian"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo apo nan"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kalian katakan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ambo agiah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:21.220415499Z",
+  "model": "glm-5.3"
+}

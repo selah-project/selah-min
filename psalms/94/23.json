@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Inyo mangimbalian kokok ⟨את⟩ kasalahan inyo, jo karano kajahatan inyo inyo mamusnahkan inyo — indak, Yahweh Elohim kito lai mamusnahkan inyo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "inyo mangimbalian"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kokok inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasalahan inyo"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "kasalahan inyo"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "jo karano kajahatan inyo"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "inyo mamusnahkan inyo"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "lai mamusnahkan inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:04.548117720Z",
+  "model": "glm-5.3"
+}

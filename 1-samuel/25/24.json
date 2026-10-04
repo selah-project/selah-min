@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Inyo barandam di kaki Dawid jo bakato: Ambo, tuan ambo, doso ko ⟨ambo nan tangguang⟩; buliahan kironyo amban tuan mangecek di talingo tuan, jo taguek ⟨את⟩ kato-kato amban tuan.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "inyo barandam"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki inyo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ambo lah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "העון",
+      "gloss": "doso ko"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "buliahan mangecek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kironyo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "amban tuan"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "di talingo tuan"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "jo taguek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato amban tuan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "amban tuan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:27.465449983Z",
+  "model": "glm-5.3"
+}

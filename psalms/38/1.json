@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Mazmur untuak Dawid, untuak mambaok ka ingatan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "untuak mambaok ka ingatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:13.518559829Z",
+  "model": "glm-5.3"
+}

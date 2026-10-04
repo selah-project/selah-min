@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "mako hiduang Yahweh manyalo taadok tanah itu, untuak mambaokan ka atehnyo ⟨את⟩ sado kutuak nan tatulih di kitab iko —",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "manyalo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hiduang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "taadok tanah"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "untuak mambaokan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ka atehnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado kutuak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "kutuak"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "nan tatulih"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "di kitab"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:27.518316983Z",
+  "model": "glm-5.3"
+}

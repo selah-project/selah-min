@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Adonai, di mungkiah-Mu sagalo kamaau ambo, jo hembokan ambo indak tasungkuik dari-Mu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di mungkiah-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "kamaau ambo"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "jo hembokan ambo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "tasungkuik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:46.407140241Z",
+  "model": "glm-5.3"
+}

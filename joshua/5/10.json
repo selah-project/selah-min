@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo anak-anak Yisrael barampuah di Gilgal, jo urang tu marayoan ⟨את⟩ Paskah pado ari ka ampek baleh bulan tu, pa patang ari, di Padang Yerikho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "jo urang tu barampuah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "di Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "jo urang tu marayoan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paskah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pado ka"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ampek baleh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan tu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pa patang ari"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "di Padang"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    }
+  ],
+  "timestamp": "2026-10-04T05:04:13.026060965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Jan bia aia bahanyuik mambaok ambo, jan bia kadalam mandanga ambo, jo jan bia sumur manutuik mungkonyo di ateh ambo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "bia mambaok ambo"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "bahanyuik"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "bia mandanga ambo"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "kadalam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "bia manutuik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di ateh ambo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sumur"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mungkonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:13.686491254Z",
+  "model": "glm-5.3"
+}

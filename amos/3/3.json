@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Kok duo urang bajalan basamo, bukannyo alah basapakaik dulu?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Kok bajalan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duo urang"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "bukannyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "alah basapakaik dulu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:54.976647086Z",
+  "model": "glm-5.3"
+}

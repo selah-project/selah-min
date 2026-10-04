@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Untau panggia diri urang bijak di mato sanak surang; takuik kapado ⟨את⟩ Yahweh, jo piliahi diri dari ka jahaik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "untau"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "panggia diri"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "urang bijak"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mato sanak surang"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takuik kapado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "jo piliahi diri"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dari ka jahaik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:00.456989990Z",
+  "model": "glm-5.3"
+}

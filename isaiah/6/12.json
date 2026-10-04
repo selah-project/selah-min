@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo Yahweh mambao jauah ⟨את⟩ manusiah, jo nan ditinggakan bakambang di tangah bumi.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "jo mambao jauah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusiah"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusiah"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "jo bakambang"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "nan ditinggakan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:17.578228754Z",
+  "model": "glm-5.3"
+}

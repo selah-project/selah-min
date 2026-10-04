@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "nan dipotang-Nyo jo ⟨את⟩ Avraham, jo sumpah-Nyo kapado Yitskhak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dipotang-Nyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "jo sumpah-Nyo"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kapado Yitskhak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:47.610626420Z",
+  "model": "glm-5.3"
+}

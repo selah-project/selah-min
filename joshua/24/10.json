@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Ambo indak mampabuliahan mandanga Bileam, lai inyo małinjoahi ⟨את⟩ sanak bagai-gai, jo Ambo malapeh ⟨את⟩ sanak dari tangannyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "Ambo mampabuliahan"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "injo małinjoahi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "bagai-gai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sanak"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "Ambo malapeh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sanak"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "dari tangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:50.649788311Z",
+  "model": "glm-5.3"
+}

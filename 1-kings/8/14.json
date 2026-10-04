@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu rajo tu mambaliak ⟨את⟩ mukonyo, jo inyo mampakati ⟨את⟩ sagalo jamaah Yisrael, sadang sagalo jamaah Yisrael tagak.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "lalu mambaliak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukonyo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "jo inyo mampakati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo jamaah Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sadang sagalo"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tagak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:59.666706632Z",
+  "model": "glm-5.3"
+}

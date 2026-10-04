@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "jo ⟨את⟩ alkon jo ⟨את⟩ elang manuruik jinisnyo",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "jo alkon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alkon"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "alkon"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "jo elang"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "manuruik jinisnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:05:52.634671985Z",
+  "model": "glm-5.3"
+}

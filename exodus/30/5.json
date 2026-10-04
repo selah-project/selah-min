@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Kau buek ⟨את⟩ tongkek-tongkek dari kayu shitim, jo kau salapi ⟨את⟩ inyo jo ameh.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kau buek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkek-tongkek"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tongkek-tongkek"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "jo kau salapi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "tongkek-tongkek"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:03.894431944Z",
+  "model": "glm-5.3"
+}

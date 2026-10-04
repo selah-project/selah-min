@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Karuang kasar ambo jait di ateh kulik ambo, jo tanduak ambo ambo guluang di dabu.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "karuang kasar"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "ambo jait"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "kulik ambo"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "jo ambo guluang"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "di dabu"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "tanduak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:27:49.528690918Z",
+  "model": "glm-5.3"
+}

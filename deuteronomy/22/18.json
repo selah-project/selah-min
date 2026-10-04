@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lalu urang tuo-tuo nagari itu maambiak ⟨את⟩ lakiaki itu jo mangajari ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "lalu maambiak"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "urang tuo-tuo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lakiaki itu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lakiaki itu"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "jo mangajari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:11.088035425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Urang banyak mancaliak ka Inyo jo bajaria, jo muko urang tu indak taparuah malu.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "urang banyak mancaliak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka Inyo"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "jo bajaria"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "jo muko urang tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "taparuah malu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:14.375782552Z",
+  "model": "glm-5.3"
+}

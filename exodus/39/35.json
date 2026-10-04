@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "⟨את⟩ poti kasaksian jo ⟨את⟩ galanyo, jo ⟨את⟩ panutuik pangapunan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poti kasaksian"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "poti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "galanyo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "galanyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "panutuik pangapunan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "panutuik pangapunan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:38.927703773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Juwo kini tagaklah kalian, jo caliaklah ⟨את⟩ pakaro gadang iko, nan Yahweh sadang buat di mato kalian.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juwo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "tagaklah kalian"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "caliaklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaro gadang iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sadang buat"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "di mato kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:10.170753648Z",
+  "model": "glm-5.3"
+}

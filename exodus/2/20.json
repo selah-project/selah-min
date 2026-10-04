@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo inyo bakato kapado anak-anak padusinyo: Di ma inyo? Boa kito tinggakan ⟨את⟩ urang itu? Pangiokan inyo, supayo inyo makan roti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "anak-anak padusinyo"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "di ma inyo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "boa"
+    },
+    {
+      "surface": "-zeh",
+      "gloss": "iṣo"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "kito tinggakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang itu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang itu"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "pangiokan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "supayo inyo makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:35.423572705Z",
+  "model": "glm-5.3"
+}

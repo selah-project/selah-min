@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Yahweh alah basumpah dek kamuliaan Yaakov: Ambo indak ka lupo salamo-lamonyo sagalo pabuatan mareka.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "alah basumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "dek kamuliaan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨sakironyo⟩"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ka lupo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "pabuatan mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T07:12:40.656523958Z",
+  "model": "glm-5.3"
+}

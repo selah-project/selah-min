@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Mahal di mato Yahweh kamatian urang-urang setia-Nyo.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Mahal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "kamatian"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "urang-urang setia-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:17.447236437Z",
+  "model": "glm-5.3"
+}

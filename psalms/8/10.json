@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai kami, sabarano aguang namo-Mu di saluruah bumi!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sabarano"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "aguang"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di saluruah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:11.180749632Z",
+  "model": "glm-5.3"
+}

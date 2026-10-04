@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Makanan sanak jua jo perak ka ambo, supayo ambo makan; jo aia jo perak sanak agiah ka ambo, supayo ambo minum; hanyo biarkan ambo lalu bajalan kaki.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "jo perak"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "sanak jua ka ambo"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "supayo ambo makan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "jo aia"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "jo perak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sanak agiah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "supayo ambo minum"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "biarkan ambo lalu"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "bajalan kaki"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:47.774029595Z",
+  "model": "glm-5.3"
+}

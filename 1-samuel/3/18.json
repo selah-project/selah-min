@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu Shemuél mancaritokan kapadonyo ⟨את⟩ sagalo kato-kato itu, jo indak manyuruahkan sasuatu pun darinyo; lalu Eli bakato: Yahweh ⟨adalah⟩ inyo; nan elok di mato-Nyo inyo buweklah.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "lalu mancaritokan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kato-kato itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "כחד",
+      "gloss": "manyuruahkan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "darinyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "di mato-Nyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "inyo buweklah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:57.328621831Z",
+  "model": "glm-5.3"
+}

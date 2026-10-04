@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo rumah jam makan lai masuak untuak duduak basamo ⟨את⟩ urang tu, untuak makan jo untuak minum.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "jo rumah"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "jam makan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lai"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "untuak duduak"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "duduak basamo urang tu"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuak makan"
+    },
+    {
+      "surface": "ו לשתות",
+      "gloss": "jo untuak minum"
+    }
+  ],
+  "timestamp": "2026-10-04T06:31:20.454366312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Nan mati dari Ahab di koto ka dimakan dek anjiang-anjiang, jo nan mati di ladang ka dimakan dek buruang langik.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "nan mati"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "dari Ahab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di koto"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ka dimakan dek"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "anjiang-anjiang"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "jo nan mati"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ka dimakan dek"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "buruang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:53:23.249725016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu Yahweh mangutusan saurang urang, saurang nabi, kapado anak-anak Yisrael, jo inyo bakato kapado mereka: Kini kato Yahweh, Elohimnyo Yisrael: Ambo la mandarikan ⟨את⟩ kalian dari Mitsrayim, jo Ambo mambao ⟨את⟩ kalian kalua dari rumah parabudakan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu mangutusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "saurang nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado mereka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "la mandarikan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian (objek: dari Mitsrayim)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "jo Ambo mambao kalua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian (objek: dari rumah parabudakan)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "parabudakan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:08:02.499648296Z",
+  "model": "glm-5.3"
+}

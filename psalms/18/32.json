@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Karano siapo Eloah salain Yahweh, jo siapo batu salain Elohim kito?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "salain"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jo siapo"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "salain"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:10.130067625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Karano ambo alah makan ⟨את⟩ dabu sarupo roti, jo ambo alah mamacau ⟨את⟩ minuman ambo jo tangih.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "sarupo roti"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "alah makan"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "jo minuman ambo"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "jo tangih"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "alah mamacau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:12.595164715Z",
+  "model": "glm-5.3"
+}

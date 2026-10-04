@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Karajaanmu ⟨ado⟩ karajaan salamo-lamo, jo pamarintahanmu pado satiok angkatan jo angkatan.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "karajaanmu"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "salo-lamo"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "zaman"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "jo pamarintahanmu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pado satiok"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "jo angkatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:50.236110354Z",
+  "model": "glm-5.3"
+}

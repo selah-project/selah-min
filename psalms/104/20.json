@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Dapek manjadian gelap, jadi malam; di dalamnyo saluruah binatang hutan pai mancala.",
+  "tokens": [
+    {
+      "surface": "תשׁת",
+      "gloss": "dapek manjadian"
+    },
+    {
+      "surface": "חשׁך",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "תרמשׂ",
+      "gloss": "pai mancala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "יער",
+      "gloss": "hutan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:46.083599612Z",
+  "model": "glm-5.3"
+}

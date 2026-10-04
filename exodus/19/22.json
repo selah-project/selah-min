@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 19:22",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo juo para imam nan dakek kapado Yahweh musti manyucikan diri, supayo Yahweh indak malatuih ka dalam inyo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "nan dakek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "musti manyucikan diri"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "malatuih"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka dalam inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:51.389678703Z",
+  "model": "glm-5.3"
+}

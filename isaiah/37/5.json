@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Jo para ambo rajo Khizkiyahu datang kapado Yeshaayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "para ambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaayahu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:45.628500685Z",
+  "model": "glm-5.3"
+}

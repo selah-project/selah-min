@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Inyo makan, indak kanyang; inyo main jalang, indak batambah; karano inyo alah maninggaan ⟨את⟩ Yahweh, indak lai manjago.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "inyo makan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kanyang"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "main jalang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "batambah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "maninggaan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "manjago"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:43.469661333Z",
+  "model": "glm-5.3"
+}

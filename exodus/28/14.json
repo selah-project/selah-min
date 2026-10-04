@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "jo duo rantai ameh murni, bantiang sipiinyo; kaukå ⟨אתם⟩ sabagai karajo anyaman, jo kaukakan ⟨את⟩ rantai-rantai nan dianyam tu ka ateh tampaikan-tampaikan tu.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "jo duo"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "rantai"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "bantiang sipiinyo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kaukå"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "karajo anyaman"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "anyaman"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "jo kaukakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rantai-rantai nan dianyam tu"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "rantai-rantai"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "nan dianyam tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "tampaikan-tampaikan tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:38.973312446Z",
+  "model": "glm-5.3"
+}

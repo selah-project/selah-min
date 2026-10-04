@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Dan co iko pulo inyo buek untuak pambukaan heikal: tiang-tiang pintu kayu zaitun, dari ⟨את⟩ ciek bagian kaampek.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "dan co iko pulo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inyo buek"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "untuak pambukaan"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikal"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tiang-tiang pintu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ciek bagian kaampek"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "ciek bagian kaampek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:47:43.815140346Z",
+  "model": "glm-5.3"
+}

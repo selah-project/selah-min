@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo kamo, baanak-pinanaklah jo batambah-tambahlah, bacaramailah di bumi, jo batambah-tambahlah di dalamnyo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "jo kamo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "baanak-pinanaklah"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "jo batambah-tambahlah"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "bacaramailah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "jo batambah-tambahlah"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:07.349046794Z",
+  "model": "glm-5.3"
+}

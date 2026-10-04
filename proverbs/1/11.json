@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Kok inyo bakato: Baiak kito ⟨את⟩ basamo, kito maangek untuak darah, kito mahilia untuak urang nan indak badiang, tanpa sabab —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "baiak kito"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ basamo",
+      "marks": "kito"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "kito maangek"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "untuak darah"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "kito mahilia"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "untuak urang nan indak badiang"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sabab"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:17.943232718Z",
+  "model": "glm-5.3"
+}

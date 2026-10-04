@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Karano katiko Yisrael masih kanak-kanak, ambo mangasihi inyo, jo dari Mitsrayim ambo manggia anak ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נער",
+      "gloss": "kanak-kanak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ambo mangasihi inyo"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "jo dari Mitsrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ambo manggia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "anak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:46.476896727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Kamudian mati Yosef, sagalo dunsanaknyo, jo sagalo angkatan nan itu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dunsanaknyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nan itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:30.054282882Z",
+  "model": "glm-5.3"
+}

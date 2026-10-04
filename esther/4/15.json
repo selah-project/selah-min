@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Ester bakato untuak manjawab kapado Mordecai:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "untuak manjawab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:58.045011431Z",
+  "model": "glm-5.3"
+}

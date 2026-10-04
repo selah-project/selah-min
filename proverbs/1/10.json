@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Anak ambo, kok urang doso mambujuk ang, janga setuju.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "mambujuk"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "urang doso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janga"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "setuju"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:17.943040429Z",
+  "model": "glm-5.3"
+}

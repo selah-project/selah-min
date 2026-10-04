@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Kau lah agiah tando kapado urang-urang nan takuik kapado-Mu, untuak dipasiaik, dek karano kabanaran. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Kau lah agiah"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "kapado urang-urang nan takuik kapado-Mu"
+    },
+    {
+      "surface": "נס",
+      "gloss": "tando"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "untuak dipasiaik"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:18.787870399Z",
+  "model": "glm-5.3"
+}

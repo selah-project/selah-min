@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Jo inyo manggala inyo jo kamurnian atinyo, jo jo kaâ€™budi tangannyo inyo mamimpin inyo.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "jo inyo manggala inyo"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "jo kamurnian"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "jo jo kaâ€™budi"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "inyo mamimpin inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:35.485516987Z",
+  "model": "glm-5.3"
+}

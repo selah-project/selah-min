@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Mako Yosef manjawek ⟨את⟩ Paroh, bakato: Indak pado ambo; Elohim nan ka mambari ⟨את⟩ kaba salamaik kapado Paroh.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "manjawek"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "indak pado ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ka mambari jawaban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaba salamaik"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kaba salamaik"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kapado Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:07:48.109322642Z",
+  "model": "glm-5.3"
+}

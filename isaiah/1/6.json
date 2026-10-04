@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Dari telapak kaki sampai kapalo indak ado nan utuah di dalamnyo — luko, benjol, jo pukulan nan baru; indak dipaikek, indak dibalut, indak dilunakkan jo minyak.",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "dari telapak"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "nan utuah"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "luko"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "jo benjol"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "jo pukulan"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "nan baru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "dipaikek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "dibalut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "dilunakkan"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "jo minyak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:02.118018008Z",
+  "model": "glm-5.3"
+}

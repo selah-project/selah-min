@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ⟨את⟩ lemak-lemak dari lembu itu jo dari biram itu: ikuak nan lamak, jo nan manutuik isi paruik, jo ginja-ginja, jo galaiak di ateh ati —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lemak-lemak"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "lemak-lemak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השור",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "biram itu"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ikuak nan lamak"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "jo nan manutuik isi paruik"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "jo ginja-ginja"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "jo galaiak"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:37.093516807Z",
+  "model": "glm-5.3"
+}

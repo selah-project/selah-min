@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Karano sarupo rumpuik, capek inyo tabang, jo sarupo rumpuik hijau inyo layu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sarupo rumpuik"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "capek"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "inyo tabang"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "jo sarupo rumpuik hijau"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "hijau"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "inyo layu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:07.165344263Z",
+  "model": "glm-5.3"
+}

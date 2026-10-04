@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Sanang bana urang nan paham kapado urang miskin; pado ari baso Yahweh malapeh inyo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sanang bana"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "paham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דל",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "baso"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "malapeh inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:43.166753118Z",
+  "model": "glm-5.3"
+}

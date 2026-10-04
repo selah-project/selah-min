@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Ka Inyo ambo mamanggia jo muncuang ambo, jo pujian ado di bawah lidah ambo.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Ka Inyo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muncuang ambo"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ambo mamanggia"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "jo pujian"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lidah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:14.764497956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Barumua sa tahun Saul dalam karajonyo, jo duo tahun inyo marajo ateh Yisrael.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "barumua sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "dalam karajonyo"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "jo duo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "marajo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:48.392353736Z",
+  "model": "glm-5.3"
+}

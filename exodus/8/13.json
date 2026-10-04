@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu inyo buek sajo tu: Aharon malangankan ⟨את⟩ tangannyo jo tungkeknyo, lalu mamukua ⟨את⟩ dabu bumi tu, jadi kutu pado manusia jo pado binatang; sadoalah dabu bumi tu manjadi kutu di sadoalah tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "lalu inyo buek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sajo tu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "malangankan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "jo tungkeknyo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mamukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dabu bumi tu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "jadi ado"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kutu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pado manusia"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "jo pado binatang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "kutu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sadoalah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:15.400334413Z",
+  "model": "glm-5.3"
+}

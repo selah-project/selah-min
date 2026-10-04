@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Urang-urang Khet manjawab ⟨את⟩ Avraham, mangecek kapadonyo,",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "manjawab"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:01:41.293974764Z",
+  "model": "glm-5.3"
+}

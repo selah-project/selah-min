@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Ambiak juo ⟨את⟩ adik kalian, bangkiklah, baliaklah kapado urang tu laki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "adik kalian"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "adik kalian"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ambiak juo"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "bangkiklah"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu laki"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:04.115090843Z",
+  "model": "glm-5.3"
+}

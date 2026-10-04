@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Kaki-nyo disiksa jo rantai, basi masuak ka ateh nyawonyo.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "disiksa"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "jo rantai"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki-nyo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "basi"
+    },
+    {
+      "surface": "באה",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ka ateh nyawonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:58.406355624Z",
+  "model": "glm-5.3"
+}

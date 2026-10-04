@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo kalian musti mahago parintah-parintah ambo, jo kalian malakuan ⟨את⟩ inyo; ambo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "jo kalian musti mahago"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parintah-parintah ambo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "jo kalian malakuan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "parintah-parintah ambo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:28.445005864Z",
+  "model": "glm-5.3"
+}

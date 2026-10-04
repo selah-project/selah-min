@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Maka dibukak ⟨את⟩ tuduik Yehuda, jo pado ari itu sanjuk mancaliak ka sanjato Rumah Balutan.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "maka dibukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuduik Yehuda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tuduik"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "jo sanjuk mancaliak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "sanjato"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Rumah"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Balutan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:39.765829546Z",
+  "model": "glm-5.3"
+}

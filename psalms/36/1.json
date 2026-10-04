@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Untuak kapalo padusi; untuak hamba Yahweh, Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak kapalo padusi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuak hamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:30.317403425Z",
+  "model": "glm-5.3"
+}

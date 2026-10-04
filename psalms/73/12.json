@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Calik, iko urang-urang jahat, jo nan tanang salalu, alah mandapek harto banyak.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "calik"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "jo nan tanang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salalu"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "alah mandapek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "harto banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:49.139939730Z",
+  "model": "glm-5.3"
+}

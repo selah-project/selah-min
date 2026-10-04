@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo ambiak ambo ⟨את⟩ biriang nan kaduo, jo latak Aharon jo anak-anaknyo ⟨את⟩ tangan-tangan mareka ka ateh kapalo biriang tu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "jo ambiak ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biriang nan kaduo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "biriang"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "jo latak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jo anak-anaknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-tangan mareka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan-tangan mareka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "biriang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:40.782810419Z",
+  "model": "glm-5.3"
+}

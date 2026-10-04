@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Kalau pitih kalian piliah kapado ⟨את⟩ bangso-Ku, ⟨את⟩ urang miskin nan basamo kalian, jan manjadi kalian kapadonyo urang nan mamintih bungo; jan kalian taruah di atehnyo bungo utang.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pitih"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "kalian piliah kapado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bangso-Ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang miskin"
+    },
+    {
+      "surface": "העני",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nan basamo kalian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "manjadi kalian"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "urang nan mamintih bungo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "kalian taruah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bungo utang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:04.766794779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 121,
+  "translation": "Jan dibueknyo kakinyo tagincu; jan inyo mangantuak nan maharuih ⟨dirinyo⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dibueknyo"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "tagincu"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kakinyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "mangantuak"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "nan maharuih ⟨dirinyo⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:51.325548835Z",
+  "model": "glm-5.3"
+}

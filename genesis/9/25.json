@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu inyo bakato: Taka-ka Kanaan; hamba dari sagalo hamba inyo jadi kapado sudaro-saudaronyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "taka-ka"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "dari sagalo hamba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "inyo jadi"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kapado sudaro-saudaronyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:32.889874113Z",
+  "model": "glm-5.3"
+}

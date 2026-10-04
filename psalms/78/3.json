@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Nan alah kami danga jo alah kami katahui, jo datuak-datua kami alah manyaritoannyo kapado kami.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nan"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "alah kami danga"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "jo alah kami katahui"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "jo datuak-datua kami"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "alah manyaritoannyo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado kami"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:24.040156098Z",
+  "model": "glm-5.3"
+}

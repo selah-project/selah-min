@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Kok bakato Paroh: Siapo Yahweh tu, sampai ambo musti mandanga suaronyo untuak manulak ⟨את⟩ Yisrael? Ambo indak manganal ⟨את⟩ Yahweh, jo ⟨את⟩ Yisrael pun indak ambo tulakan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kok bakato"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "sampai ambo mandanga"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "suaronyo"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "untuak manulak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo manganal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo … pun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ambo tulakan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:56.611364956Z",
+  "model": "glm-5.3"
+}

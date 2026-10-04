@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Katiko embun turun ka ateh pakampuahan pado malamnyo, maman turun pulo ka atehnyo.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "katiko...turun"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "embun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "pakampuahan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "המן",
+      "gloss": "maman"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:42:38.571897815Z",
+  "model": "glm-5.3"
+}

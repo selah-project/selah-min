@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo inyo maambiak untuak manyucian ⟨את⟩ rumah tu duo buruang, jo kayu araz, jo banang sirah (kainim), jo ijuak.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "jo inyo maambiak"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "untuak manyucian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "buruang"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "jo kayu"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "araz"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jo banang sirah"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kainim"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "jo ijuak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:33.231387951Z",
+  "model": "glm-5.3"
+}

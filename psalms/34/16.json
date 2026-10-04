@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Mato-mato Yahweh kapado urang-urang nan bana, jo talingo-Nyo kapado siao-siao inyo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mato-mato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang-urang nan bana"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "jo talingo-Nyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "siao-siao inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:25.729901131Z",
+  "model": "glm-5.3"
+}

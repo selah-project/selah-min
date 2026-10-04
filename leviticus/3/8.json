@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo inyo malatakkkan ⟨את⟩ tangan nyo di ateh kapalo korban nyo, jo inyo manyambei ⟨את⟩ inyo di muko Khemah Patamuan; jo anak-anak Aharon mangicaik ⟨את⟩ darah nyo ka ateh mezbah, sakaliliang.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "jo inyo malatakkkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan nyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangan nyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korban nyo"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "jo inyo manyambei"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (anak domba tu)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "jo urang tu mangicaik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah nyo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darah nyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:52.801065545Z",
+  "model": "glm-5.3"
+}

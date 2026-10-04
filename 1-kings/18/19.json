@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Maka kini suruahlah, kumpuakan kapado ambo ⟨את⟩ sagalo Yisrael ka Gunuang Karmel, jo ⟨את⟩ nabi-nabi Baal ampek ratus limo puluah, jo nabi-nabi Asherah ampek ratus, nan makan makanan di lamari Izevel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "maka kini"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "suruahlah"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "kumpuakan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nabi-nabi Baal"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "limo puluah"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "jo nabi-nabi"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asherah"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "nan makan"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "makanan di lamari"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:10.216248217Z",
+  "model": "glm-5.3"
+}

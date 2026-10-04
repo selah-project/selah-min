@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Inyo manjadi pambancian untuak sanak: dagiangnyo sanak indak makan, jo ⟨את⟩ bangkaiinyo sanak bancia.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "pambancian"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak sanak"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sanak makan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bangkaiinyo"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "bangkaiinyo"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "sanak bancia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:17.156382915Z",
+  "model": "glm-5.3"
+}

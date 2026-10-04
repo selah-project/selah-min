@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo ambo mambaok saksi-saksi nan tapacio untuak ambo: ⟨את⟩ Uria sang imam jo ⟨את⟩ Zekharia anak Yeberekhia.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "jo ambo mambaok saksi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "nan tapacio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria sang imam"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekharia anak Yeberekhia"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeberekhia"
+    }
+  ],
+  "timestamp": "2026-10-04T06:08:23.157897836Z",
+  "model": "glm-5.3"
+}

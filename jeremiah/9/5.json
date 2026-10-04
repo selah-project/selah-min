@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Duduaknyo ado di tangah tipu daya; dek tipu daya inyo manolak mangatahui ⟨את⟩ Aku, kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "duduaknyo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tipu daya"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "dek tipu daya"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "manolak"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "mangatahui"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Aku",
+      "marks": "Aku (Yahweh)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:29:37.347488361Z",
+  "model": "glm-5.3"
+}

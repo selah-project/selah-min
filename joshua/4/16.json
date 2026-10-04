@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Suruah ⟨את⟩ para imam nan manggaleh Aron kasaksian, supayo inyo naiak dari Yarden.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "suruah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nan manggaleh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "supayo inyo naiak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-04T05:04:04.526036022Z",
+  "model": "glm-5.3"
+}

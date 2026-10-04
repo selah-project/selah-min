@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Indak ado manusia nan babakuaso ateh ruakh untuak manahan ⟨את⟩ ruakh, indak ado kuaso pado ari kamatian, indak ado palapehan pado paparangan, jo kajahatan indak akan malapehan ⟨את⟩ tuannyo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "nan babakuaso"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ateh ruakh"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "untuak manahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "kuaso"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kamatian"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "palapehan"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "pado paparangan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "akan malapehan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuannyo"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "tuannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:46.294851042Z",
+  "model": "glm-5.3"
+}

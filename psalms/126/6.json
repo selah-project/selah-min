@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 126,
+  "translation": "Pai nyo pai jo manangih, mambao takar beniah untuak ditabua; pulang nyo pulang jo riak, mambao alamai-alamaiannyo.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "י לך",
+      "gloss": "nyo pai"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "jo manangih"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mambao"
+    },
+    {
+      "surface": "משך",
+      "gloss": "takar beniah"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "untuak ditabua"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pulang"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nyo pulang"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "jo riak"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mambao"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "alamai-alamaiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:14.201523967Z",
+  "model": "glm-5.3"
+}

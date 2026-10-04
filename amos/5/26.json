@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo kalian manggandoang ⟨את⟩ Sikkut rajo kalian, jo ⟨את⟩ Kiyyun patuang-patuang kalian, bintang elohim kalian, nan kalian buek untuak diri kalian.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "jo kalian manggandoang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkut rajo kalian"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "rajo kalian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiyyun patuang-patuang kalian"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyyun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "patuang-patuang kalian"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "bintang"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "elohim kalian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "kalian buek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak diri kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:11:41.350955210Z",
+  "model": "glm-5.3"
+}

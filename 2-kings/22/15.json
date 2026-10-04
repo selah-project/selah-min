@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo inyo bakato kapado urang tu: Bakono kato Yahweh, Elohim Yisrael: Katoan kapado urang tu nan mangutuih ⟨את⟩ kalian kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bakono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "katoan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mangutuih"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kalian"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:00.216092999Z",
+  "model": "glm-5.3"
+}

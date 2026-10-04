@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo inyo bakato kapado ambo: Anak manusia, ⟨את⟩ sagalo kato Ambo nan ka Akato kapado you, ambiak jo ati you, jo jo talingo you dangaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jo inyo bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kato Ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato Ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ka Akato"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado you"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ambiak"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "jo ati you"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "jo talingo you"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dangaan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:48:41.295736342Z",
+  "model": "glm-5.3"
+}

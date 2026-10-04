@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 93,
+  "translation": "Angkek batang-batang aia, Yahweh, angkek batang-batang aia suaronyo, maangkek batang-batang aia ombaknyo nan mahancuek.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "angkek"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "batang-batang aia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "angkek"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "batang-batang aia"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "suaronyo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "batang-batang aia"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "ombaknyo nan mahancuek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:57.594702421Z",
+  "model": "glm-5.3"
+}

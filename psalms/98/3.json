@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 98,
+  "translation": "Inyo alah mangana hesed-Nyo jo kasatiaan-Nyo kapado rumah tanggo Yisrael; sadonyo ujuang-ujuang bumi alah caliak ⟨את⟩ kasalamatan dari Elohim kito.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "lah mangana"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "jo kasatiaan-Nyo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kapado rumah tanggo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "lah caliak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ujuang-ujuang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasalamatan dari Elohim kito"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kasalamatan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "dari Elohim kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:46.064288650Z",
+  "model": "glm-5.3"
+}

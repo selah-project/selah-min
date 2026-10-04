@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Ambiaklah ⟨את⟩ Aharon jo ⟨את⟩ anak-anaknyo ⟨את⟩ basamo inyo, jo ⟨את⟩ pakaian-pakaian, jo ⟨את⟩ minyak pangurapan, jo ⟨את⟩ anak lumbu untuak doso, jo ⟨את⟩ duo anak birahi, jo ⟨את⟩ bakua roti nan indak barampag;",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ambiaklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ basamo inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakaian-pakaian"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "minyak pangurapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pangurapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak lumbu untuak doso"
+    },
+    {
+      "surface": "פר",
+      "gloss": "anak lumbu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "untuak doso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "duo anak birahi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "anak birahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bakua roti nan indak barampag"
+    },
+    {
+      "surface": "סל",
+      "gloss": "bakua"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti nan indak barampag"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:32.449706811Z",
+  "model": "glm-5.3"
+}

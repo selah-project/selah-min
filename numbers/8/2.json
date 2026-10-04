@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Bakato kapado Aharon, jo kau bakato kapadonyo: katiko kau maangkek ⟨את⟩ palito-palito tu ka mungko muko menorah, tujuah palito tu mambari cahayo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jo kau bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "katiko kau maangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palito-palito tu"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "palito-palito tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mungko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "mambari cahayo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "palito tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:50.714104010Z",
+  "model": "glm-5.3"
+}

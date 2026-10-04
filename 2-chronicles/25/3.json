@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo tajadilah, katiko karajaan alah kokoh atehnyo, inyo mambunuah ⟨את⟩ ampek-ampeknyo nan alah mambunuah ⟨את⟩ rajo ayahnyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo tajadilah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "alah kokoh"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "mambunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ampek-ampeknyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ampek-ampeknyo"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "nan alah mambunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo ayahnyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:57:15.480264832Z",
+  "model": "glm-5.3"
+}

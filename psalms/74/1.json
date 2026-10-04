@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Maskil untuak Asaf. Ba a, Elohim, kok Awak mambuang ⟨kami⟩ salamo-lamonya? Rimbo amarah Awak manyalawak kapado domba-domba padanganan Awak?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "untuak Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ba a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "Awak mambuang"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamo-lamonya"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "manyalawak"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "rimbo amarah Awak"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "kapado domba-domba"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "padanganan Awak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:08.676023004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Nan mancaliak ka bumi, lalu iyo taguncang; manjamuah gunuang-gunuang, lalu iyo bauok asok.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Nan mancaliak"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka bumi"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "lalu iyo taguncang"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "manjamuah"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "lalu iyo bauok asok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:53.503666125Z",
+  "model": "glm-5.3"
+}

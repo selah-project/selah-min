@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Di ateh taleh tangan inyo aka maangkek sanak, supayo indak sanak mahantam dari batu kaki sanak.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "taleh tangan"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "inyo aka maangkek sanak"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "sanak mahantam"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "dari batu"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kaki sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:01.685343517Z",
+  "model": "glm-5.3"
+}

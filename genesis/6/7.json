@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu Yahweh bakato: Ambo ka maapuih ⟨את⟩ manusia nan alah Ambo ciptakan dari muko tanah iko, dari manusia sampai binatang, sampai binatang nan malata, jo sampai buruang-buruang langik, karano Ambo manyesal baso Ambo alah mambuek inyo tu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Ambo ka maapuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "alah Ambo ciptakan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah iko"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dari manusia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "binatang nan malata"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo sampai"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "buruang-buruang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "Ambo manyesal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "Ambo alah mambuek inyo tu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:26.228279644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Maka tahamilah Yahweh basamo ⟨את⟩ Yosef, jo inyo manjadi urang nan barasia, jo inyo ado di rumah tuannyo, urang Mitsri tu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka tahamilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo inyo manjadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "nan barasia"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo inyo ado"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuannyo"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "urang Mitsri tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:07:26.046879906Z",
+  "model": "glm-5.3"
+}

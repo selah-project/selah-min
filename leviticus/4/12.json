@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "jo dibawanyo kalua sadonyo ⟨את⟩ jawi tu ka lua pakampuangan, ka tampek nan barasiah, ka tampek pambuangan dabu, jo inyo mambaka ⟨את⟩ inyo di ateh kayu jo api; di tampek pambuangan dabu tu inyo dibaka.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "jo dibawanyo kalua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadonyo jawi tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "jawi tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "lua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pakampuangan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nan barasiah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "tampek pambuangan"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "jo mambaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "jawi tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "tampek pambuangan"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "dibaka"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:47.747344536Z",
+  "model": "glm-5.3"
+}

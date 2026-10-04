@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Iyo baduku jo jatuah, tapi kito alah bangkik jo tagak kuaik.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "baduku"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "jo jatuah"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "tapi kito"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "alah bangkik"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "jo tagak kuaik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:42.586349966Z",
+  "model": "glm-5.3"
+}

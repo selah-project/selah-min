@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Untuak kapalo musik, untuak anak-anak Korach, ateh Alamot, sabuah nyanyian.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak kapalo musik"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "untuak anak-anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:44.067031709Z",
+  "model": "glm-5.3"
+}

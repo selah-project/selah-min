@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dek tu dakeklah ari-ari Dawid untuak mati, jo inyo mamarintahkan ⟨את⟩ Shelomoh anaknyo, kato:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "dek tu dakeklah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "untuak mati"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "jo inyo mamarintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:43.040255304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo kau manyambaliah ⟨את⟩ anak-anak den, jo kau marekannyo, dalam mambuek mareka lalu untuak mareka.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "jo kau manyambaliah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak den"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak den"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "jo kau marekannyo"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "dalam mambuek lalu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mareka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T06:52:37.427771350Z",
+  "model": "glm-5.3"
+}

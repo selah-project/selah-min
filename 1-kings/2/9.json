@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dan kini, jan bia inyo lulu, karano awak urang nan pandai, jo awak ka tau ⟨את⟩ nan ka awak buek kapado inyo, jo turunkan ⟨את⟩ uban sirahnyo jo darah ka Sheol.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "bia inyo lulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "pandai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "awak"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "jo awak ka tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan ka awak buek kapado inyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka awak buek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "jo turunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uban sirahnyo"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "uban sirahnyo"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "jo darah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:50.592604245Z",
+  "model": "glm-5.3"
+}

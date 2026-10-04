@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Lalu Ebyatar maagahkan kapado Dawid baso Saul alah mambunuah ⟨את⟩ para imam Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "maagahkan"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kapado Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "alah mambunuah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam Yahweh"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:48.688582350Z",
+  "model": "glm-5.3"
+}

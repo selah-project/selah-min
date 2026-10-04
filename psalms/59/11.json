@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 59,
+  "translation": "Elohim sang hesed-Nyo akan mandahului ambo; Elohim akan mambari ambo caliak ⟨את⟩ urang nan manjago jo marusak ambo.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "akan mandahului ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "akan mambari ambo caliak"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "urang nan manjago jo marusak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:52.933245145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Urang bijak mandanga jo nambah ilimu, jo urang nan paham mandapek siasa-siasa.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "urang bijak"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "jo nambah"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ilmu"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "jo urang nan paham"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "siasa-siasa"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "mandapek"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:12.591437059Z",
+  "model": "glm-5.3"
+}

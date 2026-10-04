@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo ⟨את⟩ Khilen jo ⟨את⟩ padang rumputnyo, ⟨את⟩ Devir jo ⟨את⟩ padang rumputnyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Khilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "padang rumputnyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padang rumputnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "padang rumputnyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padang rumputnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:03.974440774Z",
+  "model": "glm-5.3"
+}

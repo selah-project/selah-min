@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Tehom sarupo pakaian You tabalutuinyo; di ateh gunuang-gunuang aia badiri.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "sarupo pakaian"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "You tabalutuinyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "badiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:53.279596068Z",
+  "model": "glm-5.3"
+}

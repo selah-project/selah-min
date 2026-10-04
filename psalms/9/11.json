@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Dan urang nan tau namo-Mu bapacik kapado-Mu, karano Ang indak mambiahan urang-urang nan mancari Ang, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "dan bapacik"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "urang nan tau"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "mambiahan"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "urang nan mancari Ang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:42.727612172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo Kanaan manurunkan ⟨את⟩ Tsidon, anak sulungnyo, jo ⟨את⟩ Khet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "jo Kanaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak sulungnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Khet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khet"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:29.694705122Z",
+  "model": "glm-5.3"
+}

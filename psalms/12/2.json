@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Tolonglah, Yahweh, karano urang nan takwa alah sirah, karano urang-urang nan satio alah ilang dari anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Tolonglah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "urang nan takwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "urang-urang nan satio"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dari anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:38.776200085Z",
+  "model": "glm-5.3"
+}

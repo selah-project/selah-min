@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Shabat, Shabat nan baitu tatotuak, iko bagi kalian; dan kalian manyasahkan ⟨את⟩ jiwa kalian — katatua salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabat nan baitu tatotuak"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kalian"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "dan kalian manyasahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwa kalian"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jiwa kalian"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "katatua"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:24.254350958Z",
+  "model": "glm-5.3"
+}

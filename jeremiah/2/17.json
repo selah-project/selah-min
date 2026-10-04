@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Bukannie iko nan tapanjok kapado kau, dek kau maninggaan ⟨את⟩ Yahweh, Elohim dikau, katiko inyo mandoriang kau di jalan?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "bukannie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tapanjok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "kau maninggaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim dikau"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "inyo mandoriang kau"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:26:44.217514161Z",
+  "model": "glm-5.3"
+}

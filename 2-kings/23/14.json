@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo inyo mapecahkan ⟨את⟩ tiang-tiang batu, mangkarek ⟨את⟩ tiang-tiang Asyera, jo malempakan ⟨את⟩ tampeknyo jo tulang-tulang manusia.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "mapecahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang batu"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tiang-tiang batu"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "mangkarek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang Asyera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "tiang-tiang Asyera"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "malempakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampeknyo"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "tampeknyo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang-tulang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T09:14:14.431805122Z",
+  "model": "glm-5.3"
+}

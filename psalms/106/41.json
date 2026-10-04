@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Lalu inyo manyerahkan ⟨את⟩ inyo ka tangan bangso-bangso, jo urang nan banci kapadonyo bakuaso ateh inyo.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "inyo manyerahkan inyo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "jo bakuaso"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ateh inyo"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "urang nan banci kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:57.649796477Z",
+  "model": "glm-5.3"
+}

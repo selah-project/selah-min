@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo ambo mambuwek sabuah poti dari kayu akasia, jo ambo mampahek duo lueh batu sarupo nan partamo, jo ambo naiak ka gunuang tu, mambaok duo lueh tu di tangan ambo.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "jo ambo mambuwek"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sabuah poti"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "jo ambo mampahek"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "lueh"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "sarupo nan partamo"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "jo ambo naiak"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ka gunuang tu"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "mambaok duo"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lueh tu"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "di tangan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:44.889400895Z",
+  "model": "glm-5.3"
+}

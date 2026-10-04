@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Kaluar Moshe untuak manamui mintuonyo; inyo manyambah jo muncuak inyo, jo urang bataruih kapado kawannyo takaik salamaik, lalu urang tu masuak ka dalam tendo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "untuak manamui"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mintuonyo"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "inyo manyambah"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "jo muncuak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "jo urang bataruih"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tiok urang"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "kapado kawannyo"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "takaik salamaik"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "lalu urang tu masuak"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "ka dalam tendo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:15.300645166Z",
+  "model": "glm-5.3"
+}

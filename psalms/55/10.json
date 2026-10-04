@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Talan, Adonai, bapilah lidah urang tu, karano alah nampak dek ambo kajamatan jo pasalisiahan di koto.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "talan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "bapilah"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidah urang tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "alah nampak dek ambo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kajamatan"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "jo pasalisiahan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di koto"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:48.457494862Z",
+  "model": "glm-5.3"
+}

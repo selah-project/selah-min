@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Roti indak sanak makan, jo anggur jo minuman kareh indak sanak minum, supayo sanak tau baso ambo adolah Yahweh, Elohim sanak.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "sanak makan"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "jo anggur"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "jo minuman kareh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "sanak minum"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "sanak tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:19.325043253Z",
+  "model": "glm-5.3"
+}

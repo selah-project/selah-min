@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jadi ambo mambaok mareka kalua dari tanah Mitsrayim, jo ambo mambaok mareka ka rimbo.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "ambo mambaok mareka kalua"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "ambo mambaok mareka ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "rimbo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:54:18.180819760Z",
+  "model": "glm-5.3"
+}

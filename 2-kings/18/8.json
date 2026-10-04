@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Inyo mamukuak ⟨את⟩ urang Palishti sampai ka Azzah jo ⟨את⟩ bateh-batehnyo, dari manaro panjago sampai ka kota benteang.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "mamukuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Palishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palishti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bateh-batehnyo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "bateh-batehnyo"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "dari manaro"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "panjago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "benteang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:12.129925203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Sasudah ampek puluah ari, Noakh mambukak ⟨את⟩ lamagek teivah nan alah inyo buek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "barakhir"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ampek puluah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noakh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamagek teivah"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "lamagek"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "teivah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buek"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:37.808334649Z",
+  "model": "glm-5.3"
+}

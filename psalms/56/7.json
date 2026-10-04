@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Inyo balansuang, inyo manyuruak, inyo maharagoi ⟨את⟩ jejak ambo, sarupo inyo manunggu ⟨את⟩ nyao ambo.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "inyo balansuang"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "inyo manyuruak"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "jejak ambo"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "maharagoi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo katiko"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "inyo manunggu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyao ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:10.752139726Z",
+  "model": "glm-5.3"
+}

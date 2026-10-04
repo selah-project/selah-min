@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu Yahweh manyesal baso inyo alah mambuek ⟨את⟩ manusia di bumi, jo inyo basadio dalam atinyo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "manyesal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "basadio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dalam"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:26.227994110Z",
+  "model": "glm-5.3"
+}

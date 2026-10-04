@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu mati anak padusi iko pado malamnyo, karano inyo bakendak di atehnyo.",
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pado malam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "inyo bakendak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:13.530610151Z",
+  "model": "glm-5.3"
+}

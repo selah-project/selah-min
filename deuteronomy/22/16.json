@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "dan ayah padusi itu bakato kapado urang tuo-tuo itu: ⟨את⟩ anak padusi ambo alah ambo agiah kapado laki-laki ko manjadi bini, dan inyo mambancinyo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "urang tuo-tuo itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak padusi ambo"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anak padusi ambo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah ambo agiah"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kapado laki-laki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "manjadi bini"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "mambancinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:01.107975438Z",
+  "model": "glm-5.3"
+}

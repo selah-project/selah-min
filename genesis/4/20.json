@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Adah malahiaan ⟨את⟩ Yaval; inyo ⟨adalah⟩ apak nan tingga di khemah jo punyo taranak.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "malahiaan"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨adalah⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apak"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nan tingga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "di khemah"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "jo punyo taranak"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:43.773542736Z",
+  "model": "glm-5.3"
+}

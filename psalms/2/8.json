@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Pintaolah dari ambo, maka ambo ka maàgiah bangso-bangso sabagai pusako kau, jo jajahan kau sampai ka ujuung-ujuung bumi.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "pintaolah"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "maka ambo ka maàgiah"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "pusako kau"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "jo jajahan kau"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "sampai ka ujuung-ujuung"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:26.989723731Z",
+  "model": "glm-5.3"
+}

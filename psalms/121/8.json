@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 121,
+  "translation": "Yahweh ka manjago kaluanyo kau jo masuaknyo kau, dari kini sampai salamanyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ka manjago"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "kaluanyo kau"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "jo masuaknyo kau"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dari kini"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:03.636454300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Sagalo lambah akan diangkek, jo sagalo gunuang jo bukik akan direndahan; nan bengkak manjadi data, nan batu-batu karas manjadi dataran.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "lambah"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "akan diangkek"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "jo bukik"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "akan direndahan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo tagaklah"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "nan bengkak"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "manjadi data"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "jo nan batu-batu karas"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "manjadi dataran"
+    }
+  ],
+  "timestamp": "2026-10-04T06:18:43.057114429Z",
+  "model": "glm-5.3"
+}

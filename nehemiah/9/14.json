@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo ⟨את⟩ Shabat suci Engkau tanjokan ka inyo, jo parintah-parintah, katantuan-katantuan, jo Torah Engkau parintahkan ka inyo, lewat tangan Moshe, hamba Engkau.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Shabat suci Engkau"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "suci Engkau"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "Engkau tanjokan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "jo parintah-parintah"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "jo katantuan-katantuan"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "jo Torah"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "Engkau parintahkan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "lewat tangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba Engkau"
+    }
+  ],
+  "timestamp": "2026-10-04T08:38:03.041877282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Urang-urang Yisrael bakambang biak, bakaluwakan, manambah, jo manjadi kuek bana-bana; lalu penuah bumi jo ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "bakambang biak"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "bakaluwakan"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "manambah"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "manjadi kuek"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "penuah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:30.054461690Z",
+  "model": "glm-5.3"
+}

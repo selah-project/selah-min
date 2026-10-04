@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Dan kota tu laweh gadang, tapi urangnyo saketek di dalamnyo, jo indak ado rumah-rumah nan alah dibangun.",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "dan kota tu"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "laweh"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ka duo sampiang"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "jo gadang"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "tapi urangnyo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "nan alah dibangun"
+    }
+  ],
+  "timestamp": "2026-10-04T08:37:10.859974156Z",
+  "model": "glm-5.3"
+}

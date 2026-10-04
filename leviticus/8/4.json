@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Moshe bakarajo sarupo nan alah diparentahkan Yahweh ⟨את⟩ kapadonyo, lalu bakumpua sadolah jamaah di munggo Kemah Patamuan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu bakarajo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alah diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kapadonyo"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "lalu bakumpua"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "munggo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:32.451000794Z",
+  "model": "glm-5.3"
+}

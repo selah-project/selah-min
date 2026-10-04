@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Barih ati ambo utuah dalam katantuan-Mu, supayo ambo indak biangkak.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "barih"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "utuah"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "dalam katantuan-Mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "biangkak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:47.631048214Z",
+  "model": "glm-5.3"
+}

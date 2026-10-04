@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo urang Pelishtim mangaja jo kareh ⟨את⟩ Sha-ul jo ⟨את⟩ anak-anaknyo, jo urang Pelishtim mamukul ⟨את⟩ Yehonatan jo ⟨את⟩ Avinadav jo ⟨את⟩ Malki-Shua, anak-anak Sha-ul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "mangaja jo kareh"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha-ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mamukul"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    }
+  ],
+  "timestamp": "2026-10-04T09:10:09.892146365Z",
+  "model": "glm-5.3"
+}

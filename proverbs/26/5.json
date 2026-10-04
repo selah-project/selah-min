@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jawablah si oso sacaro karugiannyo, supayo inyo indak manjadi urang pantiang di mato ⟨inyo surang⟩.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Jawablah"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "si oso"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "sacaro karugiannyo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supayo ... indak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "urang pantiang"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di mato inyo surang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:56.342817381Z",
+  "model": "glm-5.3"
+}

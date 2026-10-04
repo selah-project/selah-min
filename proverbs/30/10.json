@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jangan maumpatan hamba kapado tuannyo, supayo inyo indak maleduik kau, lalu kau basalah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "maumpatan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "tuannyo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "maleduik kau"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "basalah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:56.130065589Z",
+  "model": "glm-5.3"
+}

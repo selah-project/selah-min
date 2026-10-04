@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu inyo mambaok kalua ⟨את⟩ jawi itu ka lua pakampuan, jo mambaka ⟨את⟩ inyo sarupo inyo mambaka ⟨את⟩ jawi nan partamo; kurban doso bagi jamaah ⟨itu⟩.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "lalu inyo mambaok kalua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawi itu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "jawi itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "lua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pakampuan"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "jo mambaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (jawi itu)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "mambaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawi nan partamo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "jawi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nan partamo"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kurban doso"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:03.079623764Z",
+  "model": "glm-5.3"
+}

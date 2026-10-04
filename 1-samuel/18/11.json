@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Saul malayangkan ⟨את⟩ tumbak tu, kato inyo: Akan ambo pukua Dawid sampai ka dindiang; tapi Dawid mailia dari mukonyo duo kali.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "malayangkan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumbak tu"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "tumbak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kato inyo"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "akan ambo pukua"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "sampai ka dindiang"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "tapi Dawid mailia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari mukonyo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "duo kali"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:34.505583750Z",
+  "model": "glm-5.3"
+}

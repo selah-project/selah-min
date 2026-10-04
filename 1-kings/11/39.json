@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo ambo ka mamanih ⟨את⟩ katurunan Dawid dek hal iko, tatapi indak salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ambo ka mamanih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katurunan Dawid"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dek"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal iko"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tatapi hanyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ari-ari"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:14.648319494Z",
+  "model": "glm-5.3"
+}

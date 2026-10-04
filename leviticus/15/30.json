@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo imam mambuek ⟨את⟩ nan ciek sabagai korban doso, jo ⟨את⟩ nan ciek sabagai korban bakaran, jo imam mambiayo atehnyo di hadapan Yahweh, dek kaluahan nan mambuek inyo indak suci.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "jo ... mambuek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan ciek"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "korban doso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nan ciek"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "jo mambiayo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "kaluahan"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "nan mambuek inyo indak suci"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:37.485882261Z",
+  "model": "glm-5.3"
+}

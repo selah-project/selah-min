@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo inyo sampai ka Yerushalayim pado bulan nan kalimo; iko ado lah tahun nan katujuah pamarintahan rajo tu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "jo sampai"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ka Yerushalayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "pado bulan"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "nan kalimo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iko ado lah"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "nan katujuah"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pamarintahan rajo tu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:33:27.891934631Z",
+  "model": "glm-5.3"
+}

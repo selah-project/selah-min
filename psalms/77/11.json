@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Jo ambo bakato: Iko kalamahan ambo — tapi ambo ka iingek baa-tahun-tahun tangan kanan Nan Tatinggi.",
+  "tokens": [
+    {
+      "surface": "וָאֹמַר",
+      "gloss": "jo ambo bakato"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "kalamahan ambo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iko"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "baa-tahun-tahun"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan kanan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nan Tatinggi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:41.518878795Z",
+  "model": "glm-5.3"
+}

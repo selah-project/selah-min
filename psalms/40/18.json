@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Alah ambo urang miskin jo kasasa; Adonai mamikiaan ⟨kapado⟩ ambo: patolongan ambo jo palupuik ambo Anglah, Elohim ambo, unyo talambek.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Alah ambo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jo kasasa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "mamikiaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "patolongan ambo"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "jo palupuik ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anglah"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unyo"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "talambek"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:37.330023485Z",
+  "model": "glm-5.3"
+}

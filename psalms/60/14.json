@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Di dalam Elohim kito buek kajayoan; jo ⟨Inyo⟩ nan manginjak musuah kito.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Di dalam Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kito buek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kajayoan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo ⟨Inyo⟩"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "manginjak"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "musuah kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:48.484749516Z",
+  "model": "glm-5.3"
+}

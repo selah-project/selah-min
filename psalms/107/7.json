@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Jo Ia mamimpiannyo di jalan nan luruih, untuak pai ka sabuah koto tampek tingga",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Jo Ia mamimpiannyo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "nan luruih"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuak pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sabuah koto"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "tampek tingga"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:28.380325286Z",
+  "model": "glm-5.3"
+}

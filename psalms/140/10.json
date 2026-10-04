@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 140,
+  "translation": "Kapalo urang-urang nan mangaliliangi ambo — sansai bibiannyo surang manutuik inyo.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "urang-urang nan mangaliliangi ambo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sansai"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "bibiannyo"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "manutuik inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:17.693653450Z",
+  "model": "glm-5.3"
+}

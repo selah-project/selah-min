@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 129,
+  "translation": "Atas ghalihik ambo urang mamanahi alah mamanahi, inyo mapanjangkan galur-galua inyo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Atas"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ghalihik ambo"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "alah mamanahi"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "urang mamanahi"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "inyo mapanjangkan"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "galur-galua inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:08.483783367Z",
+  "model": "glm-5.3"
+}

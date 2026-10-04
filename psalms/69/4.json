@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Ambo lah lalah manyeru, kareh ambo lah kariang, mato ambo lah lakek, salagi manunggu Elohim ambo.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "ambo lah lalah"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "manyeru"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "lah kariang"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "kareh ambo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "lah lakek"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "salagi manunggu"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:31.722072439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Dawid tibo di Mahanaim, jo Avshalom malewati ⟨את⟩ Yarden, inyo jo sado urang Yisrael basamonyo.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Mahanaim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "malewati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:40:59.205539120Z",
+  "model": "glm-5.3"
+}

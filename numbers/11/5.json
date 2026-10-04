@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Kami ingat ⟨את⟩ ikan nan kami makan di Mitsrayim indak babaya — ⟨את⟩ timun, jo ⟨את⟩ labu, jo ⟨את⟩ daun bawang, jo ⟨את⟩ bawang, jo ⟨את⟩ bawang putiah.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "kami ingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikan"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "kami makan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "indak babaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timun"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "timun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "labu"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "labu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "daun bawang"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "daun bawang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bawang"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "bawang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bawang putiah"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "bawang putiah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:53.643918040Z",
+  "model": "glm-5.3"
+}

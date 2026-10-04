@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Lalu rajo mangirim urang, jo urang tu mangumpuakan kapado inyo sado tuo-tuo Yehuda jo Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalau mangirim urang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "urang tu mangumpuakan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tuo-tuo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jo Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:36.805093773Z",
+  "model": "glm-5.3"
+}

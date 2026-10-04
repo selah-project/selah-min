@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Yehosafat bakato: Apo indak ado di siko lai nabi untuak Yahweh, supayo kito batanyo dari ⟨את⟩ inyo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Apo indak ado"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di siko"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "וונדרשה",
+      "gloss": "supayo kito batanyo"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "dari ⟨את⟩ inyo",
+      "marks": "inyo (nabi itu)"
+    }
+  ],
+  "timestamp": "2026-10-04T08:53:41.957954268Z",
+  "model": "glm-5.3"
+}

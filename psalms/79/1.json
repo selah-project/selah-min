@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 79,
+  "translation": "Mizmor untuak Asaf. Elohim, bangso-bangso alah masuak ka warisan-Mu, inyo alah manajisi ⟨את⟩ istano kasucian-Mu, inyo alah mambuek ⟨את⟩ Yerushalayim manjadi rombakan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "untuak Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "lah masuak"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "ka warisan-Mu"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "lah manajisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istano kasucian-Mu"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "istano"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kasucian-Mu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lah mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "manjadi rombakan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:29.362707395Z",
+  "model": "glm-5.3"
+}

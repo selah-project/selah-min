@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Sasudah itu Iyob mambukak ⟨את⟩ mungnyo jo mangutuki ⟨את⟩ ariannyo.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mungnyo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "mungnyo"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "mangutuki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ariannyo"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ariannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:02.628770230Z",
+  "model": "glm-5.3"
+}

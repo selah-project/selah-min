@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anatot jo ⟨את⟩ padang rumputnyo, ⟨את⟩ Almon jo ⟨את⟩ padang rumputnyo — ampek kota.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anatot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumputnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumputnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Almon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumputnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumputnyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:07.873817008Z",
+  "model": "glm-5.3"
+}

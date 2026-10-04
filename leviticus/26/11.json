@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Aku ka manarokan Mishkanku di tangah kalian, jo jiwa-Ku indak ka mambanci kalian ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Aku ka manarokan"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mishkanku"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di tangah kalian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak ka"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "mambanci"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-Ku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T09:04:08.634513101Z",
+  "model": "glm-5.3"
+}

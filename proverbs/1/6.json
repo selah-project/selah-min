@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Untuak mamahami patatah jo panjalehannyo, kato-kato urang bijak jo teka-teki mereka.",
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "untuak mamahami"
+    },
+    {
+      "surface": "משל",
+      "gloss": "patatah"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "jo panjalehannyo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "urang bijak"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "jo teka-teki mereka"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:12.591649953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Imam mamarintahkan, untuak urang nan ka disucikan itu, diambiak duo buruang iduik nan suci, kayu araz, banang sirah tolaat, jo ijuang.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Imam"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "diambiak"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "untuak urang nan ka disucikan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "buruang"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "araz"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "banang sirah"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ijuang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:50.454896181Z",
+  "model": "glm-5.3"
+}

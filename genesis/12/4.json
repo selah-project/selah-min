@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lah tu Avram pai, sarupo nan alah dikatoan Yahweh kapado inyo, jo Lot pai basamo inyo; jo Avram umua limo puluah limo taun katiko inyo kalua dari Haran.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lah tu pai"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alah dikatoan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "jo Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umua"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "puluah limo taun"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "jo tujuah puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "katiko inyo kalua"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "dari Haran"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:20.580777247Z",
+  "model": "glm-5.3"
+}

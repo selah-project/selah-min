@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Buliah Elohim tagak, tasapuahlah musuah-musuahNyo, jo lari urang-urang nan banci kapadoNyo dari mukoNyo.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "tasapuahlah"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "musuah-musuahNyo"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "jo lari"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "urang-urang nan banci kapadoNyo"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari mukoNyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:48.202362513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu inyo mambuek ⟨את⟩ rumah tu jo manyalasaikannyo; jo inyo malapisi ⟨את⟩ rumah tu jo balok-balok jo barisan-barisan kayu araz.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "lalu inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "jo manyalasaikannyo"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "jo inyo malapisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "balok-balok"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "jo barisan-barisan"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "kayu araz"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:37.517393295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Katiko ikau bajalan, inyo mamimpiakan ⟨את⟩ ikau; katiko ikau barariang, inyo mahago ikau; jo katiko ikau bangun, inyo bacakap jo ikau.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "katiko ikau bajalan"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "inyo mamimpiakan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikau"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "katiko ikau barariang"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "inyo mahago"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ikau"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "jo katiko ikau bangun"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "bacakap jo ikau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:51.602926643Z",
+  "model": "glm-5.3"
+}

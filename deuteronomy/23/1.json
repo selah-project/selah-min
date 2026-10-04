@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Indak buliah saurang laki-laki mambiak ⟨את⟩ bini apaknyo, jo indak buliah inyo mambukak sayok apaknyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak buliah"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mambiak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang laki-laki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini apaknyo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak buliah"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "sayok"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:25.951334130Z",
+  "model": "glm-5.3"
+}

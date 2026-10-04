@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Dan si katieh Shemuël malayani ⟨את⟩ Yahweh di muko Eli, jo kato Yahweh pabanao pado ari-ari itu, indak ado pangliahan nan tarbukak.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "dan si katieh"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "malayani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "jo kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adolah"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "pabanao"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "pado ari-ari"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "pangliahan"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "nan tarbukak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:34.179619768Z",
+  "model": "glm-5.3"
+}

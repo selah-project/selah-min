@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sagalo angkatan pai, jo angkatan datang; tapi bumi tagak salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "sagalo angkatan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "jo angkatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "tapi bumi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "tagak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:33.359255015Z",
+  "model": "glm-5.3"
+}

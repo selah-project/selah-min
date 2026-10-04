@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo rajo Koresh mangeluakan ⟨את⟩ parabot rumah Yahweh nan alah dikeluakan Nevukhadnetsar dari Yerushalayim, jo inyo manaruhannyo di rumah elohinyo.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "jo rajo"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "mangeluakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parabot rumah Yahweh"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "dikeluakan"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "dari Yerushalayim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "jo inyo manaruhannyo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "elohinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:29:17.539254272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Maka katiko saluruah bangso itu alah tamaik malewati ⟨את⟩ Yarden, Yahweh bakato kapado Yehosyua, sabagai barikut:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka katiko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "tamaik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangso itu"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "malewati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sabagai barikut"
+    }
+  ],
+  "timestamp": "2026-10-04T05:04:32.426320677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu inyo maambiak ⟨את⟩ dabu tungku tu, jo tagak di muko Paroh, lalu Moshe manyipakannyo ka arah langik, dan jadilah kudusan bapokiak-pokiak nan mangalua pado manusia jo pado binatang.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "lalu inyo maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dabu tungku tu"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "tungku"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "jo tagak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "lalu manyipakannyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ka arah langik"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "kudusan"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "bapokiak-pokiak"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "nan mangalua"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pado manusia"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "jo pado binatang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:40.022884673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo ⟨את⟩ khazir, karano inyo bajanian kuku, jo mambalah samoga kuku bajanian, tapi gera indak inyo baok baliak — indak barasiah inyo untuak sanak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "khazir"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "khazir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "inyo bajanian"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "jo mambalah"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "samoga"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "tapi inyo"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "inyo baok baliak"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "indak barasiah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:28.281279193Z",
+  "model": "glm-5.3"
+}

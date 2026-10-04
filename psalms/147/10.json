@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Indak pado kakuatan kudo inyo bakaraso sanang, indak pado tungkai urang inyo kabarimoan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "pado kakuatan"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kudo"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "bakaraso sanang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "pado tungkai"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "kabarimoan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:42.881054251Z",
+  "model": "glm-5.3"
+}

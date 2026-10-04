@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Jo inyo bakato: Baiaiklah kapado ambo. Jo inyo baiaik kapadonyo, jo Yisrael basujud di kapalo lambeak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "baiaiklah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "jo inyo baiaik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "jo Yisrael basujud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "lambeak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:07.347121655Z",
+  "model": "glm-5.3"
+}

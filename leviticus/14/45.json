@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo inyo runtuahkan ⟨את⟩ rumah tu, ⟨את⟩ batu-batunyo, jo ⟨את⟩ kayu-kayunyo, jo ⟨את⟩ sado dabu rumah tu, jo inyo mambaoknyo kalua dari kota ka tampek nan indak suci.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "jo inyo runtuahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batunyo"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "batu-batunyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kayu-kayunyo"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "kayu-kayunyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sado dabu rumah tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "jo inyo mambaok kalua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "dari kota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nan indak suci"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:53.691395082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo sadoalah pintu-pintu jo ambang-ambangnyo babantuak pasegi ampek, jo jandela; jo muko batehadok jo muko, tigo kali.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "jo ambang-ambangnyo"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "babantuak pasegi ampek"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "jandela"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "jo nyo batehadok"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "muko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "muko"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:55.628001708Z",
+  "model": "glm-5.3"
+}

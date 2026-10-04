@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 3:5",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo ambo bakato: Susuikanlah tanjak nan barasiah di ateh kapalonyo. Jo mareka manyusui ⟨את⟩ tanjak nan barasiah di ateh kapalonyo, jo mamakaian baju-baju; jo surik malaiak Yahweh tagak di sampang.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jo ambo bakato"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "susuikanlah"
+    },
+    {
+      "surface": "צניף",
+      "gloss": "tanjak"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nan barasiah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "jo mareka manyusui"
+    },
+    {
+      "surface": "הצניף",
+      "gloss": "⟨את⟩ tanjak",
+      "marks": "tanjak"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "nan barasiah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "וילבשהו",
+      "gloss": "jo mamakaian"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "baju-baju"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "jo surik malaiak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tagak di sampang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:19:47.005168383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Dek kalambatan atok rumah mailang, dek kalamahan tangan rumah manitiak.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "dek kalambatan"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "mailang"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "atok rumah"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "dek kalamahan"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "manitiak"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:06.333697147Z",
+  "model": "glm-5.3"
+}

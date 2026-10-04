@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Dan jo Naftali, Gad jo Asyer.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "jo Naftali"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo Asyer"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:00.660513660Z",
+  "model": "glm-5.3"
+}

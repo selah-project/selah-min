@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Baliaklah ka Elohim-Nyo; jago hesed jo hukum, jo taragak-agaklah kapado Elohim-Nyo salalu",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dapek awak"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "ka Elohim-Nyo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jo hukum"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "jago"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "jo taragak-agaklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-Nyo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "salalu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:25.236753015Z",
+  "model": "glm-5.3"
+}

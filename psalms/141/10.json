@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 141,
+  "translation": "Biar urang jahat tingga ka dalam paik mareka surang, sadang ambo madapek sampai ambo lalu.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "ka dalam paik mareka surang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sacaro basamo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "lalu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:05.906630369Z",
+  "model": "glm-5.3"
+}

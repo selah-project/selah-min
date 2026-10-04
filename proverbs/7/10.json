@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo tacaliak, saurang padusi tibo basuo ⟨jo inyo⟩, baju padusi zonah, jo ati nan dijago.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "jo tacaliak"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "saurang padusi"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "tibo basuo jo ⟨inyo⟩"
+    },
+    {
+      "surface": "שית",
+      "gloss": "baju"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "padusi zonah"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "jo nan dijago"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:17.673445812Z",
+  "model": "glm-5.3"
+}

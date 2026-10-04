@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Kakayoan urang kaya adolah koto bakekuatannyo, musnahan urang-urang miskin adolah kamiskinan inyo.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "kakayoan"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "urang kaya"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "koto"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "bakekuatannyo"
+    },
+    {
+      "surface": "מחיטת",
+      "gloss": "musnahan"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "urang-urang miskin"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kamiskinan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:57.882779711Z",
+  "model": "glm-5.3"
+}

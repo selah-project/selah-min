@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Hiduik Yahweh, Elohim sandek — kok ado bangso jo karajaan nan indak ditujun tuan ambo ka sinan untuak mancari sandek; lalu inyo-i bakato, Indak ado, mako inyo mambuek ⟨את⟩ karajaan jo ⟨את⟩ bangso basumpah baso sandek indak ditamui.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Hiduik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim sandek"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "jo karajaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ditujun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ka sinan"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "untuak mancari sandek"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "lalu inyo-i bakato"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "inyo mambuek basumpah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karajaan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bangso"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "ditamui"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:05.238493304Z",
+  "model": "glm-5.3"
+}

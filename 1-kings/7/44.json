@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo ⟨את⟩ ciek lauik, jo ⟨את⟩ duo baleh lembu di bawah lauik itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ciek lauik"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "duo baleh lembu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu-lembu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik itu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:47:41.490626915Z",
+  "model": "glm-5.3"
+}

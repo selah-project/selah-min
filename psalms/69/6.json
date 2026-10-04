@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Elohim, angkau tau ka katololan ambo, jo doso-doso ambo indak tasuruak dari angkau.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "angkau tau"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "ka katololan ambo"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "jo doso-doso ambo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari angkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "tasuruak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:13.994677760Z",
+  "model": "glm-5.3"
+}

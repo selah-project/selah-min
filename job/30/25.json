@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Kok indak ambo manangih untuak urang nan hari payahnyo? Kok indak ati ambo panyik untuak urang miskin?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "ambo manangih"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "untuak urang nan hari payahnyo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "panyik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "untuak urang miskin"
+    }
+  ],
+  "timestamp": "2026-10-04T08:11:39.104719055Z",
+  "model": "glm-5.3"
+}

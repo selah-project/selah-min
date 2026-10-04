@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Muncua urang tsedeq mahaga kabijaksanoan, jo lidahnyo mangece hukum.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "muncua"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang tsedeq"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mahaga"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kabijaksanoan"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "jo lidahnyo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "mangece"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:31.884370264Z",
+  "model": "glm-5.3"
+}

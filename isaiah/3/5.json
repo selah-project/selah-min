@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Urang tu akan ditindas, saurang dek saurang, jo saurang dek kawannyo; anak mudo barani ilang kapado urang tuo, jo nan hina kapado nan mulia.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "akan ditindas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "dek saurang"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jo saurang"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "dek kawannyo"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "barani ilang"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak mudo"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "kapado urang tuo"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "jo nan hina"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "kapado nan mulia"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:55.879950067Z",
+  "model": "glm-5.3"
+}

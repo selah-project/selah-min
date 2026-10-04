@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo abah kalian alah manipu ambo, alah mangganti ⟨את⟩ upah ambo sapuluah kali; tapi indak dibariah dek Elohim mambuek jahat kapado ambo.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "jo abah kalian"
+    },
+    {
+      "surface": "התל",
+      "gloss": "manipu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "mangganti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upah ambo"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "upah ambo"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dibariah dek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "mambuek jahat"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:04:20.268570638Z",
+  "model": "glm-5.3"
+}

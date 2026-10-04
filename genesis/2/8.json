@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lajo Yahweh Elohim mananam sabuah kebun di Eden, di sabalah timua, jo lajo manampekkan di sinan ⟨את⟩ manusia nan alah inyo bantuak.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "Lajo mananam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "sabuah kebun"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "di Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "di sabalah timua"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "lajo manampekkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "alah inyo bantuak"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:43.877889523Z",
+  "model": "glm-5.3"
+}

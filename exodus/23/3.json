@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo urang miskin jan pulo dibari muko dalam sangketonyo.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "jo urang miskin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "dibari muko"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "dalam sangketonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:43.692222189Z",
+  "model": "glm-5.3"
+}

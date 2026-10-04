@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Lalu imam maambiak ⟨את⟩ ciek anak domba tu, maharok ⟨את⟩ inyo sabagai kurban asham, jo ⟨את⟩ log minyak tu, lalu maayun ⟨את⟩ kaduo tu sabagai tenufah di muko Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "lalu maambiak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciek anak domba tu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "anak domba tu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "maharok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "sabagai kurban asham"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "untuak kurban asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "log minyak tu"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak tu"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "lalu maayun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kaduo tu"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "sabagai tenufah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:31:36.134518629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Mulo karajoannyo ⟨adalah⟩ Babel, jo Erekh, jo Akhad, jo Kalneh, di tanah Shinjar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Mulo"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "karajoannyo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "jo Erekh"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "jo Akhad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "jo Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinjar"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:32.467367385Z",
+  "model": "glm-5.3"
+}

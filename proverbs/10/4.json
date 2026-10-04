@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Urang nan bakarajo jo tangan nan malas manjadi miskin, tapi tangan urang rajin mamakayakayo.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "manjadi miskin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bakarajo"
+    },
+    {
+      "surface": "כף",
+      "gloss": "talanja"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "nan malas-khlentong"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "tapi tangan"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "urang rajin"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "mamakayakayo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:51.605904488Z",
+  "model": "glm-5.3"
+}

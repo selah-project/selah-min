@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 112,
+  "translation": "Pujilah Yah! Barakaah urang nan takuik kapado ⟨את⟩ Yahweh, nan talalu sanang pado parintah-parintah-Nyo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "barakaah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "pado parintah-parintah-Nyo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "talalu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:04.215631437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu ambo manyuruah ⟨את⟩ hakim-hakim awak pado wakatu itu, mangecekan: Dangaanlah pakaro di antaro sudaro-sudaro awak, jo hakimi lah sacaro tsedeq — antaro saurang urang jo sudaronyo, sarato urang asiang di rantauinyo.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "lalu ambo manyuruah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hakim-hakim awak"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "hakim-hakim awak"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pado wakatu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecekan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dangaanlah"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "sudaro-sudaro awak"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "jo hakimi lah"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sacaro tsedeq"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antaro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sudaronyo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sarato antaro"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "urang asiang di rantauinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:21.199032917Z",
+  "model": "glm-5.3"
+}

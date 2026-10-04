@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Karano Yahweh tsedeq, inyo mancintoi tsedeq; urang nan luruah akan maliek mukonyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mancintoi"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "urang nan luruah"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "akan maliek"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:40.522053850Z",
+  "model": "glm-5.3"
+}

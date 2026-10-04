@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo di bulan patamo, ari kaampek baleh bulan — Paskah kapado Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "jo di bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "patamo"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kaampek"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:48:04.872050462Z",
+  "model": "glm-5.3"
+}

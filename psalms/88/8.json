@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Atas ambo sadang balantak kamurkaan San, jo sagalo ombak San alah manyeso ambo. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "atas ambo"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "sadang balantak"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "kamurkaan San"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ombak San"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "alah manyeso"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:41.907839128Z",
+  "model": "glm-5.3"
+}

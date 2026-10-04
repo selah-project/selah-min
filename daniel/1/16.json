@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo panguruih tu maambiak ⟨את⟩ santapan inyo jo aia anggur minum inyo, lalu maagiah ka inyo sayua-sayuaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo tajadilah"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "panguruih tu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santapan inyo"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "santapan inyo"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "jo aia anggur"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "minum inyo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "lalu maagiah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "sayua-sayuaan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:51.912452529Z",
+  "model": "glm-5.3"
+}

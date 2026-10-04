@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 41:14",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Mako Paroh mangirim urang manggia ⟨את⟩ Yosef, lalu inyo diangek capek dari lubang; inyo mancukua rambuiknyo jo mangganti pakaiannyo, lalu masuak ka hadapan Paroh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "manggia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויריצהו",
+      "gloss": "diangek capek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "lubang"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "mancukua rambuiknyo"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "mangganti"
+    },
+    {
+      "surface": "שמלתיו",
+      "gloss": "pakaiannyo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:07:48.108952383Z",
+  "model": "glm-5.3"
+}

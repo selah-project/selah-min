@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Marusak diri angkau surang, wahai Yisrael; tapi di Ambo patolong angkau.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "marusak diri angkau"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di Ambo"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "patolong angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:08:16.113865628Z",
+  "model": "glm-5.3"
+}

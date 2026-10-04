@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo ⟨inyo⟩ maagiah ⟨את⟩ namonyo Yosef, bakato: Yahweh manambahkan kapado ambo anak nan ciek lai.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "maagiah namo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "manambahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nan ciek lai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:21.348922251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 113,
+  "translation": "Barakahiolah namo Yahweh, dari kini sampai salamanyo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "barakahiolah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "barakiah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dari kini"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:48.972221064Z",
+  "model": "glm-5.3"
+}

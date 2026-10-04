@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 86,
+  "translation": "Karano Ang barek jo mambuek karan-ajaik; Ang Elohim, saurang-urang sajo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "barek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ang"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "jo mambuek"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "karan-ajaik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "saurang-urang sajo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:03.731644098Z",
+  "model": "glm-5.3"
+}

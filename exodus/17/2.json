@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Urang banyak tu baaleh jo Moshe, urang tu bakato: Beri kito aia supayo kito dapek minum. Moshe bakato kapado urang tu: Baa kini urang sanak baaleh jo ambo? Baa urang sanak mancubo ⟨את⟩ Yahweh?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "baaleh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "urang tu bakato"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Beri"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado kito"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "supayo kito dapek minum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Baa"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "urang sanak baaleh"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Baa"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "urang sanak mancobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:40.336770579Z",
+  "model": "glm-5.3"
+}

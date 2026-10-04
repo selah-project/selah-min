@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo inyo bakato: Caliaklah, Adonai, utuslah ⟨dengan⟩ tangan urang nan sanak utuih.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "בי",
+      "gloss": "caliaklah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "utuslah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lah"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dangan tangan"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "sanak utuih"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:24.490736077Z",
+  "model": "glm-5.3"
+}

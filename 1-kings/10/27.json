@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo rajo mambuek ⟨את⟩ perak di Yerushalayim sarupo batu, jo ⟨את⟩ kayu araz dibuek-nyo sarupo kaju dulang nan di dataran randah, sangaik rami.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "sarupo batu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "kayu araz"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "kaju araz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibuek-nyo"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "sarupo kaju dulang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "di dataran randah"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sangaik rami"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:09.702118340Z",
+  "model": "glm-5.3"
+}

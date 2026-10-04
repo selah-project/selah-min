@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lalu Elohim bakato kapado Avraham: Adapun angkau, angkau musti jago ⟨את⟩ parjanjian-Ku, angkau jo beniah angkau sasudah angkau, sampai ka turun-turunannyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu ... bakato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Adapun angkau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian-Ku"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "angkau musti jago"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "jo beniah angkau"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sasudah angkau"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sampai ka turun-turunannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:43.012252040Z",
+  "model": "glm-5.3"
+}

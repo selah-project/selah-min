@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Ambo sarupo pelikan di gurun, ambo manjadi sarupo buruang kos di runtuahan.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "ambo sarupo"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "pelikan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ambo manjadi"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "sarupo buruang kos"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "di runtuahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:15.573338957Z",
+  "model": "glm-5.3"
+}

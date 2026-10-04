@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Karano Yerushalayim tatarik jo Yehuda jatuh, karano lidah urang tu jo parbuatan urang tu malawan Yahweh, mancaliangkan mato kamuliaan-Nyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "tatarik"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jo Yehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidah urang tu"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "jo parbuatan urang tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "untuak mancaliangkan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mato"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamuliaan-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:55.880577643Z",
+  "model": "glm-5.3"
+}

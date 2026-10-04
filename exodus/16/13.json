@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Maka pado patang ari tabueknyo, buruang salaw naik jo tatutuik ⟨את⟩ pakampuahan; jo pado pagi ari ado lapisan ambun sakaliliang pakampuahan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka jadi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pado patang ari"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "naik"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "salaw"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "tatutuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakampuahan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "pakampuahan"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "jo pado pagi ari"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "lapisan"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ambun"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pakampuahan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:33.945201212Z",
+  "model": "glm-5.3"
+}

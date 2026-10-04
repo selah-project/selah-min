@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Baliaklah kapado Yahweh jo syukua, babunyikanlah kapado Elohim kami jo kinnor.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Baliaklah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "jo syukua"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "babunyikanlah"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kapado Elohim kami"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "jo kinnor"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:55.971676786Z",
+  "model": "glm-5.3"
+}

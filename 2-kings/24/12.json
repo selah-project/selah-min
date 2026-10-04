@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 24:12",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu kalua Yehoyakhin, rajo Yehuda, mandapek rajo Babel — inyo, jo mandenyo, jo para hambanyo, jo para pajabatnyo, jo para kasimnyo; lalu rajo Babel mangambil ⟨את⟩ inyo pado taun kadalapan pamarintahannyo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lalu inyo kalua"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakhin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "mandapek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "jo mandenyo"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "jo para hambanyo"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "jo para pajabatnyo"
+    },
+    {
+      "surface": "וסריסיו",
+      "gloss": "jo para kasimnyo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lalu inyo mangambil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Yehoyakhin)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "pado taun"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "kadalapan"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "pamarintahannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:46.666386648Z",
+  "model": "glm-5.3"
+}

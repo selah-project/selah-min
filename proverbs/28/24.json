@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Nan marampok ambo laki-laki jo ambo padusi, jo bakato: Indak ado palanggaran — inyo dunsanak urang nan marusak.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "marampok"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ambo laki-laki"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "jo ambo padusi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "palanggaran"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "dunsanak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "nan marusak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:49.202027440Z",
+  "model": "glm-5.3"
+}

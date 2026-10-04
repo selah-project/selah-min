@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 53,
+  "translation": "Urang bodoh alah bakato di atinyo: indak ado Elohim. Inyo alah rusak, inyo alah mambuek kalancangan nan bijijiek; indak ado nan babuek elok.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "alah bakato"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "di atinyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "alah rusak"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "mambuek nan bijijiek"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kalancangan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan babuek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:11.285552114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Dan urang-urang nan tadiang itu manyadioan makanan untuak ⟨את⟩ rajo Shelomo jo untuak ⟨את⟩ sado nan dakek ka meja rajo Shelomo, masiang-masiang patamo bulannyo; indak ado kakurangan sasuatu pun.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "manyadioan makanan"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "urang-urang nan tadiang"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo Shelomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "untuak ⟨את⟩",
+      "marks": "sado nan dakek ka meja rajo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nan dakek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masiang-masiang"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "patamo bulannyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "ado kakurangan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sesuatu pun"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:52.376526693Z",
+  "model": "glm-5.3"
+}

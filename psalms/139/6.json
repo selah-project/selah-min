@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Pangatahuan itu mukasiab bana bagi ambo, tatinggi, indak ambo mampu untuaknyo.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "mukasiab bana"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangatahuan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "bagi ambo"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "tatinggi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ambo mampu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "untuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:25.902320924Z",
+  "model": "glm-5.3"
+}

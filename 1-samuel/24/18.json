@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo inyo bakato kapado Dawid: Labiah tsedeq ang dari ambo, karano ang bakabaikan ambo jo nan elok, sadang ambo mambaikan ang jo nan jahat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "bakabaikan ambo"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "jo nan elok"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "sadang ambo"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "mambaikan ang"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "jo nan jahat"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:19.711096117Z",
+  "model": "glm-5.3"
+}

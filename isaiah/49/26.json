@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 49:26",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Jo ambo mambaokan ⟨את⟩ urang manyaso angkau makan ⟨את⟩ dagiang inyo surang, sarupo anggur anyia inyo minum darah inyo surang; jo sado dagiang ka tau baso ambo, Yahweh, palapeh angkau jo pangauih angkau, Nan Gagah dari Yaakov.",
+  "tokens": [
+    {
+      "surface": "והאכלתי",
+      "gloss": "jo ambo mambaokan makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiang inyo surang"
+    },
+    {
+      "surface": "מוניך",
+      "gloss": "urang manyaso angkau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiang inyo surang"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "dagiang inyo surang"
+    },
+    {
+      "surface": "וכעסיס",
+      "gloss": "sarupo anggur anyia"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "darah inyo surang"
+    },
+    {
+      "surface": "ישכרון",
+      "gloss": "inyo minum sampai mabuak"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "jo ka tau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "palapeh angkau"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "jo pangauih angkau"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Nan Gagah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:21.883433273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Lalu kau ambiak ⟨את]] minyak urapan, jo kau tuang di ateh kapalonyo, jo kau urap ⟨את]] inyo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kau ambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "kau tuang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "kau urap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (Aharon)"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:53.742166755Z",
+  "model": "glm-5.3"
+}

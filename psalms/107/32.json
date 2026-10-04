@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Jo bilo inyo mamuliaan Dia dalam himpunanan bangso, jo dalam tampak duduak urang gaek inyo mamuji Dia.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "mamuliaan Dia"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dalam himpunanan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "dalam tampak duduak"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "urang gaek"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "mamuji Dia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:40.805527029Z",
+  "model": "glm-5.3"
+}

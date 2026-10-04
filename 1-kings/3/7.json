@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo kini, Yahweh Elohim ambo, Angkau alah mamalintehkan ⟨את⟩ amban Angkau manjadi rajo manggantikan dawud apak ambo, sadangkan ambo seurang anak mudo ketek, indak tau baa kalua jo masuak.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Angkau"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "alah mamalintehkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amban Angkau"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "amban Angkau"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "manggantikan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "dawud"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apak ambo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "sadangkan ambo"
+    },
+    {
+      "surface": "נער",
+      "gloss": "seurang anak mudo"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ketek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "jo masuak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:47.753836453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lalu urang tu batengka jo Moshe, jo bakato, mandapek: Alangkah eloknyo kalau kito mati katiko sanak-sanak kito mati di muko Yahweh!",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "batengka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mandapek"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "alangkah eloknyo kalau"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "kito mati"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "katiko ... mati"
+    },
+    {
+      "surface": "אחיאנו",
+      "gloss": "sanak-sanak kito"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:45:56.589849044Z",
+  "model": "glm-5.3"
+}

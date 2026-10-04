@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Maka dangaanlah di langik ⟨את⟩ sumbayangan urang tu jo ⟨את⟩ pohonannyo, dan buaiklah pangadilan urang tu.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "maka dangaanlah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumbayangan urang tu"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "sumbayangan urang tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pohonannyo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "pohonannyo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan buaiklah"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "pangadilan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:59.619003436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Kau alah caliak, Yahweh — jan buek indak mangecek; Adonai, jan jauah dari ambo.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Kau alah caliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "buek indak mangecek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jauah"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:25.672674103Z",
+  "model": "glm-5.3"
+}

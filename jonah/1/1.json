@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo jadi kato Yahweh kapado Yonah anak Amitai, nan bakato:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo jadi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amitai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T07:14:04.302728605Z",
+  "model": "glm-5.3"
+}

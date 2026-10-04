@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo Inyo mambueknyo malompek sarupo anak lombu, ⟨את⟩ Levanon jo ⟨את⟩ Sirion, sarupo anak rimau liar.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "mambueknyo malompek"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "anak lombu"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "jo Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "rimau liar"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:09.406562858Z",
+  "model": "glm-5.3"
+}

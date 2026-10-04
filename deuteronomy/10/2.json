@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo ambo ka manulih ka ateh lueh-lueh tu ⟨את⟩ kato-kato nan alah ado ka ateh lueh-lueh nan partamo, nan sanedo sinamo lah bakah, jo lah taruih daerahkannyo ka dalam poti.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "jo ambo ka manulih"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lueh-lueh tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ado"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lueh-lueh"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "nan partamo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "sanedo sinamo lah bakah"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "jo lah taruih daerahkannyo"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "ka dalam poti"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:44.889229350Z",
+  "model": "glm-5.3"
+}

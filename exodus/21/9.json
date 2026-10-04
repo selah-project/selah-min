@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo kok untuak anaknyo laki inyo dijanjikannyo, manuruik hukum padusi-padusi inyo malakuan untuaknyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jo kok"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "untuak anaknyo laki"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "dijanjikannyo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "manuruik hukum"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "padusi-padusi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "malakuan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "untuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:01.455410777Z",
+  "model": "glm-5.3"
+}

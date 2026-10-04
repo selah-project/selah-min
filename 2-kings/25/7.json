@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo ⟨את⟩ anak-anak Tsidkiyahu inyo manyambeleh di mato inyo, jo ⟨את⟩ mato Tsidkiyahu inyo picuak, jo inyo maikannyo jo rantai tambago, jo mambaok inyo ka Babel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "manyambeleh"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "di mato inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mato Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "picuak"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "maikannyo"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "jo rantai tambago"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "mambaok inyo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ka Babel"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:36.260373129Z",
+  "model": "glm-5.3"
+}

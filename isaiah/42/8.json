@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Ambo Yahweh, itulah namo ambo; kamuliaan ambo indak ambo agiah kapado nan lain, jo pujian ambo indak ambo agiah kapado patuang-patuang ukiran.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "namo ambo"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "jo kamuliaan ambo"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "kapado nan lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ambo agiah"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "jo pujian ambo"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "kapado patuang-patuang ukiran"
+    }
+  ],
+  "timestamp": "2026-10-04T06:18:17.147021901Z",
+  "model": "glm-5.3"
+}

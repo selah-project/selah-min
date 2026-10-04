@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 85,
+  "translation": "Kabanaran tumabuah dari bumi, jo tsedeq maliek dari langik.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "tumabuah"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "jo tsedeq"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langik"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "maliek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:53.415131823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Urang kaba indak mangatahui, jo urang bodoh indak mamahami ⟨את⟩ iko.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "בער",
+      "gloss": "kaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mangatahui"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "jo urang bodoh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mamahami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iko"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:53.050673545Z",
+  "model": "glm-5.3"
+}

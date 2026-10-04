@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Kaluar pangapalo-pangapalo urang itu jo pancatat-nyo, dan bakato kapado urang itu, mandakek: Co kato Paroh: ambo indak maagiah kapado kalian jerami.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "pangapalo-pangapalo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang itu"
+    },
+    {
+      "surface": "ושטריו",
+      "gloss": "jo pancatat-nyo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mandakek"
+    },
+    {
+      "surface": "כה",
+      "gloss": "co"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ambo indak"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado kalian"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "jerami"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:02.983807605Z",
+  "model": "glm-5.3"
+}

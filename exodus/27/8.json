@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Barongga jo papan-papan buek ⟨את⟩ inyo; sarupo nan ditunjuakan kapado ⟨את⟩ kau di ateh gunuang, demikian urang tu mambueknyo.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "barongga"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "jo papan-papan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "buek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "nan ditunjuakan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kau",
+      "marks": "kapado kau di ateh gunuang"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di ateh gunuang"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "urang tu mambueknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:02.265399752Z",
+  "model": "glm-5.3"
+}

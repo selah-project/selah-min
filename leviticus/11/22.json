@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "⟨את⟩ Iko dari antaro inyo buliah kalian makan: ⟨את⟩ balang manuruik jinisnyo, jo ⟨את⟩ hasalaam manuruik jinisnyo, jo ⟨את⟩ hargol manuruik jinisnyo, jo ⟨את⟩ hagab manuruik jinisnyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iko"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dari antaro inyo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "buliah kalian makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balang"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "balang"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "manuruik jinisnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "hasalaam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "hasalaam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "manuruik jinisnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "hargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "manuruik jinisnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "hagab"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hagab"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "manuruik jinisnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:19.769295845Z",
+  "model": "glm-5.3"
+}

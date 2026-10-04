@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 70,
+  "translation": "Biarlah malu jo tahina urang nan mangecek nyao ambo; biarlah mundua balakang jo sasakan urang nan lomo bana pado kaba buruak untuak ambo.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "biarlah malu"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "jo tahina"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "urang nan mangecek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyao ambo"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "biarlah mundua"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "balakang"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "jo sasakan"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "urang nan lomo bana"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kaba buruak untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:22.391056590Z",
+  "model": "glm-5.3"
+}

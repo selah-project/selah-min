@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo sadoalah minkha nan dibaka di dalam tanur, jo sadoalah nan dibuek di dalam marjeshet jo di ateh machabat, untuak imam nan mambaok ⟨את⟩ inyo dakek — kapado inyo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "di dalam tanur"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "di dalam marjeshet"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo di ateh"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "machabat"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuak imam"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "nan mambaok dakek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "minkha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jadi kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:24.656839624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo inyo maruntuahkan ⟨את⟩ rumah-rumah urang-urang suci nan ado di rumah Yahweh, tampek padusi-padusi manenun di sinan rumah-rumah untuak Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "maruntuahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah-rumah urang-urang suci"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "urang-urang suci (qedishim)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "padusi-padusi"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "manenun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "untuak Asherah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:28.036779747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 9:17",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Karano kajahatan mamaruak sarupo api; ⟨את⟩ duri jo ⟨את⟩ ilalang dimakannyo; manyalo pulo dalam rimbo-rimbo utan, jo tabaliak-taliak naiak kokok asok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "mamaruak"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "sarupo api"
+    },
+    {
+      "surface": "רשעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "duri"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "jo ilalang"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dimakannyo"
+    },
+    {
+      "surface": "ותצת",
+      "gloss": "jo manyalo pulo"
+    },
+    {
+      "surface": "בסבכי",
+      "gloss": "dalam rimbo-rimbo"
+    },
+    {
+      "surface": "היער",
+      "gloss": "utan"
+    },
+    {
+      "surface": "ויתאבכו",
+      "gloss": "jo tabaliak-taliak naiak"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "kokok"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asok"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:39.444017248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 148,
+  "translation": "Gunuang-gunuang jo sagalo bukik, kayu babuah jo sagalo aro",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bukik"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "babuah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "aro"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:31.921566609Z",
+  "model": "glm-5.3"
+}

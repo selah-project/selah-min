@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "jo ⟨את⟩ Daah, jo ⟨את⟩ Aya manuruik janjangnyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Daah"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "Daah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "manuruik janjangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:05.690610019Z",
+  "model": "glm-5.3"
+}

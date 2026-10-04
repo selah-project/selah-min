@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Dan Ia manyuapan inyo jo lamak gandum, jo jo madu dari batu ambo manyatok ⟨kau⟩.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "Dan Ia manyuapan inyo"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "jo lamak"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "jo dari batu"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "ambo manyatok ⟨kau⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:41.803254933Z",
+  "model": "glm-5.3"
+}

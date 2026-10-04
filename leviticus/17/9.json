@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "jo indak mambaoknyo ka pintu Ohel Moed untuak mambuek ⟨את⟩-nyo ka Yahweh — urang tu ka dibuang dari tangah umatnyo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "mambaoknyo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak mambuek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nyo",
+      "marks": "kurban tu (lakuik dari ayaik 8)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahweh"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "jo ka dibuang"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "dari umatnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:08.868614153Z",
+  "model": "glm-5.3"
+}

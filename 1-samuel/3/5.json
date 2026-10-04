@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu inyo balari ka Eli, lalu bakato: Nden honor, karano sanak alah mambiau ambo. Lalu Eli bakato: Indak ambo mambiau ⟨sanak⟩; baliaklah baringan. Lalu inyo pai jo baringan.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "lalu inyo balari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nden honor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "sanak alah mambiau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ambo mambiau"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "baringan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lalu inyo pai"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "jo baringan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:57.871741509Z",
+  "model": "glm-5.3"
+}

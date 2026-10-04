@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Jo Elohim bakato kapado inyo: Namo kau Yaakov; indak ka disabuik lai namo kau Yaakov, tapi Yisrael ka jadi namo kau. Jo inyo manyabuik ⟨את⟩ namonyo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo kau"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ka disabuik"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo kau"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka jadi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo kau"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "jo inyo manyabuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:33.097111338Z",
+  "model": "glm-5.3"
+}

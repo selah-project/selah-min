@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Lalu Moshe mandakek ⟨את⟩ parkaro urang tu kapado Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "mandakek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parkaro urang tu"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "parkaro urang tu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:48:22.073459357Z",
+  "model": "glm-5.3"
+}

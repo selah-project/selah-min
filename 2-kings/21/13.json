@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo ambo maunjuangkan ateh Yerushalayim ⟨את⟩ banang ukua Shomron jo ⟨את⟩ timbangan rumah Akhav, jo ambo manguapiah ⟨את⟩ Yerushalayim sarupo urang manguapiah ⟨את⟩ piriang — diuapiahnyo, jo dibaliakannyo mukonyo ka muko.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "ambo maunjuangkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banang ukua Shomron"
+    },
+    {
+      "surface": "קו",
+      "gloss": "banang ukua"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "timbangan rumah Akhav"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "timbangan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "jo ambo manguapiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "urang manguapiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piriang"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "piriang"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "diuapiahnyo"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "jo dibaliakannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka muko"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:04:33.727554932Z",
+  "model": "glm-5.3"
+}

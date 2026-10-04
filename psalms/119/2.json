@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Barakiah urang-urang nan manjago kasaksiannyo, jo sado ati inyo mancari inyo ⟨Dialah⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Barakiah urang-urang"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "nan manjago"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "kasaksiannyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "mancari inyo ⟨Dialah⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:29.745555362Z",
+  "model": "glm-5.3"
+}

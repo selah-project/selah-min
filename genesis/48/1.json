@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Sasudah kajadian-kajadian itu, urang bakato kapado Yosef: Caliak, ambo den, apak lai den sakik. Maka inyo maambiak ⟨את⟩ duo anaknyo basamo inyo, ⟨את⟩ Menashsheh jo ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Sasudah kajadian-kajadian itu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kajadian-kajadian"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "urang bakato"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kapado Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apak ambo"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "sakik"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duo anaknyo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashsheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:01.942756536Z",
+  "model": "glm-5.3"
+}

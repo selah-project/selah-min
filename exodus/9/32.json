@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Tapi gandum jo spelt indak kana pukulan, karano baruaknyo lambek.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "jo gandum"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "jo spelt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "kana pukulan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "lambek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:48.439375639Z",
+  "model": "glm-5.3"
+}

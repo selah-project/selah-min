@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "\"Ambo daulu nan mambareh-an ⟨את⟩ aug nagari ambo; kini mamuda-an lah kirinyo dari karajo kokok daulu nan mambareh-an, jo dari aug barek nan inyo latak-an di ateh ambo kami, supayo kami mambaantu Ambo.\"",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "daulu nan"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "mambareh-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aug nagari ambo"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "aug nagari ambo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "mamuda-an"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "dari karajo kokok"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "daulu"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "nan mambareh-an"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "jo dari aug"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "barek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inyo latak-an"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "di ateh ambo kami"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "supayo kami mambaantu Ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:52:03.290388905Z",
+  "model": "glm-5.3"
+}

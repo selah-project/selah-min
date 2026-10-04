@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "jo ⟨את⟩ pondasi-pondasi tu inyo buek, jo ⟨את⟩ kawa-kawa tu inyo buek, di ateh pondasi-pondasi tu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pondasi-pondasi tu"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "pondasi tu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inyo buek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kawa-kawa tu"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "kawa-kawa tu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inyo buek"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "pondasi tu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:50:09.823307583Z",
+  "model": "glm-5.3"
+}

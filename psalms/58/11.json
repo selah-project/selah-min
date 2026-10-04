@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 58,
+  "translation": "Urandapek bana nak sanang kok inyo caliak baleh tuah; inyo mambasuah kakiinyo jo darah urang jahat.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "nak sanang"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urandapek bana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "baleh tuah"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "kakiinyo"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "mambasuah"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "jo darah"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "urang jahat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:05.232592910Z",
+  "model": "glm-5.3"
+}

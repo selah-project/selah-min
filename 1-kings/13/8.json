@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Tapi urang Elohim tu bakato kapado rajo tu: Kalau ang agiah kapado ambo ⟨את⟩ satangah rumah ang, ambo indak ka pai basamo ang, jo ambo indak ka makan roti, indak pulo ka minum aia di tampek iko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ang agiah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satangah rumah ang"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "satangah"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "pai"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo ang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak pulo"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "minum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:55.136082940Z",
+  "model": "glm-5.3"
+}

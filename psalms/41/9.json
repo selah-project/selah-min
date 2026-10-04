@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Kato urang BLI: panyakik jahat lah dituang ka atehnyo, jo kini karano inyo lah barado, inyo indak ka bangkek lai.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "BLI"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "dituang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka atehnyo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo karano"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "barado"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ka... lai"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "bangkek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:53.043829888Z",
+  "model": "glm-5.3"
+}

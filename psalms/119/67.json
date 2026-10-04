@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Sabalun ambo disikso, ambo iyoh tapi sakini ambo alah manjago kato-Mu.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "sabalun"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ambo disikso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "iyoh tapi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "sakini"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kato-Mu"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "alah ambo manjago"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:57.857708115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 2:4",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo kaliek, Boaz tibo dari Beit-Lekhem; lalu inyo bakato kapado urang-manyabit: Yahweh basamo sanak. Lalu mareka manjawek inyo: Yahweh mampakatangkan sanak.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Jo kaliek"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lekhem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "לקוצרים",
+      "gloss": "kapado urang-manyabit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "basamo sanak"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mareka manjawek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "mampakatangkan sanak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:18:02.391819692Z",
+  "model": "glm-5.3"
+}

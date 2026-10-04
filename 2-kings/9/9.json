@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo Aku ka mambuek ⟨את⟩ rumah Ahab sarupo rumah Yarobeam anak Nevat, jo sarupo rumah Basya anak Ahiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jo Aku ka mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "sarupo rumah"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "jo sarupo rumah"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:14.820669326Z",
+  "model": "glm-5.3"
+}

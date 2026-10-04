@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jago ambo sarupo anak mato, di bayang-bayang sayok-sayok Mu ambo Ka-suruakkan.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Jago ambo"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "sarupo anak"
+    },
+    {
+      "surface": "בת",
+      "gloss": "(anak)"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "di bayang-bayang"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sayok-sayok Mu"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "manyuruakkan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:03.086356956Z",
+  "model": "glm-5.3"
+}

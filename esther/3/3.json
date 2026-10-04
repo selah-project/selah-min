@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Kudian ambo-ambo rajo nan ado di gapuro rajo bakato ka Mordekhai: Baa aie awak malanggahi ⟨את⟩ parentah rajo?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ambo-ambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di gapuro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ka Mordekhai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "baa aie awak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "malanggahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah rajo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:24:08.083936834Z",
+  "model": "glm-5.3"
+}

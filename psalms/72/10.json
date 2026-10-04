@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Rajo-rajo Tarshish jo pulau-pulau mambao minkha; rajo-rajo Sheba jo Seba maagiah hadiah.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "jo pulau-pulau"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "mambao"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "jo Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "hadiah"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "maagiah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:05.891990059Z",
+  "model": "glm-5.3"
+}

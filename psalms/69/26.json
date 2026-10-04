@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Biarolah kubu inyo manjadi rancang, jo di tenda inyo jan ado panduduak.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Biarolah manjadi"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "kubu inyo"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "rancang"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "di tenda inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ado"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "panduduak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:42.702447270Z",
+  "model": "glm-5.3"
+}

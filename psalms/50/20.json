@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Kau duduak mancaci sudaro laki-lakimu, urang anak dari mande kau kaau tampekkan jatuah.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "kau duduak"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "mancaci sudaro laki-lakimu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "mancaci"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "urang anak dari"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mande kau"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kaau tampekkan"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "jatuah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:01.815617776Z",
+  "model": "glm-5.3"
+}

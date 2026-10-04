@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Tapi urang tu indak mandanga; urang tu mambuek kareh ⟨את⟩ tangkuaknyo, sarupo tangkuak apak-apaknyo, nan indak picayo kapado Yahweh, Elohim nyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "mambuek kareh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangkuaknyo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "tangkuaknyo"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "sarupo tangkuak"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "apak-apaknyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "picayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:03:28.837319247Z",
+  "model": "glm-5.3"
+}

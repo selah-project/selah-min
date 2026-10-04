@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 26:22",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo untuak liak-liak balakang ⟨dari⟩ Mishkan, ka arah barat, bauek anam papan.",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "jo untuak liak-liak balakang"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ka arah barat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bauek"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "anam"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "papan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:35.765791248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo urang asing indak elo sakiti, jo indak elo tanakan inyo, karano elo urang asing di bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Jo urang asing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "elo sakiti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "elo tanakan inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "urang asing"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "elo adolah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:03:39.369356933Z",
+  "model": "glm-5.3"
+}

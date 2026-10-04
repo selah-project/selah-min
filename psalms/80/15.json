@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "Elohim Tsebaot, baliaklah kini, caliaklah dari langik jo liek, jo palihek pokok anggak iko.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "caliaklah"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langik"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "jo liek"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "jo palihek"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "pokok anggak"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:19.782297422Z",
+  "model": "glm-5.3"
+}

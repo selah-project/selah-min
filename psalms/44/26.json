@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Karano jiwo kito alah tinggolam ka dabu, paruik kito malakek ka tanah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "tinggolam"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ka dabu"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "jiwo kito"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "malakek"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "paruik kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:10.953024811Z",
+  "model": "glm-5.3"
+}

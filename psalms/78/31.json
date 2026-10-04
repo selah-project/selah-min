@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Jo rimbo Elohim naik ateh urang tu, jo inyo mambunuah urang-urang tabu di antaro urang tu, jo pamudo-pamudo Yisrael inyo manunduakan.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "jo rimbo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ateh urang tu"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "jo inyo mambunuah"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "urang-urang tabu di antaro urang tu"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "jo pamudo-pamudo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "manunduakan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:40.763744205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 141,
+  "translation": "Biloalah doa ambo ditagakkan sarupo ukupan di muko Awak, pangangkatan tapak tangan ambo sarupo minkha patang hari.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "Biloalah ... ditagakkan"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ambo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ukupan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di muko Awak"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "pangangkatan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tapak tangan ambo"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "patang hari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:50.838827527Z",
+  "model": "glm-5.3"
+}

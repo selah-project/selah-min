@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Yahweh ⟨ado⟩ di istana sucinyo; Yahweh — takhtanyo di langik. Mato-Nyo mancaliak, kalopak mato-Nyo manampek urang-urang anak Adam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "di istana"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sucinyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhtanyo"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mato-Nyo"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "kalopak mato-Nyo"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "manampek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang-urang anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:28.939349263Z",
+  "model": "glm-5.3"
+}

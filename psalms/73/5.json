@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Dalam kasusahan urang fana inyo indak ado, jo urang biaso inyo indak disantuah.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "dalam kasusahan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "urang fana"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "inyo indak ado"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang biaso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "disantuah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:23.180256321Z",
+  "model": "glm-5.3"
+}

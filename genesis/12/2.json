@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo Aka jadian ang manjadi bangso gadang, jo Aka baka barek-i ang, jo Aka gadang-an namo ang; jo ang manjadi barek.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Aka jadian ang"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "manjadi bangso"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "Aka baka barek-i ang"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "Aka gadang-an"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo ang"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo ang manjadi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barek"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:20.580486543Z",
+  "model": "glm-5.3"
+}

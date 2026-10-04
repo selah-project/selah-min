@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 99,
+  "translation": "Yahweh gadang di Tzion, jo luhua inyo di ateh sagalo bangso.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "jo luhua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:38.652563414Z",
+  "model": "glm-5.3"
+}

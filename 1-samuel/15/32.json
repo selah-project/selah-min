@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Lalu Shemuel bakato: Dakekán ka ambo ⟨את⟩ Agag, rajo Amalek. Lalu Agag pai ka inyo sacaro riang, jo Agag bakato: Sungguah, lah lapeh paiknyo kamatian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu bakato"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "Dakekán"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "sacaro riang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Sungguah"
+    },
+    {
+      "surface": "סר",
+      "gloss": "lah lapeh"
+    },
+    {
+      "surface": "מר",
+      "gloss": "paiknyo"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kamatian"
+    }
+  ],
+  "timestamp": "2026-10-04T05:27:57.011391370Z",
+  "model": "glm-5.3"
+}

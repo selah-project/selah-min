@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Elohim jan angku hinoa, jo pangulu di antaro umat angku jan angku kutuak.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "angku hinoa"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "jo pangulu"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "di antaro umat angku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תאור",
+      "gloss": "angku kutuak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:11.277313876Z",
+  "model": "glm-5.3"
+}

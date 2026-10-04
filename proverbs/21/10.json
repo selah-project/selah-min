@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Napeh urang jaah manginkankan ⟨את⟩ kajahatan; kawanannyo indak mandapek raso baiak di matonyo.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "napeh"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jaah"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "manginkankan ⟨את⟩",
+      "marks": "kajahatan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "mandapek raso baiak"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matonyo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kawanannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:58:38.328108101Z",
+  "model": "glm-5.3"
+}

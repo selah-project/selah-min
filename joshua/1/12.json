@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 1:12",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo kapado urang Reubeni, jo urang Gadi, jo kapado satangah suku Manasye, Yehoshua bakato, nan bakato:",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "jo kapado urang Reubeni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "jo urang Gadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "jo kapado satangah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Manasye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T05:04:13.559660471Z",
+  "model": "glm-5.3"
+}

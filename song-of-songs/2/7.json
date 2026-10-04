@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 2:7",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Ambo basumpah ⟨את⟩ kapado awak, anak-anak gadih Yerushalayim, dek kijang atau rindu-rindu padang: jan bangunkan, jan pulo garuak ⟨את⟩ kasiah, sampai inyo mahu.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ambo basumpah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kapado awak"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak gadih"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "dek kijang"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "rindu-rindu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "bangunkan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jan pulo"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "garuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasiah"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "kasiah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "inyo mahu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:15:30.411165077Z",
+  "model": "glm-5.3"
+}

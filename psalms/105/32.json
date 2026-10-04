@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Inyo maagiah ujan urang tu manjadi es batu, api nan manyala di bumi urang tu.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "ujan urang tu"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "es batu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "nan manyala"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di bumi urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:16.446985088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Kudian Moshe mangiriman ⟨את⟩ mintuo baliau pulang, jo baliau pai ka nagarinyo surang.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kudian mangiriman pulang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mintuo baliau"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mintuo baliau"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "jo baliau pai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "surang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nagarinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:31.503461690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 74,
+  "translation": "Angkek lah langkah Awak ka runtuahan-runtuahan nan baka salamanyo; sagalo nan buruak alah dibuek dek musuah di tampek nan suci.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Angkek lah"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "langkah Awak"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ka runtuahan-runtuahan"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "nan baka salamanyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nan buruak"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tampek nan suci"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:08.676465974Z",
+  "model": "glm-5.3"
+}

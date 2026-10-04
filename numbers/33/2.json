@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Jo Moshe manulih ⟨את⟩ kalua-parjalanan inyo manuruik tingkek-tingkek parijalanan inyo, manuruik kato Yahweh; jo iko tingkek-tingkek parijalanan inyo manuruik kalua-parjalanan inyo.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "jo inyo manulih"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalua-parjalanan inyo"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "kalua-parjalanan inyo"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "manuruik tingkek-tingkek parijalanan inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "manuruik"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "jo iko"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "tingkek-tingkek parijalanan inyo"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "manuruik kalua-parjalanan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:50:43.649252257Z",
+  "model": "glm-5.3"
+}

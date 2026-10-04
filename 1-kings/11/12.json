@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Tapi pado ari-ari ang indak ambo buek, dek Dawid, ayah ang; dari tangan anak ang ambo ka areknyo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tapi"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "pado ari-ari ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ambo buek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dek"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayah ang"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anak ang"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ambo ka areknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:03.720647357Z",
+  "model": "glm-5.3"
+}

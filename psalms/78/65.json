@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Lalu Adonai tagarih sarupo urang lalok, sarupo pahlawan nan basorak dek minuman anggur.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "tagarih"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "sarupo urang lalok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "sarupo pahlawan"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "basorak"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "dek minuman anggur"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:32.686492612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo kau taruah ⟨את⟩ sagalonyo di ateh ciek ranjang, jo kau paikahkan ⟨את⟩ sagalonyo di dalam ranjang tu, samo ⟨את⟩ anak lumbu jo ⟨את⟩ duo biriah itu.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "jo kau taruah"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sagalonyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ranjang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "jo kau paikankan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sagalonyo"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "di dalam ranjang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ samo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "anak lumbu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "biriah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:46.331406874Z",
+  "model": "glm-5.3"
+}

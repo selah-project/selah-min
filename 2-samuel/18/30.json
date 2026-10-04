@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo rajo ko bakato: Pai ka tapi, baradiaklah di siko. Mako inyo pai ka tapi, jo tagak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "סב",
+      "gloss": "pai ka tapi"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "baradiaklah"
+    },
+    {
+      "surface": "כה",
+      "gloss": "di siko"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "pai ka tapi"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "tagak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:41:45.874604487Z",
+  "model": "glm-5.3"
+}

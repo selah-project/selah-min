@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Pandanglah ambo, jo kasihanilah ambo, karano ambo surang jo miskin ambo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Pandanglah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "jo kasihanilah ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "surang"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "jo miskin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:14.347878076Z",
+  "model": "glm-5.3"
+}

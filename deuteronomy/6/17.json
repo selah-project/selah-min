@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jago bana awak jago ⟨את⟩ parentah-parentah Yahweh, Elohim awak, jo saksi-saksi-Nyo jo katantuan-katantuan-Nyo, nan alah Diparentahkan kapado awak.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "jago"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "bana awak jago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah-parentah Yahweh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah-parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim awak"
+    },
+    {
+      "surface": "וועדתיו",
+      "gloss": "jo saksi-saksi-Nyo"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "jo katantuan-katantuan-Nyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "alah Diparentahkan kapado awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:53:06.980138562Z",
+  "model": "glm-5.3"
+}

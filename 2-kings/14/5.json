@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Sasudah karajaan kokoh di tangannyo, inyo mambunuah ⟨את⟩ ambo-amboinyo, urang-urang nan mambunuah ⟨את⟩ rajo amaknyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kokoh"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannyo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "inyo mambunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambo-amboinyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ambo-amboinyo"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "nan mambunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:01:07.406863152Z",
+  "model": "glm-5.3"
+}

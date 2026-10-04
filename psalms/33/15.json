@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Inyo nan mambantuak ati urang tu sagalonyo sacaro kasaduyuan, mangarati sagalo pabuatan urang tu.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "nan mambantuak"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sacaro kasaduyuan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ati urang tu"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "mangarati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ka⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "pabuatan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:39.600513296Z",
+  "model": "glm-5.3"
+}

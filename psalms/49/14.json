@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Ko lah jalan mareka — kabodohan bagi mareka; jo urang-urang sasudah mareka dibaikek dek omongan muluik mareka. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ko lah"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jalan mareka"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "kabodohan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mareka"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "jo urang-urang sasudah mareka"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "dekat omongan muluik mareka"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "dibaikek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:57.670609513Z",
+  "model": "glm-5.3"
+}

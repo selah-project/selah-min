@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo inyo buek jahat di mato Yahweh, sarupo nan alah buek Manasyeh amaknyo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jo inyo buek"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah buek"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasyeh"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:03:59.855026259Z",
+  "model": "glm-5.3"
+}

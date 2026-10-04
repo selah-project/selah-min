@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Ambo bakato dalam gopak ambo: sado urang pambohong.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "dalam gopak ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "pambohong"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:53.294028046Z",
+  "model": "glm-5.3"
+}

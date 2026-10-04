@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo inyo manggarikkan tangannyo ateh utaro, jo mambuek binaso ⟨את⟩ Ashur, jo mambuek ⟨את⟩ Ninewe jadi rusuak nan kariang, sarupo gurun.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "manggarikkan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utaro"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "mambuek binaso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mambuek jadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninewe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "rusuak"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kariang"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "sarupo gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T07:17:15.918885547Z",
+  "model": "glm-5.3"
+}

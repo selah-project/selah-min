@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Jo Yahweh manjadi kubu untuak ambo, jo Elohim ambo manjadi batu palinduangan ambo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo inyo manjadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "jo Elohim ambo"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "palinduangan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:04.547879262Z",
+  "model": "glm-5.3"
+}

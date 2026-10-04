@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Inyo mambaok ambo baliak malalui ⟨את⟩ jalan gapuro lua tampek suci nan mangadok ka timur, jo gapuro itu tatok tapi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mambaok baliak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ambo",
+      "marks": "ambo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "tampek suci"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "lua"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "mangadok"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "timur"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "tapi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:05:17.274501940Z",
+  "model": "glm-5.3"
+}

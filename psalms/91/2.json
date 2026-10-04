@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Ambo bakato kapado Yahweh: palinduangan ambo jo bantiangan ambo, Elohim ambo, kapado-Nyo ambo tatampok.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "palinduangan ambo"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "jo bantiangan ambo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "tatampok"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kapado-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:50.923134334Z",
+  "model": "glm-5.3"
+}

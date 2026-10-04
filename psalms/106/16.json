@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Inyo maraso iri hati kapado Moshe di pakamannyo, kapado Aharon urang suci Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "maraso iri hati"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kapado Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "di pakamannyo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kapado Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "urang suci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:18.092023198Z",
+  "model": "glm-5.3"
+}

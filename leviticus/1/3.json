@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Kalau korban inyoolah olah nan bakabek, dari lumbu, jantan nan indak bacakak, inyo mambaokannyo; ka mungko pintu Ohel Moed inyo mambaokan ⟨את⟩ inyo, supayo dibuliahan bagi inyo di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah nan bakabek"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korban inyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lumbu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "jantan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "indak bacakak"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "inyo mambaokannyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mungko pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "inyo mambaokan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (korban tu)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "supayo dibuliahan bagi inyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:14.908628598Z",
+  "model": "glm-5.3"
+}

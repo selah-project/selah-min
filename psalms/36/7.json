@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Tsedeq-Mu sarupo gunuang-gunuang El, mishpat-Mu tehom nan gadang; manusia jo binatang Kau salamaikan, Yahweh.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeq-Mu"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "sarupo gunuang-gunuang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "mishpat-Mu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "jo binatang"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "Kau salamaikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:35.115087184Z",
+  "model": "glm-5.3"
+}

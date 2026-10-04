@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo nan mambunuah binatang musti manggantiannyo, jo nan mambunuah manusia musti dibunuah.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "jo nan mambunuah"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "manggantiannyo"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "jo nan mambunuah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dibunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:40.653925826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo ⟨את⟩ duo ginjal tu, jo ⟨את⟩ galemak nan ado di atehnyo, nan ado di ateh pinggang, jo ⟨את⟩ sirikiah nan ado di ateh ati, di ateh ginjal-ginjal — inyo maagiahnyo alias",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "duo ginjal tu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duo"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjal tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "galemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "galemak tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pinggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "sirikiah"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "sirikiah tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ati"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ginjal-ginjal"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "inyo maagiahnyo alias"
+    }
+  ],
+  "timestamp": "2026-10-04T04:27:47.746013115Z",
+  "model": "glm-5.3"
+}

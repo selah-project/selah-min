@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo Atalya mandanga ⟨את⟩ suaro urang rami nan balari jo nan mamuji ⟨את⟩ rajo, lalu inyo datang ka urang rami itu, di rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaro urang rami"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang rami"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "nan balari"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "jo nan mamuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "lalu inyo datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang rami itu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:55:15.180312298Z",
+  "model": "glm-5.3"
+}

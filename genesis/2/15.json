@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim maambiak ⟨את⟩ manusia tu, dan manampekannyo di taman Eden, untuak manggarapnyo dan manjagonyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia tu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia tu"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "manampekannyo"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di taman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "untuak manggarapnyo"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "dan manjagonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:05.561838229Z",
+  "model": "glm-5.3"
+}

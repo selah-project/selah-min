@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Paro nan ciek tuju dari utara di hadapan Mikmas, jo nan ciek dari salatan di hadapan Gibea.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "paro"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "tuju"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "dari utara"
+    },
+    {
+      "surface": "מול",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmas"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "jo nan ciek"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "dari salatan"
+    },
+    {
+      "surface": "מול",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gibea"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:52.444949036Z",
+  "model": "glm-5.3"
+}

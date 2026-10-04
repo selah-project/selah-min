@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo imam tu mamakai baju linenyo, jo salawar linen inyo pakai di ateh dagiangnyo; jo inyo mangangkek ⟨את⟩ dabu nan dimakan api tu ⟨את⟩ olah di ateh mezbah, lalu inyo manaruhnyo di sampiang mezbah.",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "mamakai"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "bajunyo"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "salawar"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "inyo pakai"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dabu"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "manaruhnyo"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "di sampiang"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:42.450332834Z",
+  "model": "glm-5.3"
+}

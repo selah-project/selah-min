@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "Jo mambao Yisrael malewati tangah-tangahnyo, karano salamo-lamonyo hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "Jo mambao malewati"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "tangah-tangahnyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:00.952014347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Lah bangkik Sha'ul lai turun ka gurun Zif, jo ⟨את⟩ inyo tigo ribu urang piliahan Yisrael, untuak mancari ⟨את⟩ Dawid di gurun Zif.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lah bangkik"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "lai turun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ jo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "piliahan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "untuak mancari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    }
+  ],
+  "timestamp": "2026-10-04T09:10:10.114663308Z",
+  "model": "glm-5.3"
+}

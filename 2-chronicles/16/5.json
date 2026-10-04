@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Maka katiko Baasa mandanga hal itu, inyo baranti mambangun ⟨את⟩ Rama, jo ⟨את⟩ karojo inyo dihantikan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka tarjadi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "katiko mandanga"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "baranti"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "dihantikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karojo inyo"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "karojo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:54:01.681041730Z",
+  "model": "glm-5.3"
+}

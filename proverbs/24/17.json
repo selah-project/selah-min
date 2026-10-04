@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Katiko musuahmu jatuah, indak usah sanang, jo katiko inyo tatarungkek, indak usah atimu tapatih.",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "katiko jatuah"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "musuahmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indak usah"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "jo katiko inyo tatarungkek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indak usah"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "tapatih"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "atimu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:15.185712818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "⟨את⟩ Paroh rajo Mitsrayim, jo ⟨את⟩ amba-ambanyo, jo ⟨את⟩ pangulu-pangulunyo, jo ⟨את⟩ sado bangsonyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh rajo Mitsrayim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amba-ambanyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "amba-ambanyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pangulu-pangulunyo"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "pangulu-pangulunyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado bangsonyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bangsonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:36:04.593276573Z",
+  "model": "glm-5.3"
+}

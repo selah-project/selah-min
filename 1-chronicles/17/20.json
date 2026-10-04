@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Yahweh, indak ado nan sarupo Ang, jo indak ado Elohim salain Ang, dalam sagalo nan kito lah danga jo talingo kito.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nan sarupo Ang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "salain Ang"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kito lah danga"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "jo talingo kito"
+    }
+  ],
+  "timestamp": "2026-10-04T08:45:56.317967372Z",
+  "model": "glm-5.3"
+}

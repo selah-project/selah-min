@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo baa aje kito — baa pulo binatang taranak kito — ikok kito mambaok ⟨את⟩ jamaah Yahweh ka gurun ko, untuak mati di sinan?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "jo baa"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "kalian mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamaah Yahweh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "למות",
+      "gloss": "untuak mati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kito"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "jo binatang taranak kito"
+    }
+  ],
+  "timestamp": "2026-10-04T04:45:56.590087083Z",
+  "model": "glm-5.3"
+}

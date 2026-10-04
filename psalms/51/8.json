@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Iko, kabanaran Kau kahandaki dalam batin, jo di tampek rahasio hikmah Kau baritahu kapado ambo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "Kau kahandaki"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "dalam batin"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "jo di tampek rahasio"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "Kau baritahu kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:55.235705351Z",
+  "model": "glm-5.3"
+}

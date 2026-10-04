@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Tabaraleh Elohim, nan indak malingangkan doa ambo, jo indak mahalihan hesed-Nyo dari ⟨את⟩ ambo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Tabaraleh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "malingangkan"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ambo"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "jo hesed-Nyo"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "dari ⟨את⟩ ambo",
+      "marks": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:14.765096755Z",
+  "model": "glm-5.3"
+}

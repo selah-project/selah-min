@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Maka Yosua bangaik pagi, jo dakekkan ⟨את⟩ Yisrael manuruik suku-sukunyo, lalu tangkok suku Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bangaik pagi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yosua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "dakekkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "manuruik suku-sukunyo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "lalu tangkok"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:07:25.623330009Z",
+  "model": "glm-5.3"
+}

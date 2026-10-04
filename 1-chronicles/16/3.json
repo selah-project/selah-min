@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo inyo mambagi kapado satiok urang Yisrael, dari laki-laki sampai padusi, kapado tiok urang: ciek roti lingkaran, ciek dado dagiang, jo ciek kue anggur.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "mambagi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado satiok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari laki-laki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "padusi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kapado tiok urang"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "roti lingkaran"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "dado dagiang"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "kue anggur"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:57.376054498Z",
+  "model": "glm-5.3"
+}

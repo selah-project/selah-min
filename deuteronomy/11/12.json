@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Tanah nan dicari-cari dek Yahweh, Elohim sanak, salalu; mato-mato Yahweh, Elohim sanak, di atehnyo, dari mulo taun sampai ka ujuang taun.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim sanak"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mancari-cari"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "salalu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "salalu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato-mato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim sanak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "dari mulo"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ujuang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:28.199825605Z",
+  "model": "glm-5.3"
+}

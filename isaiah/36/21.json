@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Urang tu diam, jo indak manjawab inyo ciek kato pun, karano parintah rajo tu lah bajan, indak usah manjawab inyo.",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "diam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "manjawab"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "kato"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parintah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "lah bajan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bajan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "usah manjawab inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:15:54.479654599Z",
+  "model": "glm-5.3"
+}

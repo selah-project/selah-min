@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Ambo mamiringkan talingoan ambo ka mamasal; jo kinnor ambo mambukak teka-teki ambo.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "mamiringkan"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ka mamasal"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "talingoan ambo"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "jo kinnor"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "teka-teki ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:31.569436756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo bareah jo dasiang untuak kudo-kudo jo untuak kudo pancergas, urang-urang itu mambaoknyo ka tampek nan ado di sinan, masiang-masiang manuruik tugasnyo.",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "jo bareah"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "jo dasiang"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "untuak kudo-kudo"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "jo untuak kudo pancergas"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "mambaoknyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masiang-masiang"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "manuruik tugasnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:52.376716048Z",
+  "model": "glm-5.3"
+}

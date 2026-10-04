@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Biaro anak-anaknyo manjadi anak yatim, jo bininyo manjadi jando.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "biaro manjadi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "anak yatim"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "jo bininyo"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "jando"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:03.117483542Z",
+  "model": "glm-5.3"
+}

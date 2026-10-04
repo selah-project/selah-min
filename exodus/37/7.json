@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu inyo mambuek duo kerubim dari ameh, karya tapuku inyo mambueknyo, di duo ujuang kaporét itu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "karya tapuku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nyo",
+      "marks": "kerubim"
+    },
+    {
+      "surface": "משני",
+      "gloss": "di duo"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ujuang"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporét itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:18.163382400Z",
+  "model": "glm-5.3"
+}

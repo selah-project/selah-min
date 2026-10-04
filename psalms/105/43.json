@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Jo ⟨inyo⟩ mambaok kaluar ⟨את⟩ rakyaiknyo jo ria, ⟨את⟩ nan dipiliahnyo jo sorak-sorai.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "jo inyo mambaok kaluar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "rakyaiknyo"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "jo ria"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "jo sorak-sorai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan dipiliahnyo"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "nan dipiliahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:43.370819771Z",
+  "model": "glm-5.3"
+}

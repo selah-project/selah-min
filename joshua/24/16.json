@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Urang banyak manjawab jo bakato: jauahlah dari kito mambiaakan ⟨את⟩ Yahweh untuak maula tuhan-tuhan nan lain.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "manjawab"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "jauahlah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dari kito"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "mambiaakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuak maula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nan lain"
+    }
+  ],
+  "timestamp": "2026-10-04T05:12:22.889568724Z",
+  "model": "glm-5.3"
+}

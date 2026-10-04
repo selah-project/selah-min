@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu inyo mangirim ⟨את⟩ Elyakim nan atasan rumah tu, jo ⟨את⟩ Shebna panulih tu, jo ⟨את⟩ urang tuo-tuo imam tu, sadang salimuik diri jo kain sak, ka Yeshayahu anak Amots, nabi tu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atasan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "Shebna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shebna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "panulih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "urang tuo-tuo imam"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "urang tuo-tuo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "salimuik diri"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "jo kain sak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:23.120709716Z",
+  "model": "glm-5.3"
+}

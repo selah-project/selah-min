@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo Dawid jo sado isi rumah Yisrael manggiaak ⟨את⟩ aron Yahweh jo sora riak jo bunyi shofar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "בית",
+      "gloss": "isi rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "manggiaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "jo sora riak"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "jo bunyi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-10-04T05:36:26.951032131Z",
+  "model": "glm-5.3"
+}

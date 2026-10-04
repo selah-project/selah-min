@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Katiko urang-urang jahat dakek kapado ambo untuak makan ⟨את⟩ dagiang ambo — panindihan ambo jo musuah-musuah ambo — inyo alah taratuih jo jatuah.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "katiko dakek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuak makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiang ambo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagiang ambo"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "panindihan ambo"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "jo musuah-musuah ambo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "alah taratuih"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "jo jatuah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:55.581989577Z",
+  "model": "glm-5.3"
+}

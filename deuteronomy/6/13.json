@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Yahweh, Elohim awak, awak musti takuik, jo Inyo awak bakti, jo jo namo-Nyo awak basumpah.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim awak"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "awak musti takuik"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "jo ⟨את⟩ Inyo",
+      "marks": "Inyo"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "awak bakti"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "jo jo namo-Nyo"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "awak basumpah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:46.037433656Z",
+  "model": "glm-5.3"
+}

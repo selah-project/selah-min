@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Sadonyo manjawek jo bakato kapadoamu: Ambo kau juo lah manjadi lamah sarupo kami, kapado kami kau lah sarupo.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "manjawek"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapadoamu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "lah manjadi lamah"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "sarupo kami"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kapado kami"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "kau lah sarupo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:09.794328033Z",
+  "model": "glm-5.3"
+}

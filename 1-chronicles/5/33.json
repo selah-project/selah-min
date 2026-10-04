@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Merajot manurunkan ⟨את⟩ Amarjah, jo Amarjah manurunkan ⟨את⟩ Akitub.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "jo Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitub"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:21.663007795Z",
+  "model": "glm-5.3"
+}

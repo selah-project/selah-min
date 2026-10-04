@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sasudah inyo manyapih Lo-Rukhamah, inyo manganduang baliak jo malahiakan saurang anak laki-laki.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "sasudah inyo manyapih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Rukhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rukhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "inyo manganduang"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "jo malahiakan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:38.556054885Z",
+  "model": "glm-5.3"
+}

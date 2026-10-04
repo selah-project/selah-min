@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Rancaklah meja, awasilah dengan tarok jago; makanlah, minumlah: bangkiklah, hai panglima-panglima, uriahilah paparah!",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "rancaklah"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "awasilah"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "dengan tarok jago"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "makanlah"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "minumlah"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "bangkiklah"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "panglima-panglima"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "uriahilah"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "paparah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:21.791733408Z",
+  "model": "glm-5.3"
+}

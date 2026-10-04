@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 137,
+  "translation": "Jikok ambo malupoan ⟨את⟩ Yerushalayim, bia lupo tangan suok ambo ⟨talente-nyo⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jikok"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ambo malupoan dikau"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "bia lupo"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "tangan suok ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:09.484505993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Lalu mareka maninggaan di sinan ⟨את⟩ tuhan-tuhan mareka, jo Dawid mamarentahkan, lalu mareka tu dibaka jo api.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Lalu mareka maninggaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhan-tuhan mareka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan-tuhan mareka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mamarentahkan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:19.546106238Z",
+  "model": "glm-5.3"
+}

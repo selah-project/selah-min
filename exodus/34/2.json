@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Jo lai siap pado pagi, jo naiklah pado pagi ka gunuang Sinai, jo bardirilah di hadapan Ambo di sinan, diateh puncak gunuang itu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Jo lah"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "siap"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "jo naiklah"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pado pagi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "jo bardirilah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "di hadapan Ambo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "על",
+      "gloss": "diateh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "puncak"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunuang itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:53.619429955Z",
+  "model": "glm-5.3"
+}

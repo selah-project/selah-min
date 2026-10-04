@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Dan ang, bangkiklah, pulanglah ka rumah ang; pado wakatu kaki ang masuak ka kota, anak itu akan mati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ang"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "bangkiklah"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pulanglah"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ka rumah ang"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "pado wakatu masuak"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "kaki ang"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ka kota"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "akan mati"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:06.242556170Z",
+  "model": "glm-5.3"
+}

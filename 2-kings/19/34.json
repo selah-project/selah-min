@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 19:34",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo ambo mandanga ⟨⟨ijo⟩⟩ nagari ko untuak manyalamaikannyo, dek diri ambo surang, jo dek Dawid, ambo nan mangabdi.",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "jo ambo mandanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ijo⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "untuak manyalamaikannyo"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "dek diri ambo surang"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "jo dek"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ambo nan mangabdi"
+    }
+  ],
+  "timestamp": "2026-10-04T06:03:53.867153161Z",
+  "model": "glm-5.3"
+}

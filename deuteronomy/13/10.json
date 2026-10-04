@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Karano pasti ang mambunuah inyo: tangan ang ka ado di muko untuak mambunuahnyo, jo tangan saluruh urang tu di balakang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pasti mambunuah"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "ang mambunuah inyo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan ang"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ka ado"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di inyo"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "untuak mambunuahnyo"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "jo tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "di balakang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:57.448422445Z",
+  "model": "glm-5.3"
+}

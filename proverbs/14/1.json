@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Hikmah parempuan mambangun rumahnyo, tapi kabodohan jo tangannyo mambongkarnyo.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "parempuan"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "tapi kabodohan"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "jo tangannyo"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "mambongkarnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:57:11.646296703Z",
+  "model": "glm-5.3"
+}

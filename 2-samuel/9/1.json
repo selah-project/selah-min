@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Dawid bakato: niaik ado lai nan tasisiah untuak rumah Sha-ul, supayo ambo buek hesed kapadonyo karano Yehonatan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "niaik"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "tasisiah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "untuak rumah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "supayo ambo buek"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:37:00.149922564Z",
+  "model": "glm-5.3"
+}

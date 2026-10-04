@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Lalu inyo maangok nyawo jo mati Avraham di umua tuo nan elok, urang tuo nan kanyang, jo inyo dikumpuakan kapado kaumnyo.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "maangok nyawo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "di umua tuo"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "urang tuo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "nan kanyang"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "dikumpuakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "kaumnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:00:52.233858065Z",
+  "model": "glm-5.3"
+}

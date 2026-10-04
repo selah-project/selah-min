@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Dan jikok saurang mahantam ⟨את⟩ budak laki-lakinyo atau ⟨את⟩ budak padusinyo jo rotan, dan inyo mati di bawah tangannyo, pasti dibalas — dibalas bana.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dan jikok"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "mahantam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak laki-lakinyo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "budak laki-lakinyo"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak padusinyo"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "budak padusinyo"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "jo rotan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dan mati"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pasti dibalas"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "dibalas bana"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:10.558325782Z",
+  "model": "glm-5.3"
+}

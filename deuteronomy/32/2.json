@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Bia jatuah ajak ujan hujan ambo, maiaia ajak ambun kato ambo; ajak rinteh-rinteh di ataiah lamak-lamak, jo ajak guyua-guyua di ataiah rumpuik.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "bia jatuah (mamancah)"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "ajak ujan"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "hujan ambo"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "maiaia"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "ajak ambun"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kato ambo"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "ajak rinteh-rinteh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di ataiah"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "lamak-lamak"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "jo ajak guyua-guyua"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di ataiah"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "rumpuik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:51.698766387Z",
+  "model": "glm-5.3"
+}

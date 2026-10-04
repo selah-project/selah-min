@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Jo ambo ka mambaok baliak ⟨את⟩ urang Yehudah nan tasingkok jo ⟨את⟩ urang Yisrael nan tasingkok, jo ambo ka mambangun baliak urang tu sarupo pado mulo-mulo.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "ambo ka mambaok baliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Yehudah nan tasingkok"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nan tasingkok"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Yisrael nan tasingkok"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nan tasingkok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ambo ka mambangun baliak"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "sarupo pado mulo-mulo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:38:48.806447797Z",
+  "model": "glm-5.3"
+}

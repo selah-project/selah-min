@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo urang tu mambuek paiik iduik urang tu jo karajo barek, jo tanah liek jo batu bata, jo sagalo karajo di ladang — sagalo karajo urang tu nan inyo karajokan jo kakarehan.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "mambuek paiik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iduik urang tu"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "iduik urang tu"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "jo karajo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "barek"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "jo tanah liek"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "jo batu bata"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo karajo urang tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "karajo urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "karajokan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jo kakarehan"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "jo kakarehan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:51.434792397Z",
+  "model": "glm-5.3"
+}

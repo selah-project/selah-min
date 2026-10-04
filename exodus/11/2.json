@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Bakatolaa ka talingo urang banyak tu, supayo urang banyakanyo bapinta: laki-laki dari ⟨את⟩ sanaknyo, jo padusi dari ⟨את⟩ sanak padusinyo, barang perak jo barang ameh.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bakatolaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "la"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ka talingo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "supayo urang banyakanyo bapinta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩",
+      "marks": "sanaknyo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sanaknyo"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "jo padusi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩",
+      "marks": "sanak padusinyo"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "sanak padusinyo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "barang"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "jo barang"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:53.407196257Z",
+  "model": "glm-5.3"
+}

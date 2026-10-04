@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Lalu urang-urang Dawid bakato kapadonyo: Caliak, kito di Yehuda ko alah takuik, apo lai kok kito pai ka Keilah, ka maadoki bala tantara Palishtim.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kito"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di siko"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yehuda"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "apo lai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "ka Keilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka maadoki"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "bala tantara"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palishtim"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:48.618542911Z",
+  "model": "glm-5.3"
+}

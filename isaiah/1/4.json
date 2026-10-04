@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Aduih, bangso nan badosa, umat nan barek jo kalabahan, katurunan nan mambuek jaoh, anak-anak nan marusak! Inyo urang tu alah maninggakan ⟨את⟩ Yahweh, alah mahino ⟨את⟩ Nan Kudus dari Yisrael, alah mambaliak diri ka balakang.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduih"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nan badosa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nan barek"
+    },
+    {
+      "surface": "עון",
+      "gloss": "jo kalabahan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "nan mambuek jaoh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "nan marusak"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "alah maninggakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "alah mahino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nan Kudus dari Yisrael"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Nan Kudus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "dari Yisrael"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "alah mambaliak diri"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka balakang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:33.842366041Z",
+  "model": "glm-5.3"
+}

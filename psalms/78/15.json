@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Inyo mambalah batu-batu gadang di rimbo rimbunan, jo inyo maagiah minum sabanyak Tehom nan gadang.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "mambalah"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "batu-batu gadang"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di rimbo rimbunan"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "maagiah minum"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "sarupo Tehom"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nan gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:15.854713444Z",
+  "model": "glm-5.3"
+}

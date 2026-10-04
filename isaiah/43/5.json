@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Jan takuik, karano ⟨את⟩ ambo di sampiang jo awak; dari timur ambo mambaok ⟨את⟩ beniah awak, jo dari barat ambo mangumpuakan ⟨את⟩ awak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ di sampiang jo awak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "dari timur"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ambo mambaok"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniah awak"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "jo dari barat"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ambo mangumpuakan awak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:49.816774076Z",
+  "model": "glm-5.3"
+}

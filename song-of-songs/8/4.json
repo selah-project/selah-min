@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Ambo alah mambuek denai sumbangan di sia, anak-anak gadih Yerushalayim: baa kalian maujuik, jo baa kalian mamuek cinto, sampai inyo surang nio?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "alah mambuek denai sumbangan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kalian",
+      "marks": "anak-anak gadih Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak gadih"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "maujuik"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jo baa"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "mamuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cinto"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "cinto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "inyo surang nio"
+    }
+  ],
+  "timestamp": "2026-10-04T08:16:52.359973076Z",
+  "model": "glm-5.3"
+}

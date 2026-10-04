@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo indak lai urang tu manyembeliah ⟨את⟩ kurban sembelihan inyo kapado kambing-kambing jantuik tu, nan inyo main serong ikuikinyo; iko manjadi katantuan salamanyo untuak urang tu, sampai ka katurunannyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "manyembeliah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban sembelihan inyo"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "kurban sembelihan inyo"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "kapado kambing-kambing jantuik tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "main serong"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ikuikinyo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "katantuan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak urang tu"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sampai ka katurunannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:05.586306263Z",
+  "model": "glm-5.3"
+}

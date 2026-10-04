@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo rajo malingia ⟨את⟩ mukonyo, lalu maanta barekati ⟨את⟩ saluruah pasamuakan Yisrael, sadang saluruah pasamuakan Yisrael tagak.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "malingia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukonyo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "maanta barekati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saluruah pasamuakan Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "pasamuakan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo saluruah"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "pasamuakan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "tagak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:50:19.251607483Z",
+  "model": "glm-5.3"
+}

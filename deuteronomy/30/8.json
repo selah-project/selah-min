@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Dan ang ka baliak, mandangaakan suaro Yahweh, sarato malakuan ⟨את⟩ sado parentah-Nyo nan ambo parentahkan kapado ang pado ari ko.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dan ang"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ka baliak"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "mandangaakan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "sarato malakuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado parentah-Nyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "parentah-Nyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parentahkan kapado ang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pado ari ko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:49.727126379Z",
+  "model": "glm-5.3"
+}

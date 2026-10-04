@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Padokokan raso takuik, Yahweh, kapadonyo, supayo bangso-bangso tau: insan mati inyo. Selah.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "padokokan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "raso takuik"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tau"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "insan mati"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:13.873806154Z",
+  "model": "glm-5.3"
+}

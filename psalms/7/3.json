@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Supayo indak inyo sampiang bana ambo sarupo singo, mancabiak, jo indak ado nan malapehan.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "inyo sampiang"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sarupo singo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bana ambo"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "mancabiak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "nan malapehan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:45.301488892Z",
+  "model": "glm-5.3"
+}

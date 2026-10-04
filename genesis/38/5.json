@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Lalu inyo manambah lai jo malahiaan saurang anak laki-laki, jo mangoréi namonyo Shelah; jo inyo ⟨ada⟩ di Khezib katiko inyo malahiaaninyo.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "manambah lai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "malahiaan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "mankorei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo inyo ⟨ada⟩"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "di Khezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "katiko inyo malahiaaninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (anak itu)"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:30.006211895Z",
+  "model": "glm-5.3"
+}

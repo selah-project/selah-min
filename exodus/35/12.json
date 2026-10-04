@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "⟨את⟩ aron itu, jo ⟨את⟩ galah-galahnyo, ⟨את⟩ kaporet itu, jo ⟨את⟩ tirai panutuih itu:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron itu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "galah-galahnyo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "galah-galahnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporet itu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tirai panutuih itu"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tirai panutuih itu"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "panutuih itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:25.587865176Z",
+  "model": "glm-5.3"
+}

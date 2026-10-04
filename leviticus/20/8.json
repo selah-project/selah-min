@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo sanak mamagang aturan-aturan Ambo, jo mangarajokan ⟨את⟩ inyo; Ambo Yahweh, nan manyucikan sanak.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "sanak mamagang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aturan-aturan Ambo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "aturan-aturan Ambo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "jo mangarajokan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "nan manyucikan sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:06.570470143Z",
+  "model": "glm-5.3"
+}

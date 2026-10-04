@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo baliaknyo ka Ramah, karano di sinan rumahnyo, jo di sinan inyo mangadili ⟨את⟩ Yisrael; jo inyo mambuek di sinan mezbah untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "jo baliaknyo"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ka Ramah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jo di sinan"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "mangadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:23.201694120Z",
+  "model": "glm-5.3"
+}

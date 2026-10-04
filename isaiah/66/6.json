@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Bunyi garuak dari koto, bunyi dari Bait, bunyi Yahweh mambaleh baleh kapado musuah-Nyo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Bunyi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "garuak"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dari koto"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "dari Bait"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "mambaleh"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "kapado musuah-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:25:29.765933544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Indak inyo manjadi najis sabagai ⟨suami⟩ di tangah kaumnyo, untuak mailangkan kasuciannyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "inyo manjadi najis"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sabagai suami"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "di tangah kaumnyo"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "untuak mailangkan kasuciannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:14.218326023Z",
+  "model": "glm-5.3"
+}

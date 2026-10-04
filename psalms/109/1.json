@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Katangan kapado pimpinan paduan. Mazmur untuak Dawid. Elohim nan tapuji ambo, jan buek diam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kapado pimpinan paduan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nan"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "tapuji ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "buek diam"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:23.074263642Z",
+  "model": "glm-5.3"
+}

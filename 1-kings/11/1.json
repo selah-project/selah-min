@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Rajo Shelomoh mancintai banyak padusi asiang, jo ⟨את⟩ batinjo Paroh: padusi Moab, Amon, Edom, Tsidon, jo Het.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Rajo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mancintai"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "padusi"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "asiang"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "batinjo Paroh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "batinjo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "padusi Moab"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "padusi Amon"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "padusi Edom"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "padusi Tsidon"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "padusi Het"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:44.415831066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Karano kok jatuah nan ciek, nan ciek lai mandirikan ⟨את⟩ kawannyo; tapi woe untuak nan ciek kok inyo jatuah, sadang indak ado nan kaduo untuak mandirikannyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "mandirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawannyo"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "kawannyo"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "kok inyo jatuah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sadang indak ado"
+    },
+    {
+      "surface": "שני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "untuak mandirikannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:21.546535320Z",
+  "model": "glm-5.3"
+}

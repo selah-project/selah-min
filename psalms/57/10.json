@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 57,
+  "translation": "Ambo ka maagia tahimat kapado ⟨Adonai⟩ di antaro bangso-bangso; ambo ka manyanyi kapado ⟨Mu⟩ di antaro umat-umat.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ambo ka maagia tahimat kapado ⟨Mu⟩"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antaro bangso-bangso"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ambo ka manyanyi kapado ⟨Mu⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "di antaro umat-umat"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "umat-umat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:49.992721769Z",
+  "model": "glm-5.3"
+}

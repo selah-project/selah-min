@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 30:26",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo ambo pacahan ⟨את⟩ Mitsrayim di antaro bangso-bangso, jo ambo saba ⟨את⟩ urang tu di nagari-nagari, jo urang tu tau baso ambo Yahweh.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "jo ambo pacahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antaro bangso-bangso"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "jo ambo saba"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "urang Mitsrayim"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di nagari-nagari"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "jo urang tu tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:58:52.964117422Z",
+  "model": "glm-5.3"
+}

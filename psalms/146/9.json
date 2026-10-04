@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 146,
+  "translation": "Yahweh maharago ⟨את⟩ urang asiang; anak yatim jo jando inyo tagakkan; tapi jalan urang jaah inyo panyaliakkan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "maharago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang asiang"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "anak yatim"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "jo jando"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "tagakkan"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "tapi jalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jaah"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "panyaliakkan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:27.287151644Z",
+  "model": "glm-5.3"
+}

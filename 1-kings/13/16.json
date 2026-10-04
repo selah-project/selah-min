@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Lalu inyo bakato: Indak dapek ambo baliak jo ⟨את⟩ sanak, indak pulo masuak jo ⟨את⟩ sanak; indak ambo makan roti, indak pulo minum aia jo ⟨את⟩ sanak di tampek ko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu inyo bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "dapek ambo"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "jo ⟨את⟩ sanak"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "indak pulo masuak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "jo ⟨את⟩ sanak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ambo makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak pulo"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "minum"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "jo ⟨את⟩ sanak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-04T05:50:06.741360156Z",
+  "model": "glm-5.3"
+}

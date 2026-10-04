@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Ambo bajago baliak malam jo manjadi sarupo buruang saurang di ateh atap.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "Ambo bajago baliak malam"
+    },
+    {
+      "surface": "ויהיי",
+      "gloss": "jo manjadi"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "sarupo buruang"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "גג",
+      "gloss": "atap"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:15.573476486Z",
+  "model": "glm-5.3"
+}

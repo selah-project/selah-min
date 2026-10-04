@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "anak Amaryah, anak Azaryah, anak Merayot.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaryah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-10-04T08:33:31.017678758Z",
+  "model": "glm-5.3"
+}

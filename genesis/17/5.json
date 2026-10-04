@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Indak lai ⟨את⟩ namo awak disabuik Avram, tapi namo awak manjadi Avraham, karano ayah banjak bangso-bangso ambo alah mambuek awak.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "indak lai"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "disabuik"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo awak"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo awak"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo awak"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "המון",
+      "gloss": "banjak"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ambo alah mambuek awak"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:49.081300587Z",
+  "model": "glm-5.3"
+}

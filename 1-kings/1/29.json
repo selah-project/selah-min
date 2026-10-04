@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu rajo bakato jo sumpah: Umbuaklah Yahweh, nan alah mambulia ⟨את⟩ nyawok ambo dari sado kasaiah.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "חי",
+      "gloss": "umbuaklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "alun mambulia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawok ambo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawok ambo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sado"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasaiah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:48.490452756Z",
+  "model": "glm-5.3"
+}

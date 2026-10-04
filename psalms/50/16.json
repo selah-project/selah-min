@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Dan kapado urang jaang Elohim bakato: Apo <guno> <bagimu> manjaleaskan katantuan-katantuan ambo, jo maangkek parjanjian ambo di ateh muncuang <angkau>?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "dan kapado urang jaang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "guno bagi angkau"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "manjaleaskan"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "katantuan-katantuan ambo"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "jo maangkek"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian ambo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "muncuang angkau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:05.907660820Z",
+  "model": "glm-5.3"
+}

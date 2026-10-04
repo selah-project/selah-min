@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 138,
+  "translation": "Pado ari katiko ambo mandayo, Kau manjabaik ambo; Kau mambuek ambo barani jo kakuatan di dalam jiwa ambo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "katiko ambo mandayo"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "Kau manjabaik ambo"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "Kau mambuek ambo barani"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "di dalam jiwa ambo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "jo kakuatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:53.973439334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 22:12",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo sado nabi-nabi manubuak sarupo itu, mangecek: Naiaklah ka Ramot-Gilad, jo baruntuanglah, jo Yahweh maagiah ⟨itu⟩ ka tangan rajo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "manubuak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sarupo itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naiaklah"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "והצלח",
+      "gloss": "jo baruntuanglah"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "jo maagiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:11.860242293Z",
+  "model": "glm-5.3"
+}

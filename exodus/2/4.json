@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo adiak padusinyo tagak di jauah, untuak mangatahui apo nan ka tajadi kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "adiak padusinyo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "di jauah"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "untuak mangatahui"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nan ka tajadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:40.477533165Z",
+  "model": "glm-5.3"
+}

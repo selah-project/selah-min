@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Pikulan kato Yahweh kapado Yisrael, jo tangan Malakhi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "pikulan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "jo tangan"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malakhi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:10.593738306Z",
+  "model": "glm-5.3"
+}

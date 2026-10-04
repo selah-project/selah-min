@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Indak ado karajo pajabatan karajo lanjuik barupo duo kato samoantuak kok ka awak; alih-alih manantuak»nyo» kok ka awak, jo awak maantaan pambaokan ikok bana lansuang tanpa jinih kok ka Yahweh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagalo karajo"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "karajo lanjuik barupo duo kato samoantuak kok ka awak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "karajo lanjuik barupo duo kato samoantuak kok ka awak"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "jo awak maantaan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "pambaokan ikok bana lansuang tanpa jinih"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:10.403407924Z",
+  "model": "glm-5.3"
+}

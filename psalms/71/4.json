@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Elohim ambo, palapehlah ambo dari tangan urang jahat, dari genggaman urang manjekik jo urang kasa.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "palapehlah ambo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dari genggaman"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "urang manjekik"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "jo urang kasa"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:45.384173251Z",
+  "model": "glm-5.3"
+}

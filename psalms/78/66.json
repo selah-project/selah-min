@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Lalu inyo mambuek musuahnyo ka balakang, inyo maagiah kaa inyo kao nista salamanyo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "musuahnyo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka balakang"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "kao nista"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kaa inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:32.686742455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Aianyo maringgiak, bakuah manggaduah, gunuang-gunuang taguncang dek gagahnyo. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "maringgiak"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "bakuah manggaduah"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "aianyo"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "taguncang"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "dek gagahnyo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:44.067542920Z",
+  "model": "glm-5.3"
+}

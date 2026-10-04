@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "kalau inyo mahinokan katantu-katantuanku, jo indak mangatokan parintah-parintah-Ku,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "katantu-katantuanku"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "mahinokan"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "jo parintah-parintah-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "mangatokan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:17.800074690Z",
+  "model": "glm-5.3"
+}

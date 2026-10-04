@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Tsuḍeq bak ciek jo pokok karambia, manggarah; sarupo araz di Lebanon, inyo batumbuah tinggi.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "urang nan tsuḍeq"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "sarupo pokok karambia"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "manggarah"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "sarupo araz"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "di Lebanon"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "batumbuah tinggi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:19.431800185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Sarah mancaliak ⟨את⟩ anak Hagar urang Mitsrayim nan lah dilahiakannyo untuak Avraham, sadang bamain-main.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak Hagar urang Mitsrayim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dilahiakannyo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "untuak Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "bamain-main"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:18.244661663Z",
+  "model": "glm-5.3"
+}

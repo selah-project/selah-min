@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Nan mangiriman tando-tando jo mukjizat di tangah-tangahmu, Mitsrayim, kapado Parao jo kapado sado pangawennyo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mangiriman"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "tando-tando"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "jo mukjizat"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "di tangah-tangahmu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "kapado Parao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo kapado sado"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "pangawennyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:31.344181740Z",
+  "model": "glm-5.3"
+}

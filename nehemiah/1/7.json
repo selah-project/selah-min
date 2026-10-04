@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Bana-bana kami alah balaku jahat kapado-Mu, jo indak kami jago ⟨את⟩ parintah-parintah, ⟨את⟩ katantuan-katantuan, jo ⟨את⟩ hukum-hukum nan Kau-suruahkan kapado ⟨את⟩ Moshe hamba-Mu.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "bana-bana"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "kami alah balaku jahat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado-Mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "kami jago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parintah-parintah"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "parintah-parintah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "katantuan-katantuan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "katantuan-katantuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hukum-hukum"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "Kau-suruahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:35:45.802045594Z",
+  "model": "glm-5.3"
+}

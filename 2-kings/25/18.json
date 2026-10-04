@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Dan kapalo para jagal mandapek ⟨את⟩ Serayah, imam kapua, ⟨את⟩ Tsefanyah, imam kaduo, jo ⟨את⟩ tigo urang panjago pintu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mandapek"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "para jagal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kapua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanyah"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kaduo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tigo urang panjago pintu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "panjago"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "pintu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:50.484544634Z",
+  "model": "glm-5.3"
+}

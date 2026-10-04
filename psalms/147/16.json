@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 147,
+  "translation": "Inyo nan maagiah salju sarupo banang, angek sarupo dabu ditabuanyo.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "nan maagiah"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "salju"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "sarupo banang"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "angek"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "sarupo dabu"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "ditabuanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:20.902657125Z",
+  "model": "glm-5.3"
+}

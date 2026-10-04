@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lagi Yahweh bakato kapado ambo, mangecek: Ambo alah caliak ⟨את⟩ bangso ko, jo caliak, bangso nan kakuak tangkak-nyo inyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lagi Yahweh bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Ambo alah caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangso ko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo caliak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nan kakuak"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "tangkak-nyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:48.787487129Z",
+  "model": "glm-5.3"
+}

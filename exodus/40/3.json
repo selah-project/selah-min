@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Awak ka maâgiah di sinan ⟨את⟩ Aron kasaksiyan, jo awak ka malembuâginyo di ateh Aron tu ⟨את⟩ tirai.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "jo awak ka maâgiah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron kasaksiyan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "kasaksiyan"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "jo awak ka malembuâginyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirai"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "tirai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:22.117668480Z",
+  "model": "glm-5.3"
+}

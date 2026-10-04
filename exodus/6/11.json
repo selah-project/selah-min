@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Masuaklah, bakato kapado Paroh, rajo Mitsrayim, supayo inyo malapeh-an ⟨את⟩ anak-anak Yisrael dari nagarinyo.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "masuaklah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "supayo inyo malapeh-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dari nagarinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:50.144369242Z",
+  "model": "glm-5.3"
+}

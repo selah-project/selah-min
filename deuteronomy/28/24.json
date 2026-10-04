@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Yahweh ka maagiah ⟨את⟩ ujan tanahmu manjadi bubuak jo dabu; dari langik turun ateh kau sampai kau musnah.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ujan"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ujan"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "bubuak"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "jo dabu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ateh kau"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "kau musnah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:21.494350220Z",
+  "model": "glm-5.3"
+}

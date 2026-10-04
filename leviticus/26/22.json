@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "mako Aku ka mangiriman ka dalam kalian ⟨את⟩ binatang ladang, dan inyo ka maangko anak-anak kalian, dan inyo ka mahancuakan ⟨את⟩ taranak kalian, dan inyo ka mamuek kalian, sampai jalan-jalan kalian tagadang.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "mako Aku ka mangiriman"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ka dalam kalian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binatang ladang"
+    },
+    {
+      "surface": "חית",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "inyo ka maangko anak-anak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "dan inyo ka mahancuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taranak kalian"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "taranak kalian"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "dan inyo ka mamuek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "sampai tagadang"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jalan-jalan kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:58.747463628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo saung akan manjadi untuak bayang-bayang pado siang dari paneh, jo untuak tampek palinduangan, jo untuak tampek panyumputan dari angin ribuik jo dari ujan.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "Jo saung"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan manjadi"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "untuak bayang-bayang"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "pado siang"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dari paneh"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "jo untuak tampek palinduangan"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "jo untuak tampek panyumputan"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "dari angin ribuik"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "jo dari ujan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:07:37.303655360Z",
+  "model": "glm-5.3"
+}

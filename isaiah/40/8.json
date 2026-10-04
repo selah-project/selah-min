@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Rumput maang, kambang layu, tapi kato Elohim kito tagak salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "maang"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "layu"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "kambang"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "tapi kato"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:17:44.470746083Z",
+  "model": "glm-5.3"
+}

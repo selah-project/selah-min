@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Inyo ditakuiki urang salamo matoari ado, jo sapanjang bulan, angkatan sasudah angkatan.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "ditakuiki urang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "jo sapanjang"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "sasudah angkatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:09.250007769Z",
+  "model": "glm-5.3"
+}

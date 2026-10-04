@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Bulan iko untuak kalian ⟨adalah⟩ kapalo bulan-bulan; nan patamo inyo untuak kalian, di antaro bulan-bulan tahun itu.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kalian"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan-bulan"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "nan patamo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kalian"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "di antaro bulan-bulan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tahun itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:51.101120959Z",
+  "model": "glm-5.3"
+}

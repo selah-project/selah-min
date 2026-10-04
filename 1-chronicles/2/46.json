@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dan Eifah, gundik Kalev, malahiakan ⟨את⟩ Kharan jo ⟨את⟩ Motso jo ⟨את⟩ Gazez; dan Kharan manjadiakan ⟨את⟩ Gazez.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Dan Eifah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "gundik"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kharan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Kharan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Motso"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "dan Kharan"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "manjadiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:24.803128711Z",
+  "model": "glm-5.3"
+}

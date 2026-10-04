@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Amram maambiak ⟨את⟩ Yokhebed, mintuo padirinyo surang, manjadi bini; jo inyo malahiakan untuaknyo ⟨את⟩ Aharon jo ⟨את⟩ Moshe; jo taun-taun iduik Amram saratus tigo puluah anam taun.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokhebed"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokhebed"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "mintuo padirinyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "surang"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "manjadi bini"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "jo inyo malahiakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jo taun-taun"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "anam"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "puluah tigo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:55.080283871Z",
+  "model": "glm-5.3"
+}

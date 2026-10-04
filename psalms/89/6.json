@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Jo langik akan mangaku ⟨את⟩ hal-ha ajaibmu, wah Yahweh, juo ⟨את⟩ kasatiaanmu di dalam jamaah urang-urang nan suci.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "jo langik akan mangaku"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "hal-ha ajaibmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kasatiaanmu"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "di dalam jamaah"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "urang-urang nan suci"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:05.793677997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Barakaik buah paruik angku, jo buah tanah angku, jo buah binatang angku — anak jawi angku jo anak kambiang domba angku.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakaik"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "paruik angku"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "jo buah"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tanah angku"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "jo buah"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "binatang angku"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "anak jawi"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "angku"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "jo anak kambiang domba"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "angku"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:53.919213453Z",
+  "model": "glm-5.3"
+}

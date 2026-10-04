@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Dawid mangejar, inyo jo ampek ratus urang, tapi duo ratus urang barhenti — nan lahok, indak sanggup malewati ⟨את⟩ batang aia Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "mangejar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "jo ampek"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "barhenti"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duo ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "lahok"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "malewati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batang aia"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "batang aia"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-10-04T05:33:02.022820540Z",
+  "model": "glm-5.3"
+}

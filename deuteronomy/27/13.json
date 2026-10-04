@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Jo nan iko tagak di ateh kutuakan di gunuang Eybal: Reuven, Gad, jo Asyer, jo Zevulun, Dan, jo Naftali.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "jo nan iko"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "kutuakan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunuang"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eybal"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo Asyer"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "jo Zevulun"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "jo Naftali"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:09.970588063Z",
+  "model": "glm-5.3"
+}

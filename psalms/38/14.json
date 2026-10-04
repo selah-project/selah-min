@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Ambo pulo sarupo urang tuli, indak mandanga, jo sarupo urang bisu nan indak mambukak picinyo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ambo pulo"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "sarupo urang tuli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "jo sarupo urang bisu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "picinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:02.767138999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Dan Yahweh mamukua ⟨את⟩ Mitsrayim, mambunuah jo manyambuah; inyo baliak ka Yahweh, dan Ia dijabek doanyo, dan Ia manyambuah inyo tu.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "dan mamukua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "mambunuah"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "jo manyambuah"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dan inyo baliak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "dan Ia dijabek doanyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "dan Ia manyambuah inyo tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:26.347631776Z",
+  "model": "glm-5.3"
+}

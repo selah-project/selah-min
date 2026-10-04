@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ambo mananyaruak jo sagalo ati — sabauik ambo, Yahweh; hukum-hukum-Mu ambo jago.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ambo mananyaruak"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sabauik ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "ambo jago"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:04.094160952Z",
+  "model": "glm-5.3"
+}

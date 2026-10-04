@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Wakatu ambo mandanga ⟨את⟩ kato iko, ambo managieh ⟨את⟩ pakaihan ambo jo jubah ambo, mancabiak rambuik kapalo ambo jo jangguik ambo, lalu ambo duduak tarancang.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "wakatu ambo mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "ambo managieh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaihan ambo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaihan ambo"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "jo jubah ambo"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "mancabiak"
+    },
+    {
+      "surface": "משער",
+      "gloss": "rambuik"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo ambo"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "jo jangguik ambo"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "lalu ambo duduak"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "tarancang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:35:27.352000900Z",
+  "model": "glm-5.3"
+}

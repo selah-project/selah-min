@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Ambo tau, Yahweh, baso tsedeq hukum-hukum You, jo jo kasatia You alah manyasahkan ambo.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ambo tau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum You"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "jo jo kasatia"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "You alah manyasahkan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:04.181090173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo inyo mahancakan ⟨את⟩ tanah Ashur jo padang, jo ⟨את⟩ tanah Nimrod di pintu-pintunyo; jo inyo malapehan ⟨kito⟩ dari Ashur, sabab inyo tibo ka tanah kito, jo katiko inyo manginjek di parik kito.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "jo inyo mahancakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "jo padang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "di pintu-pintunyo"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "jo inyo malapehan"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "dari Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "inyo tibo"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ka tanah kito"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "jo katiko"
+    },
+    {
+      "surface": "יידרך",
+      "gloss": "inyo manginjek"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "di parik kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:14:17.984965532Z",
+  "model": "glm-5.3"
+}

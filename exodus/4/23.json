@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo ambo alah bakato kapado calendak: Lepaskanlah ⟨את⟩ anak ambo supayo inyo mangabekan ambo; tapi calendak manolak maagiah inyo pai — caliaklah, ambo ka mambunuah ⟨את⟩ anakmu, anak sulungmu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jo ambo alah bakato"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado calendak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lepaskanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak ambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "supayo inyo mangabekan ambo"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "tapi calendak manolak"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "maagiah inyo pai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliaklah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ka mambunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakmu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "anak sulungmu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:14.882474596Z",
+  "model": "glm-5.3"
+}

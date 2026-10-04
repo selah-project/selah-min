@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo indak ado karya untuak Mitsrayim, nan dapek dibuek kapalo jo ikuah, dahon palem jo ridan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "untuak Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dapek dibuek"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "jo ikuah"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "dahon palem"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "jo ridan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:27.083880999Z",
+  "model": "glm-5.3"
+}

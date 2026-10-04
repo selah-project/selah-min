@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lalu Avram basujuik, jo Elohim bamnjanangjo inyo, bakato:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "basujuih"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "pnavav",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "bamnjanang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jo inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:48.982285608Z",
+  "model": "glm-5.3"
+}

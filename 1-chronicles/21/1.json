@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lalu satan tagak mandapek Yisrael, jo inyo mangeceok ⟨את⟩ Dawid untuak ma-itung ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "על",
+      "gloss": "mandapek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "mangeceok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "untuak ma-itung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T08:46:12.582889469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Di muncuang urang bodoh ado tongkek kabanggaan, tapi bibia urang bijak mahalago inyo.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "di muncuang"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "tongkek"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kabanggaan"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "tapi bibia"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "urang bijak"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "mahalago inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:57:11.646637697Z",
+  "model": "glm-5.3"
+}

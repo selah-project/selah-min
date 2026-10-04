@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Dan angkau tarangkan ⟨את⟩ baskom di antaro Ohel Moed jo mezbah itu, dan angkau tarangkan di sinan aia.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "angkau tarangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baskom"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "baskom"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "angkau tarangkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:02.201251566Z",
+  "model": "glm-5.3"
+}

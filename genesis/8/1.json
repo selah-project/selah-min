@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu Elohim mangana ⟨את⟩ Noakh, jo ⟨את⟩ sado binatang iduik, jo ⟨את⟩ sado taranak nan ado ⟨את⟩ inyo di dalam kapal; lalu Elohim mambao ⟨את⟩ ruakh bajalan di ateh bumi, dan aia tu manurun.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "mangana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noakh"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sado binatang iduik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "binatang iduik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sado taranak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "taranak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "di dalam kapal"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "mambao bajalan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "manurun"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia tu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:01.323449974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Waktu itu ambo indak tamaso malu, katiko ambo mancaliak ka sado ⟨את⟩ parintah-parintahmu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "waktu itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "tamaso malu"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "katiko ambo mancaliak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parintah-parintahmu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:15.410444682Z",
+  "model": "glm-5.3"
+}

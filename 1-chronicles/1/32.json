@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Urang anak Keturah, gundiang Avraham: inyo malahiakan ⟨את⟩ Zimran, jo Yokshan, jo Medan, jo Midian, jo Yishbak, jo Suakh. Urang anak Yokshan: Sheba jo Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Urang anak"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "gundiang"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "inyo malahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "jo Yokshan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "jo Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "jo Midian"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "jo Yishbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "jo Suakh"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Urang anak"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "jo Dedan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:40:12.515475846Z",
+  "model": "glm-5.3"
+}

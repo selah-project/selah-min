@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Karano penebus mareka kuaik; inyo mamutuih ⟨את⟩ parkaro mareka samo ang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "penebus mareka"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuaik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parkaro mareka"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "⟨את⟩ parkaro mareka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "samo ang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:53.974238759Z",
+  "model": "glm-5.3"
+}

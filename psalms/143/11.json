@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 143,
+  "translation": "Demi namo-Mu, Yahweh, pang iduik-i ambo; dalam tsedeq-Mu, kaluaan ⟨את⟩ jiwo ambo dari kasusahan.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "pang iduik-i ambo"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dalam tsedeq-Mu"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "kaluaan"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "dari kasusahan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwo ambo",
+      "marks": "jiwo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:38.671381908Z",
+  "model": "glm-5.3"
+}

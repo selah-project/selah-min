@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo Dawid manyuruak dirinyo di ladang; jo tibo bulan baru, jo rajo duduak di lambung roti untuak makan.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "jo manyuruak dirinyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo tibo"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bulan baru"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jo duduak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "lambung roti"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "untuak makan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:15.596715977Z",
+  "model": "glm-5.3"
+}

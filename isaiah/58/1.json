@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 58,
+  "translation": "Baseru jo karonok, jan batahan; sarupo shofar angkek suaramu, jo tahabarkan kapado umat ambo pambaikan urang tu, jo kapado rumah Yaakov doso urang tu.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "baseru"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "jo karonok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "batahan"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "sarupo shofar"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "angkek"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "jo tahabarkan"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "kapado umat ambo"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "pambaikan urang tu"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "jo kapado rumah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "doso urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:24:48.092505785Z",
+  "model": "glm-5.3"
+}

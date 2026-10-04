@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 9:16",
+  "book": "zechariah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Jo Yahweh, Elohim inyo, salamaikkan inyo pado ari itu, sabagai kawanan banua-Nyo; karano inyo batu-batu mahkota, basinandam di ateh tanah inyo.",
+  "tokens": [
+    {
+      "surface": "והושיעם",
+      "gloss": "salamaikkan inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim inyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sabagai kawanan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "banua-Nyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "מתנוססות",
+      "gloss": "basinandam"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tanah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:20:17.588287331Z",
+  "model": "glm-5.3"
+}

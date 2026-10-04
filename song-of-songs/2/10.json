@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Kasayangku manjawek jo bakato kapado ambo: Bangkiklah, dirimu, kanda ambo nan cayang, jo pai, dirimu.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "manjawek"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "kasayangku"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "bangkiklah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dirimu"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "kanda ambo"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "nan cayang"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "jo pai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dirimu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:27:43.612396162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Karano indak ado panganaan ka-Mu di kamatian; di Sheol, siapo nan mamuji ka-Mu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "במות",
+      "gloss": "di kamatian"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "panganaan ka-Mu"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "di Sheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:21.775034392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jangalah manjadi sarupo kudo, sarupo pundai, nan indak ado akal; jo pangakek jo kaleang, parhiasannyo, untuak manahan ⟨inyo⟩, supayo indak mandakek kapado ang.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangalah"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "kudo"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "pundai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "akal"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "jo pangakek"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "jo kaleang"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "parhiasannyo"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "untuak manahan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "mandakek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado ang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:21.032896219Z",
+  "model": "glm-5.3"
+}

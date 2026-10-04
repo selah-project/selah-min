@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 23:11",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Balak bakato kapado Bileam: Apo nan alah kau buek ka ambo? Ambo mambaok waang untuak mambanci musuah ambo, dan caliak, waang alah mamacaki barakaah sabana-bana!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kau buek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "לקב",
+      "gloss": "untuak mambanci"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuah ambo"
+    },
+    {
+      "surface": "לקחתיך",
+      "gloss": "ambo mambaok waang"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan caliak"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "waang mamacaki barakaah"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "sabana-bana"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:48.379943477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo urang tu maambiak ⟨את⟩ inyo pagi-pagi, satiok urang sasuai jariah makannyo; jo katiko matoari lah angsang, inyo lah laruik.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "maambiak (urang tu)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (manna itu)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi-pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi-pagi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "satiok urang"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sasuai jariah"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "makannyo"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "jo katiko lah angsang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "lah laruik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:30.998664384Z",
+  "model": "glm-5.3"
+}

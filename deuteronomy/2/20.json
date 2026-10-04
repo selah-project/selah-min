@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Tanah Refaim — inyo pun dihituang sabagai tanah Refaim; Refaim dahulu tingga di sinan, tapi urang Ammon mangeceok inyo Zamzumim.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "dihituang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dahulu"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "tapi urang Ammon"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "mangeceok"
+    },
+    {
+      "surface": "להם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "זמזמים",
+      "gloss": "Zamzumim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:45.471706567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Sasudah ari jo satahun lai, urang nan panyano ka gaduah, karano anggur alah habih, pangumpulan indak ka tibo.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "satahun"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "ka gaduah"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "urang nan panyano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "alah habih"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "pangumpulan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ka tibo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:10.648288341Z",
+  "model": "glm-5.3"
+}

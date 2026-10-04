@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Kasalahan-kasalahan — siapo nan dapek mamahaminyo? Dari nan tasuruak, barasiahkan ambo.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "kasalahan-kasalahan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mamahaminyo"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "dari nan tasuruak"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "barasiahkan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:44.056854612Z",
+  "model": "glm-5.3"
+}

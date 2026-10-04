@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Ujilah ambo, Yahweh, jo lahia ambo; baok lah ⟨ambo⟩ tamasak: ginjal ambo jo ati ambo.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Ujilah ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "jo lahia ambo"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "baok lah ⟨ambo⟩ tamasak"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ginjal ambo"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "jo ati ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:34.470847023Z",
+  "model": "glm-5.3"
+}

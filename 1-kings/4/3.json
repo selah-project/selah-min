@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Elikhoref jo Akhiya, anak-anak Syisya, panulih; Yehosyafat anak Akhilud, pancata.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Elikhoref"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "jo Akhiya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "Syisya"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "panulih"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosyafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Akhilud"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "pancata"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:49.240038433Z",
+  "model": "glm-5.3"
+}

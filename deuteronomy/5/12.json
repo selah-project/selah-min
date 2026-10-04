@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jago ⟨את⟩ ari Shabat untuak manyucikannyo, sarupo nan alah diparentahkan Yahweh, Elohim awakmu, kapadomu.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Jago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ari Shabat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "untuak manyucikannyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim awakmu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:53.813959080Z",
+  "model": "glm-5.3"
+}

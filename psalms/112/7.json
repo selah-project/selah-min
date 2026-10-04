@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 112,
+  "translation": "Dek kabar buruak inyo indak takuik; atinyo tagak kua, basandari ka Yahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "kabar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "buruak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tagak kua"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "basandari"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:13.196413953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu para imam manuruik, supayo indak maambiak lai perak dari ⟨את⟩ urang banyak, jo supayo indak mambetulkan lai ⟨את⟩ karusakan rumah itu.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "manuruik"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩",
+      "marks": "urang banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "jo supayo indak"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mambetulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karusakan rumah"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "karusakan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:01:28.572119827Z",
+  "model": "glm-5.3"
+}

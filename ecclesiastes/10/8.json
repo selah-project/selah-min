@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Urang nan manggali lobang, ka inyo jatuah ka dalamnyo; jo urang nan mambongka paga, digagati niang ula.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "nan manggali"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "lobang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka dalamnyo"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "jo nan mambongka"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "paga"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "digagati"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "niang ula"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:51.509879384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Urang bijak takuik jo mailak dari jaek, tapi urang bodoh malinteh jo salalu picayo diri.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "urang bijak"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "jo mailak"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dari jaek"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "tapi urang bodoh"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "malinteh"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "jo salalu picayo diri"
+    }
+  ],
+  "timestamp": "2026-10-04T07:57:09.685596764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Lalu inyo mamilih ⟨את⟩ suku Yehuda, ⟨את⟩ Bukik Tsiyon nan inyo cinto.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "mamilih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suku Yehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukik Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Bukik"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "cinto"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:32.687017303Z",
+  "model": "glm-5.3"
+}

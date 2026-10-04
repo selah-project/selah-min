@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Laktu Shelomo manyalasaikan ⟨את⟩ bait Yahweh jo ⟨את⟩ bait rajo tu, jo ⟨את⟩ sagalo nan tibo ka ati Shelomo untuak karajoan di bait Yahweh jo di baitnyo surang — inyo barasia.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "menyalasaikan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bait rajo tu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan tibo ka ati Shelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "nan tibo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak karajoan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "jo di baitnyo surang"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "barasia"
+    }
+  ],
+  "timestamp": "2026-10-04T08:51:45.438582300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "jo inyo mangesokannyo kapado Yaakov sabagai undang-undang, kapado Yisrael sabagai parjanjian salamo-lamonyo,",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "jo inyo mangesokannyo"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kapado Yaakov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "sabagai undang-undang"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kapado Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:39.572627549Z",
+  "model": "glm-5.3"
+}

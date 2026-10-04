@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Lalu urang tu manompokan ⟨את⟩ Aron Elohim di ateh kareta baru, dari rumah Avinadav; Uza jo adiaknyo mancalaiki jo mangandarai kareta itu.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "manompokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "baru"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "jo adiaknyo"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "mangandarai"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "kareta itu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:56.309315420Z",
+  "model": "glm-5.3"
+}

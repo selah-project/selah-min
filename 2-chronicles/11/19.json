@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo inyo malahiakan untuaknyo anak-anak laki-laki: ⟨את⟩ Yeush, ⟨את⟩ Syemaryah, jo ⟨את⟩ Zaham.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "melahiakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak laki-laki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeush"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Syemaryah"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Syemaryah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaham"
+    }
+  ],
+  "timestamp": "2026-10-04T08:51:55.503259827Z",
+  "model": "glm-5.3"
+}

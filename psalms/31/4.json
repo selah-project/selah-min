@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Karano Engkau batu karang ambo jo benteng ambo; untuak namo-Mu bimbiang ambo, jo tolok ambo di jalan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "batu karang ambo"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "jo benteng ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "jo untuak"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "bimbiang ambo"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "jo tolok ambo di jalan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:42.555058376Z",
+  "model": "glm-5.3"
+}

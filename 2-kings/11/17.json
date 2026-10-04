@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu Yehojada mambuek ⟨את⟩ parjanjian antaro Yahweh jo antaro rajo jo antaro bangso, untuak manjadi bangso bagi Yahweh, jo antaro rajo jo antaro bangso.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Lalu ... mambuek"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehojada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "untuak manjadi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo antaro"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangso"
+    }
+  ],
+  "timestamp": "2026-10-04T06:01:37.317939834Z",
+  "model": "glm-5.3"
+}

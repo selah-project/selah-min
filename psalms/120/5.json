@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 120,
+  "translation": "Aduhai untuak ambo, karano ambo manumpang di Mesyekh, ambo bamukim basamo khemah-khemah Kedar.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Aduhai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ambo manumpang"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Mesyekh"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ambo bamukim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "khemah-khemah"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:48.666648231Z",
+  "model": "glm-5.3"
+}

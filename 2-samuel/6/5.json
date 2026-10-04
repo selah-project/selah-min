@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Dawid jo sadoalah rumah Yisrael bamain-main di muko Yahweh jo sagalo alaik dari kayu beresh, jo jo kecapi, jo jo nevel, jo jo tabori, jo jo manea-neai, jo jo simbal.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "bamain-main"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "beresh"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "jo jo kecapi"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "jo jo nevel"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "jo jo tabori"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "jo jo manea-neai"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "jo jo simbal"
+    }
+  ],
+  "timestamp": "2026-10-04T05:36:16.205341118Z",
+  "model": "glm-5.3"
+}

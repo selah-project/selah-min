@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Karano kapado salju Ia bakato: Turunlah ka bumi; juo jo ujan, jo ujan-ujan kakuatannyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "kapado salju"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "turunlah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ka bumi"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "jo ujan"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ujan"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "jo ujan-ujan"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "ujan"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "kakuatannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:13:08.785335716Z",
+  "model": "glm-5.3"
+}

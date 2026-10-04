@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Karano mimpi tibo dek kalewaikan karajo, jo suara urang bodoh dek kakato-katoan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "mimpi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dek kalewaikan"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "jo suara"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "urang bodoh"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dek kakato-katoan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kato-kato"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:43.371434612Z",
+  "model": "glm-5.3"
+}

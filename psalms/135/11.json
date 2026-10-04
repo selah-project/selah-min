@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Yo kapado Sihon rajo urang Amori, jo kapado Og rajo Basan, jo kapado sado karajoan Kanaan.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "kapado Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Amori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "jo kapado Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "jo kapado sado"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karajoan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:31.344608785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Mako Shelomoh mambangun ⟨את⟩ rumah itu, jo inyo manyalasaiannyo.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "jo inyo manyalasaiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:47:05.653630483Z",
+  "model": "glm-5.3"
+}

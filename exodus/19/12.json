@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo kau musti mambuek bateh untuak ⟨את⟩ urang tu sakaliliang, mangecek: Hati-hati kalian, untnak naik ka gunuang tu atau manyantuah ujuangnyo; sagalo nan manyantuah gunuang tu pasti dibunuah.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "jo musti mambuek bateh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Hati-hati"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "untuak naik"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ka gunuang tu"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "atau manyantuah"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "ujuangnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nan manyantuah"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gunuang tu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti dibunuah"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dibunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:33.950435407Z",
+  "model": "glm-5.3"
+}

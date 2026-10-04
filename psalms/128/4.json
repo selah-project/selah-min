@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 128,
+  "translation": "Caliak, bana baitulah urang nan takuik kapado Yahweh diberkahi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitulah"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "diberkahi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nan takuik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kapado Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:39.114389563Z",
+  "model": "glm-5.3"
+}

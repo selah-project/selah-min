@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "⟨את⟩ pakaian-pakaian nan ditenun untuak bakhidmat di tampek nan suci, ⟨את⟩ pakaian-pakaian kasucian untuak Aharon imam, jo ⟨את⟩ pakaian-pakaian anak-anaknyo untuak manjadi imam.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-pakaian nan ditenun"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "nan ditenun"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "untuak bakhidmat"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tampek nan suci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-pakaian kasucian"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kasucian"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "untuak Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pakaian-pakaian anak-anaknyo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuak manjadi imam"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:47.486543812Z",
+  "model": "glm-5.3"
+}

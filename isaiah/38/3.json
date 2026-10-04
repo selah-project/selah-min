@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo bakato: Oi, Yahweh, ingeklah bana ⟨את⟩ nan alah ambo tampeki di mukonyo Angnyo jo kabanaran jo jo ati nan utuah, jo nan elok di mato Angnyo alah ambo buaik. Lalu Khizkiyahu manangih jo tangih nan gadang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "oi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingeklah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan alah ambo tampeki di mukonyo Angnyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "alah ambo tampeki"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di mukonyo Angnyo"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "jo kabanaran"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "jo jo ati"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "nan utuah"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "jo nan elok"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mato Angnyo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "alah ambo buaik"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "lalu manangih"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "jo tangih"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nan gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:15.535544727Z",
+  "model": "glm-5.3"
+}

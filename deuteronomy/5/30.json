@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Pai lah, katakan kapado urang tu: Baliaklah urang tu ka khemah-khemah urang tu suruik.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pai lah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "urang tu suruik"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "ka khemah-khemah urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:53:24.293211922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 5:1",
+  "book": "daniel",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Belshazzar rajo mambuek jamuan gadang untuak saribu urang gadang-gadangnyo, jo di muko saribu urang itu inyo minum anggur.",
+  "tokens": [
+    {
+      "surface": "בלשאצר",
+      "gloss": "Belshazzar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "jamuan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "לרברבנוהי",
+      "gloss": "untuak urang gadang-gadangnyo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "saribu"
+    },
+    {
+      "surface": "ולקבל",
+      "gloss": "jo di muko"
+    },
+    {
+      "surface": "אלפא",
+      "gloss": "saribu urang itu"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "minum"
+    }
+  ],
+  "timestamp": "2026-10-04T08:27:58.456019400Z",
+  "model": "glm-5.3"
+}

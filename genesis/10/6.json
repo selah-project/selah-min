@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo anak-anak Khom: Kush, jo Mitsrayim, jo Put, jo Kanaan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khom"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "jo Mitsrayim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "jo Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "jo Kanaan"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:56.661583978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Indak ado nan sahat dalam dagiang ambo dek kaamakan-Mu, indak ado damai dalam tulang ambo dek doso ambo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "nan sahat"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "dalam dagiang ambo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dek"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kaamakan-Mu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "dalam tulang ambo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dek"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "doso ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:13.518981008Z",
+  "model": "glm-5.3"
+}

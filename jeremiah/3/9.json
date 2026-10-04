@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo tajadi, karano ringan nyo zinoik tu, inyo mangotorkan ⟨את⟩ bumi, inyo bazinoik jo ⟨את⟩ batu jo jo ⟨את⟩ kayu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jo tajadi"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "karano ringan"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "zinoiknyo"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "inyo mangotorkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "inyo bazinoik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kayu"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kayu"
+    }
+  ],
+  "timestamp": "2026-10-04T06:26:27.608550669Z",
+  "model": "glm-5.3"
+}

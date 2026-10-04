@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo sado urang banyak tu mancaliak ⟨את⟩ suaro-suaro tu jo ⟨את⟩ obor-obor tu jo ⟨את⟩ suaro shofar tu jo ⟨את⟩ gunuang nan bauluak; urang banyak tu maliek, lalu bagataiah, jo tagak jauah.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaro-suaro tu"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "suaro-suaro tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "obor-obor tu"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "obor-obor tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "suaro shofar tu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "shofar tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "gunuang nan bauluak"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "nan bauluak"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "maliek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "bagataiah"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "jauah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:25.562924284Z",
+  "model": "glm-5.3"
+}

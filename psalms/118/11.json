@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 118,
+  "translation": "Inyo manuduiki ambo, yo manuduiki ambo baliak; dalam Namo Yahweh ambo sungguah akan mambuek inyo tarendam.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "manuduiki ambo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "סבוני",
+      "gloss": "manuduiki ambo baliak"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam Namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguah"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ambo akan mambuek inyo tarendam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:09.019835280Z",
+  "model": "glm-5.3"
+}

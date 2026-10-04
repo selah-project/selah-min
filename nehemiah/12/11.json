@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo Yoyada malahiakan ⟨את⟩ Yonatan, jo Yonatan malahiakan ⟨את⟩ Yaddua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "jo Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "jo Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaddua"
+    },
+    {
+      "surface": "יודוע",
+      "gloss": "Yaddua"
+    }
+  ],
+  "timestamp": "2026-10-04T08:38:50.682471004Z",
+  "model": "glm-5.3"
+}

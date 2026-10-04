@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Kapancahan jan dibuek di kapalo inyo, jo sipi jangguiknyo indak dicukua, jo di dagiangnyo indak dibuek tatok luko.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "jan dibuek kapancahan"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kapancahan"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "di kapalo inyo"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "jo sipi"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "jangguiknyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "dicukua"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "jo di dagiangnyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "dibuek tatok"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "luko tatok"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:33.011771898Z",
+  "model": "glm-5.3"
+}

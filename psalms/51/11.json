@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Suruangkan muko-Mu dari doso-doso ambo, jo sasali sagalo kasalahan-kasalahan ambo.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "suruangkan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "dari doso-doso ambo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "kasalahan-kasalahan ambo"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "sasali"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:41.021085804Z",
+  "model": "glm-5.3"
+}

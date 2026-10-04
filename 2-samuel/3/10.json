@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "untuak mamindahkan karajoan itu dari rumah Saul, jo untuak mandirian ⟨את⟩ takhta Dawid ateh Yisrael jo ateh Yehudah, dari Dan sampai ka Be'er Syeba.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "untuak mamindahkan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajoan itu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "jo untuak mandirian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takhta Dawid"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ateh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "dari Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    }
+  ],
+  "timestamp": "2026-10-04T05:35:01.948683515Z",
+  "model": "glm-5.3"
+}

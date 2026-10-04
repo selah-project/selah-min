@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo Samuel bakato kapado urang banyak: Tnggala, mari kito pai ka Gilgal, jo kito baharui di situ karajoan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "tnggala"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "mari kito pai"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "kito baharui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di situ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "karajoan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:25:32.256953524Z",
+  "model": "glm-5.3"
+}

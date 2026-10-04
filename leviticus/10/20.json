@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo Moshe mandanga, jo inyo dapek raso elok di matonyo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "jo mandanga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "jo dapek raso elok"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:11.495865724Z",
+  "model": "glm-5.3"
+}

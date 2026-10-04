@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Dek tu urang tu dakek, jo mangangkaik urang tu jo jubahnyo ka paraliah kampuang, sarupo nan alah dikatoan dek Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "urang tu dakek"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "jo mangangkaik urang tu"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "jo jubahnyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "paraliah"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampuang"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikatoan dek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:56.805086015Z",
+  "model": "glm-5.3"
+}

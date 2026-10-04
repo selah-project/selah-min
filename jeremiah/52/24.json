@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "Jo kapalo pangawal ambiak ⟨את⟩ Serajah, imam nan kapalo, jo ⟨את⟩ Tsefanyah, imam nan kaduo, jo ⟨את⟩ tigo panjago ambang.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jo ambiak"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "pangawal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah, imam nan kapalo"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "nan kapalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanyah, imam nan kaduo"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tigo panjago ambang"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "panjago"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ambang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:47:07.437568712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Urang-urang tu masuak, jo tatapolah patuang-patuang rumah tu ado di tampek lalok, sarato kain baniah bulu kambiang di kapalinyo.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo tatapolah"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "patuang-patuang rumah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tampek lalok"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "sarato kain baniah"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bulu kambiang"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "di kapalinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:32.494385088Z",
+  "model": "glm-5.3"
+}

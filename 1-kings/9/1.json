@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Mako tajadi, katiko Shelomoh salasai mambangun ⟨את⟩ bait Yahweh jo ⟨את⟩ bait rajo tu, jo ⟨את⟩ sagalo kaindangan Shelomoh nan inyo sanang untuak lakukan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mako tajadi"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "katiko salasai"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bait rajo tu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo kaindangan Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "kaindangan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak lakukan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:49:07.697561236Z",
+  "model": "glm-5.3"
+}

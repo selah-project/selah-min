@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo kotarot-kotarot nan di ateh kapalo tiang-tiang itu, karajo bungo susan, di balai muko, ampek hasta.",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "jo kotarot-kotarot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiang-tiang itu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "bungo susan"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "di balai muko"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:46.561370058Z",
+  "model": "glm-5.3"
+}

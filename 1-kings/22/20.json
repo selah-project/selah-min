@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Yahweh bakato: Siapo ka mangicuah ⟨את⟩ Akhab, supayo inyo pai jo jatuah di Ramot Gilad? Nan ciek bakato bakini, nan ciek lai bakato bakini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "ka mangicuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "pai naik"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "jo jatuah"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "di Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "bakini"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "jo nan ciek lai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "bakini"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:41.391340946Z",
+  "model": "glm-5.3"
+}

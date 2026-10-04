@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Sarupo nan diparentahkan Yahweh kapado Moshe, baa Aharon manaruihnyo di muko haedut, untuak dijago.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "manaruihnyo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "haedut"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "untuak dijago"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:48.042286003Z",
+  "model": "glm-5.3"
+}

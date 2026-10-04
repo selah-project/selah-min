@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 54,
+  "translation": "Iko,unsur nan mahimpun dirinyo, tapi bukan ⟨את⟩ dek ambo; sia pun nan mahimpun jo ⟨את⟩ kau, ateh kau inyo jatuah.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "iko,unsur"
+    },
+    {
+      "surface": "גור",
+      "gloss": "nan mahimpun"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "mahimpun dirinyo"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "tapi bukan"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ dek ambo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia pun"
+    },
+    {
+      "surface": "גר",
+      "gloss": "nan mahimpun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kau"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ateh kau"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "inyo jatuah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:48.989877418Z",
+  "model": "glm-5.3"
+}

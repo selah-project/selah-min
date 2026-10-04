@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu Shemuél baralia sampai pagi, lalu mambukak ⟨את⟩ pintu-pintu rumah Yahweh; tapi Shemuél takuik maagiah tau ⟨את⟩ pangiliangan kapado Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "baralia"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "lalu mambukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pintu-pintu rumah Yahweh"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "tapi Shemuél"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "maagiah tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangiliangan"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "pangiliangan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:59.805408079Z",
+  "model": "glm-5.3"
+}

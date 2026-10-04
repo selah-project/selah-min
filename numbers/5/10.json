@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo satiok urang — ⟨את⟩ barange nan sucinyo untuak inyo manjadi; apo pun nan diagiah saurang urang kapado imam, untuak imam inyo manjadi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Jo satiok urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barange nan sucinyo"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "barange nan sucinyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak inyo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo pun nan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "diagiah"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kapado imam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak imam"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "inyo manjadi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:39:06.606945204Z",
+  "model": "glm-5.3"
+}

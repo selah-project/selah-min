@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "⟨את⟩ perakmu indak ka kau barihkan kapadonyo jo neshek, jo dek labiah indak ka kau barihkan ⟨את⟩ makananmu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perakmu"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "perakmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ka kau barihkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "jo neshek"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "jo dek labiah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ka kau barihkan"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "makananmu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:59.652885730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 140,
+  "translation": "Yahweh, Adonai, kakuatan kasalamatan ambo, Ang alah manuduang kapalo ambo pado ari parang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kasalamatan ambo"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "Ang alah manuduong"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "kapalo ambo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "parang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:03.893965770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Lalu buruang pamangek turun ka ateh bangkai-bangkai itu, tapi Avram mahalau ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "buruang pamangek"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "bangkai-bangkai itu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mahalau"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "buruang pamangek itu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:56.273360109Z",
+  "model": "glm-5.3"
+}

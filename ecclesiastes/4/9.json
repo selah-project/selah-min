@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Labiah rancak nan dua daripado nan ciek, karano ado untuak inyo tu upiah nan elok dalam karejo inyo tu.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "labiah rancak"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "nan dua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripado"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak inyo tu"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "upiah"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "dalam karejo inyo tu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:21.546100313Z",
+  "model": "glm-5.3"
+}

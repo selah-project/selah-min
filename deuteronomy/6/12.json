@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Baraaga-i diri sanak, aso sanak lupo ⟨את⟩ Yahweh, nan mambaok sanak kalua dari bumi Mitsrayim, dari rumah parabdi-parabdi.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Baraaga-i diri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aso"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "sanak lupo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "mambaok sanak kalua"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "parabdi-parabdi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:54.298977583Z",
+  "model": "glm-5.3"
+}

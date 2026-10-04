@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Mari, ambo den pileh ayah den minum anggur, lalu ambo den barado basamo inyo, supayo hiduik dari ayah den beniah.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Mari"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "pileh minum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayah den"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ayah den"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "barado basamo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "supayo hiduik"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "dari ayah den"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:48.545323771Z",
+  "model": "glm-5.3"
+}

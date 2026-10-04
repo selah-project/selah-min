@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Katiko sanjo, inyo maambiak ⟨את⟩ Lea bintinyo, lalu mambaok ⟨את⟩ inyo kapado Yaakov, jo Yaakov masuak kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "terjadi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "katiko sanjo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea bintinyo"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "bintinyo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (Lea)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapado Yaakov"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:56.847982658Z",
+  "model": "glm-5.3"
+}

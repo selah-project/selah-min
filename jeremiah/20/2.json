@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 20:2",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lalu Pashchur mambukak ⟨את⟩ Yirmeyahu nabi itu, lalu malatakannyo di ateh pasungan nan ado di gapuro Binyamin, nan di ateh, nan ado di rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashchur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu nabi"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "malatakannyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩inyo",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "pasungan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di gapuro"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "nan di ateh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:34:01.765411213Z",
+  "model": "glm-5.3"
+}

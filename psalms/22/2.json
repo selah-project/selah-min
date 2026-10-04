@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "El ambo, El ambo, ba a ang tinggakan ambo, jauah dari kasantosan ambo, kato-kato raung ambo.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El ambo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ambo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ba a"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ang tinggakan ambo"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "jauah"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "dari kasantosan ambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "raung ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:44.327870223Z",
+  "model": "glm-5.3"
+}

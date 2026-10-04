@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Nyanyian-nyanyian nan manjadi milik ambo adolah katantuan-Kau, di rumah paantaran ambo.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "nyanyian-nyanyian"
+    },
+    {
+      "surface": "היו",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "milik ambo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katantuan-Kau"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "paantaran ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:38.690522590Z",
+  "model": "glm-5.3"
+}

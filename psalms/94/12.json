@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Barakaiah urang nan biajayo, wahai Yah, jo dari Torah-Mu biajanyo inyo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "barakaiah"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "biajayo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "wahai Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "jo dari Torah-Mu"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "biajanyo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:11.304246975Z",
+  "model": "glm-5.3"
+}

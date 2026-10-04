@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Tapi kini lah manolak kami, jo mambaok kami ka bakeh malu, jo indak ka bajalan jo pasukan-pasukan kami.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "tapi kini"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "lah manolak"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "jo mambaok kami ka bakeh malu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ka bajalan"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "jo pasukan-pasukan kami"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:15.087707389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Awak urang musti manggalakkan ⟨את⟩ sapotong kue dari nan patamo dari ado-adonan awak urang sabagai tarumah; sarupo tarumah lantai tambo, baitulah awak urang manggalakkannyo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "dari nan patamo"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "ado-adonan awak urang"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "sapotong kue"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "awak urang musti manggalakkan"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "tarumah"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "sarupo tarumah"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "lantai tambo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitulah"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "awak urang manggalakkannyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (kue itu)"
+    }
+  ],
+  "timestamp": "2026-10-04T04:43:54.391758965Z",
+  "model": "glm-5.3"
+}

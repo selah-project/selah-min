@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo adaik para imam tahadap ⟨את⟩ urang banyak ⟨adolah⟩: satiok urang nan maolah kurban, lah datang anak imam tu katiko dagiang sadang mambaok, jo cacak bacabang tigo di tangannyo.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "jo adaik"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "maolah"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "lah datang"
+    },
+    {
+      "surface": "נער",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "sadang mambaok"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "jo cacak"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "cabang"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:54.083210316Z",
+  "model": "glm-5.3"
+}

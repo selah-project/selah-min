@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo urang nan mainduang jo ⟨את⟩ bini urang lain, nan mainduang jo ⟨את⟩ bini kawannyo, pasti dibunuah urang nan mainduang itu jo padusi nan mainduang itu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "mainduang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini urang lain"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang lain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "mainduang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini kawannyo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kawannyo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti dibunuah"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pasti dibunuah"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "urang nan mainduang itu"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "jo padusi nan mainduang itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:05.302063455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Katiko urang jahat batamba banyak, palanggaran batamba pulo; tapi urang banar ka mancaliok jatuahnyo.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "katiko batamba banyak"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "batamba pulo"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "palanggaran"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "tapi urang banar"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "jatuahnyo"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ka mancaliok"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:14.426020230Z",
+  "model": "glm-5.3"
+}

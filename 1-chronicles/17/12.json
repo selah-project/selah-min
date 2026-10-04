@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Inyo ka mambangun untuak-Ku rumah, jo Aku ka kokohkan ⟨את⟩ takhtanyo sampai salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Inyo"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ka mambangun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak-Ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "jo Aku ka kokohkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takhtanyo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhtanyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:45:46.627228403Z",
+  "model": "glm-5.3"
+}

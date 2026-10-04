@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 86,
+  "translation": "Sagalo bangso-bangso nan Ang alah mambuek, ka datang jo ka manyambah di muko Ang, Adonai, jo ka mamulia Namo Ang.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Ang alah mambuek"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "ka datang"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "jo ka manyambah"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di muko Ang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "jo ka mamulia"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Namo Ang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:03.731420309Z",
+  "model": "glm-5.3"
+}

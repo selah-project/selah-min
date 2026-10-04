@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Dan pado malam iko inyo makan ⟨את⟩ dagiang, dibaka jo api, basamo roti tanpa ragi; jo daun-daun paik inyo makan inyo.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "dan inyo makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiang"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pado malam"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "basamo roti tanpa ragi"
+    },
+    {
+      "surface": "על",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "daun-daun paik"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "inyo makan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:47.367544089Z",
+  "model": "glm-5.3"
+}

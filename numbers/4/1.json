@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lapek itu Yahweh bakato kapado Moshe jo kapado Aharon, katonyo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lapek itu bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:39.994961303Z",
+  "model": "glm-5.3"
+}

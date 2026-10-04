@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Sado jalan-jalan Yahweh hesed jo kabanaran, untuak nan maharagoi parjanjian-Nyo jo saksi-saksi-Nyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "jo kabanaran"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "untuak nan maharagoi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "parjanjian-Nyo"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "jo saksi-saksi-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:11.354507970Z",
+  "model": "glm-5.3"
+}

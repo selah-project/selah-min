@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Kato nan diliek dek Yeshaayahu anak Amots, takaik Yehuda jo Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "diliek"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "takaik"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jo Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:57.659959078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Tapi katiko kawanjo nan lambek, indak inyo taruh; jadi nan lambek tu manjadi milik Lavan, jo nan kuek manjadi milik Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "Tapi katiko nan lambek"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kawanjo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "inyo taruh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jadi manjadi"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "nan lambek tu milik"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "jo nan kuek milik"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T04:03:29.999865530Z",
+  "model": "glm-5.3"
+}

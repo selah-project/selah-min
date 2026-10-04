@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 143,
+  "translation": "Karano musuah mandjarah nyao ambo, manjampek hiduik ambo ka bumi, mambuek ambo tingga dalam kagelapan-kagelapan, sarupo urang mati dari maso dulu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "mandjarah"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyao ambo"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "manjampek"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka bumi"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "hiduik ambo"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "mambuek ambo tingga"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "dalam kagelapan-kagelapan"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "sarupo urang mati"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dari maso dulu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:03.075315372Z",
+  "model": "glm-5.3"
+}

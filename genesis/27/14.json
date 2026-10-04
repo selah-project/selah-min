@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Lalu inyo pai, mangambek, jo mambaokannyo kapado ibunyo; lalu ibunyo mambuek masakan lamak sarupo nan disukoi ayahnyo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mangambek"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mambaokannyo"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "kapado ibunyo"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunyo"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "masakan lamak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "disukoi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:14.888566371Z",
+  "model": "glm-5.3"
+}

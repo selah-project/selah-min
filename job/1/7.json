@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Yahweh bakato kapado ha-satan: Dari ma ang datang? Lalu ha-satan manjawek ⟨את⟩ Yahweh, jo bakato: Dari bajalan bolak-balik di bumi, jo dari baliliang ka dalamnyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "dari ma"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ang datang"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "manjawek"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "bajalan bolak-balik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "jo baliliang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka dalamnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:47.031525971Z",
+  "model": "glm-5.3"
+}

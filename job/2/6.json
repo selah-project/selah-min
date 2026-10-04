@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu Yahweh bakato ka Satan: Caliak, inyo ado di tanganmu; hanyo ⟨את⟩ nyawanyo jago.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu Yahweh bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Caliak, inyo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di tanganmu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawanyo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanyo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "jago"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:16.538483180Z",
+  "model": "glm-5.3"
+}

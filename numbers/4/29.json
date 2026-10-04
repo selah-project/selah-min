@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Urang Merari, manuruik marga-marganyo, manuruik rumah abaiknyo, ikau musti mambaok pakiro ⟨את⟩ urang tu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "manuruik marga-marganyo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "manuruik rumah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "abaiknyo"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ikau musti mambaok pakiro"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:54.368028522Z",
+  "model": "glm-5.3"
+}

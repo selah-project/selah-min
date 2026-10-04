@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Lajo Dawid mangiriman paneilikan, jo inyo tau baso Shaul lah tibo bana-bana.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lajo mangiriman"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "paneilikan"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "jo inyo tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lah tibo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "bana-bana"
+    }
+  ],
+  "timestamp": "2026-10-04T09:09:46.085474768Z",
+  "model": "glm-5.3"
+}

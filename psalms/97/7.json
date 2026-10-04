@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 97,
+  "translation": "Mahaso malu sadonyo nan maimbau patuang, nan manggadang diri jo elilim; sumambahlah ka Inyo, sadonyo elohim.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mahaso malu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nan maimbau"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patuang"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "nan manggadang diri"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "jo elilim"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sumambahlah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka Inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:57.913379997Z",
+  "model": "glm-5.3"
+}

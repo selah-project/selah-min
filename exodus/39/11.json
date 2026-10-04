@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jo barieh nan kaduo — nofekh, sapir, jo yahalom.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "jo barieh"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "nofekh"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "sapir"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "jo yahalom"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:52.374874476Z",
+  "model": "glm-5.3"
+}

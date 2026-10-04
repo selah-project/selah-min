@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu inyo mambuek ⟨את⟩ lantai sisi tu ateh saluruah rumah tu, limo hasta tingginyo; jo iyo mangikek ⟨את⟩ rumah tu jo kayu-kayu araz.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "lalu inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lantai sisi tu"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "lantai sisi tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tingginyo"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "jo iyo mangikek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah tu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "jo kayu-kayu"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "araz"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:37.518345309Z",
+  "model": "glm-5.3"
+}

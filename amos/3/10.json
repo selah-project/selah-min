@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Karano indak tau inyo bana karajo, kato Yahweh, inyo nan manyimpan kajamahan jo rampasan di palasio-palasio inyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "karano indak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tau inyo"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "bana"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "nan manyimpan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kajamahan"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "jo rampasan"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "di palasio-palasio inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:31.586090571Z",
+  "model": "glm-5.3"
+}

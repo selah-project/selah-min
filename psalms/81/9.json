@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 81,
+  "translation": "Danga, umat ambo, jo ambo ka mangingekan ⟨kapado⟩ sanak; O Yisrael, kalau sanak mandanga kapado ambo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Danga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat ambo"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "jo ambo ka mangingekan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "sanak mandanga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:53.978806973Z",
+  "model": "glm-5.3"
+}

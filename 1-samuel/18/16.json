@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Tapi sagalo Yisrael jo Yehudah mangasihi ⟨את⟩ Dawid, karano inyo nan pai kalua jo masuak di muko urang tu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "tapi sagalo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jo Yehudah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mangasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "pai kalua"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "jo masuak"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di muko urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:32.253393996Z",
+  "model": "glm-5.3"
+}

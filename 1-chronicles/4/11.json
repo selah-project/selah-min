@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Kelub, saudaro laki-laki Shukhah, baanak ⟨את⟩ Mekhir; inyo apak dari Eshton.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Jo Kelub"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaro laki-laki"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shukhah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "baanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mekhir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mekhir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apak"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eshton"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:46.985106256Z",
+  "model": "glm-5.3"
+}

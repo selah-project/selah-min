@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Mako Hanun maambiak ⟨את⟩ ambo-ambo Dawid, dicukuaknyo inyo, jo dipotongnyo ⟨את⟩ pakaian-nyo di tangah, sampai ka pungguangnyo, lalu dikirimnyo pulang.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mako maambiak"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambo-ambo Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ambo-ambo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "dicukuaknyo inyo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "dipotongnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-nyo"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "pakaian-nyo"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "pungguangnyo"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "dikirimnyo pulang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:45:50.889980668Z",
+  "model": "glm-5.3"
+}

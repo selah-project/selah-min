@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 111,
+  "translation": "Kakuatan karya-karya-Nyo alah dipabaritahukan kapado umaik-Nya, untuak maagiah urang tu warisan bangso-bangso.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "karya-karya-Nyo"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "alah dipabaritahukan"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kapado umaik-Nya"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuak maagiah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso-bangso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:12.716661240Z",
+  "model": "glm-5.3"
+}

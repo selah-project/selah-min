@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 149,
+  "translation": "Pujilah Yah, manyanyilah untuak Yahweh lagu baru, pujian-Nyo dalam pasamatan urang-urang nan bataqwa.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "manyanyilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nyo"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dalam pasamatan"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "urang-urang nan bataqwa"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:30.619400570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Jo padusi itu bakato: ⟨את⟩ siapo nan ambo naiak-an untuak ang? Jo inyo bakato: Naiak-an ⟨את⟩ Shemuel untuak ambo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siapo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ambo naiak-an"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak ang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "naiak-an"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:32:53.909543840Z",
+  "model": "glm-5.3"
+}

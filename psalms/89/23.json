@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Indak musuah managih utang dari inyo, jo anak kabatilan indak manyaso inyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "managih utang"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dari inyo"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "jo anak"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kabatilan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "manyaso inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:34.934236044Z",
+  "model": "glm-5.3"
+}

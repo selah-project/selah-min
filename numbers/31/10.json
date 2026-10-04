@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo ⟨את⟩ sado kota-kota tampek tingga mareka, jo ⟨את⟩ sado kubu-kubu mareka, dibaka jo api",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado kota-kota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "tampek tingga mareka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado kubu-kubu mareka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "kubu-kubu mareka"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    }
+  ],
+  "timestamp": "2026-10-04T04:49:40.371019766Z",
+  "model": "glm-5.3"
+}

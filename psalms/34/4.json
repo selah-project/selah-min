@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Gadangkan Yahweh ⟨את⟩ basamo ambo, jo hayo kito samektinggikan namo-Nyo sacaro basamo.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Gadangkan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ basamo ambo"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "jo hayo kito samektinggikan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namo-Nyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sacaro basamo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:42.735362636Z",
+  "model": "glm-5.3"
+}

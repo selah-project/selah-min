@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Pado bulan nan katigo, katiko anak-anak Yisrael kalua dari tanah Mitsrayim, pado ari ko inyo tibo di gurun Sinai.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "pado bulan"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nan katigo"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "katiko kalua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:33.213314467Z",
+  "model": "glm-5.3"
+}

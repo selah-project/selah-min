@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Kito buek bana bilik ateh ketek bading, jo kito taruih di sinan untuaknyo tampek lalok, jo meja, jo kuru, jo lampu; jo katiko inyo tibo kapado kami, inyo masuak ka sinan.",
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "kito buek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "bilik ateh"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "bading"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ketek"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "jo kito taruih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tampek lalok"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "jo meja"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "jo kuru"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "jo lampu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo tajadi"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "katiko inyo tibo"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kapado kami"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "inyo masuak"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:40.638816526Z",
+  "model": "glm-5.3"
+}

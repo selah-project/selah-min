@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Biarlah inyo manjadi milik sanak sajo, indak untuak urang asiang basamo ⟨את⟩ sanak.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "biarlah manjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak sanak"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sajo milik sanak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "untuak urang asiang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "jo ⟨את⟩ sanak",
+      "marks": "sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:25.766469941Z",
+  "model": "glm-5.3"
+}

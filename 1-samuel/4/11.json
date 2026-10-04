@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo aron Elohim diambiak, jo duo anak laki-laki Eli maningga, Khofni jo Pinhehas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "jo aron"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "diambiak"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jo duo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "maningga"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Khofni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "jo Pinhehas"
+    }
+  ],
+  "timestamp": "2026-10-04T09:08:33.841653017Z",
+  "model": "glm-5.3"
+}

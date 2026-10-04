@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Katiko urang tsedeq batambah banyak, rakyaik basuko; tapi katiko urang jahat bakuaso, rakyaik mangharu.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "katiko batambah banyak"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang tsedeq"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "basuko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyaik"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "tapi katiko bakuaso"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "mangharu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rakyaik"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:28.017625106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu rajo maagiah ⟨את⟩ Benyahu anak Yehoyada di tampeknyo ateh baluak tantara, jo ⟨את⟩ Tsadok imam maagiah rajo manjadi pangganti Abiatar.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "lalu maagiah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benyahu anak Yehoyada"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "di tampeknyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "baluak tantara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Tsadok imam"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "manjadi pangganti"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiatar"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:01.810836422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lembu tahu nan punyo inyo, jo keledai tahu palungan tuannyo; Yisrael indak tau, umat ambo indak mamahami.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Lembu"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "nan punyo inyo"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "jo keledai"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "palungan"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "tuannyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "mamahami"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:33.842148957Z",
+  "model": "glm-5.3"
+}

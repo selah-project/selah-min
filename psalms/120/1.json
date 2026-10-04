@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 120,
+  "translation": "Lagu dari nan ka ateh. Kapado Yahweh pado wakatu kasusahan manimpa ambo, ambo manjauik, jo Inyo manjawab ambo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dari nan ka ateh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "pado wakatu kasusahan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "manimpa ambo"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ambo manjauik"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "jo Inyo manjawab ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:51.245144343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo baa kok ang indak maharuih ⟨את⟩ sumpah Yahweh, jo ⟨את⟩ parentah nan ambo parentahkan kapado ang?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "jo baa kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ang maharuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumpah Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parentah nan ambo parentahkan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "jo parentah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ambo parentahkan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kapado ang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:45:54.741175990Z",
+  "model": "glm-5.3"
+}

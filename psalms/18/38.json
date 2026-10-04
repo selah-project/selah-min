@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Ambo mangancai musuah ambo jo mancapai urang tu, jo indak ambo baliak sampai urang tu habih.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Ambo mangancai"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuah ambo"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "jo mancapai urang tu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ambo baliak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "urang tu habih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:45.580389544Z",
+  "model": "glm-5.3"
+}

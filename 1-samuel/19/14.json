@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Lalu Saul mangutuih urang-urang untuak mangambiak ⟨את⟩ Dawid, jo Mikal bakato: Inyo sadang sakik.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangutuih"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "untuak mangambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "sadang sakik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:32.493913062Z",
+  "model": "glm-5.3"
+}

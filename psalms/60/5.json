@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 60,
+  "translation": "Kau lah manunjuakan kapado umat-Mu sasuatu nan barek; Kau lah mambuek ambo kamain minum anggur nan mambuek taringgang.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Kau lah manunjuakkan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sasuatu nan barek"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "Kau lah mambuek ambo kamain minum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "nan mambuek taringgang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:18.787644654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Hancua koto nan kosong; saluruah rumah ditutuik, indak ado nan buliah masuak.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "hancua"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "koto"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "nan kosong"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ditutuik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "masuak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:12:51.214359949Z",
+  "model": "glm-5.3"
+}

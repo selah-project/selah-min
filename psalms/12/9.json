@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Sasakali urang jahat bajalan-sakitar, kok kahinaan ditinggikan dek anak-anak urang.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "sasakali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "bajalan-sakitar"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "kahinaan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dek anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:11.530277332Z",
+  "model": "glm-5.3"
+}

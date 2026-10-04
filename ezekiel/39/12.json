@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jo rumah tanggo Yisrael mangubuaan inyo, supayo manyucikan ⟨את⟩ tanah — salamo tujuah bulan.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "mangubuaan inyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah tanggo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "manyucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:01:45.729087014Z",
+  "model": "glm-5.3"
+}

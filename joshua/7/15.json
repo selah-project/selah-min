@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Mako tajadilah: nan tangkok jo bando cherem itu aka diuba diapi, inyo jo ⟨את⟩ sado nan ado padonyo, karano inyo alah malangkauhi ⟨את⟩ parjanjian Yahweh, jo karano inyo alah mambuek kamungkaran di Yisrael.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mako tajadilah"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "nan tangkok"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "jo bando cherem"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "aka diuba diapi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "diapi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado nan ado padonyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ado padonyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "alah malangkauhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian Yahweh"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "jo karano"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alah mambuek"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "kamungkaran"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T09:07:25.623021565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Alah lalu panen, alah abih paneh; jo kito indak salamaik.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "alah lalu"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "panen"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "alah abih"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "paneh"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "jo kito"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "salamaik"
+    }
+  ],
+  "timestamp": "2026-10-04T06:29:58.926720022Z",
+  "model": "glm-5.3"
+}

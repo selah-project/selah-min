@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Katiko itu Shelomo bakato: Yahweh lah bakato, untuak tingga di dalam kabuik galok.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Katiko itu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lah bakato"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "untuak tingga"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "di dalam kabuik galok"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:40.637951041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "⟨את⟩ matoari untuak mamarintah di ari, karano ka salamo-lamonyo hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matoari"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "untuak mamarintah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di ari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka salamo-lamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:10.874729564Z",
+  "model": "glm-5.3"
+}

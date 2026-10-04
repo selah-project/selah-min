@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Dan imam mambaka ⟨את⟩ lemak tu di ateh mizbeakh; dan dada tu manjadi milik Aharon jo anak-anaknyo.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "dan mambaka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemak tu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak tu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di ateh mizbeakh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan manjadi milik"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "dada tu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kapado Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "jo kapado anak-anaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:00.592979347Z",
+  "model": "glm-5.3"
+}

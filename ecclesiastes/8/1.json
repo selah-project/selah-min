@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Sia sarupo urang bijak? jo sia nan tau manyalasaikan sabuah kato? Kabijaksanoan saurang manusia manyinari mukonyo, jo kakuasoan mukonyo diubah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "sarupo urang bijak"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jo sia"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nan tau"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "manyalasaikan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabuah kato"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kabijaksanoan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "manyinari"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "jo kakuasoan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "diubah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:33.451615117Z",
+  "model": "glm-5.3"
+}

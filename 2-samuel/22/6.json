@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Tali-tali Sheol maikuik ambo, papek-papek kamatian taduluih ambo.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "maikuik ambo"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "taduluih ambo"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "papek-papek"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatian"
+    }
+  ],
+  "timestamp": "2026-10-04T05:42:35.815904313Z",
+  "model": "glm-5.3"
+}

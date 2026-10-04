@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Caliaklah, alah Ku tampakkan di muko kalian ⟨את⟩ tanah itu; masuaklah jo duduaklah punyo ⟨את⟩ tanah nan Yahweh basumpah kapado datuak-datua kalian — kapado Avraham, kapado Yitskhak, jo kapado Yaakov — untuak marekekan kapado inyo jo kapado beniahnyo sasudah inyo.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Caliaklah"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah Ku tampakkan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di muko kalian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "masuaklah"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "jo duduaklah punyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "basumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "kapado datuak-datua kalian"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kapado Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kapado Yitskhak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "jo kapado Yaakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuak marekekan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "jo kapado beniahnyo"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sasudah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:11.633567665Z",
+  "model": "glm-5.3"
+}

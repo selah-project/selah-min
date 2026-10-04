@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo Shaul maambiak inyo pado ari itu, indak dibariannyo baliak ka rumah amaknyo.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "jo inyo maambiak inyo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dibariannyo"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ka rumah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:19.221994027Z",
+  "model": "glm-5.3"
+}

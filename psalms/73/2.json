@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Tapi ambo, ampia tapi kaki ambo, sarupo indak ado, lah tumpah langkah-langkah ambo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ampia"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "tapi (kaki)"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kaki ambo"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "sarupo indak ado"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "lah tumpah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "langkah-langkah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:05.996198492Z",
+  "model": "glm-5.3"
+}

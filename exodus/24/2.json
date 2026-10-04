@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Dan Moshe saurang sajo dakek ka Yahweh, tapi inyo ndak dapek dakek, jo rakyat ndak buliah naik basamo inyo.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "dan dakek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "saurang sajo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tapi inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndak"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "dapek dakek"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "jo rakyat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndak"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "buliah naik"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:56.104369099Z",
+  "model": "glm-5.3"
+}

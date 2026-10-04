@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Ambo bakato: El ambo, janga tombak ambo di tangah-tangah ari-ari ambo; taun-taun ⟨Adonai⟩ bakawan dari generasi ka generasi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janga"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "tombak ambo"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari ambo"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dari generasi"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ka generasi"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "taun-taun ⟨Adonai⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:45.985637314Z",
+  "model": "glm-5.3"
+}

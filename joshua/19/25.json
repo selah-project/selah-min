@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo bateh nyo adolah: Khelkat, jo Khali, jo Beten, jo Akhsyaf.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "adoh"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "bateh nyo"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Khelkat"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "jo Khali"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "jo Beten"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "jo Akhsyaf"
+    }
+  ],
+  "timestamp": "2026-10-04T05:09:46.903165355Z",
+  "model": "glm-5.3"
+}

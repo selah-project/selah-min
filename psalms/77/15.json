@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Kau adolah El nan mambuek kajaihan; Kau alah mambuek dikatahui di antaro urang-urang kabanyakan ⟨kekuatan Kau⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kau"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan mambuek"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "kajaihan"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "Kau alah mambuek dikatahui"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antaro urang-urang kabanyakan"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kekuatan Kau"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:27.590210772Z",
+  "model": "glm-5.3"
+}

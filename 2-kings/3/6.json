@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu rajo Yehoram kalua pado ari itu dari Shomron, jo inyo maagiah tando kapado sadoalah Yisrael ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kalua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "dari Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "maagiah tando kapado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:56.309847254Z",
+  "model": "glm-5.3"
+}

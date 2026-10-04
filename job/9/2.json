@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Sungguah, ambo tau bana baso baitu; tapi baa manusia dapek tsedeq basamo El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Sungguah"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "tapi baa"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "dapek tsedeq"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T08:05:03.880878042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Moshe sadang manjago ⟨את⟩ kawan binatang Yitro, mintuonyo, imam Midian; lalu inyo mambao ⟨את⟩ kawan binatang itu ka balakang padang gurun, dan inyo tibo ka gunuang Elohim, ka Horeb.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Jo Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sadang"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "manjago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawan binatang"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawan binatang"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mintuonyo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "lalu inyo mambao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawan binatang itu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kawan binatang itu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka balakang"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan inyo tibo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ka Horeb"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:40.287794330Z",
+  "model": "glm-5.3"
+}

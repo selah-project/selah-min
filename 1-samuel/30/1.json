@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Maka tajadilah, katiko Dawid jo urang-urangnyo tibo di Tsiklag pado ari katigo, urang Amalek alah manyarang ka Negev jo ka Tsiklag, lalu mareka mamanah ⟨את⟩ Tsiklag jo mambakaunnyo jo api.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tajadilah"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "katiko tibo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "jo urang-urangnyo"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "di Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katigo"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "urang Amalek"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "manyarang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mamanah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "mambakaunnyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Tsiklag nan tabaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    }
+  ],
+  "timestamp": "2026-10-04T05:33:56.376512267Z",
+  "model": "glm-5.3"
+}

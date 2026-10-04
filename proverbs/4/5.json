@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Dapek-lah hikmah, dapek-lah bino; jan lupo, jo jan baraliah dari kato-kato muluik ambo.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "dapek-lah"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "dapek-lah"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "bino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lupo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תט",
+      "gloss": "baraliah"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "dari kato-kato"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:04.626780786Z",
+  "model": "glm-5.3"
+}

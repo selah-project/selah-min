@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo kini, caliak, ambo alah mambaok ⟨את⟩ hasia patamo buah tanah nan San agiah ka ambo, wahai Yahweh; latak lah inyo di muko Yahweh, Elohim dauk, jo sujud lah di muko Yahweh, Elohim dauk.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jo kini"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "ambo alah mambaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasia patamo buah tanah"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "hasia patamo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "San agiah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "latak lah inyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim dauk"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "jo sujud lah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim dauk"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:28.859387017Z",
+  "model": "glm-5.3"
+}

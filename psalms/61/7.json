@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 61,
+  "translation": "Tambah ari-ari ateh ari-ari rajo; taun-taunnyo sarupo angkatan ka angkatan.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "tambah"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "taun-taunnyo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "דר",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ka angkatan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:28.677049027Z",
+  "model": "glm-5.3"
+}

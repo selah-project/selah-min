@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Suruaklah ambo dari mufakaik urang jahat, dari karusuahan pambahaso kabatilan.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "suruaklah ambo"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "dari mufakaik"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "dari karusuahan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pambahaso"
+    },
+    {
+      "surface": "און",
+      "gloss": "kabatilan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:41.200786129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Tabarokiah Yahweh, karano inyo mandanga suaro panyamoan-nyo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "tabarokiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "panyamoan-nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:27.189660603Z",
+  "model": "glm-5.3"
+}

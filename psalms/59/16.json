@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 59,
+  "translation": "Urang tu bajalan bolak-balik mancari makan; kok indak kanyang, urang tu mahabih malam manunggu.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "bajalan bolak-balik"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuak makan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kanyang"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "urang tu mahabih malam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:55.081143239Z",
+  "model": "glm-5.3"
+}

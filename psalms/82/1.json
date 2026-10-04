@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 82,
+  "translation": "Mizmor untuak Asaf. Elohim tagak di dalam parumpuakan El, di tangah-tangah para elohim inyo mangadili.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "untuak Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "di dalam parumpuakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "para elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "mangadili"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:04.457416447Z",
+  "model": "glm-5.3"
+}

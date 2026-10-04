@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 65,
+  "translation": "Panghuni ujuang-ujuung takajuik dek tando-tando-Mu; tampak-tampak kaluanyo pagi jo sanjo Kau buek baraniah manyanyi.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "takajuik"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "panghuni"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ujuung-ujuung"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "dek tando-tando-Mu"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "tampak-tampak kaluanyo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "jo sanjo"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "Kau buek baraniah manyanyi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:04.109366247Z",
+  "model": "glm-5.3"
+}

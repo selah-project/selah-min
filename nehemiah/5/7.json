@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 5:7",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Jo ati ambo mamarentah ateh ambo, jo ambo mandegek ⟨את⟩ para bangsawan jo ⟨את⟩ para pangulu, jo ambo bakato kapado inyo: kalian maagiah utang bunga, urang surang kapado dunsanaknyo! Jo ambo maimbau pasamuahan gadang malawan inyo.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "mamarentah ateh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "ואריבה",
+      "gloss": "jo ambo mandegek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para bangsawan"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "para bangsawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para pangulu"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "jo ambo bakato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "משא",
+      "gloss": "utang bunga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang surang"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "kapado dunsanaknyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "maagiah utang bunga"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "jo ambo maimbau"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "malawan inyo"
+    },
+    {
+      "surface": "קהלה",
+      "gloss": "pasamuahan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:37:11.370418502Z",
+  "model": "glm-5.3"
+}

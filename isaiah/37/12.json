@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Tokah tuhan-tuhan nagari-nagari nan alah dimusahkan dek nenek moyang ambo alah malapehan ⟨את⟩ inyo — ⟨את⟩ Gozan jo ⟨את⟩ Haran, jo Reshef, jo urang Eden nan di Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "tokah alah malapehan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "tuhan-tuhan nagari-nagari"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nagari-nagari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "alah dimusahkan"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "dek nenek moyang ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וית",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "jo Reshef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "di Telassar"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:26.306284577Z",
+  "model": "glm-5.3"
+}

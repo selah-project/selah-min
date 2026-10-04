@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Sabalun mailang matohari, jo cahayo, jo bulan, jo bintang-bintang, jo sabalun awan-awan baliak sasudah ujan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sabalun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alun"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "mailang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matohari"
+    },
+    {
+      "surface": "ווהאור",
+      "gloss": "jo cahayo"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "jo bulan"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "jo bintang-bintang"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "jo baliak"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ujan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:41.496456940Z",
+  "model": "glm-5.3"
+}

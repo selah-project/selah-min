@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 110,
+  "translation": "Inyo mangadili di antaro bangso-bangso, maisi ⟨tampek-tampek⟩ jo jasad-jasad; mancancang kapado-kapado di ateh bumi nan laweh.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "mangadili"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antaro bangso-bangso"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "maisi"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "jasad-jasad"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "mancancang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapado-kapado"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nan laweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:20.199462877Z",
+  "model": "glm-5.3"
+}

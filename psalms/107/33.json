@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Inyo mambuek sungai-sungai manjadi gurun, jo sumber-sumber aia manjadi tanah kasa.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "mambuek manjadi"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "manjadi gurun"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "jo sumber-sumber"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "manjadi tanah kasa"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:38.146890664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo inyo manjadiak ⟨את⟩ inyo pado sayok-sayoknyo, indak dipisahnyo; lalu imam mambaok asok ⟨את⟩ inyo di ateh mezbah, di ateh kayu-kayu nan ado di ateh api: inyo ⟨adalah⟩ olah, korban api, bau nan mamueh untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "jo inyo manjadiak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (buruang itu)"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "pado sayok-sayoknyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "dipisahnyo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "lalu inyo mambaok asok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (buruang itu)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di ateh mezbah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "korban api"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nan mamueh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:02.372015208Z",
+  "model": "glm-5.3"
+}

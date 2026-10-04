@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Sabagai korban buah partamo sanak bao ⟨את⟩ inyo kapado Yahweh, tapi indak buliah dinaikkan ka ateh mezbah sabagai bau nan mantai.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "buah partamo"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "sanak bao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tapi ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ateh mezbah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak buliah"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "dinaikkan"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "sabagai bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nan mantai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:10.268395209Z",
+  "model": "glm-5.3"
+}

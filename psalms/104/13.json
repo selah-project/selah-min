@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Nan manyirah gunuang-gunuang dari bilik-bilik langik-Nyo; dari buah karajo-karajo-Mu kanyang bumi.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Nan manyirah"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "dari bilik-bilik langik-Nyo"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "dari buah"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "karajo-karajo-Mu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kanyang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:26.801605399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo ikau manyambi' ⟨את⟩ lumbu itu di muko Yahweh, di munggo Tenda Patamuan.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "jo ikau manyambi'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lumbu itu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lumbu itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di munggo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patamuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:51.949836313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 118,
+  "translation": "Yahweh untuak ambo di antaro nan mambantu ambo, jo ambo ka mancaliak ⟨pandapek ateh⟩ urang nan banci kapado ambo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "di antaro nan mambantu ambo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ka mancaliak"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "urang nan banci kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:08.049339235Z",
+  "model": "glm-5.3"
+}

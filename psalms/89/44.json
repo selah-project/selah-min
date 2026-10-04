@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Dak baliakkan ujuang padangnyo, dak juo tagakkan inyo dalam paparangan.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "dak"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "baliakkan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ujuang"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "padangnyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dak juo"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "tagakkan inyo"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dalam paparangan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:15.708884371Z",
+  "model": "glm-5.3"
+}

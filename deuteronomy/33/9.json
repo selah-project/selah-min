@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Nan bakato kapado ayahnyo jo kapado ibunyo: indak ambo caliak inyo; jo ⟨את⟩ saudaronyo indak inyo takana; jo ⟨את⟩ anak-anaknyo indak inyo kanal — karano urang tu alah mamatuhi kato-Mu jo parjanjian-Mu urang tu jago.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "nan bakato"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kapado ayahnyo"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "jo kapado ibunyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ambo caliak inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saudaronyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaronyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "inyo takana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "inyo kanal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "urang tu alah mamatuhi"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kato-Mu"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "jo parjanjian-Mu"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "urang tu jago"
+    }
+  ],
+  "timestamp": "2026-10-04T05:02:04.658287332Z",
+  "model": "glm-5.3"
+}

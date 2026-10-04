@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo aku suruah api ka Yehudah, jo api itu makan bnténg-bnténg Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "jo aku suruah"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ka Yehudah"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "jo inyo makan"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "bnténg-bnténg"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:48.622816529Z",
+  "model": "glm-5.3"
+}

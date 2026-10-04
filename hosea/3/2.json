@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo ambo mambalinyo untuak ambo jo limo baleh syikal perak, jo ciek omer barley jo satangah omer barley.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "mambalinyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "jo limo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "syikal perak"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "jo ciek omer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "barley"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "jo satangah omer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "barley"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:09.184809918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Napsu ambo Inyo muliakan baliak, Inyo mamimpiak ambo di jalan-jalan tsedeq, untuak Namo-Nyo.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Napsu ambo"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Inyo muliakan baliak"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "Inyo mamimpiak ambo"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "di jalan-jalan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "למען",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Namo-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:44.512370287Z",
+  "model": "glm-5.3"
+}

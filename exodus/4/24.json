@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo tajadilah di jalan, di tampek manginap, basuo jo Moshe Yahweh, jo Inyo bausaho mambunuahnyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jo tajadilah"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "di tampek manginap"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "basuo jo ..."
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "jo Inyo bausaho"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "mambunuahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:14.882669539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Lalu mandanga kapadonyo rajo Ashur, jo naiaklah rajo Ashur ka Damsyik, manangkoknyo, mamindahan panduduaknyo ka Kir, jo ⟨את⟩ Retsin inyo bunuah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lalu mandanga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "jo naiaklah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damsyik"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "manangkoknyo"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "mamindahan ⟨panduduaknyo⟩"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "ka Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "inyo bunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:25.443731159Z",
+  "model": "glm-5.3"
+}

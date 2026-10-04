@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Jo di sinan ado basamo ⟨את⟩ kami saurang pamudo, urang Ibrani, hamba kapado kapalo pamasak; lalu kami caritoan kapadonyo, lalu inyo manafsiaan kapado kami ⟨את⟩ mimpi-mimpi kami: masiang-masiang manuruik mimpinyo inyo tafsiaan.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "jo di sinan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ basamo kami",
+      "marks": "saurang pamudo urang Ibrani"
+    },
+    {
+      "surface": "נער",
+      "gloss": "saurang pamudo"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "urang Ibrani"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "kapado kapalo"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "pamasak"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "lalu kami caritoan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "lalu inyo manafsiaan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kapado kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mimpi-mimpi kami"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "mimpi-mimpi kami"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masiang-masiang"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "manuruik mimpinyo"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "intafsiaan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:07:17.650140099Z",
+  "model": "glm-5.3"
+}

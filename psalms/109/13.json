@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Biar akhianyo untuak dipangkuih, di angkatan nan lain biar namonyo diapuih.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "biar jadi"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "akhianyo"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "untuak dipangkuih"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "di angkatan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "biar diapuih"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "namonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:43.477806937Z",
+  "model": "glm-5.3"
+}

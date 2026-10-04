@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "manyadioan rotinyo di musim paneh, mangumpuakan makanannyo di musim panen.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "manyadioan"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "di musim paneh"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "rotinyo"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "mangumpuakan"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "di musim panen"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "makanannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:52.298877695Z",
+  "model": "glm-5.3"
+}

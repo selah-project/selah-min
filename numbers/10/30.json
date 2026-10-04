@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Karano inyo bakato kapadonyo: Indak ambo ka pai, tapi ka nagari ambo jo ka tampek kalahiaran ambo ambo ka pai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Karano inyo bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ambo ka pai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "malainkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "nagari ambo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "tampek kalahiaran ambo"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ambo ka pai"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:32.399408815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Ditutuiknyo inyo jo ameh murni, dari dalam jo dari lua, jo dibueknyo untuaknyo mahkota ameh sakaliliang.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "ditutuiknyo inyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari dalam"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "jo dari lua"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dibueknyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaliliang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:07.344376084Z",
+  "model": "glm-5.3"
+}

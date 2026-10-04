@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Mangapo Yahweh tagak di jauah, manyuruak pado maso-maso kasaiahan?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mangapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "di jauah"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "manyuruak"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pado maso-maso"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "kasaiahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:06.944495685Z",
+  "model": "glm-5.3"
+}

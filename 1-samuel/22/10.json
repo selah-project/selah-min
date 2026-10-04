@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "jo inyo batanyo ka Yahweh untuak laki-laki itu, jo makanan diagiahnyo kapadonyo, jo ⟨את⟩ padang Goliat urang Filisti diagiahnyo kapadonyo.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "jo inyo batanyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "jo makanan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diagiahnyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang Goliat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "urang Filisti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diagiahnyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:04.542447527Z",
+  "model": "glm-5.3"
+}

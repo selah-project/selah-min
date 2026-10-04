@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lah maambiak Abimelekh domba jo jawi, hamba laki-laki jo hamba padusi, lah diagiahnyo kapado Avraham, lah dibaliakannyo kapado inyo ⟨את⟩ Sarah bini inyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lah maambiak"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "jo jawi"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "jo hamba laki-laki"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "jo hamba padusi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lah diagiahnyo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kapado Avraham"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lah dibaliakannyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah bini inyo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bini inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:53.901079650Z",
+  "model": "glm-5.3"
+}

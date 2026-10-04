@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Angku tahu hinaan ambo, jo malu ambo, jo aib ambo; di muko Angku sado musuah ambo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Angku"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "hinaan ambo"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "jo malu ambo"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "jo aib ambo"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di muko Angku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "musuah ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:41.909702190Z",
+  "model": "glm-5.3"
+}

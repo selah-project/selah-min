@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Iko lah awak buaik, tapi ambo bania malarang; awak mangiro Yahweh sarupo awak, sadang Yahweh mambiazan awak jo mambaok ⟨itu⟩ ka mato awak.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "awak buaik"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "tapi ambo bania malarang"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "awak mangiro"
+    },
+    {
+      "surface": "היות",
+      "gloss": "⟨bahaso⟩"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sarupo awak"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ambo mambiazan awak"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "jo mambaok ka mato"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "di mato awak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:39.237914056Z",
+  "model": "glm-5.3"
+}

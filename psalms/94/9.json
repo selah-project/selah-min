@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 94,
+  "translation": "Nan mananam talingo, indakkah inyo mandanga? Nan mambantuak mato, indakkah inyo mancaliak?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "nan mananam"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "talingo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "indakkah"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "inyo mandanga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "indakkah"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "nan mambantuak"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "indakkah"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "inyo mancaliak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:11.303519168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Tapi kalau mancuri urang mancuiak dari inyo, inyo mambiaan kapado urang nan punyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi kalau"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "mancuri"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "urang mancuiak"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "dari inyo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mambiaan"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "kapado urang nan punyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:03.721572487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Dan kalau saurang lembu mananduak ⟨את⟩ saurang laki-laki atau ⟨את⟩ saurang padusi sampai mati, lembu tu musti dibaliah jo batu, ⟨את⟩ dagiangnyo indak buliah dimakan, dan nan punyo lembu tu basiah.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dan kalau"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "mananduak"
+    },
+    {
+      "surface": "שור",
+      "gloss": "saurang lembu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saurang laki-laki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang laki-laki"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saurang padusi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "saurang padusi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "sampai mati"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "dibaliah"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "musti dibaliah"
+    },
+    {
+      "surface": "השור",
+      "gloss": "lembu tu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan indak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "buliah dimakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiangnyo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "dan nan punyo"
+    },
+    {
+      "surface": "השור",
+      "gloss": "lembu tu"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "basiah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:34.587564723Z",
+  "model": "glm-5.3"
+}

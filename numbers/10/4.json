@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Dan kok ditiup ciek sajo, mako nan bakapado-pado tu — kapalo-kapalo ribu banso Yisrael — bakumpua kapado dirimu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan kok"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "ditiup ciek sajo"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "ditiup"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "mako bakumpua"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado dirimu"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "nan bakapado-pado tu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo-kapalo"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "banso Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:29.370823111Z",
+  "model": "glm-5.3"
+}

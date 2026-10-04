@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Danga, Elohim, suaro ambo dalam adoan ambo; dari takuik musuah, paliharoi nyaoik ambo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "danga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "dalam adoan ambo"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "dari takuik"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuah"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "paliharoi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nyaoik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:41.200603129Z",
+  "model": "glm-5.3"
+}

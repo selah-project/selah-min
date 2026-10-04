@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo Yahweh babicaro kapado Moshe, nak kato:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "babicaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nak kato"
+    }
+  ],
+  "timestamp": "2026-10-04T09:04:36.356805153Z",
+  "model": "glm-5.3"
+}

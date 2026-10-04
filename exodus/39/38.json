@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jo ⟨את⟩ mezbah ameh, jo ⟨את⟩ minyak paminyakan, jo ⟨את⟩ uduan bumbu-bumbu wangi, jo ⟨את⟩ tirai di muncuak khemah",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah ameh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minyak paminyakan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "paminyakan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uduan bumbu-bumbu wangi"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "uduan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "bumbu-bumbu wangi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tirai di muncuak khemah"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muncuak"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:49.231755309Z",
+  "model": "glm-5.3"
+}

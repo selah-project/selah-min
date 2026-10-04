@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Licin jo lamak kato-kato muluiknyo, tapi parang ⟨ado⟩ di atinyo; labiah lambuik kato-katonyo dari minyak, tapi inyo padang-padang nan lah tasarak.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "licin"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "jo lamak"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "kato-kato muluiknyo"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "tapi parang"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "di atinyo"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "lambuik"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "kato-katonyo"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "dari minyak"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "tapi inyo"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "padang-padang nan lah tasarak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:14.293260372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo sadoalah bumi mancari muko ⟨את⟩ Shlomoh, untuak mandanga ⟨את⟩ kaarifannyo, nan dibarih Elohim ka dalam atinyo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko Shlomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "untuak mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaarifannyo"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "kaarifannyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibarih"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ka dalam atinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:07.628036638Z",
+  "model": "glm-5.3"
+}

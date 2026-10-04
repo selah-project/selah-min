@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Kalau ado pasalisiahan di antaro urang-urang, lalu urang tu mandakek ka pangadilan, jo urang tu mangadili, jo urang tu mamutuih nan bana untuak ⟨את⟩ nan bakabanaan, jo mamutuih salah untuak ⟨את⟩ nan bajasalah",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pasalisiahan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "lalu urang tu mandakek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "pangadilan"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "jo urang tu mangadili"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "jo urang tu mamutuih nan bana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan bakabanaan"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "nan bakabanaan"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "jo mamutuih salah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan bajasalah"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "nan bajasalah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:59:18.393562294Z",
+  "model": "glm-5.3"
+}

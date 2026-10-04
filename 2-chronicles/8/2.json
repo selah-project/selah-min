@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo nagari-nagari nan dibari Khuram kapado Shelomoh, dibuek baliak dek Shelomoh, jo ⟨את⟩ inyo mangedokan urang tu di sinan, iyolah ⟨את⟩ anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "jo nagari-nagari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibari"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Khuram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kapado Shelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibuek baliak"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "nagari-nagari tu"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "jo mangedokan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T08:51:43.341154850Z",
+  "model": "glm-5.3"
+}

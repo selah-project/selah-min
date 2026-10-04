@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Dan urang-urang suci awak untuak Ambo; dagiang nan tarevan di ladang indak kau makan — untuak anjiang kau buang ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "dan urang-urang"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "kau jadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak Ambo"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "dan dagiang"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "nan tarevan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kau makan"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "untuak anjiang"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "kau buang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:59.479158952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lalu Yisrael maambiak ⟨את⟩ sagalo koto-koto iko, jo Yisrael tingga di sagalo koto urang Emori, di Kheshbon jo di sagalo kampuang-kampuangnyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu maambiak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo koto-koto iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jo tingga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "koto"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Emori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "di Kheshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo di sagalo"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "kampuang-kampuangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:45:51.496730024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Lah, umaik ambo, masuaklah ka kamar-kamarmu, jo tutuiklah pintu-pintumu di balakangmu, suruamlah saketek sajo sajo, sampai kamaraihan lalu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "lah"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umaik ambo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuaklah"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "ka kamar-kamarmu"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "jo tutuiklah"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "pintu-pintumu"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "di balakangmu"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "suruamlah"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "saketek sajo"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "saketek sajo sajo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "lalu"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "kamaraihan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:22.928571452Z",
+  "model": "glm-5.3"
+}

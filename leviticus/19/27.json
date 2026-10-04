@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Indak kalian manggunuangi tapih kapalo kalian, jo indak kau rusak ⟨את⟩ tapih jangguikmu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "kalian manggunuangi"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "tapih"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "kapalo kalian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "kau rusak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tapih jangguikmu"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "tapih"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "jangguikmu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:48.156624852Z",
+  "model": "glm-5.3"
+}

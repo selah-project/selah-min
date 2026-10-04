@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Lalu urang nan basanjato maninggaan ⟨את⟩ urang tawan jo ⟨את⟩ rampasan di muko para pangulu jo sado jamaah.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "maninggaan"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "urang nan basanjato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tawan"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "urang tawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rampasan"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamaah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:57:08.546311388Z",
+  "model": "glm-5.3"
+}

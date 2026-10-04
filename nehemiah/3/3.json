@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo ⟨את⟩ gapuro ikan dibangun dek anak-anak Hasenaah; inyo mambari balok-baloknyo, jo inyo mamadirkan pintu-pintunyo, ganci-gancinyo, jo palang-palangnyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gapuro ikan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "ikan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "dibangun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "mambari balok-baloknyo"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "jo inyo mamadirkan"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "pintu-pintunyo"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "ganci-gancinyo"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "jo palang-palangnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:36:47.408725944Z",
+  "model": "glm-5.3"
+}

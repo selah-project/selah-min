@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Ambo gadangkan karajo-karajo ambo; ambo mandirian untuak ambo rumah-rumah; ambo mananam untuak ambo kabun-kabun anggur.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "ambo gadangkan"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karajo-karajo ambo"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ambo mandirian"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ambo mananam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "kabun-kabun anggur"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:04.136489008Z",
+  "model": "glm-5.3"
+}

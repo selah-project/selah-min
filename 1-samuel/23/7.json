@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Lalu dikabaakan ka Syaul baso Dawid alah tibo di Keilah, jo Syaul bakato: Elohim alah manyarahkan ⟨את⟩ inyo ka tangannyo, karano inyo tasakek, masuak ka koto nan babanto jo palang pintu.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Lalu dikabaakan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka Syaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lah tibo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "di Keilah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "alah manyarahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "Elohim manyarahkan inyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ka tangannyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "tasakek"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ka koto"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "babanto"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "jo palang pintu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:52.453082962Z",
+  "model": "glm-5.3"
+}

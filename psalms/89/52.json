@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Nan dipakai musuah-Mu mahino, Yahweh, nan dipakai mahino jejak Mashiakh-Mu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nan"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "mahino"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "musuah-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "mahino"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "jejak"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiakh-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:02.901538037Z",
+  "model": "glm-5.3"
+}

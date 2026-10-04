@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Tangan-Mu ka manamui sagalo musuah-Mu; tangan suok-Mu ka manamui urang-urang nan banci kapado-Mu.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "ka manamui"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuah-Mu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan suok-Mu"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ka manamui"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "urang-urang nan banci kapado-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:54.585930299Z",
+  "model": "glm-5.3"
+}

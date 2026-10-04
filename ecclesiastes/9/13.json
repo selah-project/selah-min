@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Ko juo nan ambo caliak: kakarunan ⟨ tambahan: di bawah matahari ⟩ nan elok, jo gadang inyo di mato ambo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nan ambo caliak"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kakarunan nan elok"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "jo gadang"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "di mato ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:05.060467004Z",
+  "model": "glm-5.3"
+}

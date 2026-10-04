@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Tapi inyo indak mainguju untuak manangannyo suaronyo; malah inyo manguek labiah dari padusi itu, lalu inyo mamakaso inyo, jo barasiaok jo ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "mainguju"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "untuak manangannyo"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "suaronyo"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "inyo manguek"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "labiah dari inyo"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "mamakaso inyo"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "barasiaok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:16.765502636Z",
+  "model": "glm-5.3"
+}

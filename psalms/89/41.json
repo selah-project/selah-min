@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Pancalahan sadonyo paga-paganyo; buek banteng-bantengnyo jadi runtuahan.",
+  "tokens": [
+    {
+      "surface": "פרצת",
+      "gloss": "pancalahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "גדרתיו",
+      "gloss": "paga-paganyo"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "buek"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "banteng-bantengnyo"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "jadi runtuahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:15.708425406Z",
+  "model": "glm-5.3"
+}

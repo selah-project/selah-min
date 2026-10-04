@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Jo urapi ⟨את⟩ bakuasan tu jo ⟨את⟩ lakiahnyo, jo kau sucikan ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "jo urapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakuasan tu"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "bakuasan tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lakiahnyo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "lakiahnyo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "jo kau sucikan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "bakuasan tu jo lakiahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:08.202517503Z",
+  "model": "glm-5.3"
+}

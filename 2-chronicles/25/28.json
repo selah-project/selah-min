@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Dan inyo maangkeknyo ateh kudo-kudo, jo mangubua ⟨את⟩ inyo basamo niniak moyangnyo di kota Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "inyo maangkeknyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kudo-kudo"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "jo mangubua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "niniak moyangnyo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:56:36.373085080Z",
+  "model": "glm-5.3"
+}

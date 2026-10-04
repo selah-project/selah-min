@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo urang nan makaninyo mandapek dosonyo, karano ⟨את⟩ kasucian Yahweh inyo alah manajisakan, jo urang tu dipacik dari kaomnyo.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "jo urang nan makaninyo"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "dosonyo"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mandapek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasucian Yahweh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kasucian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "manajisakan"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "jo dipacik"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "dari kaomnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:04.648777204Z",
+  "model": "glm-5.3"
+}

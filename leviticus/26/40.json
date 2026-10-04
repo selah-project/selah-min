@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Maka urang tu ka mangaku ⟨את⟩ doso sanang jo ⟨את⟩ doso amak-amaknyo, dalam pangkhianatannyo nan alah sanang khianati kapado Yahweh, jo juo karano sanang bajalan mandarohok Yahweh sacaro balawanan.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "ka mangaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doso sanang"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "doso sanang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "doso amak-amaknyo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "doso"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "amak-amaknyo"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "dalam pangkhianatannyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "khianati"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "jo juo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mandarohok Yahweh"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "sacaro balawanan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:50.579272171Z",
+  "model": "glm-5.3"
+}

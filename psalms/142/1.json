@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 142,
+  "translation": "Pandutoan ⟨untuak⟩ Dawid, katiko inyo ado di gua: doa.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "pandutoan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "katiko inyo ado"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di gua"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:23.631348640Z",
+  "model": "glm-5.3"
+}

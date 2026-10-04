@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Dan inyo mambangun dari ⟨את⟩ batu-batu tu mezbuaḥ ateh namo Yahweh, lalu mambuek parik sakitar mezbuaḥ, sasuai jo tampek duo saah beniah.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbuaḥ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ateh namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "parik"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "sasuai jo tampek"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "duo saah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakitar"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mezbuaḥ"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:10.244668543Z",
+  "model": "glm-5.3"
+}

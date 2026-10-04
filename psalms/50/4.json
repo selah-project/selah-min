@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Inyo mandayo langik dari ateh, jo ⟨את⟩ bumi, untuak mangadili ⟨את⟩ umatnyo.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "mandayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "untuak mangadili"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:10.904841158Z",
+  "model": "glm-5.3"
+}

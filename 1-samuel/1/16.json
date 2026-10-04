@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jan anggap ⟨את⟩ hamba padusi tuan di muko anak padusi Belial, karano dari banjaknyo uda ambo jo kasiah ambo ambo bakato sampai kini.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anggap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba padusi tuan"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "hamba padusi tuan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "dari banjaknyo"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "uda ambo"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "jo kasiah ambo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-10-04T05:23:05.581136573Z",
+  "model": "glm-5.3"
+}

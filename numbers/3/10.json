@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Dan ⟨את⟩ Aharon jo ⟨את⟩ anak-anaknyo kau pareso, jo inyo ka mangabehikan ⟨את⟩ imamatnyo; urang lua nan mandakek aka dibunuah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "תפקod",
+      "gloss": "kau pareso"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "jo inyo ka mangabehikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imamatnyo"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "imamatnyo"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "jo urang lua"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nan mandakek"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "aka dibunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:38:17.219451337Z",
+  "model": "glm-5.3"
+}

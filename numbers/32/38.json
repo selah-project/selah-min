@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 32:38",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo ⟨את⟩ Nebo jo ⟨את⟩ Baal-Meon — namonyo diganti — jo ⟨את⟩ Sibmah; lalu urang tu maagiah ⟨את⟩ namo-namo kapado koto-koto nan urang tu bangun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Nebo"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Baal-Meon"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meon"
+    },
+    {
+      "surface": "מוסבת",
+      "gloss": "diganti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Sibmah"
+    },
+    {
+      "surface": "שבמה",
+      "gloss": "Sibmah"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "lalu urang tu maagiah namo"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo-namo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bangun"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:15.948673217Z",
+  "model": "glm-5.3"
+}

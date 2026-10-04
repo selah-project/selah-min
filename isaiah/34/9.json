@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Sungai-sungainyo ka baubah manjadi damar, jo dabunyo manjadi balerang, jo tanahnyo ka manjadi damar nan baka.",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "ka baubah"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "sungai-sungainyo"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "manjadi damar"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "jo dabunyo"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "manjadi balerang"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "jo ka manjadi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tanahnyo"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "damar"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "nan baka"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:09.164174930Z",
+  "model": "glm-5.3"
+}

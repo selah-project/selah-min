@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo ambo musti ambiak ⟨את⟩ rotiku, jo ⟨את⟩ aiaku, jo ⟨את⟩ dagiang sembelihan ambo nan ambo sambeleh untuak urang nan manen bulu kambiang ambo, lalu agiah kapado urang nan indak ambo tau inyo dari ma?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "jo ambo musti ambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rotiku"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "rotiku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "aiaku"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "aiaku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "dagiang sembelihan ambo"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "dagiang sembelihan ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ambo sambeleh"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "untuak urang nan manen bulu kambiang ambo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "lalu agiah"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "kapado urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tau"
+    },
+    {
+      "surface": "אי",
+      "gloss": "dari ma"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:19.211574546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Jo Yosef mangasiahi ⟨את⟩ apaknyo jo ⟨את⟩ dunsanak-dunsanaknyo jo ⟨את⟩ sadolah rumah tanggo apaknyo jo roti, manuruik ungkiah anak-anak ketek.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "mangasiahi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apaknyo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "dunsanak-dunsanaknyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dunsanak-dunsanaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sadolah rumah tanggo apaknyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadolah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah tanggo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "manuruik ungkiah"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "anak-anak ketek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:56.026575891Z",
+  "model": "glm-5.3"
+}

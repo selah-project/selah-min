@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Indak dibarinyo saurang pun untuak manindas inyo, jo diteganyyo rajo-rajo dek karano inyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "dibarinyo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "saurang pun"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "untuak manindas inyo"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "jo diteganyyo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dek karano inyo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo-rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:12.445748765Z",
+  "model": "glm-5.3"
+}

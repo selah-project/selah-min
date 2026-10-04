@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 120,
+  "translation": "Lamonyo alah bamukim nafiah ambo basamo urang nan banci kadamaian.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Lamonyo"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "alah bamukim"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafiah ambo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "urang nan banci"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kadamaian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:48.666951577Z",
+  "model": "glm-5.3"
+}

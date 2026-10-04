@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo ruakh Yahweh ka saratoi atasmu, jo engkau ka manubuat basamo inyo tu, jo engkau ka barubah manjadi urang nan lain.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "ka saratoi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atasmu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "engkau ka manubuat"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "basamo inyo tu"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "engkau ka barubah"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "manjadi urang"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nan lain"
+    }
+  ],
+  "timestamp": "2026-10-04T05:25:49.982927822Z",
+  "model": "glm-5.3"
+}

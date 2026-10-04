@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim mamarintahkan kapado manusia tu, bakato: Dari sagalo kayu di taman, makan boleh sanak makan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia tu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "di taman"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sanak makan"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:05.561992172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Dan lueh alaman ka arah muko, ka timur, lima puluah ameh.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "dan lueh"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "alaman"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "muko"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ka timur"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluah"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ameh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:24.323581553Z",
+  "model": "glm-5.3"
+}

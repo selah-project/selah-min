@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Baa ado kabasahan padi di bumi, di puncoak gunuang; buahnyo bagoyang sarupo Libanon, jo mareka mangaluakan tuneh dari koto sarupo rumpuik bumi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "baa ado"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "kabasahan padi"
+    },
+    {
+      "surface": "בר",
+      "gloss": "padi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "di puncoak"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "bagoyang"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "sarupo Libanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahnyo"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "jo mangaluakan tuneh"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dari koto"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "sarupo rumpuik"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:45.622255711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Anam dari namo-namo urang tu pado batu nan ciek, jo ⟨את⟩ namo-namo nan anam nan tasiso pado batu nan ciek lai, manuruik kalahiran urang tu.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "anam"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "dari namo-namo urang tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "namo-namo nan anam"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo-namo"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "nan anam"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "nan tasiso"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "nan ciek lai"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "manuruik kalahiran urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:00.201986221Z",
+  "model": "glm-5.3"
+}

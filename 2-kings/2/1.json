@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Maka tajadilah katiko Yahweh mambaok naiak ⟨את⟩ Eliyahu dalam badai ka langik, bahaso Eliyahu pai basamo Elisha dari Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka tajadilah"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "katiko mambaok naiak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "dalam badai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ka langik"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "basamo Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-10-04T09:13:08.544129431Z",
+  "model": "glm-5.3"
+}

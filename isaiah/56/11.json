@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 56:11",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Jo anjiang-anjiang nan kuaik nafsunyo, indak tau sanang; jo inyo tu pandjang, indak tau mampaarati; sadonyo babaliak ka jalan masiang-masiang surang, masiang-masiang urang ka untuangnyo surang-surang.",
+  "tokens": [
+    {
+      "surface": "והכלבים",
+      "gloss": "jo anjiang-anjiang"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "kuaik"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafsunyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tau"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "jo inyo tu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pandjang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tau"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "mampaarati"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "ka jalan masiang-masiang"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "babaliak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masiang-masiang urang"
+    },
+    {
+      "surface": "לבצעו",
+      "gloss": "ka untuangnyo"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "surang-surang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:21:34.966141550Z",
+  "model": "glm-5.3"
+}

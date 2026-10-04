@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo kaluargo Yisrael maagiah namo ka inyo: Man; jo inyo sarupo beniah gad, puto, jo rasanyo sarupo lapiskan jo madu.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "maagiah namo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kaluargo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "sarupo beniah"
+    },
+    {
+      "surface": "גד",
+      "gloss": "gad (ketumbar)"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "puto"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "jo rasanyo"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "sarupo lapiskan"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "jo madu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:08.185825052Z",
+  "model": "glm-5.3"
+}

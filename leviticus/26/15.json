@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "dan kalau sanak manolak satatus-satatus Ambo, dan kalau ati sanak bajijik kapado ⟨את⟩ hukum-hukum Ambo, sahinggo sanak indak karajokan ⟨את⟩ sagalo parintah Ambo, malangga jo mambarantui ⟨את⟩ parjanjian Ambo —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan kalau"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "satatus-satatus Ambo"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "sanak manolak"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan kalau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukum-hukum Ambo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-hukum Ambo"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "sanak bajijik"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ati sanak"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sahinggo indak"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "karajokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo parintah Ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parintah Ambo"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "malangga jo mambarantui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parjanjian Ambo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "parjanjian Ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:44.638461849Z",
+  "model": "glm-5.3"
+}

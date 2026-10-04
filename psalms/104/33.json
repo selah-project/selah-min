@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Ambo ka manyanyi untuak Yahweh salamo hiduik ambo, ambo ka mamainan sanjato untuak Elohim ambo sadang ado ambo.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "ambo ka manyanyi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "salamo hiduik ambo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ambo ka mamainan sanjato"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "untuak Elohim ambo"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "sadang ado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:42.238037827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Dan di sado tanah punyo angkau, angkau musti mangagiahkan hak tebus untuak tanah itu.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "dan di sado"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "punyo angkau"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "hak tebus"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "angkau musti mangagiahkan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "untuak tanah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:26.653957462Z",
+  "model": "glm-5.3"
+}

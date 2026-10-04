@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "jo untuak Syemida, kaluarga Syemidai; jo untuak Khefer, kaluarga Khefri.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "jo untuak Syemida"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kaluarga"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "Syemidai"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "jo untuak Khefer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kaluarga"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "Khefri"
+    }
+  ],
+  "timestamp": "2026-10-04T04:47:37.143121664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Karano pado ari ko pangampunan dibuek ateh kalian untuak manyucikan ⟨אתכם⟩ kalian dari sagalo doso kalian; di muko Yahweh kalian ka manjadi suci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "pangampunan dibuek"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ateh kalian"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "untuak manyucikan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ kalian",
+      "marks": "kalian"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari sagalo"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "doso kalian"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "kalian ka manjadi suci"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:24.254159437Z",
+  "model": "glm-5.3"
+}

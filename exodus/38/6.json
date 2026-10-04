@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Inyo mambuek ⟨את⟩ galah-galah itu dari kayu akasia, jo malapisi ⟨אתם⟩ jo tambaga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galah-galah itu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "galah-galah itu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "jo malapisi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "galah-galah itu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "jo tambaga"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:51.405849125Z",
+  "model": "glm-5.3"
+}

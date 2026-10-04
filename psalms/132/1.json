@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Lagu nan naiak. Ingeklah, Yahweh, kapado Dawid, sadoalah kasasahannyo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nan naiak"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Ingeklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kapado Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah kasasahannyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "kasasahannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:28.733097956Z",
+  "model": "glm-5.3"
+}

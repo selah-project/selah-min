@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Asyer indak manguasai ⟨את⟩ panduduak Akko jo ⟨את⟩ panduduak Tsidon, indak pulo ⟨את⟩ Aklab, ⟨את⟩ Akzib, ⟨את⟩ Khelba, ⟨את⟩ Afik, jo ⟨את⟩ Rekhob.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Asyer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "manguasai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panduduak Akko"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "Akko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "panduduak Tsidon"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "indak pulo ⟨את⟩",
+      "marks": "Aklab"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Aklab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akzib"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Akzib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khelba"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Khelba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Afik"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Afik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Rekhob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhob"
+    }
+  ],
+  "timestamp": "2026-10-04T05:12:03.633689789Z",
+  "model": "glm-5.3"
+}

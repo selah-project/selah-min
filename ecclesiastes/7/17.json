@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Unang buek jahat labiah-labiah, jo unang jadi urang bodo; baa kok ang maﬂi indak pado wakatu ang?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unang"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "buek jahat"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "labiah-labiah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo unang"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "urang bodo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "baa kok"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mali"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "indak pado"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "wakatu ang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:15.279408685Z",
+  "model": "glm-5.3"
+}

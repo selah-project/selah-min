@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Imam-imam-Nyo jatuah dek padang, dan jando-jandonyo indak manangih.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "Imam-imam-Nyo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "dek padang"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "jatuah"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "jando-jandonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "manangih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:38.871704929Z",
+  "model": "glm-5.3"
+}

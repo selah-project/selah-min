@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Jo Oholibamah malahiakan ⟨את⟩ Yeish, jo ⟨את⟩ Yalam, jo ⟨את⟩ Korakh; iko amak anak-anak Esav, nan dilahiakan untuaknyo di tanah Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "jo Oholibamah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "malahiakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Korakh"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakh"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko amak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dilahiakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:18.213173156Z",
+  "model": "glm-5.3"
+}

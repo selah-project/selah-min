@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Katokan urang nan banar baso iko elok, karano buah pabuatan mareko mareko makan.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Katokan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang nan banar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iko elok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "pabuatan mareko"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mareko makan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:13:56.610402379Z",
+  "model": "glm-5.3"
+}

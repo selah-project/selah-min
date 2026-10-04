@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Katoakan kapado Zerubabel, panguaso Yehudah, kato mangko: Ambo manggunciang ⟨את⟩ langik jo ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "katoakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "panguaso"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kato mangko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "manggunciang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langik"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:17:53.995241969Z",
+  "model": "glm-5.3"
+}

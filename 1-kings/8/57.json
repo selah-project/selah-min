@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Biar Yahweh, Elohim kito, basamo kito, sarupo Inyo basamo niniak moyang kito; jangan Inyo mambiaakan kito, jo jangan Inyo mangasiangkan kito.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "biar ado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "basamo kito"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "Inyo ado"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "niniak moyang kito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "Inyo mambiaakan kito"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jangan"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "Inyo mangasiangkan kito"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:40.399067528Z",
+  "model": "glm-5.3"
+}

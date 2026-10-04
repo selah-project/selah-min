@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 125,
+  "translation": "Lagu nan naiak. Urang-urang nan picayo kapado Yahweh sarupo gunuang Tsiyon, indak runtuah, salamo-lamonyo inyo tapatok.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nan naiak"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "urang-urang nan picayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "sarupo gunuang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "runtuah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "inyo tapatok"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:42.181597564Z",
+  "model": "glm-5.3"
+}

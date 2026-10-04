@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Inyo urang jahat di atehnyo diunjan jareng, api, balirang, jo ruakh nan mambaak — iko bagian cawannyo.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "diunjan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "jareng"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "jo balirang"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "jo ruakh"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "nan mambaak"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "cawannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:40.521920232Z",
+  "model": "glm-5.3"
+}

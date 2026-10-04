@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "dan inyo mambaok ⟨את⟩ kaduonyo ka imam, dan imam mailakan ⟨את⟩ nan untuak dareh doso nan partamo, dan mamipek ⟨את⟩ kapalonyo di munggo likonyo, tapi indak mamisahan.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "dan inyo mambaok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kaduonyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mailakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan untuak dareh doso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "untuak dareh doso"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "nan partamo"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "mamipek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalonyo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "di munggo"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "likonyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "mamisahan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:38.970676824Z",
+  "model": "glm-5.3"
+}

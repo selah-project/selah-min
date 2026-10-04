@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 2:11",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo satiok ari, ari sasudah ari, Mordekhai bajalan di muko halaman rumah padusi-padusi itu, untuak tau ⟨את⟩ kaba elok Ester jo apo nan ka dikarajokan kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "jo satiok"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ari sasudah ari"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muku"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "halaman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "padusi-padusi itu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuak tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaba elok Ester"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kaba elok"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jo apo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nan ka dikarajokan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:44.768578035Z",
+  "model": "glm-5.3"
+}

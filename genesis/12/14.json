@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Mako barolah, katiko Avram masuak ka Mitsrayim, urang Mitsrayim nampak ⟨את⟩ padusi itu, karano rancak inyo sangaik.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mako barolah"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "katiko masuak"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "nampak"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padusi itu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "rancak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:03.088766592Z",
+  "model": "glm-5.3"
+}

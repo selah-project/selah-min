@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 57,
+  "translation": "Ati ambo alah tetap, Elohim; ati ambo alah tetap; ambo ka manyanyi, ambo ka mamuji.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "alah tetap"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "alah tetap"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ambo ka manyanyi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ambo ka mamuji"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:31.692179520Z",
+  "model": "glm-5.3"
+}

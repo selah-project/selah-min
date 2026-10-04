@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo Paro akan bakato tantang anak-anak Yisrael: Tanyerang inyo di tanah iko, gurun alah mangunci inyo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tantang anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "Tanyerang"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "mangunci"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:06.380853341Z",
+  "model": "glm-5.3"
+}

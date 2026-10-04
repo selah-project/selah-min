@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jiko saurang urang asiang tingga sabanta basamo ⟨את⟩ sanak di tanah sanak, sanak indak buliah manindasnyo.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "jiko"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "tingga sabanta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ basamo sanak"
+    },
+    {
+      "surface": "גר",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "di tanah sanak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak buliah"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "manindas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:26.241619083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Urang Yisrael malapeh ⟨את⟩ parhiasan nyo di Gunuang Khoreb.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "malapeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parhiasan nyo"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "parhiasan nyo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "di Gunuang"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Khoreb"
+    }
+  ],
+  "timestamp": "2026-10-04T04:22:36.560627319Z",
+  "model": "glm-5.3"
+}

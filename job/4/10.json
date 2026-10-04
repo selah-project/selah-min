@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Dangauman singo, jo suaro singo nan garang, jo gigi anak-anak singo dapek dipatah.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "dangauman"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singo"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "jo suaro"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "singo nan garang"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jo gigi"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "anak-anak singo"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "dapek dipatah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:02:53.753967797Z",
+  "model": "glm-5.3"
+}

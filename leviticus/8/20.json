@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo ⟨את⟩ biri-biri jantan tu dipotong-potong manuruik potongan-potongannyo, lalu Moshe mambaka ⟨את⟩ kapalonyo, ⟨את⟩ potongan-potongan tu, jo ⟨את⟩ lamaknyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "biri-biri jantan tu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "biri-biri jantan tu"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "dipotong-potong"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "manuruik potongan-potongannyo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "mambaka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalonyo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "potongan-potongan tu"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "potongan-potongan tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lamaknyo"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "lamaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:35.199559058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Saluruah iko ambo caliak, jo ambo maagiah ⟨את⟩ ati ambo ka satiok karya nan dibuek di bawah matoari: ado wakatu katiko manusia bakuaso ateh manusia, untuak mabcilakannyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saluruah iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ambo caliak"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "jo maagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati ambo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka satiok"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "bakuaso ateh"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ateh manusia"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "untuak mabcilakannyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "↔inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:37.370542033Z",
+  "model": "glm-5.3"
+}

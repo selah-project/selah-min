@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 62,
+  "translation": "Sampai bilo kalian manyarang saurang urang, mambunuahnyo kalian sagalonyo, sarupo dindiang nan malandok, pagar nan tadih jatuah?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "manyarang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "mambunuahnyo"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "kalian sagalonyo"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "sarupo dindiang"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "nan malandok"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "pagar"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "nan tadih jatuah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:37.735415862Z",
+  "model": "glm-5.3"
+}

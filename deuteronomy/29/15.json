@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Karano kalian alah tau ⟨את⟩ nan kito tingga di bumi Mitsrayim, jo ⟨את⟩ nan kito malewati di tangah bangso-bangso nan kalian malewati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kalian"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "alah tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan kito tingga di Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "kito tingga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nan kito malewati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "kito malewati"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "kalian malewati"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:58.289212865Z",
+  "model": "glm-5.3"
+}

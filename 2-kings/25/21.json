@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Lalu rajo Babel mahantam inyo, mamatian inyo di Rivla, di tanah Hamat; lalu Yehuda diangek buang dari ateh tanahnyo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mahantam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "mamatian inyo"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "di Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "diangek buang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tanahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:07:09.650922807Z",
+  "model": "glm-5.3"
+}

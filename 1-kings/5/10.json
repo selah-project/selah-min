@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Hikmat Shelomo malabihi hikmat sado urang Kedem, jo sado hikmat Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "malabihi"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "dari hikmat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedem"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:37.417616997Z",
+  "model": "glm-5.3"
+}

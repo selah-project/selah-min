@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Baliahlah kabanaran, jan dipajua; baliak juo hikmah, jo pangaja, jo pangarati.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "baliahlah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "dipajua"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "jo pangaja"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "jo pangarati"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:54.102332034Z",
+  "model": "glm-5.3"
+}

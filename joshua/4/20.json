@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo ⟨את⟩ duo baleh buah batu iko, nan diambiak urang tu dari Yarden, didirikan Yehosyua di Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duo baleh buah batu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "buah batu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "diambiak urang tu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "didirikan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "di Gilgal"
+    }
+  ],
+  "timestamp": "2026-10-04T05:04:03.779895579Z",
+  "model": "glm-5.3"
+}

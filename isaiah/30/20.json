@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 30:20",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Dan Adonai ka agiah kapado awak sadang roti sasak jo aia lakang, tapi guru-guru awak indak ka manyuruak lai, jo mato awak sadang ka caliak ⟨את⟩ guru-guru awak.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ka agiah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado awak sadang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sasak"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "jo aia"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "lakang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "יכנף",
+      "gloss": "manyuruak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "guru-guru awak"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mato awak sadang"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guru-guru awak"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "guru-guru awak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:15:40.544170534Z",
+  "model": "glm-5.3"
+}

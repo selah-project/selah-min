@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Anam ari kau bakarajo, jo karajokan sagalo karajo kau.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Anam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "bakarajo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "jo karajokan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "karajo kau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:39.468615002Z",
+  "model": "glm-5.3"
+}

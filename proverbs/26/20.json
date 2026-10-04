@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Kalau kailisan kayu, api padam; jo kalau indak ado pangumpua, pasalisiahan baranti.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "kailisan"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "padam"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "kalau indak ado"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "pangumpua"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "baranti"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "pasalisiahan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:59.671348620Z",
+  "model": "glm-5.3"
+}

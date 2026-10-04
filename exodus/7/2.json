@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Kau surang ka mangecek ⟨את⟩ sagalo nan ambo suruah kapado kau, jo Aharon dunsanak kau ka mangecek kapado Paroh, supayo inyo malapeh ⟨את⟩ anak-anak Yisrael dari nagarinyo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kau surang"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ka mangecek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ambo suruah kapado kau"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jo Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dunsanak kau"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ka mangecek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "supayo inyo malapeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dari nagarinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:04.409239110Z",
+  "model": "glm-5.3"
+}

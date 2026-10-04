@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Patah bakiak patah, mato bakiak mato, gigi bakiak gigi; sarupo inyo mambuek luko pado surang manusia, co itu juo dibuek kapadonyo.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "patah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakiak"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "patah"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakiak"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mato"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakiak"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "inyo mambuek"
+    },
+    {
+      "surface": "מום",
+      "gloss": "luko"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pado surang manusia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "co itu juo"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:35:41.142257122Z",
+  "model": "glm-5.3"
+}

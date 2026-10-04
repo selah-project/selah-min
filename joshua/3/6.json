@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu Yehosua bakato kapado para imam, mangeceak: Angkeklah ⟨את⟩ Tabut parjanjian tu, jo pindahlah ka muko urang tu. Maka urang tu maangkek ⟨את⟩ Tabut parjanjian tu, jo bajalan ka muko urang tu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangeceak"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "angkeklah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tabut parjanjian tu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "parjanjian tu"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "jo pindahlah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka muko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "maka maangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tabut parjanjian tu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "parjanjian tu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "jo bajalan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka muko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:04:50.111982480Z",
+  "model": "glm-5.3"
+}

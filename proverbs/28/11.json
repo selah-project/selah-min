@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Urang kayo pandai di mato-nyo surang; tapi urang miskin nan paham mamanah inyo.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "pandai"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di mato-nyo surang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "tapi urang miskin"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "nan paham"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "mamanah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:49.866773459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo Moshe maambiak ⟨את⟩ kandarang-kandarang tu jo ⟨את⟩ lembu-lembu tu, lalu mangagiah ⟨את⟩ sagalonyo kapado urang Levi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Jo Moshe maambiak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandarang-kandarang tu"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "kandarang-kandarang tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "lembu-lembu tu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu-lembu tu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lalu mangagiah"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sagalonyo",
+      "marks": "kapado urang Levi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Levi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:39:32.245599590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Maka Akhab mangiriman pasan ka sagalo anak-anak Yisrael, jo mangumpuakan ⟨את⟩ nabi-nabi tu ka Gunuang Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangiriman pasan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka sagalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "jo mangumpuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabi-nabi tu"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabi-nabi tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-10-04T05:54:10.217883475Z",
+  "model": "glm-5.3"
+}

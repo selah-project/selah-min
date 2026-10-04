@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Jo inyo mambuek ⟨את⟩ anak domba jo ⟨את⟩ minkha jo ⟨את⟩ minyak, pagi-pagi — pambaokan nan taruih-taruih.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak domba"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "minyak"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi-pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi-pagi"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "pambaokan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nan taruih-taruih"
+    }
+  ],
+  "timestamp": "2026-10-04T07:05:21.582259748Z",
+  "model": "glm-5.3"
+}

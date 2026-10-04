@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo urang tu masuak ka dalam parjanjian untuak mancari ⟨את⟩ Yahweh, Elohim nenek moyang urang tu, jo sado ati urang tu jo jo sado jiwa urang tu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "ka dalam parjanjian"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "untuak mancari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "nenek moyang urang tu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "ati urang tu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo jo sado"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jiwa urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T08:52:55.955635447Z",
+  "model": "glm-5.3"
+}

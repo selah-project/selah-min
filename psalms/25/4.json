@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jalan-jalan ⟨Engkau⟩, Yahweh, patuahkan kapado ambo; lorong-lorong ⟨Engkau⟩ ajari ambo.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan-jalan ⟨Engkau⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "patuahkan kapado ambo"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "lorong-lorong ⟨Engkau⟩"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajari ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:22.560459661Z",
+  "model": "glm-5.3"
+}

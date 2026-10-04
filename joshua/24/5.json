@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Lalu ambo mangutuih ⟨את⟩ Moshe jo ⟨את⟩ Aharon, jo ambo mahantuih ⟨את⟩ Mitsrayim, sarupo nan alah ambo karajoan di tangah-tangahnyo; sasudah itu ambo mangaluan ⟨את⟩ kalian.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ambo mangutuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "ambo mahantuih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nan alah ambo karajoan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tangah-tangahnyo"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sasudah itu"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ambo mangaluan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T05:12:04.297730136Z",
+  "model": "glm-5.3"
+}

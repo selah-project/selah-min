@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Apo gunonyo dalam darah ambo, katiko ambo turun ka lubang? Kok dabu ka mandahanoi You? Kok inyo maagiah kaba bana You?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "gunonyo"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "dalam darah ambo"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "katiko ambo turun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lubang"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Kok dabu ka mandahanoi You"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabu"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Kok inyo maagiah kaba"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "bana You"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:10.833177002Z",
+  "model": "glm-5.3"
+}

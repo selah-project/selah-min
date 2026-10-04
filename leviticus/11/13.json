@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo ⟨את⟩ iko kamu musti pabanci di antaro buruang-buruang: indak buliah dimakan, inyo-urang tu pambancian: ⟨את⟩ Neshar, jo ⟨את⟩ Peres, jo ⟨את⟩ Azniya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iko"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "musti pabanci"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "buruang-buruang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "buliah dimakan"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "pambancian"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo-urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Neshar"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "Neshar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "Peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Azniya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "Azniya"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:05.690112290Z",
+  "model": "glm-5.3"
+}

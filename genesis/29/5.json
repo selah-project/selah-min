@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Inyo bakato kapado urang tu: Sanang tahu ⟨את⟩ Lavan anak Nakhur? Urang tu bakato: Kami tahu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "sanang tahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhur"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "urang tu bakato"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "kami tahu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:30.601959437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 66,
+  "translation": "Bakaran-makanaan amok ambo naiakkan untuak ang, basamo udu birimbim; ambo ka buek lombu basamo kambiang-kambiang jantan. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "bakaran-makanaan"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "amok"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "naiakkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak ang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "udu"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "birimbim"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ka buek"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "lombu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basamo"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kambiang-kambiang jantan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:18.758014616Z",
+  "model": "glm-5.3"
+}

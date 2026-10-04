@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dan kau pisahkan ⟨את⟩ urang Levi dari tangah-tangah anak-anak Yisrael, supayo urang Levi manjadi punyo ambo.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "dan kau pisahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Levi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tangah-tangah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "supayo manjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "punyo ambo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Levi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:41:32.096585280Z",
+  "model": "glm-5.3"
+}

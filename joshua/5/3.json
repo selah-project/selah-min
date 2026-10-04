@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Lalu Yehosyua mambuek untuaknyo pisau batu, jo inyo manyunat ⟨את⟩ anak-anak Yisrael di bukik Haralot.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lalu mambuek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "pisau"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "jo inyo manyunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "bukik"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Haralot"
+    }
+  ],
+  "timestamp": "2026-10-04T05:05:15.864690754Z",
+  "model": "glm-5.3"
+}

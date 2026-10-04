@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo minkha inyo: tapuang sia nan diaduak jo minyak, tigo paresoan untuak lombu tu, duo paresoan untuak kambiang biang tu.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "jo minkha inyo"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tapuang sia"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "nan diaduak"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "paresoan"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "untuak lombu tu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "paresoan"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "untuak kambiang biang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:48:26.465214447Z",
+  "model": "glm-5.3"
+}

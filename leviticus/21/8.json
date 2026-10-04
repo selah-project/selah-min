@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo angaknyo sanak manyucian inyo, karano ⟨את⟩ roti Elohim angkanyo inyo nan mambariannyo; suci inyo harus untuak angkanyu, karano Akulah Yahweh nan suci, nan manyucian angkanyu.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "jo angkanyo manyucian inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roti Elohim angkanyu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim angkanyu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "mambariannyo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "harus manjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak angkanyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "nan manyucian angkanyu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:33.012457655Z",
+  "model": "glm-5.3"
+}

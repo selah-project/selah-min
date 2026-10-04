@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Maiaklah, anak-anak, dangaan kapado ambo; takuik kapado Yahweh ka ambo ajak ka kalian.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Maiaklah"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dangaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "takuik kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ka ambo ajak ka kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:13.598400425Z",
+  "model": "glm-5.3"
+}

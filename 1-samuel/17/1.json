@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lalu urang Palisiti maumpuak pasuakan-pasuakan ⟨את⟩ mareka untuak baparang, jo mareka bakumpua di Sokho, nan tamasuak wilayah Yehudah, lalu mareka bamalam di antaro Sokho jo Azeka, di Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "maumpuak"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasuakan-pasuakan mareka"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "pasuakan-pasuakan mareka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuak baparang"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "bakumpua"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "tamasuak wilayah Yehudah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bamalam"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo di antaro"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "di Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:35.862458775Z",
+  "model": "glm-5.3"
+}

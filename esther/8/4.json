@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu rajo manggarikkan ⟨את⟩ tuas ameh kapado Ester, maka Ester bangkik jo tagak di muko rajo.",
+  "tokens": [
+    {
+      "surface": "וַיּ֥וֹשֶׁט",
+      "gloss": "manggarikkan"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "לְאֶסְתֵּ֑ר",
+      "gloss": "kapado Ester"
+    },
+    {
+      "surface": "אֵ֤ת",
+      "gloss": "⟨את⟩",
+      "marks": "tuas ameh"
+    },
+    {
+      "surface": "שַׁרְבִ֘יט",
+      "gloss": "tuas"
+    },
+    {
+      "surface": "הַזָּהָ֥ב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "וַתָּ֣קָם",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "אֶסְתֵּ֔ר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "וַֽתַּעֲמֹ֖ד",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:56.237593631Z",
+  "model": "glm-5.3"
+}

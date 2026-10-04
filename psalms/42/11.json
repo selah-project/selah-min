@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Sarupo pambantaian dalam tulang-tulang ambo, panyarang-panyarang ambo maihaki ambo, katiko inyo bakato kapado ambo sapanjang ari: di ma Elohim kau?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "sarupo pambantaian"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "dalam tulang-tulang ambo"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "maihaki ambo"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "panyarang-panyarang ambo"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "katiko inyo bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:33.683926103Z",
+  "model": "glm-5.3"
+}

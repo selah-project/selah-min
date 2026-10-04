@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Indak ado untuak ⟨ka⟩ elohim nan lain di muko Ambo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak ⟨ka⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nan lain"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:11.572327023Z",
+  "model": "glm-5.3"
+}

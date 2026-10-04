@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Yahweh, Engkau manatapkan shalom untuak kami, karano sagalo karajo kami pun Engkau nan buek untuak kami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "manatapkan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "karajo kami"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Engkau nan buek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuak kami"
+    }
+  ],
+  "timestamp": "2026-10-04T06:12:49.191306816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 44,
+  "translation": "Karano indak jo padang surang inyo mamparanteh tanah, jo langan surang indak manyalamaik-an inyo; tapi tangan suok-Mu, langan-Mu, jo cahayo muko-Mu, karano Kau sanang kapado inyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "jo padang surang"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "mamparanteh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "jo langan surang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "manyalamaik-an"
+    },
+    {
+      "surface": "למו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi karano"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan suok-Mu"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "lanan-Mu"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "jo cahayo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "Kau sanang kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:30:01.182956674Z",
+  "model": "glm-5.3"
+}

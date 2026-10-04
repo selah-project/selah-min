@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Aku ka tingga di tangah-tangah anak-anak Yisrael, jo indak Aku ka maninggaan ⟨את⟩ urang ambo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "Aku ka tingga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "Aku ka maninggaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang ambo Yisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "urang ambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:47:05.653396775Z",
+  "model": "glm-5.3"
+}

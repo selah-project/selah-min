@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Dibalik-balik urang-urang jahat, jo indak ado ⟨lagi⟩ inyo, tapi rumah urang-urang tsedeq tagak.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "dibalik-balik"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "jo indak ado ⟨lagi⟩ inyo"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "tapi rumah"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang-urang tsedeq"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tagak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:29.456395250Z",
+  "model": "glm-5.3"
+}

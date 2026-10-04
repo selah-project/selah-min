@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 142,
+  "translation": "Ambo mamungguah kapado Sanyo, Yahweh; ambo bakato: Sanyo tampek palinduangan ambo, bagian ambo di bumi nan iduik.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "ambo mamungguah"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado Sanyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sanyo"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "tampek palinduangan ambo"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "bagian ambo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nan iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:59.350479303Z",
+  "model": "glm-5.3"
+}

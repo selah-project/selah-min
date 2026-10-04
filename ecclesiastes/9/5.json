@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Karano urang-urang nan iduik tau bahasonyo inyo ka mati, tapi urang-urang nan alah mati indak tau apo pun, jo indak ado lai untuak inyo upaho, karano ingatan tantang inyo alah dilupoan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "urang-urang nan iduik"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "tau"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "bahasonyo inyo ka mati"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "tapi urang-urang nan alah mati"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "tau"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "apo pun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jo indak ado lai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak inyo"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "upaho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "alah dilupoan"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ingatan tantang inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:41.918878329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Mamulia-lah diri dalam namo nan suci-Nyo; sanang-lah ati urang nan mangaja Yahweh.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "mamulia-lah diri"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam namo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nan suci-Nyo"
+    },
+    {
+      "surface": "ישमח",
+      "gloss": "sanang-lah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "urang nan mangaja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:58.663159106Z",
+  "model": "glm-5.3"
+}

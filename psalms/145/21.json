@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Pujian Yahweh kaucap jo muluik ambo, jo sagalo dagiang mamujaik namo nan suci Nyo salamo-lamonyo, satiok ari.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "pujian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "kaucap"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik ambo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mamujaik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nan suci Nyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "satiok ari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:19.330000370Z",
+  "model": "glm-5.3"
+}

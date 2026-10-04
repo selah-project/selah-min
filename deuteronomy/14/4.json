@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Iko adolah binatang nan buliah kalian makan: lombu, anak domba kambiang, jo anak domba kambiang бир — lombu, anak domba domba, jo anak domba kambiang.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "buliah kalian makan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lombu"
+    },
+    {
+      "surface": "שה",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "jo anak domba"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kambiang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:49.588077104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu Paroh bauruih maimbau Moshe jo Aharon, jo bakato: Ambo alah badoso kapado Yahweh, Elohim nyu, jo kapado nyu sumua.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "bauruih"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "maimbau"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "jo Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "alah badoso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nyu"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "jo kapado nyu sumua"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:25.761990222Z",
+  "model": "glm-5.3"
+}

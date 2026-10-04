@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Saudara-saudara ambo alah mangkhianati sarupo batang aia musim paneh, sarupo tapih batang-batang aia nan mailang.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudara ambo"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "mangkhianati"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "batang aia musim paneh"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "sarupo tapih"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "batang-batang aia"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "mailang"
+    }
+  ],
+  "timestamp": "2026-10-04T08:04:36.084292437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Celaka inyo nan mambangun koto jo darah, jo mangingkek koto jo kalabahan!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "celaka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "koto"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "jo darah"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "jo mangingkek"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "koto"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "jo kalabahan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:15:53.360886673Z",
+  "model": "glm-5.3"
+}

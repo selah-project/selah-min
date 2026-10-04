@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Lalu inyo mambangun pado dindiang rumah itu ciek lambah sisi sakaolah, ⟨את⟩ dindiang-dindiang rumah itu sakaolah, untuak Heikhal jo untuak Devir; jo inyo mambuek kamar-kamar sisi sakaolah.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "lalu inyo mambangun"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dindiang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "lambah sisi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaolah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dindiang-dindiang rumah itu"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "dindiang-dindiang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaolah"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "untuak Heikhal"
+    },
+    {
+      "surface": "ו לדביר",
+      "gloss": "jo untuak Devir"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "kamar-kamar sisi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakaolah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:47:20.829372615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Akun bakato dalam ati ambo: Elohim ka mangadili ⟨את⟩ nan tsedeq jo ⟨את⟩ nan rasya, karano ado wakatu untuak satiok kahandak, jo untuak satiok karajo di sana.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "akun bakato"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "dalam ati ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan tsedeq"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "nan tsedeq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "nan rasya"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "nan rasya"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ka mangadili"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak satiok"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kahandak"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo untuak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-10-04T08:20:46.753885115Z",
+  "model": "glm-5.3"
+}

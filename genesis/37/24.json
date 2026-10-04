@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Lalu urang tu mambiaknyo, mambuangnyo ⟨את⟩ ka dalam sumua; jo sumua itu kosong, indak ado aia di dalamnyo.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "urang tu mambiaknyo"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "mambuangnyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ka dalam sumua"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ka dalam sumua"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "jo sumua itu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:46.680069558Z",
+  "model": "glm-5.3"
+}

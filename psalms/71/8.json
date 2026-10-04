@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Muluik ambo ka punuah jo pujian Anda, sapanjang ari jo kamuliaan Anda.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "ka punuah"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Muluik ambo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "pujian Anda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "kamuliaan Anda"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:13.065963806Z",
+  "model": "glm-5.3"
+}

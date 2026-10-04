@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Karano aari-aari ambo alah tanduih sarupo asok, jo tulang-tulang ambo sarupo api manggarisia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "alah tanduih"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "sarupo asok"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "aari-aari ambo"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "jo tulang-tulang ambo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "קד",
+      "gloss": "api"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "manggarisia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:48.575264603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Ambo baseru ka ⟨Angkau⟩ jo ⟨Angkau⟩ indak manjawab ambo; ambo tagak, jo ⟨Angkau⟩ hanyo mancaliak ambo.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "ambo baseru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka kapado Angkau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "manjawab ambo"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ambo tagak"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "jo hanyo mancaliak"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:11:29.073643478Z",
+  "model": "glm-5.3"
+}

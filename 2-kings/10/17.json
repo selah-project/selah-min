@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu inyo tibo di Shomeron, dan inyo mamukua ⟨את⟩ sagalo nan tasiso untuak Ahab di Shomeron, sampai inyo maancuanyo, sarupo kato Yahweh nan alah dikatokan kapado Elyahu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lah inyo tibo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "di Shomeron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan inyo mamukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan tasiso untuak Ahab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "nan tasiso"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "untuak Ahab"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomeron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "inyo maancuanyo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sarupo kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikatokan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elyahu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:19.585502324Z",
+  "model": "glm-5.3"
+}

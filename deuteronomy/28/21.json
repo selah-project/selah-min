@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Yahweh mambuek ⟨את⟩ wabah tagalek kapado kau, sampai inyo manghabihkau dari ateh tanah nan kau tibo ka sinan untuak manguasoinyo.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "mambuek tagalek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wabah"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wabah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "inyo manghabihkau"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kau"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari ateh"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka sinan"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "untuak manguasoinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:21.493721248Z",
+  "model": "glm-5.3"
+}

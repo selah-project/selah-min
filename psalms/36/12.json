@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Janga tinggak kokab manamui ambo, jo tangan urang ja'at janga manggariai ambo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janga"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "manamui ambo"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tinggak"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kokab"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "jo tangan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang ja'at"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janga"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "manggariai ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:15.831886298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Tapi kok ⟨sanak⟩ manolak jo mambangkang, padang nan makan ⟨sanak⟩, karano muluik Yahweh alah bakato.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi kok"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "manolak"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "jo mambangkang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "makan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alah bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:19.130778969Z",
+  "model": "glm-5.3"
+}

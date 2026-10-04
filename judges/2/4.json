@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 2:4",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Maka katiko malaikat Yahweh maucokan ⟨את⟩ kato-kato iko kapado sado anak Yisrael, urang banyak tu mangangkek ⟨את⟩ suaro urang tu, jo urang tu manangih.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka katiko"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "katiko maucokan"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaikat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato iko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato iko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaro urang tu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "suaro urang tu"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "manangih"
+    }
+  ],
+  "timestamp": "2026-10-04T09:07:16.863494127Z",
+  "model": "glm-5.3"
+}

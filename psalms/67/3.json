@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 67,
+  "translation": "Supayo dikana di bumi jalan-Mu, di sagalo bangso patolongan-Mu.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "supayo dikana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "patolongan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:22.268601804Z",
+  "model": "glm-5.3"
+}

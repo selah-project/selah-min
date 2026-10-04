@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo Yahweh bakato kapado Avram: Paia, bala lah dari nagari ang, jo dari kalanakan ang, jo dari rumah ambo-ayo ang, ka bumi nan ka Kuunjuak-an kapado ang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Paia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bala lah"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "dari nagari ang"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "jo dari kalanakan ang"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "jo dari rumah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ambo-ayo ang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ka Kuunjuak-an kapado ang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:20.580281542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 3:20",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo pangataahuannyo lauik-lauik dalam dibalah, jo awan-awan manitihkan ambun.",
+  "tokens": [
+    {
+      "surface": "בדעתו",
+      "gloss": "jo pangataahuannyo"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "lauik-lauik dalam"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "dibalah"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "jo awan-awan"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "manitihkan"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ambun"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:15.531466455Z",
+  "model": "glm-5.3"
+}

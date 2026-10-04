@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Bareko maagiah tarimo kasih kapado Yahweh dek hesed-Nyo, jo hal-hal nan taromai kapado anak-anak manusia",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "mareko maagiah tarimo kasih"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "dek hesed-Nyo"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "jo hal-hal nan taromai"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kapado anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:28.380426006Z",
+  "model": "glm-5.3"
+}

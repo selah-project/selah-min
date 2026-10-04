@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo katak-katak nak naiak ka dalam rumah ambo, jo ka ateh urang ambo, jo ka ateh sagalo hamba-hamba ambo.'",
+  "tokens": [
+    {
+      "surface": "ובכה",
+      "gloss": "jo ka dalam diri ambo"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "jo ka ateh urang ambo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jo ka ateh sagalo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hamba ambo"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:13:22.478807414Z",
+  "model": "glm-5.3"
+}

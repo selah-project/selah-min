@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo kapado Makir alah ambo agiah ⟨את⟩ Giléad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "jo kapado Makir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "alah ambo agiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giléad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giléad"
+    }
+  ],
+  "timestamp": "2026-10-04T04:51:49.386429006Z",
+  "model": "glm-5.3"
+}

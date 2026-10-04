@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Tehom manyaruak ka tehom, pado suaro warih aia Dikau; sagalo galumbang Dikau jo ombak Dikau alah malinteh ateh ambo.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "manyaruak"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "pado suaro"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "warih aia Dikau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "galumbang Dikau"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "jo ombak Dikau"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "alah malinteh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:45.486573185Z",
+  "model": "glm-5.3"
+}

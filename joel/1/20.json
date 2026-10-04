@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 1:20",
+  "book": "joel",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Bahkan binatang ladang pun marindu kapado Dak, karano batang-batang aia alah kariah, jo api alah makan padang-padang rumpuik gurun.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bahkan ... pun"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "תערוג",
+      "gloss": "marindu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado Dak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "kariah"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "batang-batang aia"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "makan"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "padang-padang rumpuik"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:04.746377722Z",
+  "model": "glm-5.3"
+}

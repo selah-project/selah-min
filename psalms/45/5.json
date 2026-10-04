@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Dek kamahaanmu bahasil manunggangi, karano kabanaran jo karandahan ati jo tsedeq; jo tangan suokmu mangaja angkok bakeh-hal nan mambuek takuik.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "dek kamahaanmu"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "bahasil"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "manunggangi"
+    },
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "karandahan ati"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "mangaja angkok"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "bakeh-hal nan mambuek takuik"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan suokmu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:19.793731908Z",
+  "model": "glm-5.3"
+}

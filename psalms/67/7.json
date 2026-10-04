@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 67,
+  "translation": "Bumi alah mambarih hasia buminyo; Elohim, Elohim kito, mandabarakan barkek kapado kito.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "alah mambarih"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "hasia buminyo"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "mandabarakan barkek kapado kito"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:27.544173207Z",
+  "model": "glm-5.3"
+}

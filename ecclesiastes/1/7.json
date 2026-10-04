@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Sadiejo sungai-sungai baerang ka lauik, tapi lauik indak panuah; ka tampek dari ma sungai-sungai tu baerang, ka sinan inyo baliak untuak baerang baliak.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadiejo"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "baerang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "והים",
+      "gloss": "jo lauik"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "indak"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "panuah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "baerang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ka sinan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuak baerang baliak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:19.145178297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 49,
+  "translation": "Urang nan bapacik pado kakayoan mereka, jo mundaknyo kayo mereka mamuja diri mereka.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "nan bapacik"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kakayoan mereka"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "jo mundaknyo"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "kayo mereka"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "mamuja diri mereka"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:31.569815537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 8:7",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Lalu inyo mamakaian ka inyo ⟨את⟩ kutonet, jo mamakek inyo ⟨את⟩ jo abnet, jo mamakaian inyo ⟨את⟩ meil, lalu maagiah ka atehnyo ⟨את⟩ efod, jo mamakek inyo jo hashev efod, jo mamasangannyo kapadonyo jo itu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka atehnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutonet"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kutonet"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "mamakek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "abnet"
+    },
+    {
+      "surface": "באבנט",
+      "gloss": "abnet"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "mamakaian"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meil"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "meil"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka atehnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "mamakek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hashev"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "hashev"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ויאפד",
+      "gloss": "mamasang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:56.735501058Z",
+  "model": "glm-5.3"
+}

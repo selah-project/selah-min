@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "⟨את⟩ meja bakeh nan dibaka jo ⟨את⟩ rabek tambago nan ado padonyo ⟨את⟩ galang-galangnyo jo ⟨את⟩ sagalo parabotnyo, ⟨את⟩ bakuah jo ⟨את⟩ kakiannyo",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja bakeh nan dibaka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meja bakeh"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nan dibaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "rabek tambago"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "rabek"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ado padonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galang-galangnyo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "galang-galangnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo parabotnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakuah"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "bakuah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kakiannyo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "kakiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:04.941407629Z",
+  "model": "glm-5.3"
+}

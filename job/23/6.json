@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Apo inyo ka badaku jo ambo dek kakuatan nan gadang? Indak; hanyo inyo sajo nan ka maàgiah ⟨kaputusan⟩ ateh ambo.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "dek kakuatan nan gadang"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ka badaku"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo sajo"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ka maàgiah"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ateh ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:09:20.961302352Z",
+  "model": "glm-5.3"
+}

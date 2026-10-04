@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Dawid takuik kapado ⟨את⟩ Elohim pado ari tu, bakato: Baa ambo dapek mambaok ⟨את⟩ petuah Elohim ka dakek ambo?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "היך",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka dakek ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petuah Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "petuah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:35.714177740Z",
+  "model": "glm-5.3"
+}

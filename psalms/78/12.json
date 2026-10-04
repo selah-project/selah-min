@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Di muko niniak moyangnyo ⟨Inyo⟩ manjadiankan mu'jizat di tanah Mitsrayim, di ladang Tsoan.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "Di muko"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "niniak moyangnyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨Inyo⟩ manjadiankan"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mu'jizat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:07.644546959Z",
+  "model": "glm-5.3"
+}

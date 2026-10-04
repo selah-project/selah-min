@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon jo ⟨את⟩ padang rumbunnyo, ⟨את⟩ Gat Rimmon jo ⟨את⟩ padang rumbunnyo — ampek koto.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumbunnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumbunnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "padang rumbunnyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumbunnyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "koto"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ampek"
+    }
+  ],
+  "timestamp": "2026-10-04T05:10:03.114335953Z",
+  "model": "glm-5.3"
+}

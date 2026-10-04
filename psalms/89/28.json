@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Ambo juo akan manjadikan inyo anak sulung, tatinggi dari rajo-rajo bumi.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "akan manjadikan inyo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "tatinggi"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "dari rajo-rajo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:01.351946822Z",
+  "model": "glm-5.3"
+}

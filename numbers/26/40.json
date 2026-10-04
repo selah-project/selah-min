@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Anak-anak Bela adolah Ard jo Naaman: ka Ard, kaum orang Ard; ka Naaman, kaum orang Naam.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "adoh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Anak-anak"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Ard"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "jo Naaman"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "orang Ard"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "ka Naaman"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "orang Naam"
+    }
+  ],
+  "timestamp": "2026-10-04T04:47:38.879001339Z",
+  "model": "glm-5.3"
+}

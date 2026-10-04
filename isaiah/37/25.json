@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Ambo manggali sumur, jo minum aia; jo jo tapak kaki ambo ambo mangariangkan sado sungai-sungai Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "ambo manggali"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "jo minum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "jo ambo mangariangkan"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "jo tapak"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "kaki ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:22.038223351Z",
+  "model": "glm-5.3"
+}

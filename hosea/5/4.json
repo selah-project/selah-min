@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Buahek-buahek inyo indak mambebaninyo baliak ka Elohim inyo, karano ruakh zazinan ado di tangah inyo, jo ⟨את⟩ Yahweh indak inyo tahau.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "indak mambebaninyo"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "buahek-buahek inyo"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zazinan"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "di tangah inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tahau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:51.903381781Z",
+  "model": "glm-5.3"
+}

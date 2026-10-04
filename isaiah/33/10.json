@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Kini ambo ka bangkik, kato Yahweh; kini ambo ka ditinggikan; kini ambo ka mangangkek ⟨diri ambo⟩.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ambo ka bangkik"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "ambo ka ditinggikan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ambo ka mangangkek ⟨diri ambo⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:11.363193493Z",
+  "model": "glm-5.3"
+}

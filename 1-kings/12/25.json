@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu Yarobam mambangun ⟨את⟩ Shekhem di pagunuangan Efrayim, jo tingga di sinan; lalu inyo pai dari sinan, jo mambangun ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "lalu mambangun"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pagunuangan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jo tingga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lalu pai"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sinan"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "jo mambangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-10-04T09:11:26.180043993Z",
+  "model": "glm-5.3"
+}

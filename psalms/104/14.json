@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Nan manumbuahkan rumpuik untuak binatang, jo tanaman untuak karajo manusia, untuak mangaluakan roti dari bumi.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Nan manumbuahkan"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumpuik"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "untuak binatang"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "jo tanaman"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "untuak karajo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "untuak mangaluakan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:26.801836802Z",
+  "model": "glm-5.3"
+}

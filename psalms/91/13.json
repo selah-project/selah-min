@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Ateh singo jo ular kaminyak engkau manginjak, anak singo jo naga engkau mangijak.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "singo"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "jo ular kaminyak"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "engkau manginjak"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "engkau mangijak"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "anak singo"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "jo naga"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:37.495815826Z",
+  "model": "glm-5.3"
+}

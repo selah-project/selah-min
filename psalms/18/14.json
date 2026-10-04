@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Yahweh mangaluaan guruh di langik, jo Elyon mambari suaro-Nyo: es batu jo bara api.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "Lalu ... mangaluaan guruh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "jo Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mambari"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "suaro-Nyo"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "es batu"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "jo bara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:08.492362748Z",
+  "model": "glm-5.3"
+}

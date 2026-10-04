@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Nan duduak di tampek rasio Elyon, di bayang-bayang Shaddai inyo malabua.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "duduak"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di tampek rasio"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "di bayang-bayang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "malabua"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:50.922908169Z",
+  "model": "glm-5.3"
+}

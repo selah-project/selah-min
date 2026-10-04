@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Anak-anak Yehudah: Perets, Chetsron, jo Kharmi, jo Khur, jo Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak-anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "jo Kharmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "jo Khur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "jo Shoval"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:35.924990065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Bumi tu koso jo kosong, jo gelap di ateh muko \/\/\/<rehan>tehöm<\/rehan> — tehom — jo ruakh Elohim mahampui di ateh muko aia tu.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Bumi tu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adolah"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "koso"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "jo kosong"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "jo gelap"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "jo ruakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "mahampui"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia tu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:13.329625445Z",
+  "model": "glm-5.3"
+}

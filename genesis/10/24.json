@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo Arpakhshad manurunkan ⟨את⟩ Shelakh, jo Shelakh manurunkan ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "jo Arpakhshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "jo Shelakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:28.660273461Z",
+  "model": "glm-5.3"
+}

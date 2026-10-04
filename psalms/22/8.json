@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Sado nan caliak ambo mangalawan ambo: maâgiah bibia, manggoyang kapalo, bakato:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "nan caliak ambo"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "mangalawan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "maâgiah bibia"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "bibia"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "manggoyang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:02.941613525Z",
+  "model": "glm-5.3"
+}

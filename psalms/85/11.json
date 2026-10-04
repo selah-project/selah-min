@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 85,
+  "translation": "Hesed jo kabanaran basuo, tsedeq jo shalom bacium.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "jo kabanaran"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "basuo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "jo shalom"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "bacium"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:53.415021884Z",
+  "model": "glm-5.3"
+}

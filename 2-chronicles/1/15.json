@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu maagiah rajo ⟨את⟩ perak jo ⟨את⟩ ameh di Yerushalayim sarupo batu-batu, jo ⟨את⟩ kayu araz inyo agiah sarupo kayu sikamor nan di tanah randah, sangek banyak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Lalu maagiah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ameh"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "sarupo batu-batu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kayu araz"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "kayu araz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inyo agiah"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "sarupo kayu sikamor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "di tanah randah"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sangek banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T08:49:06.808021907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "jo ⟨את⟩ meja bakeh dupa jo ⟨את⟩ galang-galangnyo, jo ⟨את⟩ minyak minyak untuak minyak manyuok jo ⟨את⟩ dupa sampai-sampai jo ⟨את⟩ tirai di muko pintu masuak ka Mishkan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "meja bakeh dupa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meja bakeh dupa"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "bakeh dupa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "galang-galangnyo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "galang-galangnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "minyak manyuok"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "manyuok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "dupa sampai-sampai"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "sampai-sampai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tirai"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "masuak ka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:04.940893348Z",
+  "model": "glm-5.3"
+}

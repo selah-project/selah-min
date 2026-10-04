@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 150,
+  "translation": "Puji inyo jo simbal nan babunyi janiah; puji inyo jo simbal nan basorak-sorai.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "puji inyo"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "jo simbal"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nan babunyi janiah"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "puji inyo"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "jo simbal"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "nan basorak-sorai"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:53.304159691Z",
+  "model": "glm-5.3"
+}

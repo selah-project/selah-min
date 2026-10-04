@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Sampai tuo awak — ambo inyo; sampai uban awak ambo maangkuang; ambo nan mambuek, jo ambo nan mambaok, ambo nan maangkuang, jo ambo nan malapehan.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "uban"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "maangkuang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nan mambuek"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "maangkuang"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "malapehan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:20:10.847467136Z",
+  "model": "glm-5.3"
+}

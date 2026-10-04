@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Tetapi kapado Kayin jo kapado minkhanyo inyo indak panjak; lalu Kayin manjadi sanjang bana, jo mukonyo manurun.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "tetapi kapado"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "minkhanyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "panjak"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "lalu manjadi sanjang"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "manurun"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:45.409392654Z",
+  "model": "glm-5.3"
+}

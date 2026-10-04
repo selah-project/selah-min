@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Tapi Avshalom mandasak inyo, sahinggo inyo mangirirm ←maaju→ ⟨את⟩ basamonyo ⟨את⟩ Amnon jo ⟨את⟩ sado anak-anak rajo.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "Tapi Avshalom mandasak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "inyo mangirirm"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ basamonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sado anak-anak rajo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:36.877084494Z",
+  "model": "glm-5.3"
+}

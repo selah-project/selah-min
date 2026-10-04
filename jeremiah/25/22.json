@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "jo ⟨את⟩ sagalo rajo-rajo Tsor, jo ⟨את⟩ sagalo rajo-rajo Tsidon, jo ⟨את⟩ rajo-rajo pulau nan ado di sabalah lauaik.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo rajo-rajo Tsor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo rajo-rajo Tsidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "rajo-rajo pulau"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "האי",
+      "gloss": "pulau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di sabalah"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lauaik"
+    }
+  ],
+  "timestamp": "2026-10-04T06:34:44.554588269Z",
+  "model": "glm-5.3"
+}

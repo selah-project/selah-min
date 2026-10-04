@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Juopun sado ari-arinyo inyo makan dalam kagelapan, jo kasakik nan banyak, jo panyakiknyo, jo kamurkaannyo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juopun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ari-arinyo"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dalam kagelapan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "inyo makan"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "jo kasakik"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "jo panyakiknyo"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "jo kamurkaannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:52.644227260Z",
+  "model": "glm-5.3"
+}

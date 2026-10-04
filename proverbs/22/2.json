@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Urang kaya jo urang miskin basuo; Yahweh ⟨adolah⟩ pambuek sagalonyo.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "urang kaya"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "jo urang miskin"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "basuo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pambuek"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sagalonyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:59:32.221147122Z",
+  "model": "glm-5.3"
+}

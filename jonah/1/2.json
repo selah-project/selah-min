@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Bangkiklah, pai ka Ninewe, kota nan gadang tu, jo saraokan malawannyo, karano kadurhakoan urang tu alah naiak hadapan Ambo.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "bangkiklah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "jo saraokan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "malawannyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "lah naiak"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "kadurhakoan urang tu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hadapan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:14:04.303012466Z",
+  "model": "glm-5.3"
+}

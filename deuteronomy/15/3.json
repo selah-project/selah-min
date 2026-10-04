@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "⟨את⟩ urang asiang boleh kau tagiah, tapi nan ado padah di ⟨את⟩ sudaranyo, tangannyo buliakanlah.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang asiang"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "kau tagiah"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "tapi nan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padah di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudaranyo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sudaranyo"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "buliakanlah"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:49.391607121Z",
+  "model": "glm-5.3"
+}

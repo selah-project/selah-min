@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Untuak Dawid. Bakuaklah, Yahweh, jo ⟨את⟩ urang nan basuo jo ambo; baparanglah jo ⟨את⟩ urang nan baparang jo ambo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuak Dawid"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Bakuaklah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang nan basuo jo ambo"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "urang nan basuo jo ambo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "baparanglah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang nan baparang jo ambo"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "urang nan baparang jo ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:47.411132944Z",
+  "model": "glm-5.3"
+}

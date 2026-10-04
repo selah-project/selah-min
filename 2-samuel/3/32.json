@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu urang tu mangubuaan ⟨את⟩ Avner di Khevron; rajo tu mangangkek ⟨את⟩ suaronyo, manangih di kubua Avner, jo saluruah urang banyak manangih pulo.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "mangubuaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Khevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaronyo"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "suaronyo"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "manangih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kubua"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "manangih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:36:04.519824820Z",
+  "model": "glm-5.3"
+}

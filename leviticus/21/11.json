@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo kapado sagalo nyao nan alah mati indak inyo mandakek; untuak amboonyo jo untuak mandenyo indak inyo marusak suci.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nyao"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nan alah mati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "inyo mandakek"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "untuak amboonyo"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "jo untuak mandenyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "inyo marusak suci"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:04.715705156Z",
+  "model": "glm-5.3"
+}

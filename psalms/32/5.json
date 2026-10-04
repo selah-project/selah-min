@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Doso ambo ambo bakaniah kapado kau, jo kasalahan ambo indak ambo singkapi; ambo bakato: ambo ka mangaku kapado Yahweh soal pambarontakan ambo, jo kau — kau mahapuih kasalahan doso ambo. Selah",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "doso ambo"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ambo bakaniah kapado kau"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "jo kasalahan ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "ambo singkapi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ambo bakato"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ambo ka mangaku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "soal"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pambarontakan ambo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "jo kau"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "kau mahapuih"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasalahan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "doso ambo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:18.431107824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 114,
+  "translation": "Lauik caliak lalu lari, Yarden baputa ka balakang",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "lalu lari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "baputa"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ka balakang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:15.926268764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Inyo mangucapkan raso tarimo kasih kapado Yahweh ateh hesed-Nyo, dan ateh hal-hal nanajaib-Nyo kapado anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "inyo mangucapkan raso tarimo kasih"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ateh hesed-Nyo"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dan ateh hal-hal nan ajaib-Nyo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kapado anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:27.850567390Z",
+  "model": "glm-5.3"
+}

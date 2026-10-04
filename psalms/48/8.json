@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Dangan ruakh timur Den patah ⟨את⟩ kapa-kapa Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "dangan ruakh"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "timur"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "Den patah"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "kapa-kapa"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish",
+      "marks": "kapa-kapa Tarshish"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:45.590144371Z",
+  "model": "glm-5.3"
+}

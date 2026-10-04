@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Jo rajo Mitsrayim mangaja ⟨את⟩ Elyakim saudaronyo manjadi rajo ateh Yehudah jo Yerushalayim, jo maubah ⟨את⟩ namonyo manjadi Yehoyakim; jo ⟨את⟩ Yehoachaz saudaronyo diambiak dek Nekho, jo dibawonyo ka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "mangaja manjadi rajo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaronyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jo Yerushalayim"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "maubah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaronyo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambiak"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "dek Nekho"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "dibawonyo"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:00:35.932432514Z",
+  "model": "glm-5.3"
+}

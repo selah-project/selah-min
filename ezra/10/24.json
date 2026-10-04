@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo dari para panyanyi: Elyasjib. Jo dari para panjago gapuro: Sjalum, jo Telem, jo Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "para panyanyi"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyasjib"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "para panjago gapuro"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Sjalum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "jo Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "jo Uri"
+    }
+  ],
+  "timestamp": "2026-10-04T08:34:16.935608463Z",
+  "model": "glm-5.3"
+}

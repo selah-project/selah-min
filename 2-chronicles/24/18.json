@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Urang tu mambiaakan ⟨את⟩ rumah Yahweh, Elohim nenek moyang urang tu, jo mamuja ⟨את⟩ Ashera jo ⟨את⟩ patuang-patuang; lalu tibo kamurkaan ateh Yehuda jo Yerushalayim dek salah urang tu ko.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "mambiaakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "nenek moyang urang tu"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mamuja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "patuang-patuang"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "patuang-patuang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lalu tibo"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kamurkaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "dek salah urang tu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-04T09:32:46.829093799Z",
+  "model": "glm-5.3"
+}

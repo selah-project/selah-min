@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Bangkaik pagi Hizkiyahu rajo bangun, jo mangumpuakan ⟨את⟩ para pamimpin koto, lalu naiak ka rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bangkaik pagi"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "mangumpuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pamimpin koto"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para pamimpin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "koto"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:57:45.033406978Z",
+  "model": "glm-5.3"
+}

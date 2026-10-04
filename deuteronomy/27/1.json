@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Lalu Moshe jo kaum tuo-tuo Yisrael mamarentahkan ⟨את⟩ urang banyak tu, mangecek: Jago ⟨את⟩ sado parintah nan ambo parentahkan ⟨את⟩ kapado urang ang iko ari inni.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mamarentahkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "jo kaum tuo-tuo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang banyak tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "jago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado parintah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "parintah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "parentahkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kapado urang ang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari inni"
+    }
+  ],
+  "timestamp": "2026-10-04T05:00:14.870672690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 25:16",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo inyo ka minum, jo inyo ka taguncang jo goyang, jo inyo ka gadang-gadang baliak dek ado padang nan ambo utuih di tangah-tangah inyo.",
+  "tokens": [
+    {
+      "surface": "ושתו",
+      "gloss": "jo inyo ka minum"
+    },
+    {
+      "surface": "והתגעשו",
+      "gloss": "jo inyo ka taguncang jo goyang"
+    },
+    {
+      "surface": "והתהללו",
+      "gloss": "jo inyo ka gadang-gadang baliak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dek ado"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "utuih"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "di tangah-tangah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:35:22.688419902Z",
+  "model": "glm-5.3"
+}

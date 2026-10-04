@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Nan katuju dek-Mu jo kabajikan-Mu ka dikatahui urang di dalam kaduduahan, jo tsedeq-Mu di bumi nan talupo?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "ka dikatahui urang"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "di dalam kaduduahan"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "nan katuju dek-Mu"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "jo tsedeq-Mu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "nan talupo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:06.484179081Z",
+  "model": "glm-5.3"
+}

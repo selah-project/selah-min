@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Supayo awak manaruah harapan kapado Elohim, indak lupo pabuatan-pabuatan El, jo mamagang parentah-parentah-Nyo.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "jo manaruah"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "harapan inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "lupo"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "pabuatan-pabuatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "jo parentah-parentah-Nyo"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "mamagang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:25.773328891Z",
+  "model": "glm-5.3"
+}

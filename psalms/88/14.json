@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Tapi ambo, ka Yahweh ambo baseru-seru, jo di pagi doa ambo mandahului ⟨Engkau⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ambo baseru-seru"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "jo di pagi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ambo"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "mandahului ⟨Engkau⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:06.484429063Z",
+  "model": "glm-5.3"
+}

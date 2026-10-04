@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Kok itu Yaakov mangangkek ⟨את⟩ kaki-nyo, lape inyo bajalan ka tanah urang-urang Kedem, urang timur.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki-nyo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedem, timur"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:49.685900675Z",
+  "model": "glm-5.3"
+}

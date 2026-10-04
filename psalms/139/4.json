@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "translation": "Karano indak ado kato di lida ambo — caliak, Yahweh, Engkau alah mangatahui sagalonyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "kato"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "di lida ambo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Engkau alah mangatahui"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sagalonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:22.283787447Z",
+  "model": "glm-5.3"
+}

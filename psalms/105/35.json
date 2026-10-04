@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Lalu inyo mamakan saluruah rumpuik di tanah yo, jo mamakan buah tanah yo.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "mamakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "rumpuik"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di tanah yo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "jo mamakan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:59.239727940Z",
+  "model": "glm-5.3"
+}

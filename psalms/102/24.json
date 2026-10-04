@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Inyo mailangan kokah ⟨ambo⟩ di jalan; mampapendek ari-ari ambo.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Inyo mailangan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "kokah"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "mampapendek"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:12.739513626Z",
+  "model": "glm-5.3"
+}

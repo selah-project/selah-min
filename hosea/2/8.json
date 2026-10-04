@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Dek karano itu, caliak, ambo maikuik tanaman duri di ⟨את⟩ jalan ang, jo ambo mambuek ⟨את⟩ pagak, sahinggo jalan-jalannyo indak tasuo lai.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dek karano itu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "שך",
+      "gloss": "maikuik tanaman duri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan ang"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan ang"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "jo tanaman duri"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "jo mambuek pagak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagak"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "pagak"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "jo jalan-jalannyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tasuo lai"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:54.929047610Z",
+  "model": "glm-5.3"
+}

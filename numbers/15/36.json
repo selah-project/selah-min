@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 15:36",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo sadoalah jamaah mambaok kalua inyo ⟨את⟩ ka lua pakampuan, lalu malempari inyo ⟨את⟩ jo batu, jo inyo mati, sarupo nan diparentahkan Yahweh kapado ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויציאו",
+      "gloss": "mambaok kalua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (urang tu)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "lua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pakampuan"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "malempari jo batu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (urang tu)"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "inyo mati"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo nan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T04:43:36.570776267Z",
+  "model": "glm-5.3"
+}

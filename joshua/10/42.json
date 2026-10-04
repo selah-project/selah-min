@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo ⟨את⟩ sagalo rajo-rajo iko jo ⟨את⟩ tanahnyo direbut Yehoshua sakali iyo, karano Yahweh, Elohim Yisrael, baparang untuak Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo rajo-rajo iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanahnyo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tanahnyo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "direbut"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "sakali"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ciek (iyo)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "baparang"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "untuak Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:07:20.664334787Z",
+  "model": "glm-5.3"
+}

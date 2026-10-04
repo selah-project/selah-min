@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Danga ka Ambo, hai Yaakov, jo Yisrael nan Ambo katojo: Ambo inilah; Ambo nan partamo, juo Ambo nan tarakhia.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Danga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka Ambo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "jo Yisrael"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "nan Ambo katojo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "nan partamo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "nan tarakhia"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:47.994619205Z",
+  "model": "glm-5.3"
+}

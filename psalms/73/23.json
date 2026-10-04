@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Tapi ambo satiok wakatu basamo ⟨jo⟩ Dituwan; Sanak alah mamacik ⟨את⟩ tangan suok ambo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "satiok wakatu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo jo Dituwan"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "Sanak alah mamacik"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "suok ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:57.552646554Z",
+  "model": "glm-5.3"
+}

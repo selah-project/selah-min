@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo Moshe mandanga suaro mintuonyo, jo inyo buek sado nan inyo katoan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "jo mandanga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mintuonyo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "jo inyo buek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "inyo katoan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:14.412571027Z",
+  "model": "glm-5.3"
+}

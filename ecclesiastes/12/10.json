@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Kohelet mancari kato-kato nan manggiriah, jo nan tasusun luruih, kato-kato bana.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "mancari"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "untuak manamui"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nan manggiriah"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "jo nan tasusun"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "luruih"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:13.220360751Z",
+  "model": "glm-5.3"
+}

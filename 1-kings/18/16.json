@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Karano itu Obadjah pai manamui Achab, jo mambaritahukan kapadonyo; lalu Achab pai manamui Elijahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadjah"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "manamui"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mambaritahukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "manamui"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:51.617511257Z",
+  "model": "glm-5.3"
+}

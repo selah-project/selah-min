@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Yahweh maagiah inyo tau ari-ari urang nan baiman, jo pusako inyo ka tatap salamo-lamonyo.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "maagiah inyo tau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "urang nan baiman"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "jo pusako inyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ka tatap"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:33.704917827Z",
+  "model": "glm-5.3"
+}

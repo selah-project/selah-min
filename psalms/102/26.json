@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Dahulu kito Adonai alah mambuek dasa ⟨את⟩ bumi, jo langik iolah karajo tangan-Adonai.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "dahulu koto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "mambuek dasa"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "jo karajo"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-Adonai"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:45.985885620Z",
+  "model": "glm-5.3"
+}

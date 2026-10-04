@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Inyo manyao Ambo, jo Ambo manjawek inyo; Ambo basamo inyo dalam kasusaian; Ambo malapeh inyo, jo Ambo mamuliaan inyo.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Inyo manyao Ambo"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "jo Ambo manjawek inyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamo inyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "dalam kasusaian"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "Ambo malapeh inyo"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "jo Ambo mamuliaan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:37.496235048Z",
+  "model": "glm-5.3"
+}

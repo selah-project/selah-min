@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "jo ⟨את⟩ urang Arvadi, jo ⟨את⟩ urang Zemari, jo ⟨את⟩ urang Hamati; kamudian sacaro taseba masyarakaik-masyarakaik urang Kenaan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Arvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "urang Arvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Zemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "urang Zemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Hamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "urang Hamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kamudian"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "sacaro taseba"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "masyarakaik-masyarakaik"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:32.385288582Z",
+  "model": "glm-5.3"
+}

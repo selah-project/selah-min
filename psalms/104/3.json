@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Nan mambuek balaok bilik atehnyo di ateh aia, Nan mambuek awan-awan sabagai karetonyo, Nan bajalan di ateh sayok ruakh.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "mambuek balaok"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di ateh aia"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "bilik atehnyo"
+    },
+    {
+      "surface": "השם",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "karetonyo"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sayok"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:03.181643891Z",
+  "model": "glm-5.3"
+}

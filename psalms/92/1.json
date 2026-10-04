@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 92,
+  "translation": "Mizmor, lagu untuak ari Shabat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "untuak ari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:33.001567791Z",
+  "model": "glm-5.3"
+}

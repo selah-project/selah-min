@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Nafasku angih kapado Elohim, kapado El nan iduik — bilo ambo tibo jo mancaliak muko Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "angih"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nafasku"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kapado El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nan iduik"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ambo tibo"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "jo mancaliak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:49.830496496Z",
+  "model": "glm-5.3"
+}

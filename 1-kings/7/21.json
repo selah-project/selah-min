@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lalu inyo mandirikan ⟨את⟩ tiang-tiang itu di ulam Bait Suci; lalu inyo mandirikan ⟨את⟩ tiang nan di sabalah kanan, dan inyo manamoi ⟨את⟩ namonyo Yakhin; lalu inyo mandirikan ⟨את⟩ tiang nan di sabalah kiri, dan inyo manamoi ⟨את⟩ namonyo Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu inyo mandirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang itu"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tiang-tiang itu"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "di ulam"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "Bait Suci"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "lalu inyo mandirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang nan di sabalah kanan"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "nan di sabalah kanan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan inyo manamoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "lalu inyo mandirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang nan di sabalah kiri"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "nan di sabalah kiri"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan inyo manamoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:36.703097081Z",
+  "model": "glm-5.3"
+}

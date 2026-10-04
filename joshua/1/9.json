@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 1:9",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Bukankah ambo alah mamarintahkan kau: kuaik jo taguah? Jan gaduah, jo jan taserak, karano Yahweh, Elohim kau, ⟨itu⟩ basamo jo kau di sagalo tampek nan ka kau tuju.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "alah mamarintahkan kau"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuaik"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "jo taguah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "gaduah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taserak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo jo kau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kau"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ka kau tuju"
+    }
+  ],
+  "timestamp": "2026-10-04T05:04:13.559045608Z",
+  "model": "glm-5.3"
+}

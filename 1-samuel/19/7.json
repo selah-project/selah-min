@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 19:7",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo Yehonatan mangirok Dawid, jo Yehonatan mambiak kapadonyo ⟨את⟩ sagalo kato-kato iko; jo Yehonatan mambaok ⟨את⟩ Dawid ka Sha'ul, jo inyo balaku di mukonyo sarupo kapatang jo lumbe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mangirok"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "jo mambiak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo kato-kato iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "jo mambaok"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jo inyo balaku"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "כאתמול",
+      "gloss": "sarupo kapatang"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "jo lumbe"
+    }
+  ],
+  "timestamp": "2026-10-04T05:29:47.526382065Z",
+  "model": "glm-5.3"
+}

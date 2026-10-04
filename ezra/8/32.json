@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Kami tibo di Yerushalayim, jo kito tingga di sinan tigo hari.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "kami tibo di"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "jo kito tingga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tigo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:34:59.719783253Z",
+  "model": "glm-5.3"
+}

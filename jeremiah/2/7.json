@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo Ambo mambaok ⟨את⟩ kalian ka tanah Karmel, untuak makan buahnyo jo kabaiakannyo; tapi katiko kalian tibo, kalian manajiskan ⟨את⟩ tanah Ambo, jo pusako Ambo kalian jadian benda jijik.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "Jo Ambo mambaok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kalian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuak makan"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "buahnyo"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "jo kabaiakannyo"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "tapi katiko kalian tibo"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "kalian manajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Ambo"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "tanah Ambo"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "jo pusako Ambo"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "kalian jadian"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "benda jijik"
+    }
+  ],
+  "timestamp": "2026-10-04T06:26:53.716301741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Kaki ambo tagak di tampek nan rato; di tangah jamaah ambo mamuji Yahweh.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "kaki ambo"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "di tampek nan rato"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "di tangah jamaah"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "mamuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:02.797739471Z",
+  "model": "glm-5.3"
+}

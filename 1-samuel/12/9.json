@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu urang tu lupo ⟨את⟩ Yahweh, Elohim urang tu, lalu inyo manjua urang tu ka tangan Sisera, panglima pasukan Chatzor, jo ka tangan urang Palishti, jo ka tangan rajo Moab, lalu urang tu baparang malawan urang tu.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "lalu urang tu lupo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim urang tu"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "lalu inyo manjua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "jo ka tangan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palishti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "jo ka tangan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "lalu urang tu baparang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "malawan urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:08.594769168Z",
+  "model": "glm-5.3"
+}

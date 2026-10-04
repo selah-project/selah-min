@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Urang nan mambuek rancana untuak mambuek jahat — inyo diagiah gala tuan rancang-rancang jahat.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "urang nan mambuek rancana"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "untuak mambuek jahat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "rancang-rancang jahat"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "diagiah gala"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:12.101242198Z",
+  "model": "glm-5.3"
+}

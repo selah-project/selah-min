@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Takuaik kapado Yahweh murni, tagak salamo-lamonyo; hukum-hukum Yahweh kabanaran, tsedeq kasadonyo.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "takuaik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "murni"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kasadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:50.664331625Z",
+  "model": "glm-5.3"
+}

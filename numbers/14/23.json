@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "jikok inyo caliak ⟨את⟩ bumi nan alah sumpah ambo kapado apak-urangtuonyo — sado nan mahino ambo indak ka mancaliaknyo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jikok"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "sumpah ambo"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "kapado apak-urangtuonyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "nan mahinoku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "ka mancaliaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:43:28.043904839Z",
+  "model": "glm-5.3"
+}

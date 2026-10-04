@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 84,
+  "translation": "Buruang ketek pun basuo rumah, jo layang-layang saranang untuaknyo, ma inyo manaruh ⟨את⟩ anak-anaknya — ⟨את⟩ mezbah-Mu, Yahweh Tsebaot, rajo ambo, jo Elohim ambo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "buruang ketek"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "basuo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "jo layang-layang"
+    },
+    {
+      "surface": "קן",
+      "gloss": "saranang"
+    },
+    {
+      "surface": "לה",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "manaruh"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "mezbah-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo ambo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "jo Elohim ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:40.975560633Z",
+  "model": "glm-5.3"
+}

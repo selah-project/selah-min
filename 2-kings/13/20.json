@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Lalu Elisha maningga, jo urang tu maubuaiknyo. Pasukan-pasukan Moab masuak ka tanah, pado masuaknyo taun.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "lalu maningga"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "jo urang tu maubuaiknyo"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "pasukan-pasukan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pado masuaknyo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-10-04T06:01:26.071298715Z",
+  "model": "glm-5.3"
+}

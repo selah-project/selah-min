@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim kito maagiah inyo di muko kito, jo kito mamanahan inyo, jo ⟨את⟩ anak-anaknyo, jo ⟨את⟩ sadoalah kaumnyo.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "lalu maagiah inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "di muko kito"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "jo kito mamanahan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sadoalah kaumnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaumnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:13.918546936Z",
+  "model": "glm-5.3"
+}

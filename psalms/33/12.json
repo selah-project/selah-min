@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Sanangnyo bangso nan Yahweh ⟨adalah⟩ Elohim-nyo, urang nan dipiliah-Nyo manjadi pusako untuak-Nyo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sanangnyo"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-nyo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "dipiliah-Nyo"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "manjadi pusako"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:14.999721447Z",
+  "model": "glm-5.3"
+}

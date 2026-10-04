@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Karano ambo anak kapado ayah ambo, lamah lai jo tungga di mato ibu ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ambo adolah⟨adalah⟩"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "kapado ayah ambo"
+    },
+    {
+      "surface": "רך",
+      "gloss": "lamah lai"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "jo tungga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibu ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:20.159429573Z",
+  "model": "glm-5.3"
+}

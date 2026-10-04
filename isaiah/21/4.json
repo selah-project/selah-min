@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Ati ambo baliliah, katakutan mambuek ambo takuik; ⟨את⟩ malam sanja nan kaidamankan dijadikannyo untuak ambo manjadi gadirinyo.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "baliliahlah"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "katakutan"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "mambuek ambo takuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malam sanja"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "malam sanja"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "nan kaidamankan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dijadikannyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak ambo"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "manjadi gadirinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:50.179984597Z",
+  "model": "glm-5.3"
+}

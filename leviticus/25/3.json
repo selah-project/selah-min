@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Anam tahun sanak dunsanak manabur ladang sanak dunsanak, jo anam tahun sanak dunsanak mamangkak kabun anggur sanak dunsanak, jo sanak dunsanak mangumpuakan ⟨את⟩ hasilnyo.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Anam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sanak dunsanak manabur"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ladang sanak dunsanak"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jo anam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "sanak dunsanak mamangkak"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "kabun anggur sanak dunsanak"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "jo sanak dunsanak mangumpuakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilnyo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasilnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:36:13.015149896Z",
+  "model": "glm-5.3"
+}

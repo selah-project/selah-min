@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Katokanlah kapado dunsanak laki-laki sanak: Ami, jo kapado dunsanak padusi sanak: Ruhamah.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "katokanlah"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "kapado dunsanak laki-laki sanak"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "jo kapado dunsanak padusi sanak"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:31.851900029Z",
+  "model": "glm-5.3"
+}

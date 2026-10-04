@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Lajo kato Yahweh datang ka ambo, bakato:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lajo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ambo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T06:49:22.489408125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Tolonglah ambo, Yahweh Elohim ambo; salamatkanlah ambo manuruik hesed-Mu.",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "Tolonglah ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salamatkanlah ambo"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "manuruik hesed-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:00.035694606Z",
+  "model": "glm-5.3"
+}

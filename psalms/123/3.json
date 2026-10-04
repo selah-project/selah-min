@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 123,
+  "translation": "Mangeceak-i kito, Yahweh, mangeceak-i kito, karano sanang bana kito kahabihan kahinoan.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Mangeceak-i kito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "mangeceak-i kito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sanang bana"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "kito kahabihan"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "kahinoan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:51.708206026Z",
+  "model": "glm-5.3"
+}

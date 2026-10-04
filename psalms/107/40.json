@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Mancuraan hinoa ateh para bangsawan, jo mambuek urang tu sasat di kabusuakan, indak ado jalan.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "mancuraan"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "hinoa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "para bangsawan"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "jo mambuek sasat"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "di kabusuakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:42.198851608Z",
+  "model": "glm-5.3"
+}

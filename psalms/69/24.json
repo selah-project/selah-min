@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Biarlah mato inyo mailang supayo indak caliak, jo pinggang inyo salalu tapageh-pageh.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "biarlah mailang"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "mato inyo"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "supayo indak caliak"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "jo pinggang inyo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "salalu"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "tapageh-pageh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:07.210708132Z",
+  "model": "glm-5.3"
+}

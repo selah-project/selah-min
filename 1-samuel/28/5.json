@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Lalu Sha'ul caliak ⟨את⟩ kampa Pulishti, lalu inyo takuik, jo atinyo babarang-garak banjak.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lalu caliak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampa Pulishti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pulishti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lalu takuik"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "lalu babarang-garak"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banjak"
+    }
+  ],
+  "timestamp": "2026-10-04T05:33:46.157883980Z",
+  "model": "glm-5.3"
+}

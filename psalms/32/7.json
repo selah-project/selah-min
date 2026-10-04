@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Kau adolah tampak basasuasan ambo; dari kasusahan Kau mahalang ambo; jo nyanyian palapehan Kau mangaliliangi ambo. Selah",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kau"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "tampak basasuasan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dari kasusahan"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "Kau mahalang ambo"
+    },
+    {
+      "surface": "רני",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "palapehan"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "Kau mangaliliangi ambo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:18.431514753Z",
+  "model": "glm-5.3"
+}

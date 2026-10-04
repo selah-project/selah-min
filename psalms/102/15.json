@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 102,
+  "translation": "Karano hamba-hamba kau sanang jo ⟨את⟩ batu-batunyo, jo ⟨את⟩ dabunyo inyo sayangi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "sanang"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hamba kau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batunyo"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "batu-batunyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dabunyo"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "dabunyo"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "inyo sayangi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:34.802803401Z",
+  "model": "glm-5.3"
+}

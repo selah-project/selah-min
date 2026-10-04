@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Anam ari karajo buliah dikarajoan, tapi di ari nan katujuah Shabat, istiati baranti, suci untuak Yahweh; satiok urang nan bakarajo karajo di ari Shabat, pasti dihukom bunuah.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "anam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dikarajoan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "tapi di ari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nan katujuah"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "istiati baranti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "urang nan bakarajo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di ari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dihukom bunuah"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pasti dibunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:35.141430099Z",
+  "model": "glm-5.3"
+}

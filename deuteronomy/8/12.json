@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Unuik kalau kau makan jo kanyang, jo rumah-rumah nan elok kau bangun, jo kau tingga ⟨di situ⟩.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "unuik kalau"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kau makan"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "jo kanyang"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "jo rumah-rumah"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "kau bangun"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "jo kau tingga"
+    }
+  ],
+  "timestamp": "2026-10-04T04:54:09.527692581Z",
+  "model": "glm-5.3"
+}

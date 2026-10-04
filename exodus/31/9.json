@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "jo ⟨את⟩ mazbeakh pamujaan nan dibaka, jo ⟨את⟩ sagalo pakakehnyo, jo ⟨את⟩ tampek basuah jo ⟨את⟩ alasnyo,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mazbeakh pamujaan nan dibaka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbeakh"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pamujaan nan dibaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo pakakehnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pakakehnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tampek basuah"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "tampek basuah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alasnyo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "alasnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:35.818712530Z",
+  "model": "glm-5.3"
+}

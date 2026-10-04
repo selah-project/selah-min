@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Barakati, oi jiwa ambo, ⟨את⟩ Yahweh, jan lupo sadoalah kabaiakannyo.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "barakati"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "oi jiwa ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "lupo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "kabaiakannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:11.000775120Z",
+  "model": "glm-5.3"
+}

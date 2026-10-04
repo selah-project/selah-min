@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 24:9",
+  "book": "job",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Urang-urang itu marampok ⟨את⟩ si yatim dari susu ibunyo, jo dari urang miskin inyo maambiak jaminan.",
+  "tokens": [
+    {
+      "surface": "יגזלו",
+      "gloss": "marampok"
+    },
+    {
+      "surface": "משד",
+      "gloss": "dari susu ibunyo"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "si yatim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo dari"
+    },
+    {
+      "surface": "עני",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "maambiak jaminan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:10:10.780848069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 43,
+  "translation": "Lalu urang-orang tu bakato: Tuan ambo, mohon, sabana-bana ambo kammi turun pado mulo itu untuak mambali makanan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tuan ambo, mohon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "ambo kammi turun"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "pado mulo"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "untuak mambali"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:08:24.047727627Z",
+  "model": "glm-5.3"
+}

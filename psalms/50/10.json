@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Karano ambo punyo sadoalah binatang uatuik, jo taranak di atuih ribu bukik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo punyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "יער",
+      "gloss": "uatuik"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "taranak"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "di atuih"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu bukik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:30.948818851Z",
+  "model": "glm-5.3"
+}

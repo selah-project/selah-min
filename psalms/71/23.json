@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Bibih ambo mandegeak manjadi rancak katiko ambo bazimbo kapado Yahweh, sarato jiwo ambo, nan alah Ka-toboi.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "mandegeak manjadi rancak"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibih ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ambo bazimbo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado-Ô"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "sarato jiwo ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "Ka-toboi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:23.115916853Z",
+  "model": "glm-5.3"
+}

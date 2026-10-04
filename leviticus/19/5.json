@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo kalau kalian manyambek korban shelamim untuak Yahweh, untuak kabarimoan kalian manyambeklah inyo.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "jo kalau"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "kalian manyambek"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "untuak kabarimoan kalian"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "manyambeklah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:04.647744029Z",
+  "model": "glm-5.3"
+}

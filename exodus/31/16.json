@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Jo anak-anak Yisrael musti jago ⟨את⟩ Shabat, untuak malakuan ⟨את⟩ Shabat di angkatan-angkatan mareka, parjanjian salamanyo.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "jo mareka jago"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak malakuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "di angkatan-angkatan mareka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:35.141613658Z",
+  "model": "glm-5.3"
+}

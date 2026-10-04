@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Apo indak sarupo anak-anak Kushi awak ko bagi ambo, hai anak-anak Yisrael? kato Yahweh. Apo indak ⟨את⟩ Yisrael ambo baok naiak dari tanah Mitsrayim, jo urang Filistin dari Kaftor, jo urang Aram dari Kir?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Apo indak"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "sarupo anak-anak"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "awak ko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi ambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Apo indak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ambo baok naiak"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "jo urang Filistin"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "dari Kaftor"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "jo urang Aram"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "dari Kir"
+    }
+  ],
+  "timestamp": "2026-10-04T07:12:55.064146873Z",
+  "model": "glm-5.3"
+}

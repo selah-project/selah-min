@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Yahweh, namo-Mu salamo-lamonyo; Yahweh, warih-Mu sampai katurunan jo katurunan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "warih-Mu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sampai katurunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jo katurunan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:46.847130094Z",
+  "model": "glm-5.3"
+}

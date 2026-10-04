@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Sasudah itu ⟨inyo⟩ malahiekan saurang anak padusi, jo ⟨inyo⟩ maagiah ⟨את⟩ namonyo Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "sasudah itu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "malahiekan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "maagiah namo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:21.348353486Z",
+  "model": "glm-5.3"
+}

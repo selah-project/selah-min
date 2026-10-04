@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Tapi kok sanak manolak untuak malapeh ⟨את⟩ kaumku, caliak, ambo mambaok esok balalang ka dalam parbatasanmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "manolak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "untuak malapeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaumku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kaumku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "caliak, ambo"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "esok"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "balalang"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "ka dalam parbatasanmu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:39.854496231Z",
+  "model": "glm-5.3"
+}

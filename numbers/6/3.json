@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "dari anggur jo minuman kareh inyo balain diri; cuko anggur jo cuko minuman kareh indak inyo minum, jo sagalo sari anggur indak inyo minum; anggur mudo jo anggur kariang indak inyo makan.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "dari anggur"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "jo minuman kareh"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "inyo balain diri"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "cuko"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "jo cuko"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "minuman kareh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "inyo minum"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "sari"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "inyo minum"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "jo anggur"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "mudo"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "kariang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "inyo makan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:40:07.746435170Z",
+  "model": "glm-5.3"
+}

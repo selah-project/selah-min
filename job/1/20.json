@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Mako Iyov bangkik, jo mamaro ⟨את⟩ jubahnyo, jo mangukua ⟨את⟩ kapalonyo, lalu balungsuik ka tanah, jo manyambah.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "mamaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubahnyo"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "jubahnyo"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "mangukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalonyo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "balungsuik"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "manyambah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:35.229020353Z",
+  "model": "glm-5.3"
+}

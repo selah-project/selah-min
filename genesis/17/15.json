@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Jo Elohim bakato kapado Avraham: Sarai, bini ang — indak lai ang manyabuik ⟨את⟩ namonyo Sarai, karano Sarah namonyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "bini ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak lai"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ang manyabuik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "namonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:58:37.058886777Z",
+  "model": "glm-5.3"
+}

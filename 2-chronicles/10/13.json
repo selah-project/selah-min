@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo rajo manjawab inyo dapek kasaiahnyo; jo rajo Rehabeam mangabaikan ⟨את⟩ nasihak urang tuo-tuo.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "manjawab inyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kasaiahnyo"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "mangabaikan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasihak urang tuo-tuo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "nasihak"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "urang tuo-tuo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:51:49.267910575Z",
+  "model": "glm-5.3"
+}

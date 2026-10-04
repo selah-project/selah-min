@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 79,
+  "translation": "Tolonglah kito, Elohim palapeh kito, dek karano kagloran namo-Mu, jo palapehlah kito, jo sadio pangampunan ateh doso-doso kito, dek karano namo-Mu.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Tolonglah kito"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "palapeh kito"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kagloran"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "jo palapehlah kito"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "jo sadio pangampunan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "doso-doso kito"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:26.490130365Z",
+  "model": "glm-5.3"
+}

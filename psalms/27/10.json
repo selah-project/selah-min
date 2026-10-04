@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Karano ambo ayah jo bundo alah maninggakan ambo, tapi Yahweh ka mangumpuakan ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ambo ayah"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "jo bundo"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "alah maninggakan ambo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "tapi Yahweh"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "ka mangumpuakan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:11.989447665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo dari suku Yissaskar: ⟨את⟩ Kedesh jo ⟨את⟩ tampek pataranannyo, ⟨את⟩ Dabrath jo ⟨את⟩ tampek pataranannyo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "dari suku"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tampek pataranannyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tampek pataranannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dabrath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dabrath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tampek pataranannyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tampek pataranannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:11.115660932Z",
+  "model": "glm-5.3"
+}

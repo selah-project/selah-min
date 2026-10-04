@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Tapi utuihlah kini tanganmu, jo ramoto tulangnyo jo dagiangnyo; kok indak, ka mukonyo inyo ka mamauli kau.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Tapi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "utuihlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "jo ramoto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "tulangnyo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagiangnyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "inyo ka mamauli kau"
+    }
+  ],
+  "timestamp": "2026-10-04T08:03:16.538181161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo Sha'ul mambuek sabuah mezbah untuak Yahweh; ⟨את⟩ iko partamo kalinyo inyo mambuek mezbah untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "jo mambuek"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "partamo kalinyo (החל)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "partamo kalinyo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mambuek"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:55.049572196Z",
+  "model": "glm-5.3"
+}

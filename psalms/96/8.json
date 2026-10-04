@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 96,
+  "translation": "Agiah lah kapado Yahweh kagagahan nan panteh untuak namo-Nyo; angkek lah minkha jo masuak lah ka laman-lamannyo.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "agiah lah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kagagahan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namo-Nyo"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "angkek lah"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "jo masuak lah"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "ka laman-lamannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:27.016551043Z",
+  "model": "glm-5.3"
+}

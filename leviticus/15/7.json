@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo urang nan manyantuah dagiang urang nan baflu, mambasuah pakaiannyo, jo mandi dalam aia, jo indak suci sampai patang.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "jo urang nan manyantuah"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "urang nan baflu"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mambasuah"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannyo"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "jo mandi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam aia"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "jo indak suci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "patang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:07.515529136Z",
+  "model": "glm-5.3"
+}

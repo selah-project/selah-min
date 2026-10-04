@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Lalu Yoab maniup sangkakala, jo urang banyak tu baliak dari mamburu balakang Yisrael, karano Yoab manahan ⟨את⟩ urang banyak tu.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "maniup"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "sangkakala"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "dari mamburu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "balakang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "manahan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang banyak tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    }
+  ],
+  "timestamp": "2026-10-04T05:42:35.818696936Z",
+  "model": "glm-5.3"
+}

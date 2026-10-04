@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Tapi inyo caliek sasak inyo katiko mandanga ⟨את⟩ tauak inyo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "tapi inyo caliek"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sasak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "katiko mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tauak inyo"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "tauak inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:57.650369013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Inyo mambalah lauik jo mambaok inyo lalu; jo inyo mambuek aia tagak sarupo gundukan.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "mambalah"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lauik"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "mambaok ⟨inyo⟩ lalu"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "mambuek tagak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "נד",
+      "gloss": "gundukan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:15.854372730Z",
+  "model": "glm-5.3"
+}

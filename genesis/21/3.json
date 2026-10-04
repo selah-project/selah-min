@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Dan Avraham manamoi ⟨את⟩ namo anaknyo nan dilahiaan kapadonyo, nan dilahiaan untuaknyo dek Sarayah: Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dan manamoi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo anaknyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "nan dilahiaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dilahiaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "dek Sarayah"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:18.562524099Z",
+  "model": "glm-5.3"
+}

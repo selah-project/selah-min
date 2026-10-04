@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Inyo mangiriman ramu-ramu ka tangah inyo, jo iyo mamakan inyo, jo katak, jo iyo marusak inyo.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "mangiriman"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka tangah inyo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ramu-ramu"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "jo iyo mamakan inyo"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "jo katak"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "jo iyo marusak inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:23.225256323Z",
+  "model": "glm-5.3"
+}

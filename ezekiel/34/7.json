@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Dek karano itu, hai gembala-gembala, dangaan ⟨את⟩ kato Yahweh;",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dek karano itu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "gembala-gembala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dangaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:59:38.313838148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo ⟨את⟩ Kheshbon jo ⟨את⟩ tampek palarannyo, jo ⟨את⟩ Yaezir jo ⟨את⟩ tampek palarannyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Kheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tampek palarannyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tampek palarannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yaezir"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Yaezir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tampek palarannyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tampek palarannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:41:57.132674457Z",
+  "model": "glm-5.3"
+}

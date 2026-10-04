@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Maka jadilah pado ari ka dalapan, Moshe maimbau kapado Aharon, kapado anak-anaknyo, jo kapado urang tuo-tuo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ka dalapan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "maimbau"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kapado Aharon"
+    },
+    {
+      "surface": "ו לבניו",
+      "gloss": "jo kapado anak-anaknyo"
+    },
+    {
+      "surface": "ו לזקני",
+      "gloss": "jo kapado urang tuo-tuo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:03.172952621Z",
+  "model": "glm-5.3"
+}

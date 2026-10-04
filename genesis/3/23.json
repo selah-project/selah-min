@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu Yahweh Elohim mangiriman baliau dari taman Eden, untuak mangarajoan ⟨את⟩ tanah nan diambiaknyo dari sananko.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "lalu mangiriman baliau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "dari taman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuak mangarajoan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambiaknyo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sananko"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:39.828336524Z",
+  "model": "glm-5.3"
+}

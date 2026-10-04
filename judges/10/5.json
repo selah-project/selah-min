@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lapeh tu Yair maningga, jo inyo dikubuakan di Qamon.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maningga"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikubuakan"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "di Qamon"
+    }
+  ],
+  "timestamp": "2026-10-04T05:16:26.079016159Z",
+  "model": "glm-5.3"
+}

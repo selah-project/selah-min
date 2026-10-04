@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Binatang piaraan-Mu tingga di sinan; Uda masiahi dari kabaiak-an-Mu untuak urang miskin, wahai Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "binatang piaraan-Mu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "masiahi"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "dari kabaiak-an-Mu"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "untuak urang miskin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:38.739607865Z",
+  "model": "glm-5.3"
+}

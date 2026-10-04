@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Lalu Paroh bakato kapado Yosef, nan kato: ambo apak ang jo sudaro-sudaro ang alah tibo kapado ang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nan kato"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ambo apak ang"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "jo sudaro-sudaro ang"
+    },
+    {
+      "surface": "באו",
+      "gloss": "alah tibo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kapado ang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:15.195207Z",
+  "model": "glm-5.3"
+}

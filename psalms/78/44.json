@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "La mambaliakkan darah sungai-sungai inyo, jo aliran-aliran inyo indak buliah diminum.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "mambaliakkan"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "sungai-sungai inyo"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "jo aliran-aliran inyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak buliah"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "diminum"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:23.634288662Z",
+  "model": "glm-5.3"
+}

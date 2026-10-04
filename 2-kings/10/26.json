@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Maka inyo maaduak ⟨את⟩ tiang-tiang patuang dari rumah Baal, jo mambaka inyo.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "maka inyo maaduak kalua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang patuang"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "tiang-tiang patuang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "jo mambaka inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T05:58:05.529836770Z",
+  "model": "glm-5.3"
+}

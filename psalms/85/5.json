@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 85,
+  "translation": "Baliak-an kami, Elohim palapeh kami, jo puih-an kasidoan Ang kapado kami.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Baliak-an kami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "palapeh kami"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "jo puih-an"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "kasidoan Ang"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kapado kami"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:01.797845666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Ambo ka mamuji Yahweh jo sadoalah ati ambo; ambo ka mancaritokan sadoalah karya ajaib nan Kau buek.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ambo ka mamuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati ambo"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ambo ka mancaritokan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "karya ajaib nan Kau buek"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:19.224509216Z",
+  "model": "glm-5.3"
+}

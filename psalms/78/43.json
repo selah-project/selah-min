@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Katiko la mandirikan tando-tando-Nyo di Mitsrayim, jo tando ajaib-Nyo di ladang Tsoan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mandirikan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "tando-tando-Nyo"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "jo tando ajaib-Nyo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:23.634150015Z",
+  "model": "glm-5.3"
+}

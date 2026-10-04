@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Mako inyo mangangkeknyo jo mambaoknyo ka ibunyo; jo inyo duduak di ateh lutuiknyo sampai tangah ari, lalu inyo mati.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "mangangkeknyo"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "mambaoknyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunyo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "duduak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "lutuiknyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tangah ari"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mati"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:33.900399811Z",
+  "model": "glm-5.3"
+}

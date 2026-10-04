@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo imam tu maambiak dari minkha itu ⟨את⟩ bagian paringatan nyo, lalu mambaokannyo ka ateh mezbah sabagai bakaan api, bau nan mantai untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam tu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המנחha",
+      "gloss": "minkha itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagian paringatan nyo"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "bagian paringatan nyo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "lalu mambaokannyo ka ateh sabagai bakaan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ateh mezbah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bakaan api"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nan mantai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:10.267286531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 80,
+  "translation": "Elohim Tsebaot, baliakan kito, jo pacahkan muko Angkau, jo kito ka salamaik.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "baliakan kito"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "jo pacahkan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko Angkau"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "jo kito ka salamaik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:23.371915409Z",
+  "model": "glm-5.3"
+}

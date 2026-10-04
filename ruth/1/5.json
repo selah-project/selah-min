@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo Mahlon jo Khilyon pun mati juo kaduonyo; jo ampak tatigo bini tu dari duo anaknyo jo dari laki-lakinyo.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "mati juo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kaduonyo"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "jo Khilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "jo ampak tatigo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "bini tu"
+    },
+    {
+      "surface": "משני",
+      "gloss": "dari duo"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "jo dari laki-lakinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:17:26.399724990Z",
+  "model": "glm-5.3"
+}

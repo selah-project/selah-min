@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu saluruah urang nagari tagembira jo kota tu tanang; jo ⟨את⟩ Atalya urang tu mambunuah jo padang di rumah rajo.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "Lalu ... tagembira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "jo kota tu"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Atalya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "urang tu mambunuah"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "jo padang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:01:37.318951498Z",
+  "model": "glm-5.3"
+}

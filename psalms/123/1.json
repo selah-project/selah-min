@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 123,
+  "translation": "Lagu panaikan. Kapado Engkau ambo maangkek ⟨את⟩ mato ambo, wahai Nan duduak di langik.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "panaikan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kapado Engkau"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ambo maangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mato ambo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "Nan duduak"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:51.707805592Z",
+  "model": "glm-5.3"
+}

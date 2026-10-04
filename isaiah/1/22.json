@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Perak awak manjadi ampas, minuman angak awak dienceran jo aia.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "perak awak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "ampas"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "minuman angak awak"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "dienceran"
+    },
+    {
+      "surface": "במים",
+      "gloss": "jo aia"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:36.409723852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 41,
+  "translation": "Jo Yosef maagiah ⟨את⟩ namo anak partamonyo Manasyeh, karano Elohim lah mambuek ambo lupo jo ⟨את⟩ sado kasaahan ambo jo ⟨את⟩ sado rumah abak ambo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maagiah namo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo anak partamonyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "anak partamonyo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasyeh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "mambuek ambo lupo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sado kasaahan ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "kasaahan ambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado rumah abak ambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "abak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:07:57.594582443Z",
+  "model": "glm-5.3"
+}

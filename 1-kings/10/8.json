@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Baranai urang-urang angku, baranai hamba-hamba angku iko, nan tagak di muko angku taruih manarang, nan mandanga ⟨את⟩ hikmat angku!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baranai"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "urang-urang angku"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "baranai"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hamba angku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "nan tagak"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di muko angku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih manarang"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "nan mandanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikmat angku"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikmat angku"
+    }
+  ],
+  "timestamp": "2026-10-04T05:48:29.605441779Z",
+  "model": "glm-5.3"
+}

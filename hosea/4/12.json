@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Urang-urang ambo batanyo kapado kayunyo, tungkeknyo maagiah tau kapadonyo, karano ruakh zanut alah manyasatannyo, jo inyo main jalang dari bawah Elohim inyo.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "urang-urang ambo"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "kapado kayunyo"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "batanyo"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "tungkeknyo"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "maagiah tau"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zanut"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "manyasatannyo"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "main jalang"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dari bawah"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:43.469949032Z",
+  "model": "glm-5.3"
+}

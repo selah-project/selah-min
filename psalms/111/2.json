@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 111,
+  "translation": "Gadang-gadang karya-karya Yahweh, diselidiki dek sadoalah nan bangkana ka mareka.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "gadang-gadang"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karya-karya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "diselidiki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dek sadoalah"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "nan bangkana ka mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:21.481347525Z",
+  "model": "glm-5.3"
+}

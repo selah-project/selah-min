@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Sasudah itu tajadi, Dawid mangalahan ⟨את⟩ urang Palishtim jo manunduakannyo, lalu maambiak ⟨את⟩ Gath jo kampuang-kampuangnyo dari tangan urang Palishtim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tajadi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mangalahan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Palishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palishtim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "manunduakannyo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gath"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "jo kampuang-kampuangnyo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palishtim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:45:23.347206923Z",
+  "model": "glm-5.3"
+}

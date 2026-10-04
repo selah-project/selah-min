@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Karano lai saketek bana wakatunyo, jo kamurkaan kaabihan, jo amarah ambo ateh kamausan inyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saketek"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "bana wakatunyo"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "jo kaabihan"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "kamurkaan"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "jo amarah ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "kamausan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:27.385129121Z",
+  "model": "glm-5.3"
+}

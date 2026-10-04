@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Anak ambo, pasiapek lah kapado kato-kato ambo, condongkan talingo kau kapado ucap-an ambo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "kapado kato-kato ambo"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "pasiapek lah"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kapado ucap-an ambo"
+    },
+    {
+      "surface": "הט",
+      "gloss": "condongkan"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "talingo kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:21.751739502Z",
+  "model": "glm-5.3"
+}

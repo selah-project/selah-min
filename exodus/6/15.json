@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo anak-anak Simeon: Yemuel jo Yamin, jo Ohad, jo Yakhin, jo Tsohar, jo Shaul anak padusi Kanaan; iko lah kaluargo-kaluargo Simeon.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Simeon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "jo Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "jo Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "jo Yakhin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "jo Tsohar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "jo Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "padusi Kanaan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kaluargo-kaluargo"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Simeon"
+    }
+  ],
+  "timestamp": "2026-10-04T04:12:18.343827121Z",
+  "model": "glm-5.3"
+}

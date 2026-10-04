@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo ado tampek untuak angkau di lua pakampuangan, jo angkau kalua ka sinan ka lua.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "jo tampek"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak angkau"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pakampuangan"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "jo angkau kalua"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka sinan"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ka lua"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:25.003991455Z",
+  "model": "glm-5.3"
+}

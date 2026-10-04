@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Dek danguak-danguak ateh doso Engkau mandidiak urang, jo malapuek sarupo ngengat nan diimbaunnyo; sungguah sia-sia satiok manusia. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "dek danguak-danguak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "עון",
+      "gloss": "doso"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "Engkau mandidiak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "jo malapuek"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "sarupo ngengat"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "nan diimbaunnyo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sungguah"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:02.288415577Z",
+  "model": "glm-5.3"
+}

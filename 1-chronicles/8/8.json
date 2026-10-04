@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo Shaharaim manuruunkan anak-anak di padang Moab sasudah inyo mahutuak ⟨אתם⟩ — Khushim jo Baara, bini-bininyo.",
+  "tokens": [
+    {
+      "surface": "وשחרים",
+      "gloss": "jo Shaharaim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manuruunkan anak-anak"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "mahutuak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Khushim jo Baara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Khushim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "bini-bininyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:20.652063034Z",
+  "model": "glm-5.3"
+}

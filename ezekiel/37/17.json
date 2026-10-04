@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 37:17",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Dakek-an ⟨את⟩ inyo, ciek ka nan ciek, untuak kau, manjadi ciek kayu, supayo inyo manjadi ciek di tangan kau.",
+  "tokens": [
+    {
+      "surface": "וקרב",
+      "gloss": "dakek-an"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "ciek (batang kayu)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak kau"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "manjadi ciek kayu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "supayo inyo manjadi"
+    },
+    {
+      "surface": "לאחדים",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di tangan kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:02:20.775947965Z",
+  "model": "glm-5.3"
+}

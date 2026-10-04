@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Mato ambo lanyok dek kasasiohan; kapado Yahweh ambo manyeru, sapanjang ari, ka Engkau ambo marantangkan palapak tangan ambo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mato ambo"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "lanyok"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dek"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasasiohan"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ambo manyeru ka Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "ambo marantangkan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Engkau"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "palapak tangan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:39:48.924985070Z",
+  "model": "glm-5.3"
+}

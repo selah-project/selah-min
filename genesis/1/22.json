@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Elohim mamberkahi ⟨את⟩ inyo, bakato: Baranak lah, batambah lah, jo paniahi ⟨את⟩ aia di lauik, jo buruang batambah di bumi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Lalu mamberkahi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "taninim-taninim jo buruang (kalamwan sadarionyo)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Baranak lah"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "batambah lah"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "jo paniahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aia"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di lauik"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "jo buruang"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "batambah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:54.607619801Z",
+  "model": "glm-5.3"
+}

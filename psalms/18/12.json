@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "DISO mambuek kadarkalan tampek palinduangan-Nyo, sakaliliang-Nyo khemah-Nyo — kadarkalan aia, awan tepek dari langik-langik.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "DISO mambuek"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadarkalan"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "tampek palinduangan-Nyo"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "sakaliliang-Nyo"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "khemah-Nyo"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "kadarkalan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "awan tepek"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "dari langik-langik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:41.683664964Z",
+  "model": "glm-5.3"
+}

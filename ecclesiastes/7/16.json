@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jan manjadi urang nan bana lampiah-lampiah, jo jan pulo mangaréa diri pandai lampiah-lampiah: untuak apo san-dr mambinasa an diri?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "manjadi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang nan bana"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "lampiah-lampiah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jan"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "mangaréa diri pandai"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "lampiah-lampiah"
+    },
+    {
+      "surface": "למה",
+      "gloss": "untuak apo"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "mambinasa an diri"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:20.533928519Z",
+  "model": "glm-5.3"
+}

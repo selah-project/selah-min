@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Sungguah awak mambantai ⟨את⟩ Edom, jo ati awak alah mandangaik awak; baralek galalah, jo duduaklah di rumah awak; jo baa kok awak maharu diri ka bencana, inggo awak jatuah, awak jo Yehudah basamo awak?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "sungguah mambantai"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "awak mambantai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "jo mandangaik awak"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ati awak"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "baralek galalah"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "jo duduaklah"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di rumah awak"
+    },
+    {
+      "surface": "ו למה",
+      "gloss": "jo baa kok"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "maharu diri"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ka bencana"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "inggo jatuah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "awak"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jo Yehudah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo awak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:24.378382853Z",
+  "model": "glm-5.3"
+}

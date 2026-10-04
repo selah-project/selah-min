@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Tapi jangannyo urang basalisiah, jo jangannyo urang manegua urang lain; karano urangmu sarupo urang nan basalisiah jo imam.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangannyo"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "basalisiah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo jangannyo"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "manegua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "urangmu"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "nan basalisiah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:07:18.018938233Z",
+  "model": "glm-5.3"
+}

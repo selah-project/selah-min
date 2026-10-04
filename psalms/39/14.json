@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Pandang jauahlah dari ambo, supayo ambo sanang baliak, sabalun ambo pai jo indak ado lai ambo.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Pandang jauahlah"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "supayo ambo sanang baliak"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sabalun"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ambo pai"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "jo indak ado lai ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:32.202107398Z",
+  "model": "glm-5.3"
+}

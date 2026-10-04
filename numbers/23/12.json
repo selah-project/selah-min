@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Inyo manjawek jo bakato: Nda' ⟨את⟩ nan Yahweh taruah di muncuang ambo, ⟨את⟩ nanko ambo jago untuak mangecek?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Inyo manjawek"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Nda'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "taruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di muncuang ambo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nanko",
+      "marks": "ambo jago"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ambo jago"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "untuak mangecek"
+    }
+  ],
+  "timestamp": "2026-10-04T04:46:48.380128711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "jo kito baliakan ⟨את⟩ potoro Elohim kito ka tangah kito, karano kito indak mancari inyo pado ari-ari Shaul.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "jo kito baliakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potoro Elohim kito"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "potoro"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ka tangah kito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "mancari inyo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pado ari-ari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-10-04T08:45:00.407816231Z",
+  "model": "glm-5.3"
+}

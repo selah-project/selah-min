@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Jo panggia ambo pado ari kasusahan; ambo ka maila<kan> <angkau>, jo <angkau> ka mamulia<kan> ambo.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "jo panggia ambo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ambo ka maila(kan) angkau"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "jo angkau ka mamulia(kan) ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:05.907513931Z",
+  "model": "glm-5.3"
+}

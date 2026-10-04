@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo lamak pulo cahayo, jo elok untuak mato bacakak ⟨את⟩ matoari.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "jo lamak pulo"
+    },
+    {
+      "surface": "האור",
+      "gloss": "cahayo"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "jo elok"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "untuak mato"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "bacakak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matoari"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matoari"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:57.832610733Z",
+  "model": "glm-5.3"
+}

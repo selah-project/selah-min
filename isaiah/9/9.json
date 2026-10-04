@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Batu bata lah jatuah, tapi kito mambangun baliak jo batu tarasek; sikomora lah digaduah, tapi kito maagih jo araz.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "batu bata"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "lah jatuah"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "tapi jo batu tarasek"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "kito mambangun baliak"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "sikomora"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "lah digaduah"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "tapi jo araz"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "kito maagih"
+    }
+  ],
+  "timestamp": "2026-10-04T06:09:19.917341366Z",
+  "model": "glm-5.3"
+}

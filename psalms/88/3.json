@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 88,
+  "translation": "Bilo tibo ka muko ⟨Sanolah⟩ doa ambo, sanangkan ⟨tapak⟩ talingo ⟨Sanolah⟩ ka sauak ambo.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Bilo tibo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ka muko ⟨Sanolah⟩"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ambo"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "sanangkan"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "⟨tapak⟩ talingo ⟨Sanolah⟩"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ka sauak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:17.889411096Z",
+  "model": "glm-5.3"
+}

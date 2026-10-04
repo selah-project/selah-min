@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Barakiah urang-urang nan bana di jalaannyo, urang-urang nan bajalan dalam Torah Yahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Barakiah urang-urang"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "nan bana"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di jalaannyo"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "urang-urang nan bajalan"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "dalam Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:29.745291969Z",
+  "model": "glm-5.3"
+}

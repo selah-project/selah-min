@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo nan mahantam apaknyo atau ibunyo, dibunuah pasti dibunuah.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "jo nan mahantam"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "atau ibunyo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dibunuah"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pasti dibunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:41.214373841Z",
+  "model": "glm-5.3"
+}

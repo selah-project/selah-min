@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Kaciak ambo jo dipandang hina, tapi picuak-pacuak ⟨ita⟩ indak ambo lupo.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "kaciak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "jo dipandang hina"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "picuak-pacuak ⟨ita⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ambo lupo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:11.710070392Z",
+  "model": "glm-5.3"
+}

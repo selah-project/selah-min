@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Karano siang jo malam tangan-Mi barek ateh ambo, barieh ambo tabaliak manjadi ⟨sarupo⟩ kamariangan musim paneh. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jo malam"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "barek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mi"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "tabaliak"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "barieh ambo"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "kamariangan"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "musim paneh"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:28:06.822828411Z",
+  "model": "glm-5.3"
+}

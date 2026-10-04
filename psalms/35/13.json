@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 35:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Ambo, katiko inyo sakik, pakaian ambo sakal, ambo manyikso ⟨את⟩ jiwa ambo jo pausa, jo doa ambo baliak ka dado ambo surang.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "בחלותם",
+      "gloss": "katiko inyo sakik"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "pakaian ambo"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sakal"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ambo manyikso"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "jo pausa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa ambo"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "jo doa ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חיקי",
+      "gloss": "dado ambo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "baliak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:24.665241973Z",
+  "model": "glm-5.3"
+}

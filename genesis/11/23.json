@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo Serug iduik sasudah inyo manurunkan ⟨את⟩ Nakhor duo ratus taun, jo inyo manurunkan anak laki-laki jo anak padusi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duo ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "jo anak padusi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:28.123710504Z",
+  "model": "glm-5.3"
+}

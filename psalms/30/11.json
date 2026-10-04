@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Talingo-i, Yahweh, jo baniah kasih kapado ambo; Yahweh, jadilah panolong ambo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Talingo-i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "jo baniah kasih kapado ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "panolong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:10.833361678Z",
+  "model": "glm-5.3"
+}

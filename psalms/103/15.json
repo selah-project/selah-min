@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Manusia — ari-arinyo sarupo rumpuik; sarupo kambang ladang, baitu pulo inyo bakambang.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sarupo rumpuik"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ari-arinyo"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "sarupo kambang"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu pulo"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "bakambang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:32.943809167Z",
+  "model": "glm-5.3"
+}

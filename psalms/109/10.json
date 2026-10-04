@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 109,
+  "translation": "Jo anak-anaknyo bajalan indak batumpu salamo-lamonyo, jo maminta-minta, jo mancari roti dari tampek-tampek rusoak mareka.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "jo bajalan indak batumpu"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "jo maminta-minta"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "jo mancari"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "dari tampek-tampek rusoak mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:03.117697693Z",
+  "model": "glm-5.3"
+}

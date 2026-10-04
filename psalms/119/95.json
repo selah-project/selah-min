@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Urang-urang durhaka manunggu ambo untuak mambinasoan ambo, tapi edot-Mu nan ambo pareso dalam-dalam.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "manunggu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang durhaka"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "untuak mambinasoan ambo"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "edot-Mu"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ambo pareso dalam-dalam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:51.851030604Z",
+  "model": "glm-5.3"
+}

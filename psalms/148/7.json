@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 148,
+  "translation": "Puji ⟨את⟩ Yahweh dari bumi, naga-naga lauik jo sado kadalamannyo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Puji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "naga-naga lauik"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sado"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "kadalamannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:51:08.282661995Z",
+  "model": "glm-5.3"
+}

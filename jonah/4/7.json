@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Maka Elohim mangatokan ⟨את⟩ ulo pado wakatu timbanyo fajar esok ari, lalu manyarang ⟨את⟩ kikayon tu, dan inyo mangariang.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "maka mangatokan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "pado wakatu timbanyo"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "fajar"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "esok ari"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "lalu manyarang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikayon tu"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikayon tu"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "dan mangariang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:14:44.689675804Z",
+  "model": "glm-5.3"
+}

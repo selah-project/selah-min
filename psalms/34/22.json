@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Kajahatan mambunuah urang jahat, jo urang-urang nan banci urang banar ka dibuek basalah.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "mambunuah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "jo urang-urang nan banci"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang banar"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ka dibuek basalah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:14.156577807Z",
+  "model": "glm-5.3"
+}

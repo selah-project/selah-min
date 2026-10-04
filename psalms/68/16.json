@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 68,
+  "translation": "Gunuang Elohim, gunuang Bashan; gunuang nan banyak puncaknyo, gunuang Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "nan banyak puncaknyo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunuang"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:58.594369434Z",
+  "model": "glm-5.3"
+}

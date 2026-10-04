@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 2:16",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo para pajabek indak tau ka ma ambo pai, jo apo nan ambo karajoan; jo kapado urang Yahudi, kapado para imam, kapado para bangsawan, kapado para pajabek, jo kapado siso urang nan karajo karajo itu — sampai kini indak lai ambo kabaan.",
+  "tokens": [
+    {
+      "surface": "והסגנים",
+      "gloss": "jo para pajabek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tau"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ka ma"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ambo pai"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jo apo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "karajoan"
+    },
+    {
+      "surface": "וליהודים",
+      "gloss": "jo kapado urang Yahudi"
+    },
+    {
+      "surface": "ויהודים",
+      "gloss": "kapado urang Yahudi",
+      "duplicate_of": "וליהודים"
+    },
+    {
+      "surface": "ולכהנים",
+      "gloss": "kapado para imam"
+    },
+    {
+      "surface": "ולחרים",
+      "gloss": "kapado para bangsawan"
+    },
+    {
+      "surface": "ולסגנים",
+      "gloss": "kapado para pajabek"
+    },
+    {
+      "surface": "וליתר",
+      "gloss": "jo kapado siso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan karajo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "karajo karajo itu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "la ambo kabaan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:36:13.543751594Z",
+  "model": "glm-5.3"
+}

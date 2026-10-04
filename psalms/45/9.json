@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Miro, jo ahalot, kasia — sagalo pakaianmu; dari istano gadiang alaik musik tali alah mambuek sanang.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "miro"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "jo ahalot"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kasia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "pakaianmu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "istano"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gadiang"
+    },
+    {
+      "surface": "מני",
+      "gloss": "alaik musik tali"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "mambuek sanang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:25.994404608Z",
+  "model": "glm-5.3"
+}

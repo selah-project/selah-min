@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 105,
+  "translation": "Inyo bakato, jo datang rangik-rangik jo kutu di saluruah parik urang tu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "jo datang"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "rangik-rangik"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "kutu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di saluruah"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "parik urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:16.446846512Z",
+  "model": "glm-5.3"
+}

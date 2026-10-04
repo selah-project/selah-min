@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Yahweh manolong ⟨את⟩ Yisrael pado ari itu, jo paparangan malinteh ⟨את⟩ Beith-Awen.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "manolong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "jo paparangan"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "malinteh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beith-Awen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beith"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awen"
+    }
+  ],
+  "timestamp": "2026-10-04T05:27:48.955759570Z",
+  "model": "glm-5.3"
+}

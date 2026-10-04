@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Jo Rabsakeh baliak, jo batamu ⟨את⟩ rajo Asyur sadang baparang ateh Livnah, karano alah mandanga baso inyo alah barapiak dari Lakhisy.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "sakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "batamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajo Asyur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "baparang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "barapiak"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "dari Lakhisy"
+    }
+  ],
+  "timestamp": "2026-10-04T06:16:45.629035713Z",
+  "model": "glm-5.3"
+}

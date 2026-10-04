@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Karano ambo mangatoan ⟨את⟩ duso ambo, ambo risau dek doso ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "duso ambo"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "mangatoan"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "risau"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "dek doso ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:47.730013025Z",
+  "model": "glm-5.3"
+}

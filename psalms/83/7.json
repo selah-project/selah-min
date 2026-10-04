@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 83,
+  "translation": "Khemah-khemah Edom, jo urang Yismael, Moab, jo urang Hagri,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "khemah-khemah"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "jo urang Yismael"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "jo urang Hagri"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:04.523656303Z",
+  "model": "glm-5.3"
+}

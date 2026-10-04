@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 138,
+  "translation": "Jo inyo manyanyi tantang jalan-jalan Yahweh, karano gadang bana kamuliaan Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "jo inyo manyanyi"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "tantang jalan-jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gadang bana"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:40.726720249Z",
+  "model": "glm-5.3"
+}

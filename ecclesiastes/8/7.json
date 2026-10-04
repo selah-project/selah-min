@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Karano inyo indak tahu apo nan ka tajadi, karano katiko tajadi, sia nan dapek maagiah tahu kapadonyo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "nan ka tajadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "katiko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tajadi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "dapek maagiah tahu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:46.294677472Z",
+  "model": "glm-5.3"
+}

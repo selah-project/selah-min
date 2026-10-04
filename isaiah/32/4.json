@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Ati urang nan capek-capek ka mangarati pangatahuan, jo lidah urang nan gugup ka capek mangecek jaleh.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "jo ati"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "urang nan capek-capek"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ka mangarati"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pangatahuan"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "jo lidah"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "urang nan gugup"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "ka capek"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "jaleh"
+    }
+  ],
+  "timestamp": "2026-10-04T06:14:30.483062358Z",
+  "model": "glm-5.3"
+}

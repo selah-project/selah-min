@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Ambo mangasihi, karano Yahweh mandanga ⟨את⟩ suaro ambo, doa-doa pangharu ambo.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ambo mangasihi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaro ambo"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaro ambo"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "doa-doa pangharu ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:29.756445074Z",
+  "model": "glm-5.3"
+}

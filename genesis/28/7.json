@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "dan baso Yaakov mamatuahi ayahnyo dan mandehnyo, lalu pai ka Padan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mamatuahi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnyo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kapado"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mandehnyo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lalu pai"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:22.556465507Z",
+  "model": "glm-5.3"
+}

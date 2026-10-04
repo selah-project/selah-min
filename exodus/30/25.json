@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo kau buek ⟨את⟩ inyo manjadi minyak urapan nan suci, campuran pandapek pandai ubek, buatan tukang racuik; minyak urapan nan suci inyo ka manjadi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo kau buek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "minyak urapan nan suci"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "campuran pandapek pandai ubek"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "racikan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "tukang racuik"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "inyo ka manjadi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:21:15.978547250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu inyo mandakekkan ⟨את⟩ korban urang banyak tu, diambiaknyo ⟨את⟩ kambing jantan nan untuak doso urang banyak tu, disampehnyo, dan dibueknyo untuak doso sarupo nan patamo.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "mandakekkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban urang banyak tu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak tu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "diambiaknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing jantan"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kambing jantan"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "nan untuak doso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "untuak urang banyak tu"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "disampehnyo"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "dibueknyo untuak doso"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "sarupo nan patamo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:29:07.381912095Z",
+  "model": "glm-5.3"
+}

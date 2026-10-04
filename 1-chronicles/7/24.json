@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo anak padusinyo Syeera; inyo mambangun ⟨את⟩ Bet-Khoron nan bawah jo ⟨את⟩ nan ateh, jo ⟨את⟩ Uzen-Syeera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "jo anak padusinyo"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Syeera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "nan bawah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "nan ateh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "nan ateh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jo",
+      "marks": "Uzen-Syeera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Syeera"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:34.844149311Z",
+  "model": "glm-5.3"
+}

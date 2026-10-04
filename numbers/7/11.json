@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo Yahweh bakato kapado Moshe: ciek pangulu untuak ciek ari, ciek pangulu untuak ciek ari, urang tu maagiah ⟨את⟩ korban urang tu untuak pancurahanan altar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "untuak ciek ari"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "untuak ciek ari"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "urang tu maagiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban urang tu"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "korban urang tu"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "untuak pancurahanan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-10-04T04:40:02.387907942Z",
+  "model": "glm-5.3"
+}

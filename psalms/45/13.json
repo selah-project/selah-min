@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 45,
+  "translation": "Jo anak padusi Tsor jo ⟨את⟩ minkha — muko-mukonyo dipacakok urang-urang kayo di antaro bangso itu.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "jo anak padusi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "jo minkha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "muko-mukonyo"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "dipacakok"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "urang-urang kayo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:46.473217319Z",
+  "model": "glm-5.3"
+}

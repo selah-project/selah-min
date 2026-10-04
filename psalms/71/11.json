@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Bakato: Elohim alah maninggaan inyo; jago jo tangkok inyo, karano indak ado nan malapehannyo.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "alah maninggaan inyo"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "jago"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "jo tangkok inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "nan malapehannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:48.171331615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Lalu bakato rajo Yisrael: Aduhai! karano Yahweh maimbau tigo rajo iko untuak maagiah ⟨את⟩ inyo ka tangan Moab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aduhai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "maimbau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "untuak tigo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuak maagiah"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "tigo rajo iko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka tangan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-10-04T05:55:53.046163367Z",
+  "model": "glm-5.3"
+}

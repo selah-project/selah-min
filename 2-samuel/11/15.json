@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo inyo manulih dalam surek itu, katonyo: Taruihan ⟨את⟩ Uria ka muko parang nan paliang kuaik, lalu baliaklah kalian dari balakangnyo, supayo inyo ditampek jo mati.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "manulih"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dalam surek itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katonyo"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "taruihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מול",
+      "gloss": "badampingan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "parang"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "nan paliang kuaik"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "baliaklah kalian"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "dari balakangnyo"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ditampek"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mati"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:23.211730796Z",
+  "model": "glm-5.3"
+}

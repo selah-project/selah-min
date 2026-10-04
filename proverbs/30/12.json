@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Ado ciek angkatan nan baraseh di matonyo surang, tapi indak dibasuah dari kotorannyo.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "baraseh"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matonyo"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "kotorannyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "dibasuah"
+    }
+  ],
+  "timestamp": "2026-10-04T08:01:56.130406932Z",
+  "model": "glm-5.3"
+}

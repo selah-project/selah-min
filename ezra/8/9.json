@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 8:9",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dari anak-anak Yoav: Obadyah anak Yekhiel, jo jo inyo duo ratus dalapan baleh jantan.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "dari anak-anak"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Obadyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Yekhiel"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "jo jo inyo"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duo ratus"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "dalapan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baleh"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "jantan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:34:14.458460652Z",
+  "model": "glm-5.3"
+}

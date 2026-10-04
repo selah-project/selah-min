@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Biharo Yahweh maampiehan sagalo bibia nan lamak, lida nan mangato gadang-gadang.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Biharo ... maampiehan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibia"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "nan lamak"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lida"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "nan mangato"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gadang-gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:38.776504270Z",
+  "model": "glm-5.3"
+}

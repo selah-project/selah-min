@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Karano ado palinduang pado hikmah sarupo palinduang pado perak; tapi kauntungan panegetahuan iolah: hikmah manghiduikan ⟨urang⟩ nan punyo inyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "palinduang"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "palinduang"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "tapi kauntungan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "panegetahuan"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "manghiduikan"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "urang nan punyo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:28:31.229904964Z",
+  "model": "glm-5.3"
+}

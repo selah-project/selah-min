@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Atas kalupusan lapeh inyo; dalam kamuak Elohim manurunkan ⟨את⟩ umat-umat.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalupusan"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "lah lapeh"
+    },
+    {
+      "surface": "למו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "באף",
+      "gloss": "dalam kamuak"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "manurunkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:10.752313645Z",
+  "model": "glm-5.3"
+}

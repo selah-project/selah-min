@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Indaklah angkau bacampua jo ⟨את⟩ inyo dalam paradaban, karano tanah angkau angkau rusak, bangso angkau angkau bunuh; indak disabuik salamo-lamonyo beniah urang-urang nan jahat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "angkau bacampua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jo ⟨את⟩ inyo",
+      "marks": "inyo (rajo-rajo bangso-bangso)"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "dalam paradaban"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanah angkau"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "angkau rusak-an"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangso angkau"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "angkau bunuh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "disabuik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "beniah"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "urang-urang nan jahat"
+    }
+  ],
+  "timestamp": "2026-10-04T09:14:11.398960820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Eli mandanga ⟨את⟩ suaro tangiah tu, lapeh inyo bakato: Apo suaro ribuik ko? Urang tucapek datang, mailan kaba kapado Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaro tangiah tu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "tangiah tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lapeh inyo bakato"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ribuik"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "capek"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mailan kaba"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "kapado Eli"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:32.038786274Z",
+  "model": "glm-5.3"
+}

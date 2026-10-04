@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo Elisia bakato kapadonyo: Pai, katoan: Indak, pasti iduik sanak — tapi Yahweh alah manunjuakkan kapado ambo baso inyo pasti mati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jo bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katoan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Indak"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "pasti iduik"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "ויהראני",
+      "gloss": "tapi alah manunjuakkan kapado ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "baso"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti mati"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "inyo mati"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:58.428737382Z",
+  "model": "glm-5.3"
+}

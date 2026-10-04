@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 57:19",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 57,
+  "translation": "Ambo mancipto buah bibih: damai, damai kapado nan jauah jo kapado nan dakek, kato Yahweh, jo ambo ka maimpo inyo.",
+  "tokens": [
+    {
+      "surface": "בורא",
+      "gloss": "ambo mancipto"
+    },
+    {
+      "surface": "נוב",
+      "gloss": "buah"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "bibih"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "kapado nan jauah"
+    },
+    {
+      "surface": "ולקרוב",
+      "gloss": "jo kapado nan dakek"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ורפאתיו",
+      "gloss": "jo ambo ka maimpo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:23:34.730305230Z",
+  "model": "glm-5.3"
+}

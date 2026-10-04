@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Mordekhai pai, jo mangarajoan sasuai jo sagalo nan diparentahkan Ester kapadonyo.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "pai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mangarajoan"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sasuai jo sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "diparentahkan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-10-04T08:22:57.528944079Z",
+  "model": "glm-5.3"
+}

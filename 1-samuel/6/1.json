@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Mako tabuik Yahweh ado di ladang urang Palisitia tujuah bulan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mako ado"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabuik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palisitia"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:24:40.264516958Z",
+  "model": "glm-5.3"
+}

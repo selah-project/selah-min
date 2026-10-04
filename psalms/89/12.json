@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Langik punyo Angkau, juo bumi punyo Angkau; dunia jo sagalo isinyo, Angkau nan maadok dasanyo.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "punyo Angkau"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "punyo Angkau"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "jo sagalo isinyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Angkau"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "maadok dasanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:34.580718809Z",
+  "model": "glm-5.3"
+}

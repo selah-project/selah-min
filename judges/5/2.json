@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 5:2",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Katiko urang-urang gadang mambukak ikua kapalo di Yisrael, katiko rakyat marela maagiah dirinyo, barakaikilah Yahweh!",
+  "tokens": [
+    {
+      "surface": "בפרע",
+      "gloss": "katiko mambukak ikua kapalo"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "urang-urang gadang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "בהתנדב",
+      "gloss": "katiko marela maagiah dirinyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barakaikilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T05:13:32.893070106Z",
+  "model": "glm-5.3"
+}

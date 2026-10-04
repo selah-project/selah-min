@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 16:5",
+  "book": "job",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Ambo ka manguek-an kalian jo muluik ambo, jo garakan bibia ambo ka maampu-an ⟨kasadihan kalian⟩.",
+  "tokens": [
+    {
+      "surface": "אאמצכם",
+      "gloss": "manguek-an kalian"
+    },
+    {
+      "surface": "במו",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik ambo"
+    },
+    {
+      "surface": "וניד",
+      "gloss": "jo garakan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibia ambo"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "maampu-an"
+    }
+  ],
+  "timestamp": "2026-10-04T08:07:45.542971243Z",
+  "model": "glm-5.3"
+}

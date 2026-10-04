@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "translation": "Karano inyo nan palapeh ⟨את⟩ angkau dari jarek pamburu, dari panyakik nan mambunuah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "palapeh angkau"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "dari jarek"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "pamburu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dari panyakik"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "nan mambunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:41:50.923299732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Bahagia urang nan nasibnyo baitu; bahagia urang nan Yahweh Elohim-nyo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "bahagia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "nasibnyo baitu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginyo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bahagia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:44.994446293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Katiko musuah-musuah ambo bagariak baliak, inyo tataruang jo binaso dari muko Kau.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "katiko bagariak baliak"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuah-musuah ambo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka balakang"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "inyo tataruang"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "jo binaso"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari muko Kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:19.224829116Z",
+  "model": "glm-5.3"
+}

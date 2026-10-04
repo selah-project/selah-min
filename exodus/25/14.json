@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Kau masuakkan ⟨את⟩ batang-batang tu ka dalam galeang-galeang nan ado di lambuang Aron, untuak mambao ⟨את⟩ Aron jo inyo.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "kau masuakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batang-batang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "batang-batang"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ka dalam galeang-galeang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "lambuang"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "untuak mambao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jo inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:43.656622451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo ⟨את⟩ sagalo jamaah inyo mangumpuakan pado hari partamo bulan nan kaduo, lalu inyo mandaftarkan asa katurunannyo manuruik marga-marga inyo, ka rumah ambo-ambo urang tuak inyo, dalam jumlah namo, dari umua duo puluah taun ka ateh, urang kasadonyo saurang-saurang.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo jamaah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "mangumpuakan"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "pado hari partamo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nan kaduo"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "mandaftarkan asa katurunannyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "manuruik"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "marga-marga inyo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka rumah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ambo-ambo urang tuak inyo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "dalam jumlah"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namo"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "dari umua"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ka ateh"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "saurang-saurang"
+    }
+  ],
+  "timestamp": "2026-10-04T04:37:47.401436246Z",
+  "model": "glm-5.3"
+}

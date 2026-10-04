@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Inyo mambuangakan ⟨את⟩ mazbeakh-mazbeakh urang asiang jo bamot-bamot, mampecahkan ⟨את⟩ tugu-tugu, jo manebang ⟨את⟩ Asyera-Asyera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "mambuangakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbeakh-mazbeakh urang asiang"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mazbeakh-mazbeakh"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "jo bamot-bamot"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "mampecahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu-tugu"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tugu-tugu"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "manebang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asyera-Asyera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asyera-Asyera"
+    }
+  ],
+  "timestamp": "2026-10-04T09:32:22.976349522Z",
+  "model": "glm-5.3"
+}

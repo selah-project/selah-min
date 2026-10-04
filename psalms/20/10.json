@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Yahweh, slamatkan ⟨את⟩ ⟨rajo⟩; rajo itu manjawek kito pado ari kito manggaleh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "slamatkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨rajo⟩"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "manjawek kito"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "kito manggaleh"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:42.586632847Z",
+  "model": "glm-5.3"
+}

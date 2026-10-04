@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 125,
+  "translation": "Baiak-i lah, Yahweh, urang-urang nan elok, jo urang-urang nan luruih di ati urang tu.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Baiak-i lah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "urang-urang nan elok"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "jo urang-urang nan luruih"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "di ati urang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:42.182148238Z",
+  "model": "glm-5.3"
+}

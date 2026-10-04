@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo pado maso karajo Akhashverosh, di mulo karajonyo, inyo manulih surat dakwaan mahadang panduduak Yehudah jo Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "jo pado maso karajo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashverosh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "di mulo"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "karajonyo"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "inyo manulih"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "surat dakwaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahadang"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jo Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T08:32:51.255804195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lalu anak-anak Gad mambangun ⟨את⟩ Dibon, jo ⟨את⟩ Atarot, jo ⟨את⟩ Aroer.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "mambangun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Atarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Aroer"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    }
+  ],
+  "timestamp": "2026-10-04T04:49:21.930489645Z",
+  "model": "glm-5.3"
+}

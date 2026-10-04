@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Ka Torah jo ka kasaksian! Kok inyo indak bakato manuruik kato iko — inyo nan indak ado fajar baginyo.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "ka Torah"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "jo ka kasaksian"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "manuruik kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginyo"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-10-04T09:14:25.770844428Z",
+  "model": "glm-5.3"
+}

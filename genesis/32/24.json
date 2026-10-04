@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lalu inyo maambiek jo maanta mareka manyubarangi ⟨את⟩ sungai itu, sasudah itu inyo maanta mahali ⟨את⟩ sagalo nan dipunyoinyo.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "inyo maambiek jo"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "maanta mareka manyubarangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungai itu"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "inyo maanta mahali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo nan dipunyoinyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dipunyoinyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:03:32.382378782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Sanak mambukak ⟨את⟩ tangan Sanak, jo mapuehkan kahandak satiok nan iduik.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan Sanak"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan Sanak"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "jo mapuehkan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado satiok"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nan iduik"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kahandak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:50.236607526Z",
+  "model": "glm-5.3"
+}

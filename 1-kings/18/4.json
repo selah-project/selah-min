@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Karano katiko Izebel mambueh ⟨את⟩ nabi-nabi Yahweh, Obadyahu maambiak saratus nabi, manyuruakkan urang tu lima puluah urang ciek-ciek di goa, jo maagiah makan urang tu roti jo aia.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karano katiko"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "mambueh"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabi-nabi Yahweh"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "manyuruakkan urang tu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di goa"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "maagiah makan urang tu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "jo aia"
+    }
+  ],
+  "timestamp": "2026-10-04T05:52:28.435915810Z",
+  "model": "glm-5.3"
+}

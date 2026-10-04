@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 148,
+  "translation": "Pujilah inyo, langik-langik nan di ateh langik, jo aia-aia nan di ateh langik.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Pujilah inyo"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "langik-langik"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ו המים",
+      "gloss": "jo aia-aia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:55.908932593Z",
+  "model": "glm-5.3"
+}

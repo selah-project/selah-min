@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 77,
+  "translation": "Nai salamanyo Adonai mambuang? Nai indak lai inyo bakenan salamo-lamonyo?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "nai salamanyo"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "mambuang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "lai"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "bakenan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "salamo-lamonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:35.129222091Z",
+  "model": "glm-5.3"
+}

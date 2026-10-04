@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Jo inyo mangukuak ⟨את⟩ Yisrael pado maso Filistin duo puluah taun.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "mangukuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pado maso"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duo puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-10-04T05:19:49.177467763Z",
+  "model": "glm-5.3"
+}

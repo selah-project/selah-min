@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Adam, Shet, Enosy.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosy"
+    }
+  ],
+  "timestamp": "2026-10-04T08:39:51.637923860Z",
+  "model": "glm-5.3"
+}

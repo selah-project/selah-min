@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo DISO bowed langik DISO turun, jo kabuik galok di bawah kaki-Nyo.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "DISO mambuek"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "DISO turun"
+    },
+    {
+      "surface": "ווערפל",
+      "gloss": "jo kabuik galok"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:41.683355681Z",
+  "model": "glm-5.3"
+}

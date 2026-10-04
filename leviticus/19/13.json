@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Indak buliah manyasak ⟨את⟩ kawanmu, indak pulo marampas; upah urang gajo indak buliah tingga jo ⟨את⟩-mu sampai pagi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak buliah"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "manyasak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanmu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kawanmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak pulo"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "marampas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak buliah"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "tingga (batalok)"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "upah karajo"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "urang gajo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "jo ⟨את⟩-mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:53.410979906Z",
+  "model": "glm-5.3"
+}

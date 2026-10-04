@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu Shemuël maimbau ⟨את⟩ urang banyak kapado Yahweh di Mitzpah.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "lalu maimbau"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:25:57.089937878Z",
+  "model": "glm-5.3"
+}

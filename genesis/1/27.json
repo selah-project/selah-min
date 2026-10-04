@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Elohim manciptakan ⟨את⟩ manusia manuruik gambar-Nyo; manuruik gambar Elohim inyo manciptakannyo; laki-laki jo padusi inyo manciptakan ⟨את⟩ inyo duonyo.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "manciptakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "manuruik gambar-Nyo"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "manuruik gambar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "manciptakan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "laki-laki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "jo padusi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "manciptakan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ inyo duonyo",
+      "marks": "inyo duonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:20.374738646Z",
+  "model": "glm-5.3"
+}

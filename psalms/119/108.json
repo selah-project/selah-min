@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Rilek-lah tarimo niazat muluik ambo, Yahweh, jo ajakkan ambo hukum-hukum-Mu.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "niazat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muluik ambo"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "rilek-lah tarimo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-lah (pamohonan)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "jo hukum-hukum-Mu"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajakkan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:44.402451215Z",
+  "model": "glm-5.3"
+}

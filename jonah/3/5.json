@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Urang-urang Nineveh picayo kapado Elohim, lalu mangumuman puaso, jo mamakai kain karaja, dari nan gadangnyo sampai nan keteknyo.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "picayo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "urang-urang"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "mangumuman"
+    },
+    {
+      "surface": "צום",
+      "gloss": "puaso"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "mamakai"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "kain karaja"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "dari nan gadangnyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "nan keteknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:21:15.270860331Z",
+  "model": "glm-5.3"
+}

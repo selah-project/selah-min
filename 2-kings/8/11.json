@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Jo inyo manando ⟨את⟩ mukonyo tatok-tatok, sampai inyo malu, jo urang Elohim tu manangih.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "jo inyo manando"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukonyo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukonyo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "tatok-tatok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בש",
+      "gloss": "malu"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "jo inyo manangih"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:13:27.309756926Z",
+  "model": "glm-5.3"
+}

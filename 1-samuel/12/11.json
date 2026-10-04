@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu Yahweh mangutuih ⟨את⟩ Yerubaal, ⟨את⟩ Bedan, ⟨את⟩ Yiftakh, jo ⟨את⟩ Syemuel, lalu malapehan urang tu dari tangan musuah urang tu nan mangaliliangi, dan urang tu tingga aman.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalu Yahweh mangutuih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yiftakh"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Syemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "lalu malapehan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuah urang tu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "nan mangaliliangi"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "dan urang tu tingga"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-10-04T05:26:08.595418256Z",
+  "model": "glm-5.3"
+}

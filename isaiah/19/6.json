@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 19,
+  "translation": "Jo batang aia-batang aia ka baun bau, tabek-tabek Mitsrayim ka mandapek jo kariang, buluah jo papirus ka layua.",
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "ka baun bau"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "batang aia-batang aia"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "ka mandapek"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "jo kariang"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "tabek-tabek"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "buluah"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "jo papirus"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "ka layua"
+    }
+  ],
+  "timestamp": "2026-10-04T06:11:19.416134359Z",
+  "model": "glm-5.3"
+}

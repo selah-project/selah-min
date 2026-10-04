@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Dangaan ⟨את⟩ kato iko nan ambo angkaik ateh sanak: gando tahilang untuak rumah tanggo Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dangaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato iko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "angkaik"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ateh sanak"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "gando tahilang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah tanggo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T07:12:33.774781334Z",
+  "model": "glm-5.3"
+}

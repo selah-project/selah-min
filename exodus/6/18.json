@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo anak-anak Kehat: Amram, jo Yitsahar, jo Khevron, jo Uzziel; jo taun-taun iduik Kehat saratus tigo puluah tigo taun.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "jo Yitsahar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "jo Khevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "jo Uzziel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jo taun-taun"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "puluah tigo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-10-04T04:11:55.079863531Z",
+  "model": "glm-5.3"
+}

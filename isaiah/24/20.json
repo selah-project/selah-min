@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Baarah bumi sarupo urang mabuak, jo bagiliang-giliang sarupo pondok; barek atehnyo pamberontakannyo, jo jatuah, indak akan bangkek baliak.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "Baarah"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "tagiliang-giliang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "sarupo urang mabuak"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "jo bagiliang-giliang"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "sarupo pondok"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "barek"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "pamberontakannyo"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "jo jatuah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "akan"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangkek baliak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:13:15.668900674Z",
+  "model": "glm-5.3"
+}

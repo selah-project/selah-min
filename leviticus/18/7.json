@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Katorangan ayahmu jo katorangan mandehmu indak buleh kau mambukak; inyo ⟨adalah⟩ mandehmu — indak buleh kau mambukak katorangannyo.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "katorangan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "jo katorangan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mandehmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak buleh"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kau mambukak"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mandehmu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak buleh"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kau mambukak"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "katorangannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:13.124857339Z",
+  "model": "glm-5.3"
+}

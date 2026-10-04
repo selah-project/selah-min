@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jo urang nan maambiak ⟨את⟩ bini jo ⟨את⟩ mandehnyo — zimah ⟨itu⟩; dalam api inyo mambaka ⟨את⟩ inyo jo ⟨את⟩ kaduonyo, supayo indak ado zimah di tangah-tangah kalian.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jo urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "mandehnyo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "mandehnyo"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zimah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itu⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "inyo mambaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (urang itu)"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kaduonyo (bini jo mandehnyo)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zimah"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di tangah-tangah kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:49.746907495Z",
+  "model": "glm-5.3"
+}

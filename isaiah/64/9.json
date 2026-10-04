@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Koto-koto suci-Mu lah manjadi gurun, Tsiyon lah manjadi gurun, Yerushalayim lah manjadi tampek rusak.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "suci-Mu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "lah manjadi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lah manjadi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tampek rusak"
+    }
+  ],
+  "timestamp": "2026-10-04T06:25:16.845447964Z",
+  "model": "glm-5.3"
+}

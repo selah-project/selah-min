@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Raso bakar untuak raso bakar, luko untuak luko, bengkak untuak bengkak.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "raso bakar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "raso bakar"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "luko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "luko"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bengkak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "untuak"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bengkak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:34.586838733Z",
+  "model": "glm-5.3"
+}

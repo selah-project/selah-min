@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Jalan pambohonganan ijaikan dari ambo, jo Torah-Mu baniah ka ambo karunia-Mu.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "pambohonganan"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ijaikan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari ambo"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "jo Torah-Mu"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "baniah ka ambo ⟨karunia-Mu⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T09:25:13.169160921Z",
+  "model": "glm-5.3"
+}

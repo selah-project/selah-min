@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Dan kapado Avram inyo buek elok dek karano padusi tu, dan manjadi miliaknyo kambiang-biri, jo lembu, jo keledai jantan, jo amba-amba laki, jo amba-amba padusi, jo keledai batino, jo unta.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "jo kapado Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "buek elok"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "dek karano padusi tu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan manjadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "miliaknyo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambiang-biri"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "jo lembu"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "jo keledai jantan"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "jo amba-amba laki"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "jo amba-amba padusi"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "jo keledai batino"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "jo unta"
+    }
+  ],
+  "timestamp": "2026-10-04T03:57:03.089064140Z",
+  "model": "glm-5.3"
+}

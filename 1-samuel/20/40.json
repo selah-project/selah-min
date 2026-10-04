@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lalu Yehonatan agiah ⟨את⟩ sanjatonyo ka si kido nan ado jo inyo, jo bakato kapadonyo: Pai lah, bawok masuak ka koto.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "lalu agiah"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanjatonyo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sanjatonyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "si kido"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ado jo inyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pai lah"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "bawok masuak"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ka koto"
+    }
+  ],
+  "timestamp": "2026-10-04T05:30:52.150884423Z",
+  "model": "glm-5.3"
+}

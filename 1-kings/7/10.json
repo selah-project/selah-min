@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Jo parakteknyo batu-batu nan maha, batu-batu gadang, batu nan sapuluah hasta jo batu nan lapan hasta.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "jo parakteknyo"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "nan maha"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "jo batu"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "lapan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    }
+  ],
+  "timestamp": "2026-10-04T05:46:22.159483413Z",
+  "model": "glm-5.3"
+}

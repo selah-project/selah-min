@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Laju Elohim naik dari dakeknyo, di tampek tampek inyo bakato jo ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "naik"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "dari dakeknyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tampek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tampek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ino (Yaakov)"
+    }
+  ],
+  "timestamp": "2026-10-04T04:05:17.975617917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 75,
+  "translation": "Kami maagiah tarimo kasih kapado Kau, Elohim, kami maagiah tarimo kasih, karano dakek Namo Kau; urang macakakan kajaiban-kajaiban Kau.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "kami maagiah tarimo kasih"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado Kau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "kami maagiah tarimo kasih"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "karano dakek"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Namo Kau"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "urang macakakan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kajaiban-kajaiban Kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:00.893610133Z",
+  "model": "glm-5.3"
+}

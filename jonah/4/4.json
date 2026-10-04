@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo Yahweh bakato: Aa baiak ang muruah sabana tu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "aa baiak"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "muruah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:20:59.585180215Z",
+  "model": "glm-5.3"
+}

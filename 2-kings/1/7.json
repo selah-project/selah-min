@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu inyo bakato kapado mareka: Apo bantuak urang tu nan naiak manamui kalian, lalu bakato kapado kalian ⟨את⟩ kato-kato ko?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu inyo bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado mareka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bantuak"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "manamui kalian"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kapado kalian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato ko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-04T09:12:45.965712912Z",
+  "model": "glm-5.3"
+}

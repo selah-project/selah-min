@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Urang tu mambuek ⟨את⟩ patampek galaik kasucian tu dari ameh murni, jo manulih di atehnyo tulisan saparti ukiran cincin cameo: Suci untuak Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Urang tu mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patampek galaik kasucian"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "patampek"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "galaik"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kasucian"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "jo manulih"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atehnyo"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "tulisan"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ukiran"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "cincin cameo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Suci"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:45.720307506Z",
+  "model": "glm-5.3"
+}

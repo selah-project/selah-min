@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Baiak Yahweh kapado sagalo, jo rasonyo ateh sagalo karanjo-nyo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baiak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado sagalo"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "jo rasonyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "karanjo-nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:30.919088566Z",
+  "model": "glm-5.3"
+}

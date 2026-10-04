@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Inyo tu maliaknyo, kok maraso talengah; inyo gataiah, inyo lari kunjuang.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "inyo tu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "maliaknyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "maraso talengah"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "gataiah"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "lari kunjuang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:32:45.589855693Z",
+  "model": "glm-5.3"
+}

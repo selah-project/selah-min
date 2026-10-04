@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Indak ciek ari kalian makan, jo indak duo ari, jo indak limo ari, jo indak sapuluah ari, jo indak duo puluah ari —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "kalian makan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "duo ari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "limo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:43:22.231128435Z",
+  "model": "glm-5.3"
+}

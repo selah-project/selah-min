@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo ⟨את⟩ Resen, di antaro Ninewe jo Kelakh — inyo ⟨adalah⟩ koto gadang tu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antaro"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "koto"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "gadang tu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:32.467730100Z",
+  "model": "glm-5.3"
+}

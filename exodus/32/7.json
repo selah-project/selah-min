@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Lalu Yahweh bakato kapado Moshe: Pailah, turunlah, karano umat ang, nan ang alah angkek dari tanah Mitsrayim, alah rusak.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pailah"
+    },
+    {
+      "surface": "רד",
+      "gloss": "turunlah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "alah rusak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat ang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ang alah angkek"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T04:23:12.462172588Z",
+  "model": "glm-5.3"
+}

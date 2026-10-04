@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Karano panah-Mu alah tatancek di badan ambo, jo tangan-Mu alah manakan ateh ambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "panah-Mu"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "alah tatancek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di badan ambo"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "jo alah manakan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ateh ambo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:13.518864083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Ambo indak takuik ka puluah ribu urang bangso, nan mangalilingi ambo sacaro babalik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ambo takuik"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "ka puluah ribu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "urang bangso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mangalilingi"
+    },
+    {
+      "surface": "שתu",
+      "gloss": "malamatkan diri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:14.806615178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 69,
+  "translation": "Karano Yahweh mandangakan kapado urang miskin, jo ⟨את⟩ urang-urang tapancung-Nyo indak inyo hino.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandangakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang tapancung-Nyo"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "urang-urang tapancung-Nyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hino"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:13.421853766Z",
+  "model": "glm-5.3"
+}

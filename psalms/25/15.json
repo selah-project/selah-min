@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Mato ambo taruih ka Yahweh, karano inyo kaluaan ⟨inymi⟩ kaki ambo dari jaring.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "kaluaan"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "dari jaring"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kaki ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:14.347763108Z",
+  "model": "glm-5.3"
+}

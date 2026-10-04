@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 64,
+  "translation": "Engkau basarabuang jo ⟨את⟩ nan ria jo nan banaikan tsedeq, di jalan Mu inyo ingek ka Engkau; caliak, Engkau alah bangkak, jo kami alah badoso, dangan itu salamanyo, jo kami ka disalamaikkan.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "Engkau basarabuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan ria"
+    },
+    {
+      "surface": "שש",
+      "gloss": "nan ria"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "jo nan banaikan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "di jalan Mu"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "inyo ingek ka Engkau"
+    },
+    {
+      "surface": "הן",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "alah bangkak"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "jo kami alah badoso"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dangan itu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamanyo"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "jo kami ka disalamaikkan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:24:04.164011965Z",
+  "model": "glm-5.3"
+}

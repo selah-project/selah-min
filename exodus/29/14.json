@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Tapi ⟨את⟩ dagiang ⟨את⟩ jawi jo ⟨את⟩ kuliknyo jo ⟨את⟩ tainyo, baka jo api di lua pakampuangan; tu jampek doso inyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "tapi ⟨את⟩",
+      "marks": "dagiang jawi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dagiang"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "jawi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "kuliknyo"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "kuliknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tainyo"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "tainyo"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "baka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di lua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pakampuangan"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "jampek doso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:59.880769319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Ambo alah maàgiah tampek Yahweh di muko ambo taruih-taruih, karano dari sabalah kanan ambo, ambo indak ka tagoyang.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Ambo alah maàgiah tampek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "di muko ambo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih-taruih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "dari sabalah kanan ambo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ka tagoyang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:24:04.592853532Z",
+  "model": "glm-5.3"
+}

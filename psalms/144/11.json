@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 144,
+  "translation": "Lapeh ambo, jo salamaikkan ambo dari tangan anak-anak bangso asiang, nan muluiknyo bakato sia-sia, jo tangan suoknyo tangan suok paliang.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Lapeh ambo"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "jo salamaikkan ambo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bangso asiang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "muluiknyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "jo tangan suoknyo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan suok"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "paliang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:37.235047954Z",
+  "model": "glm-5.3"
+}

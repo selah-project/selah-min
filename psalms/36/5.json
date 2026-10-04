@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 36,
+  "translation": "Kajahatan inyo rancanokan di ateh lamanyo; inyo tagak-di-dirinyo di ateh jalan nan indak elok; bana-bana (jahat) indak inyo tolak.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "rancanokan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "lamanyo"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "tagak-di-dirinyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bana-bana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "tolak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:23:20.690303799Z",
+  "model": "glm-5.3"
+}

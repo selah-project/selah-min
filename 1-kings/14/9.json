@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 14:9",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Dan ang bakeh buruak labiah daripado sadolah nan ado sabalun ang, dan ang pai, dan ang buek untuak diri ang tuhan-tuhan lain jo patuang tuang untuak mambuek amarah Aku, dan ⟨את⟩ Aku ang buang ka balakang baliak ang.",
+  "tokens": [
+    {
+      "surface": "ותרע",
+      "gloss": "ang bakeh buruak"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak buek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labiah daripado sadolah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ado"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sabalun ang"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "dan ang pai"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "dan ang buek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak diri ang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "ומסכות",
+      "gloss": "jo patuang tuang"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "untuak mambuek amarah Aku"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ Aku",
+      "marks": "Aku (Yahweh), nan dibuang"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "ang buang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka balakang"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "baliak ang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:06.241824733Z",
+  "model": "glm-5.3"
+}

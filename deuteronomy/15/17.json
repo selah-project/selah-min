@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Maka kau ambiak ⟨את⟩ panukik talingo, jo kau tusuak talingonyo jo ka pintu, jo inyo manjadi hamba kau salamo-lamonyo; jo ka hamba padusiimu pun buek baitu juo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "maka kau ambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panukik talingo"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "panukik talingo"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "jo kau tusuak"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "talingonyo"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "jo ka pintu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jo inyo manjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kau"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "jo pun"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "ka hamba padusiimu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "buek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu juo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:23.740271578Z",
+  "model": "glm-5.3"
+}

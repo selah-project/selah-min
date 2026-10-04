@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo sanak jagok untuak malakuan ⟨את⟩ sadoalah hukum-hukum jo ⟨את⟩ pangadilan-pangadilan nan ambo agiah di muko sanak ari ko.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "jo sanak jagok"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak malakuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadoalah hukum-hukum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadoalah"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pangadilan-pangadilan"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "pangadilan-pangadilan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di muko sanak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari ko"
+    }
+  ],
+  "timestamp": "2026-10-04T09:06:33.824672093Z",
+  "model": "glm-5.3"
+}

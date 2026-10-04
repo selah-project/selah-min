@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 39,
+  "translation": "Jo mato Tsidkiyahu dibuek buto, jo inyo diikek jo rantai tambaga untuak mambaok inyo ka Babel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mato Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dibuek buto"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "diikek inyo"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "jo rantai tambaga"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "untuak mambaok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ka Babel"
+    }
+  ],
+  "timestamp": "2026-10-04T06:40:57.085211082Z",
+  "model": "glm-5.3"
+}

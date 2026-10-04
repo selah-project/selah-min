@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo Yerobeam indak lai mandapek kakuatan pado maso hari-hari Abia, tapi Yahweh manguku inyo, jo inyo mati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "indak lai"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "mandapek"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lai"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pado maso hari-hari"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Abia"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "manguku inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mati"
+    }
+  ],
+  "timestamp": "2026-10-04T08:53:24.658025222Z",
+  "model": "glm-5.3"
+}

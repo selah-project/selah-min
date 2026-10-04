@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 15,
+  "translation": "Karano doso-doso Yaarovam nan inyo buek, jo nan inyo buek Yisrael mahasok, jo kaasoannyo nan inyo buwek Yahweh, Elohim Yisrael, tasingguang.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "doso-doso"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "buek doso"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jo nan"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "mahasok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "jo kaasoannyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "buwek tasingguang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:51.823578366Z",
+  "model": "glm-5.3"
+}

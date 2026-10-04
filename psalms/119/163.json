@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Pandustan ambo banci jo ambo benci, tapi Torah-Mu ambo cinto.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "pandustan"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ambo banci"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "jo ambo benci"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah-Mu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ambo cinto"
+    }
+  ],
+  "timestamp": "2026-10-04T07:47:25.654732823Z",
+  "model": "glm-5.3"
+}

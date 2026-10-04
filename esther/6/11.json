@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Mako Haman maambiak ⟨את⟩ pakaian jo ⟨את⟩ kudo tu, lalu mamakaian ⟨את⟩ Mordekhai, jo manaiakannyo kaateh kudo tu di lapangan koto, jo mnyaruak di mukonyo: baitulah dibuek untuak urang tu nan diuruik rajo manganai kamuliaannyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kudo tu"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kudo tu"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "mamakaian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekhai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "manaiakannyo kaateh kudo"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "di lapangan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "koto"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "jo mnyaruak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "baitulah"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "untuak urang tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "diuruik"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "manganai kamuliaannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:25:31.339094632Z",
+  "model": "glm-5.3"
+}

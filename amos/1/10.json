@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Jo ambo mangiriman api ka dindiang Tzor, jo mambaunnyyo bentueng-bentuengnyo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "jo ambo mangiriman"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "ka dindiang"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzor"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "jo mambaunnyyo"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "bentueng-bentuengnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:10:01.205123327Z",
+  "model": "glm-5.3"
+}

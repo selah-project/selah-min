@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu inyo maagiah tau kapado Mordekhai ⟨את⟩ kato-kato Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "maagiah tau"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kapado Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:21.708456305Z",
+  "model": "glm-5.3"
+}

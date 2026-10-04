@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Untuak mambunyikan suaro syukur, jo mancaritoan sado ⟨את⟩ kajadian-kajangan ghorib-Mu.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "untuak mambunyikan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "syukur"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "jo mancaritoan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kajadian-kajangan ghorib-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:16.653476975Z",
+  "model": "glm-5.3"
+}

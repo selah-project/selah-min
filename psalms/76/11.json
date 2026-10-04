@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 76,
+  "translation": "Karano kamurkaan manusia mamuji Dikau; siso kamurkaan Kaau ⟨pagari⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kamurkaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "mamuji Dikau"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "siso"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kamurkaan"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "⟨pagari⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T09:24:21.128560018Z",
+  "model": "glm-5.3"
+}

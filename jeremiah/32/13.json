@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 32,
+  "translation": "Jo ambo mamarintah kapado ⟨את⟩ Barukh di mato inyo urang tu, bakato:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "jo ambo mamarintah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Barukh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "di mato inyo urang tu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    }
+  ],
+  "timestamp": "2026-10-04T06:39:03.019070738Z",
+  "model": "glm-5.3"
+}

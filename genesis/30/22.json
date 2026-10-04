@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo Elohim ingek kapado ⟨את⟩ Rachel, jo Elohim mandanga kapadonyo, jo mambukak ⟨את⟩ rahimnyo.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "ingek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahimnyo"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "rahimnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:21.348586706Z",
+  "model": "glm-5.3"
+}

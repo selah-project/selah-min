@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Jo inyo ka babakti kapado ⟨את⟩ Yahweh, Elohim inyo, jo kapado ⟨את⟩ Dawid, rajo inyo, nan ambo ka buek bangkik untuak inyo.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "jo inyo ka babakti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "rajo inyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ka buek bangkik"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuak inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:37:17.806200902Z",
+  "model": "glm-5.3"
+}

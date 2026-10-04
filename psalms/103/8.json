@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 103,
+  "translation": "Panyayang jo baramah Yahweh, lambek marahnyo, jo banjak hesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Panyayang"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "jo baramah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lambek"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "marahnyo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "jo banjak"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:12.788593331Z",
+  "model": "glm-5.3"
+}

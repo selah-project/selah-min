@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Rilaolah Yahweh untuak malapehan ambo; Yahweh, capeklah baruntuak manolong ambo.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "rilaolah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "untuak malapehan ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "untuak manolong ambo"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "capeklah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:29:19.183492646Z",
+  "model": "glm-5.3"
+}

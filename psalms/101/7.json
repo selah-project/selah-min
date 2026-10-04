@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 101,
+  "translation": "Urang nan buek tipu indak ka tingga di tangah rumah ambo; urang nan mangecek dusta indak ka tagak di muko mato ambo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ka tingga"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumah ambo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "urang nan buek"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "tipu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "urang nan mangecek"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ka tagak"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mato ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:27.158629032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 72,
+  "translation": "Inyo turun sarupo ujan ateh rumpuik nan alah dicukua, sarupo rinyuik-rinyuik manyiram bumi.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "sarupo ujan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "גז",
+      "gloss": "rumpuik nan alah dicukua"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "sarupo rinyuik-rinyuik"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "manyiram"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T07:37:09.250267321Z",
+  "model": "glm-5.3"
+}

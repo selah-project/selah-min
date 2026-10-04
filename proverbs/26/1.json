@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Salaju salju pado musim paneh, jo salaju ujan pado wakatu panen, baitu kahormatan indak pantas untuak urang bodoh.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "salaju salju"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "pado musim paneh"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "jo salaju ujan"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "pado wakatu panen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "pantas"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "untuak urang bodoh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kahormatan"
+    }
+  ],
+  "timestamp": "2026-10-04T08:00:54.332633899Z",
+  "model": "glm-5.3"
+}

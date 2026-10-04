@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Lomak mareko tatutuik; muluik mareko bakato jo angkuah.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "lomak mareko"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "tatutuik"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "muluik mareko"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "jo angkuah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:22:19.909463945Z",
+  "model": "glm-5.3"
+}

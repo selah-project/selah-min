@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Ari nan banyak Yehosua mambaok ⟨את⟩ sagalo rajo-rajo iko ka dalam parang.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nan banyak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo rajo-rajo iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ka dalam parang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:08:27.998353581Z",
+  "model": "glm-5.3"
+}

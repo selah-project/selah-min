@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Yahweh, Elohim ambo, kok ambo alah buek ko, kok ado kalancangan dalam langan ambo —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ambo alah buek"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kalancangan"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "dalam langan ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:45.301598762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Karano rajo tu panyampek diri ka Yahweh, jo jo hesed Elyon, inyo indak ka goyang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo tu"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "panyampek diri ka"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "jo jo hesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "goyang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:21.600926422Z",
+  "model": "glm-5.3"
+}

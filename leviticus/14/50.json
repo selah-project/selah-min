@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Jo inyo manyambaliah ⟨את⟩ ciek buruang tu di dalam parabuang tanah, di ateh aia iduik.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "jo inyo manyambaliah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciek buruang tu"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "buruang tu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di dalam"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabuang"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:30:33.231716022Z",
+  "model": "glm-5.3"
+}

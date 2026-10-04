@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 52,
+  "translation": "Karano co ko kato Yahweh: Tanpo imbalan urang tu dijua, jo indak jo perak urang tu akan ditebus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כה",
+      "gloss": "co ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpo imbalan"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "urang tu dijua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "jo perak"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "urang tu akan ditebus"
+    }
+  ],
+  "timestamp": "2026-10-04T06:22:37.979969938Z",
+  "model": "glm-5.3"
+}

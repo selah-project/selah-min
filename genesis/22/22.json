@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "jo ⟨את⟩ Kesed, jo ⟨את⟩ Khazo, jo ⟨את⟩ Pildash, jo ⟨את⟩ Yidlaf, jo ⟨את⟩ Betuel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Kesed"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Khazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Khazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Pildash"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Yidlaf"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Betuel"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    }
+  ],
+  "timestamp": "2026-10-04T03:59:21.553171021Z",
+  "model": "glm-5.3"
+}

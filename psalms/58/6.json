@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 58,
+  "translation": "Nan indak mandanga suaro urang nan mahisia mantra, urang nan pandai bana maubek mantra.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "suaro"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "urang nan mahisia mantra"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "maubek"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "mantra"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "pandai bana"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:28.370389919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Umpamo-umpamo Shelomoh: anak nan bijak manyanangkan ⟨אב⟩ — tapi anak nan lomo manjadi kasadiahan ibunyo.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Umpamo-umpamo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nan bijak"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "manyanangkan"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "tapi anak"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nan lomo"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "kasadiahan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:51.605348366Z",
+  "model": "glm-5.3"
+}

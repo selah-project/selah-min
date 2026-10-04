@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Di tampek nan paliang suci awak makan nyo; satiok urang laki-laki makan ⟨את⟩ nyo; suci nyo ka jadi untuak awak.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "di tampek suci"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "nan paliang suci"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "awak makan nyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "urang laki-laki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nyo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka jadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak awak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:44:43.841039654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo kau lapehkan mitznefet di ateh kapalonyo, lalu kau agiah ⟨את⟩ nezer kasucian di ateh mitznefet tu.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "kau lapehkan"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitznefet"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kau agiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezer kasucian"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezer"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kasucian"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitznefet tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:53.741976841Z",
+  "model": "glm-5.3"
+}

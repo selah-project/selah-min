@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Yisrael mancaliak ⟨את⟩ anak-anak Yosef, lalu bakato: Siapo inyo iko?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu bakato"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:10:31.386591589Z",
+  "model": "glm-5.3"
+}

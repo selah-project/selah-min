@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 116,
+  "translation": "Karano ⟨inyo⟩ malingkuah talingo-Nyo kapado ambo, jo salamo ari-ari ambo ambo manyeru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "malingkuah"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "talingo-Nyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "jo salamo ari-ari ambo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ambo manyeru"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:29.756673195Z",
+  "model": "glm-5.3"
+}

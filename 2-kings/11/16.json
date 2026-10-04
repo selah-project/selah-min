@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 11:16",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Urang tu mambuek jalan untuak inyo, lalu inyo masuak lewat jalan masuak kudo-kudo tu ka Rumah rajo, dan inyo dibunuah di sinan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "mambuek jalan untuak"
+    },
+    {
+      "surface": "לה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "⟨tangan⟩"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "lalu masuak"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lewat jalan"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kudo-kudo tu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ותומת",
+      "gloss": "dibunuah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:00:44.261860701Z",
+  "model": "glm-5.3"
+}

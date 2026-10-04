@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Jo urang nan mangutuki ayahnyo atau ibunyo — pasti dibunuah.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "jo urang nan mangutuki"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnyo"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "atau ibunyo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pasti dibunuah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:10.557611806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo sasudah inyo salasai manabus ⟨את⟩ tampek nan suci, ⟨את⟩ tenda patamuan jo ⟨את⟩ mezbah, inyo mandakekkan ⟨את⟩ kambiang jantan nan iduik tu.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "jo sasudah inyo salasai"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "manabus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tampek nan suci"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tampek nan suci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tenda patamuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "inyo mandakekkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambiang jantan nan iduik tu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kambiang jantan"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nan iduik"
+    }
+  ],
+  "timestamp": "2026-10-04T04:33:04.503279847Z",
+  "model": "glm-5.3"
+}

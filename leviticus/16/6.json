@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Jo Aharon mambaok ⟨את⟩ lumbu kurban doso nan untuak dirinyo, lalu inyo mangatuari ⟨את⟩ dirinyo surang jo ⟨את⟩ isi rumahnyo.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Jo Aharon mambaok dakek"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lumbu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lumbu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban doso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuak dirinyo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "jo inyo mangatuari"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "dirinyo surang"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "jo untuak"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "isi rumahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:32:17.515721361Z",
+  "model": "glm-5.3"
+}

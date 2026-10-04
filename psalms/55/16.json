@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Binaso tamaik inyo; turunlah inyo ka Sheol dalam iduiknyo; karano kajahatan ado di tampek tingga inyo, di tangah-tangah inyo.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "binaso"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "tamaik inyo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "turunlah inyo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ka Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dalam iduiknyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "di tampek tingga inyo"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "di tangah-tangah inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:07.233728872Z",
+  "model": "glm-5.3"
+}

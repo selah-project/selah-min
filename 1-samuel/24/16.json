@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Biar Yahweh manjadi hakim, jo manjaleh di antaro ambo jo ang, jo mailiek, jo mambela ⟨את⟩ parkaro ambo, jo malapehan ambo dari tangan ang.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "biar manjadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "jo manjaleh"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "di antaro ambo"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "jo di antaro ang"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "jo mailiek"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "jo mambela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parkaro ambo"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "parkaro ambo"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "jo malapehan ambo"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "dari tangan ang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:31:01.620691615Z",
+  "model": "glm-5.3"
+}

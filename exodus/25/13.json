@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Kau buwek batang-batang dari kayu shitim, jo saluik ⟨את⟩ inyo jo ameh.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kau buwek"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "batang-batang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "saluik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (batang-batang)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:43.656385530Z",
+  "model": "glm-5.3"
+}

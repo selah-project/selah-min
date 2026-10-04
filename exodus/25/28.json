@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jo kau buek ⟨את⟩ batang-batang tu dari kayu shitim, jo kau balapisi ⟨אתם⟩ ameh, jo manggotong ⟨את⟩ meja tu jo batang-batang tu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jo kau buek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batang-batang tu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "batang-batang tu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dari kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "jo kau balapisi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "batang-batang tu (ameh)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "jo manggotong"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jo batang-batang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja tu"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja tu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:19:41.106321019Z",
+  "model": "glm-5.3"
+}

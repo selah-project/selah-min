@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 1:6",
+  "book": "esther",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Kain linen putiah, kain kapas haluih, jo biru, diikek jo tali dari kain haluih jo ungu, pado cincin perak jo tiang marmer; lamuntan ameh jo perak diateh lantai marmer putiah, marmer, jo batu nan mahal jo batu mutiaro.",
+  "tokens": [
+    {
+      "surface": "חור",
+      "gloss": "linen putiah"
+    },
+    {
+      "surface": "כרפס",
+      "gloss": "kain kapas haluih"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "jo biru"
+    },
+    {
+      "surface": "אחוז",
+      "gloss": "diikek"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "jo tali"
+    },
+    {
+      "surface": "בוץ",
+      "gloss": "kain haluih"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jo ungu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pado"
+    },
+    {
+      "surface": "גלילי",
+      "gloss": "cincin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ועמודי",
+      "gloss": "jo tiang"
+    },
+    {
+      "surface": "שש",
+      "gloss": "marmer"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "lamuntan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ameh"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "jo perak"
+    },
+    {
+      "surface": "על",
+      "gloss": "diateh"
+    },
+    {
+      "surface": "רצפת",
+      "gloss": "lantai"
+    },
+    {
+      "surface": "בהט",
+      "gloss": "marmer putiah"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jo marmer"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jo batu nan mahal"
+    },
+    {
+      "surface": "וסחרת",
+      "gloss": "jo batu mutiaro"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:40.869174571Z",
+  "model": "glm-5.3"
+}

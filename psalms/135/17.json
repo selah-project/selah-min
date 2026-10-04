@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 135,
+  "translation": "Talingo ado di inyo, tapi indak mandanga; baitu juo indak ado ruakh di muluiknyo.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "talingo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "di inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "mandanga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "baitu juo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ado"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "di muluiknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:46.620859659Z",
+  "model": "glm-5.3"
+}

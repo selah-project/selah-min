@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 23:47",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Jo urang banyak malantak batu ka inyo, jo mamotong ⟨את⟩ inyo jo padang inyo; anak laki-laki inyo jo anak padusi inyo dibunuah, jo rumah inyo dibaaka jo api.",
+  "tokens": [
+    {
+      "surface": "ורגמו",
+      "gloss": "jo malantak batu"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "urang banyak"
+    },
+    {
+      "surface": "וברא",
+      "gloss": "jo mamotong"
+    },
+    {
+      "surface": "אותהן",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (duo padusi itu)"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "jo padang inyo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak laki-laki inyo"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "jo anak padusi inyo"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "dibunuah"
+    },
+    {
+      "surface": "ובתיהן",
+      "gloss": "jo rumah inyo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "jo api"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "dibaaka"
+    }
+  ],
+  "timestamp": "2026-10-04T06:56:18.689386368Z",
+  "model": "glm-5.3"
+}

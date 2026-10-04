@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Rajo Asyur mangukuahkan urang ⟨את⟩ Yisrael ka Asyur, lalu manampeknyo di Halakh, di Khabor, sungai Gozan, jo di koto-koto Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "mangukuahkan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ka Asyur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "lalu manampeknyo"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "di Halakh"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "di Khabor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "jo di koto-koto"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    }
+  ],
+  "timestamp": "2026-10-04T06:02:01.223345380Z",
+  "model": "glm-5.3"
+}

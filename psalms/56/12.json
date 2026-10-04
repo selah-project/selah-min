@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 56,
+  "translation": "Di Elohim ambo bacampak, indak ambo takuik; apo nan dapek urang buek kapado ambo?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ambo bacampak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ambo takuik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dapek buek"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:56.957571053Z",
+  "model": "glm-5.3"
+}

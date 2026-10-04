@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 111,
+  "translation": "Tagak kokoh salamo-lamo, ka salamonyo; dibauek jo kasatiaan jo kabanaran.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "tagak kokoh"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamo-lamo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka salamonyo"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "dibauek"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "jo kasatiaan"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "jo kabanaran"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:12.716892993Z",
+  "model": "glm-5.3"
+}

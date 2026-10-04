@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 21,
+  "translation": "Lalu urang tu mangirim kaba kapado Izebel, mangecek: Navot alah dirajok, jo alah mati.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "lalu urang tu mangirim kaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangecek"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "alah dirajok"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "jo alah mati"
+    }
+  ],
+  "timestamp": "2026-10-04T05:53:21.948776787Z",
+  "model": "glm-5.3"
+}

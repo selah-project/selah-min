@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Karano inyo indak picayo kapado Elohim, jo indak tacuok kapado kasalamatan-Nyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "picayo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kapado Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "tacuok"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "kapado kasalamatan-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:38:15.612896564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Inyo manyaruak, tapi indak ado nan malapeh; kapado Yahweh — tapi inyo indak manjawab inyo.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Inyo manyaruak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi indak ado"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "nan malapeh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "manjawab inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:25:19.959562755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 46:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 46,
+  "translation": "Jo anak-anak Yehudah: Er, jo Onan, jo Shelah, jo Peretz, jo Zerakh; alah mati Er jo Onan di tanah Kanaan. Jo anak-anak Peretz: Khetzron jo Khamul.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "jo Onan"
+    },
+    {
+      "surface": "ושלה",
+      "gloss": "jo Shelah"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "jo Peretz"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "jo Zerakh"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "alah mati"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "jo Onan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "jo jadi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretz"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetzron"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "jo Khamul"
+    }
+  ],
+  "timestamp": "2026-10-04T04:09:16.293935273Z",
+  "model": "glm-5.3"
+}

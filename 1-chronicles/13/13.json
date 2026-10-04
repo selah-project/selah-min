@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Dek karano itu Dawid indak mambao ⟨את⟩ aron tu ka rumahnyo, ka koto Dawid, tapi inyo mambaliakannyo ka rumah Oved-Edom urang Gat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "mambao"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron tu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aron tu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka rumahnyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "koto"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "tapi inyo mambaliakannyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "urang Gat"
+    }
+  ],
+  "timestamp": "2026-10-04T08:44:01.082706964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Sandangnyo ambo ka sangaik bakatandan, jo urang miskinnyo ambo ka kanyang jo roti.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "sandang"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bakatandan"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "sangaik bakatandan"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "urang miskinnyo"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "kanyang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:19.241047012Z",
+  "model": "glm-5.3"
+}

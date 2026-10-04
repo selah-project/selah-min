@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu Elohim mambuek ⟨את⟩ duo pancaran cahayo nan gadang — ⟨את⟩ pancaran nan gadang untuak mamarintah ari, jo ⟨את⟩ pancaran nan ketek untuak mamarintah malam — jo ⟨את⟩ bintang-bintang.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lalu mambuek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duo pancaran cahayo nan gadang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "pancaran cahayo"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pancaran nan gadang untuak mamarintah ari"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "pancaran"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "untuak mamarintah"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "pancaran nan ketek untuak mamarintah malam"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "pancaran"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nan ketek"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "untuak mamarintah"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "bintang-bintang"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "bintang-bintang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:54:07.717800890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Lalu inyo dibari pamintanyo, tapi dikiriman kakuruangan ka dalam jiwa nyo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dibari"
+    },
+    {
+      "surface": "להם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "pamintanyo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dikiriman"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "kakuruangan"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "ka dalam jiwa nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:18.091908789Z",
+  "model": "glm-5.3"
+}

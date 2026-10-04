@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Mako Shaul mangutusan para suruah kapado Yishai jo bakato: Utuslah kapado ambo ⟨את⟩ Dawid, anak sanak, nan ado jo kawan-kawan domba.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangutusan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "para suruah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "utuslah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anak sanak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "ado jo kawan-kawan domba"
+    }
+  ],
+  "timestamp": "2026-10-04T05:28:17.032415405Z",
+  "model": "glm-5.3"
+}

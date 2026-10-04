@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 107,
+  "translation": "Inyo mangirim kato-Nyo, jo manyadio inyo, jo malapeh inyo dari kamusnahan inyo.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Inyo mangirim"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kato-Nyo"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "jo manyadio inyo"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "jo malapeh inyo"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "dari kamusnahan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:44:37.516668556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu urang-urang tu manakuiki Yahweh jo takuik nan gadang, lalu inyo manambaeh korban untuak Yahweh jo bajanji nazar-nazar.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "manakuiki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang-urang tu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "manambaeh korban"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "bajanji"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "nazar-nazar"
+    }
+  ],
+  "timestamp": "2026-10-04T07:13:40.702984051Z",
+  "model": "glm-5.3"
+}

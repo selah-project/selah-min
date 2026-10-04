@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 136,
+  "translation": "Kapado nan mamimpiakan ⟨את⟩ umat-Nyo di gurun, karano salamo-lamonyo hesed-Nyo.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "kapado nan mamimpiakan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nyo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:49:00.952326214Z",
+  "model": "glm-5.3"
+}

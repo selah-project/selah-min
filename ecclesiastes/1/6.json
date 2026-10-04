@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Baarah ka salatan, jo baputa ka utara; baputa-puta baarah ruakh, jo ka putiangan-putiangan ruakh tu baliak.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "baarah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "salatan"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "jo baputa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "baputa"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "baputa"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "baarah"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "putiangan-putiangan"
+    },
+    {
+      "surface": "שב",
+      "gloss": "baliak"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T08:21:19.145031479Z",
+  "model": "glm-5.3"
+}

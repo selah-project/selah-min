@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 34,
+  "translation": "Ambo ka mambarkekati ⟨את⟩ Yahweh di satiok wakatu, taruih-manaruih pujian-Nyo di muncuak ambo.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ambo ka mambarkekati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di satiok"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakatu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih-manaruih"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nyo"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di muncuak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:42.735037847Z",
+  "model": "glm-5.3"
+}

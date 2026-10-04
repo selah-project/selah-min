@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 23,
+  "translation": "Sarupo cahayo pagi, kok matoari bajambak — pagi nan indak bawunyi, dari sinar nyo, dari ujan, damuak tumbuah dari bumi.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "sarupo cahayo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "bajambak"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matoari"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "bawunyi"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "dari sinar"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "dari ujan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "damuak"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:04.340218814Z",
+  "model": "glm-5.3"
+}

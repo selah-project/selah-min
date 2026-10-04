@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Lalu awak manjawek ⟨את⟩ ambo, jo bakato: Elok pakaro nan tu bacakapo untuak dilakuan.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "lalu awak manjawek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ambo"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elok"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tu bacakapo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuak dilakuan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:52:21.198614812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 50,
+  "translation": "Adonai Yahweh mambukak kapado ambo talingo, jo ambo indak mambantah, ka balakang indak ambo mundua.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mambukak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "talingo"
+    },
+    {
+      "surface": "ו אנכי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "mambantah"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka balakang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "ambo mundua"
+    }
+  ],
+  "timestamp": "2026-10-04T06:22:21.667772913Z",
+  "model": "glm-5.3"
+}

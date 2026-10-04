@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 35,
+  "translation": "Rancak hati akaik pai padang kariang jo gurun, jo Araba mandjo, jo manggarik sarupo kabanangan",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "rancak hati"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang kariang"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "jo gurun"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "jo mandjo"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "jo manggarik"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "sarupo kabanangan"
+    }
+  ],
+  "timestamp": "2026-10-04T06:15:59.327783404Z",
+  "model": "glm-5.3"
+}

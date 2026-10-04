@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo kapado sado gunuang-gunuang nan tinggi, jo kapado sado bukik-bukik nan tarambiah",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "nan tinggi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "bukik-bukik"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "nan tarambiah"
+    }
+  ],
+  "timestamp": "2026-10-04T06:05:23.924202845Z",
+  "model": "glm-5.3"
+}

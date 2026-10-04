@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 111,
+  "translation": "Karya-karya tangan-Nyo ⟨adalah⟩ kasatiaan jo hukum; tapacayo sado katantuan-Nyo.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "karya-karya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangan-Nyo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kasatiaan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jo hukum"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "tapacayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "katantuan-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:45:12.716789549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 31,
+  "translation": "Urang tu maatur ⟨את⟩ sanjatonyo di bait Ashtarot, sadangkan ⟨את⟩ jasaangnyo urang tu paku di tanggok bait Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "urang tu maatur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanjatonyo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sanjatonyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sadangkan ⟨את⟩",
+      "marks": "jasaangnyo"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "jasaangnyo"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "paku"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "di tanggok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:34:30.990148672Z",
+  "model": "glm-5.3"
+}

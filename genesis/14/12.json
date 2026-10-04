@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 14,
+  "translation": "Urang tu dibao juo ⟨את⟩ Lot jo ⟨את⟩ haratonyo — anak suduto Avram, nan sadang tingga di Sedom — lalu pai.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "urang tu dibao juo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haratonyo"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "haratonyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "suduto"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lalu pai"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "di Sedom"
+    }
+  ],
+  "timestamp": "2026-10-04T03:56:55.364451889Z",
+  "model": "glm-5.3"
+}

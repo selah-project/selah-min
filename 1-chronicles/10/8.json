@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Jo pado ari salanjuiknyo, Filistin tibo untuak marampok ⟨את⟩ urang-urang nan tabunuah tu, lalu inyo manamukan ⟨את⟩ Sha'ul jo ⟨את⟩ anak-anaknyo tabariang di Bukik Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Jo pado"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ari salanjuiknyo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "untuak marampok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang-urang nan tabunuah tu"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "urang-urang nan tabunuah tu"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "manamukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "tabariang"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di Bukik"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-04T08:43:39.699088620Z",
+  "model": "glm-5.3"
+}

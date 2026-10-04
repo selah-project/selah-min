@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Lalu Nocah sadar dari anggurnyo, dan inyo tau ⟨את⟩ nan alah dibuek anaknyo nan ketek kapadonyo.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "lalu sadar"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nocah"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "dari anggurnyo"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "dan inyo tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan alah dibuek anaknyo nan ketek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nan ketek"
+    }
+  ],
+  "timestamp": "2026-10-04T03:55:27.297746178Z",
+  "model": "glm-5.3"
+}

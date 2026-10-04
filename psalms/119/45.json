@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Jo ambo ka bajalan di tampek nan lueh, karano ambo alah mancari parentah-Mu.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "jo ambo ka bajalan"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "di tampek nan lueh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "parentah-Mu"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "alah ambo mancari"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:49.215341718Z",
+  "model": "glm-5.3"
+}

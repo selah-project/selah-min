@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 141,
+  "translation": "Biarlah urang nan bana mambukak ambo — itu hesed — jo mandandam ambo; itu minyak untuak kapalo, jangan kapalo ambo manulaknyo, karano masih juo doa ambo dalam kajahatan mareka.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "mambukak ambo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "urang nan bana"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "jo mandandam ambo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יני",
+      "gloss": "manulak"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapalo ambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih juo"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "doa ambo"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "dalam kajahatan mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T07:50:02.605943365Z",
+  "model": "glm-5.3"
+}

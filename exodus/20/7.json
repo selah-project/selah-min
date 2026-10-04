@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Jan mangangkek ⟨את⟩ namo Yahweh, Elohim tuan tu, untuak sia-sia, karano Yahweh indak maagiahi ⟨את⟩ urang nan mangangkek ⟨את⟩ namo-Nyo untuak sia-sia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tuan tu"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "untuak sia-sia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "maagiahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang nan mangangkek namo-Nyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "urang nan"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo-Nyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namo-Nyo"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "untuak sia-sia"
+    }
+  ],
+  "timestamp": "2026-10-04T04:16:35.189908093Z",
+  "model": "glm-5.3"
+}

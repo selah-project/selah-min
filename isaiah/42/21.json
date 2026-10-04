@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 42,
+  "translation": "Yahweh maraso sanang, dek karano tsedeq-Nyo, inyo manggedangkan Torah jo mamuliaannyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "maraso sanang"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tsedeq-Nyo"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "manggedangkan"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "jo mamuliaannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:18:28.013291526Z",
+  "model": "glm-5.3"
+}

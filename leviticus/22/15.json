@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jan sampai urang tu manajisko ⟨את⟩ barang-barang suci urang Yisrael, ⟨את⟩ nan urang tu angkek kapado Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jan sampai"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "manajisko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang-barang suci urang Yisrael"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "barang-barang suci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan urang tu angkek kapado Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "urang tu angkek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T04:34:37.175471133Z",
+  "model": "glm-5.3"
+}

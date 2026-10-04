@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Labiah elok urang nan dipandang ringan tapi punyo budak, daripado urang nan mamageh diri tapi kurang roti.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "labiah elok"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "nan dipandang ringan"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "tapi punyo budak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "padonyo"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "daripado nan mamageh diri"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "tapi kurang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-10-04T07:56:16.296852569Z",
+  "model": "glm-5.3"
+}

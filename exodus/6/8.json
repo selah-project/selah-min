@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Ambo ka mambaok ⟨את⟩ sanak ka tanah nan Ambo angkek ⟨את⟩ tangan Ambo untuak mambiakek inyo kapado Avraham, kapado Yitskhak jo kapado Yaakov; jo Ambo ka mambiakek inyo kapado sanak manjadi pusako; Ambo Yahweh.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "Ambo ka mambaok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sanak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "Ambo angkek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan Ambo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan Ambo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuak mambiakek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "jo Yaakov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "jo Ambo ka mambiakek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "pusako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:02:37.294074381Z",
+  "model": "glm-5.3"
+}

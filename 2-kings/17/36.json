@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Tapi hanyo ⟨את⟩ Yahweh, nan mambaok ⟨את⟩ Sanak kalua dari tanah Mitsrayim jo kakuatan nan gadang jo jo lengan nan dilangsuangkan — ⟨את⟩ inyo Sanak takuik, kapado inyo Sanak manyambah, jo kapado inyo Sanak manyambaliah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mambaok naik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ Sanak"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "jo kakuatan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "jo lengan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nan dilangsuangkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "takuik"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "jo kapado inyo"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "manyambah"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "jo kapado inyo"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "manyambaliah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:14:40.088067895Z",
+  "model": "glm-5.3"
+}

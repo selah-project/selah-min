@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 37,
+  "translation": "Jo inyo mambuek ⟨את⟩ minyak urapan nan suci, jo ⟨את⟩ ukupan rampah-rampah nan murni, karajo tukang campua.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nan suci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "ukupan rampah-rampah"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ukupan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rampah-rampah"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nan murni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "tukang campua"
+    }
+  ],
+  "timestamp": "2026-10-04T04:24:05.175558857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Baralek-baralek bana mandanga, supayo jan pernah sanak tinggakan ⟨את⟩ urang Lewi salamo ari-ari sanak di ateh tanah sanak.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "baralek-baralek bana mandanga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sanak"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supayo jan"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "sanak tinggakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Lewi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "urang Lewi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ari-ari sanak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tanah sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T04:56:26.478585938Z",
+  "model": "glm-5.3"
+}

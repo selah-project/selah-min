@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Lalu inyo mamasang ⟨את⟩ menorah tu di dalam khemah patamuan, balawan meja, di sampiang Mishkan, di sabalah salatan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mamasang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorah tu"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di dalam khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "balawan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "sampiang"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "di sabalah salatan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:26:03.504644628Z",
+  "model": "glm-5.3"
+}

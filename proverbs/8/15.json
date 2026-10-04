@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Dek ambo rajo-rajo bajayo mamarentah, jo panghulu-panghulu mamariah hukum tsedeq.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "dek ambo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "bajayo mamarentah"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "panghulu-panghulu"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "mamariah hukum"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    }
+  ],
+  "timestamp": "2026-10-04T07:55:31.687854036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 38,
+  "translation": "Jo jo itu inyo mambuek ⟨את⟩ alas-alas di muko pintu kemah patamuan, jo ⟨את⟩ mezbah tombago itu jo ⟨את⟩ rakai jaring tombago nan untuaknyo, jo ⟨את⟩ sagalo pakakas mezbah itu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jo itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alas-alas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "alas-alas"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di muko pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "mezbah tombago"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tombago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "rakai jaring tombago"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "rakai jaring"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tombago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo pakakas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "pakakas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:25:06.130630276Z",
+  "model": "glm-5.3"
+}

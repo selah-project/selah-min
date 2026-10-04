@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "jo ⟨את⟩ urang-urang nan sujud di ateh gagak-gagak kapado tumangan langik, jo ⟨את⟩ urang-urang nan sujud, nan basumpah kapado Yahweh, nan basumpah jo Malkam",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang-urang nan sujud"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "urang-urang nan sujud"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "gagak-gagak"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kapado tumangan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang-urang nan sujud"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "urang-urang nan sujud"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "nan basumpah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "nan basumpah"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "jo Malkam"
+    }
+  ],
+  "timestamp": "2026-10-04T07:17:43.512448470Z",
+  "model": "glm-5.3"
+}

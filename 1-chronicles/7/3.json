@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 7:3",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 7,
+  "translation": "Dan anak-anak laki-laki Uzi: Yizrakhya; jo anak-anak laki-laki Yizrakhya: Mikhael, jo Ovadya, jo Yo-el, Yishiya — limo, sagalonyo kapado-kapado.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak laki-laki"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzi"
+    },
+    {
+      "surface": "יזרחיה",
+      "gloss": "Yizrakhya"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jo anak-anak laki-laki"
+    },
+    {
+      "surface": "יזרחיה",
+      "gloss": "Yizrakhya"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Mikhael"
+    },
+    {
+      "surface": "ועבדיה",
+      "gloss": "jo Ovadya"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "jo Yo-el"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Yishiya"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "limo"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "kapado-kapado"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sagalonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T08:42:47.845488831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Jo ⟨את⟩ biri-biri nan ciek itu kok ambiak, lalu Aharon jo anak-anaknyo manompangkan ⟨את⟩ tangan mareka di ateh kapalo biri-biri itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "biri-biri nan ciek"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "biri-biri"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kok ambiak"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "lalu manompangkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jo anak-anaknyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan mareka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mareka"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kapalo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "biri-biri itu"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:59.880944356Z",
+  "model": "glm-5.3"
+}

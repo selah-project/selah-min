@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Ben-Deker, di Makaz, jo di Shaalbim, jo di Beit-Shemesh, jo Elon-Beit-Chanan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben-Deker"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Ben-Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "di Makaz"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "jo di Shaalbim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "jo di Beit-Shemesh"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Beit-Shemesh"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "jo Elon-Beit-Chanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Elon-Beit-Chanan"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Elon-Beit-Chanan"
+    }
+  ],
+  "timestamp": "2026-10-04T05:44:53.668893930Z",
+  "model": "glm-5.3"
+}

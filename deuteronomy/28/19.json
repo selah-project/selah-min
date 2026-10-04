@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Kutuk angkau bilo masuak, jo kutuk angkau bilo kalua.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "kutuk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "bilo masuak"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "jo kutuk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "angkau"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "bilo kalua"
+    }
+  ],
+  "timestamp": "2026-10-04T05:01:22.920805729Z",
+  "model": "glm-5.3"
+}

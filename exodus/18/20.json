@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Jo sanpai musti mareso ⟨את⟩ urang tu, ⟨את⟩ hukum-hukum jo ⟨את⟩ Torah-torah tu, jo mambuek taharuih kapado urang tu ⟨את⟩ jalan nan ka inyo tampuah jo ⟨את⟩ karajo nan ka inyo karajoan.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "jo musti mareso"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukum-hukum"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "Torah-torah tu"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "Torah-torah tu"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "jo mambuek taharuih"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ka inyo tampuah"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "karajo"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "karajo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ka inyo karajoan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:17:28.099959113Z",
+  "model": "glm-5.3"
+}

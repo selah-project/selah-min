@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Namo nan ciek adolah Pishon; inyolah nan mangaliliangi ⟨את⟩ saluruah tanah Havilah, nan ado ameh di sinan.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Namo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyolah"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "nan mangaliliangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saluruah tanah Havilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saluruah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Havilah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ameh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:53:50.834150177Z",
+  "model": "glm-5.3"
+}

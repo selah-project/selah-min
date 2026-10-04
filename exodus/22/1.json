@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jiko pancuri tu ditangkok sadang mambolok, jo dipukuah sampai mati, indak ado doso darah untuaknyo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jiko"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "sadang mambolok"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ditangkok"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "pancuri tu"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "jo dipukuah"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "sampai mati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "doso darah"
+    }
+  ],
+  "timestamp": "2026-10-04T04:18:59.927680792Z",
+  "model": "glm-5.3"
+}

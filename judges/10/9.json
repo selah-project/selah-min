@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu anak-anak Ammon malewati ⟨את⟩ Yarden untuak baparang juo tahadok Yehuda, jo tahadok Binyamin, jo tahadok rumah Ephraim; lalu Yisrael tasasio sangaik.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "malewati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "untuak baparang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "tahadok Yehuda"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "jo tahadok Binyamin"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "jo tahadok rumah"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephraim"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "lalu tasasio"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangaik"
+    }
+  ],
+  "timestamp": "2026-10-04T05:15:07.403819738Z",
+  "model": "glm-5.3"
+}

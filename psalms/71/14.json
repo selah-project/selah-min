@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 71,
+  "translation": "Sadang ambo mandatangi taruih-manaruih, jo mambahi labiah-labiah ateh sagalo pujian kapado-Mu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "sadang ambo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "taruih-manaruih"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "mandatangi"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "jo mambahi labiah-labiah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "pujian kapado-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:36:41.278820565Z",
+  "model": "glm-5.3"
+}

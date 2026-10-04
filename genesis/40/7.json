@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 40,
+  "translation": "Lalu inyo batanyo kapado ⟨את⟩ para sida-sida Paroh nan basamo inyo dalam tahanan rumah tuannyo, bakato: Baa muko-muko awak jaah kini?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "batanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para sida-sida Paroh"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "para sida-sida"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "basamo ⟨את⟩ inyo"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "dalam tahanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuaninyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "baa"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "muko-muko awak"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "jaah"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-10-04T04:06:44.189602618Z",
+  "model": "glm-5.3"
+}

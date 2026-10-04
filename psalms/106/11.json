@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Jo aia manyuduik ⟨את⟩ urang-urang nan manyasekan urang tu; indak ciek juo dari urang tu nan tasiso.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "manyudoik"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "urang-urang nan manyasekan urang tu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek juo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dari urang tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "tasiso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:43:54.731610748Z",
+  "model": "glm-5.3"
+}

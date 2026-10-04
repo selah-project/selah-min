@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Ambo tacaliang ⟨את⟩ bumi, jo caco bumi tu tohu wa-bohu, ambo tacaliang langik, jo indak ado cahayonyo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ambo tacaliang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jo caco"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "wa-bohu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ambo tacaliang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "cahayonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:27:01.181540862Z",
+  "model": "glm-5.3"
+}

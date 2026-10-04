@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Lalu Barak maimbau ⟨את⟩ Zebulun jo ⟨את⟩ Naftali ka Kedesh, jo inyo naiak jo sapuluah ribu urang di kakinyo; jo Debora naiak basamonyo.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "maimbau"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "di kakinyo"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "basamonyo"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debora"
+    }
+  ],
+  "timestamp": "2026-10-04T05:13:57.155305998Z",
+  "model": "glm-5.3"
+}

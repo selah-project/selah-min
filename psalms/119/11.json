@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "translation": "Di dalam ati ambo alah ambo simpan ⟨את⟩ ucap-Mu, supayo ambo indak babuat doso kapado-Mu.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "di dalam ati ambo"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ambo simpan"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ucap-Mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "babuat doso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:46:46.411580321Z",
+  "model": "glm-5.3"
+}

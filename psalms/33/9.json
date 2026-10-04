@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 33,
+  "translation": "Karano inyo bakato, lalu jadi; inyo mamarintahkan, lalu tagak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lalu jadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "mamarintahkan"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "lalu tagak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:27:14.999210864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Dangaan kamo ⟨את⟩ kato-kato parjanjian iko, jo khutokkan inyo kapado urang Yehuda jo kapado panduduak Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dangaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kato-kato parjanjian iko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "jo khutokkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "panduduak"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-04T06:30:28.850842Z",
+  "model": "glm-5.3"
+}

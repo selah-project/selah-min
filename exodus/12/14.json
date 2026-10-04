@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Jo ari ko manjadi paringatan untuak kalian; jo kalian marayoan ⟨את⟩ inyo sabagai pesta untuak Yahweh, inggo ka angkatan-angkatan kalian; katantuan salamo-lamonyo kalian marayoan inyo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jo ... manjadi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak kalian"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "sabagai paringatan"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "jo kalian marayoan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "pesta tu"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sabagai pesta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "inggo ka angkatan-angkatan kalian"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "katantuan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "kalian marayoan inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:57.383312158Z",
+  "model": "glm-5.3"
+}

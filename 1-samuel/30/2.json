@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Mareka mambao taluko ⟨את⟩ bini-bini nan ado di sinan, dari nan ketek sampai nan gadang; indak ado saurang pun nan mareka bunuah, tapi mareka mambaonyo pai sasuai jalan mareka.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "mambao taluko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bini-bini"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "bini-bini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "dari nan ketek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nan gadang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "mareka bunuah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang pun"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "mareka mambaonyo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "pai"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "sasuai jalan mareka"
+    }
+  ],
+  "timestamp": "2026-10-04T05:33:56.376867648Z",
+  "model": "glm-5.3"
+}

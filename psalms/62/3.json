@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 62,
+  "translation": "Hanyo Inyo batu ambo jo palupasan ambo, bukik tapanjago ambo; indak ambo bagoyang gadang.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inyo"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu ambo"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "jo palupasan ambo"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "bukik tapanjago ambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "bagoyang"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "gadang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:37.735262757Z",
+  "model": "glm-5.3"
+}

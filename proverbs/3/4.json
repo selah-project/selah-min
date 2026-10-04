@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Maka kau ka manamu anugerah jo akal nan elok di mato Elohim jo manusia.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "manamu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "anugerah"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "jo akal"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nan elok"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "jo manusia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:54:14.443795917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 132,
+  "translation": "Dek karano Dawid, hamba kau, jan pangiakan muko urang nan diurapi kau.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba kau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "pangiakan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "urang nan diurapi kau"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:16.938262890Z",
+  "model": "glm-5.3"
+}

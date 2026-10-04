@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 25,
+  "translation": "Jugo, sagalo nan manunggu ⟨Engkau⟩ indak akan mailang muko; nan mailang muko iolah urang nan khianat, sacaro sia-sia.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Jugo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "nan manunggu ⟨Engkau⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak akan"
+    },
+    {
+      "surface": "יבשׁוּ",
+      "gloss": "mailang muko"
+    },
+    {
+      "surface": "יבשׁוּ",
+      "gloss": "mailang muko"
+    },
+    {
+      "surface": "הבוֹגדים",
+      "gloss": "urang nan khianat"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "sacaro sia-sia"
+    }
+  ],
+  "timestamp": "2026-10-04T07:26:22.560329606Z",
+  "model": "glm-5.3"
+}

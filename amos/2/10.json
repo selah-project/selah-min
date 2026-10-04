@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo ambo maangkek urang tu dari tanah Mitsrayim, jo mambaok urang tu malalui gurun ampek puluah tahun, untuak mamiliki ⟨את⟩ tanah urang Amori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "maangkek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "jo mambaok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ urang tu",
+      "marks": "urang tu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "malalui gurun"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ampek puluah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "untuak mamiliki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah urang Amori"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Amori"
+    }
+  ],
+  "timestamp": "2026-10-04T07:09:58.310776048Z",
+  "model": "glm-5.3"
+}

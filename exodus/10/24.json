@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 10,
+  "translation": "Lalu Paroh maimbau Moshe jo bakato: Pergilah, baktikanlah ⟨את⟩ Yahweh; hanyo kambiang-domba jo lebo kalian tingga, tapi anak-anak ketek kalian buliah pai basamo kalian.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maimbau"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "baktikanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "kambiang-domba kalian"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "jo lebo kalian"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tapi...buliah"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "anak-anak ketek kalian"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "basamo kalian"
+    }
+  ],
+  "timestamp": "2026-10-04T04:14:23.914952907Z",
+  "model": "glm-5.3"
+}

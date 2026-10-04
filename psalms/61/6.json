@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 61,
+  "translation": "Karano Engkau, Elohim, alah mandanga nazar-nazar ambo; Engkau alah mambagi warisan kapado urang nan takuik kapado namo-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "alah mandanga"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "nazar-nazar ambo"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "Engkau alah mambagi"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "urang nan takuik"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "kapado namo-Mu"
+    }
+  ],
+  "timestamp": "2026-10-04T07:35:28.676872104Z",
+  "model": "glm-5.3"
+}

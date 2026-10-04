@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 2,
+  "translation": "Jo ⟨את⟩ anak-anaknyo indak ambo raso aimsanyo, karano inyo anak-anak jalang.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknyo"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak-anaknyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "raso aimsanyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "jalang"
+    },
+    {
+      "surface": "המה",
+      "gloss": "inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:06:54.928599053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 18,
+  "translation": "Sadioh bana kau jo Yahweh, Elohim kau.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "sadioh bana"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kau"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kau"
+    }
+  ],
+  "timestamp": "2026-10-04T04:57:58.057633804Z",
+  "model": "glm-5.3"
+}

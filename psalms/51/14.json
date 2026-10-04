@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 51,
+  "translation": "Baliak-an kapado ambo ria salvation-Mu, jo ruakh nan lobeh tapacik ambo.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "baliak-an"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ria"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "salvation-Mu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "jo ruakh"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "nan lobeh"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "tapacik ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:33:37.121636713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 28,
+  "translation": "Salain dariolah-olah nan dibaka patang ari, nan manjadiolah-olah tatap ariari, bulekalah kalian mambuek ⟨את⟩ iko.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "salain dari"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olah-olah nan dibaka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "patang ari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan manjadi"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "olah-olah"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "tatap ariari"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bueklah kalian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (ciek iko ni)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:48:02.975643927Z",
+  "model": "glm-5.3"
+}

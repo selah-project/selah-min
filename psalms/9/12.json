@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 9,
+  "translation": "Manyanyikan puji-pujian untuak Yahweh, nan duduak di Tsiyon; kabaan ka Urang Banyak alah pabuatannyo.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "manyanyikan puji-pujian"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuak Yahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nan duduak"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "kabaan"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ka Urang Banyak"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "pabuatannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:23:42.727738037Z",
+  "model": "glm-5.3"
+}

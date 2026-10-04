@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 59,
+  "translation": "Untuak nan mamimpin musik; jangan dirusakkan; untuak Dawid; miktam; katiko Shaul mangirim ⟨utusan⟩, dan inyo maawasi ⟨את⟩ rumah untuak mambunuahnyo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "untuak nan mamimpin musik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "dirusakkan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "untuak Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "katiko mangirim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "dan inyo maawasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "untuak mambunuahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:34:32.224506397Z",
+  "model": "glm-5.3"
+}

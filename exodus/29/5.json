@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 29,
+  "translation": "Lalu kau ambiak ⟨את⟩ pakaian-pakaian tu, jo kau salin-salinyokan ⟨את⟩ Aharon jo ⟨את⟩ kuttonet, jo ⟨את⟩ meil sang efod, jo ⟨את⟩ efod, jo ⟨את⟩ khoshen, lalu kau ikok untuaknyo jo pita tenun sang efod.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kau ambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-pakaian tu"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "pakaian-pakaian tu"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "kau salin-salinyokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuttonet"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kuttonet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "meil"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "meil"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sang efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "khoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "khoshen"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "kau ikok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "jo pita tenun"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sang efod"
+    }
+  ],
+  "timestamp": "2026-10-04T04:20:53.741719245Z",
+  "model": "glm-5.3"
+}

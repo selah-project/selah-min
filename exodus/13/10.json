@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Jo ang ka mamatuoi ⟨את⟩ undaik-undaik iko pado wakatunyo, dari ari-ari ka ari-ari.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "jo ang ka mamatuoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "undaik-undaik iko"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "undaik-undaik"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "pado wakatunyo"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "dari ari-ari"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ka ari-ari"
+    }
+  ],
+  "timestamp": "2026-10-04T04:15:23.804516619Z",
+  "model": "glm-5.3"
+}

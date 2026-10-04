@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 3:14",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Jo Elisha bakato: Salamo Yahweh Tsebaot iduik, nan ado di mukonyo ambo tagak, kok bukan dek muko Yehosafat rajo Yehudah nan ambo hormaik, ambo indak ka mamandang ka ang, jo indak ka mancaliak ang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "חי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ambo tagak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "kok bukan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hormaik"
+    },
+    {
+      "surface": "אם",
+      "gloss": "indak ka"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "mamandang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka ang"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jo indak ka"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "mancaliak ang"
+    }
+  ],
+  "timestamp": "2026-10-04T05:56:12.827949215Z",
+  "model": "glm-5.3"
+}

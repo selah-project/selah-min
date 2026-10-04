@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 48,
+  "translation": "Ambo, ambo alah bakato; lai ambo alah mangajiak inyo, ambo alah mambaok inyo, jo jalaninyo baruntuang.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ambo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "alah bakato"
+    },
+    {
+      "surface": "אף",
+      "gloss": "lai"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "alah mangajiak inyo"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "alah mambaok inyo"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "jo... baruntuang"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalaninyo"
+    }
+  ],
+  "timestamp": "2026-10-04T06:19:56.779060200Z",
+  "model": "glm-5.3"
+}

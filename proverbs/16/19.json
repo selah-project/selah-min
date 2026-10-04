@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 16,
+  "translation": "Rancak ruakh nan randah diri basamo ⟨את⟩ urang miskin, daripado mambagi ⟨את⟩ rampasan basamo urang nan takabuang.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "rancak"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "nan randah diri"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang miskin"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "urang miskin"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "mambagi"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang nan takabuang"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "urang nan takabuang"
+    }
+  ],
+  "timestamp": "2026-10-04T07:57:49.415880424Z",
+  "model": "glm-5.3"
+}

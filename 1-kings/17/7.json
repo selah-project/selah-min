@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 17,
+  "translation": "Salapaskan wakatu sasudah hari-hari banyak, sungai itu mangaring, karano indak ado ujan di bumi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "salapaskan wakatu"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari banyak"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "sungai itu mangaring"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ujan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T05:51:24.793753140Z",
+  "model": "glm-5.3"
+}

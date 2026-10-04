@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Matahari tabik, inyo-iyo bakumpua baliak, jo balariak ka liang-liangnyo untuak babaliak.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "tabik"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "inyo-iyo bakumpua baliak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo ka"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "liang-liangnyo"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "untuak babaliak"
+    }
+  ],
+  "timestamp": "2026-10-04T07:42:18.681515593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 4,
+  "translation": "Jo ⟨את⟩ sado lamak lombu untuak korban dosa itu inyo mangangkek dari inyo: ⟨את⟩ lamak nan manukui jeroan, jo ⟨את⟩ sado lamak nan ado di ateh jeroan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado lamak lombu dosa itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lombu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "mangangkek"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamak nan manukui jeroan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nan manukui"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "jeroan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sado lamak nan ado di ateh jeroan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lamak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "jeroan"
+    }
+  ],
+  "timestamp": "2026-10-04T04:28:37.631684612Z",
+  "model": "glm-5.3"
+}

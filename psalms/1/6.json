@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Karano Yahweh tau ⟨ijo⟩ jalan urang-urang tsedeq, tapi jalan urang-urang jahat ka binaso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "urang-urang tsedeq"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "tapi jalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang-urang jahat"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ka binaso"
+    }
+  ],
+  "timestamp": "2026-10-04T07:21:42.202754909Z",
+  "model": "glm-5.3"
+}

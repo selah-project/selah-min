@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 125,
+  "translation": "Yerushalayim — gunuang-gunuang ma lingkuanginyo, jo Yahweh ma lingkuangi umat-Nyo, dari kini sampai salamo-lamo.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunuang-gunuang"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ma lingkuangi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "jo Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ma lingkuangi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "umat-Nyo"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dari kini"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamo-lamo"
+    }
+  ],
+  "timestamp": "2026-10-04T07:48:42.181841819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 27,
+  "translation": "Lalu inyo masuak kapado apaknyo jo bakato: Apak ambo. Bakato pulo: Di ambo; sanomalyo, siapo ang?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apaknyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Apak ambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato pulo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Di ambo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T04:02:21.109659084Z",
+  "model": "glm-5.3"
+}

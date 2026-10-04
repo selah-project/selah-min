@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 90,
+  "translation": "Dan bia baa elok Adonai Elohim kito ateh kito, jo kokueh-an ma musho tangan kito di ateh kito, yo ma musho tangan kito kokueh-an ⟨iniah⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan bia baa"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "elok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kito"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ateh kito"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "jo ma musho"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "tangan kito"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "kokueh-an"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ateh kito"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "yo ma musho"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "tangan kito"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "kokueh-an iniah"
+    }
+  ],
+  "timestamp": "2026-10-04T07:40:52.791589356Z",
+  "model": "glm-5.3"
+}

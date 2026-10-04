@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 1,
+  "translation": "Negeri kito tatuang, koto-koto kito tabaka jo api; tanah kito, di muko kito urang asiang mamakan ⟨את⟩ inyo, jo tatuang, sarupo pambangkangan dek urang asiang.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "negeri kito"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tatuang"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "koto-koto kito"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "tabaka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tanah kito"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "di muko kito"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "urang asiang"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "mamakan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (tanah kito)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "jo tatuang"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "sarupo pambangkangan"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "dek urang asiang"
+    }
+  ],
+  "timestamp": "2026-10-04T06:06:02.118246059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Sia-sia jo sia-sia pulo, kato Kohelet, sadonyo sia-sia.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "jo sia-sia pulo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sia-sia"
+    }
+  ],
+  "timestamp": "2026-10-04T08:23:20.159974845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Tsedeq manjago jalan urang nan luruih; tapi karusakan mahancualahkan urang doso.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "manjago"
+    },
+    {
+      "surface": "תם",
+      "gloss": "urang nan luruih"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "tapi karusakan"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "mahancualahkan"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "urang doso"
+    }
+  ],
+  "timestamp": "2026-10-04T09:26:48.341974027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Jo nan Inyo buek untuak sanak di padang gurun, sampai sanak tibo sampai ka tampek iko.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "jo nan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak sanak"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "sanak tibo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ka tampek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-04T04:55:10.876384826Z",
+  "model": "glm-5.3"
+}

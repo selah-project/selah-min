@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 30,
+  "translation": "Lalu Lea bakato: Nasib baiak! Mako inyo mangołok ⟨את⟩ namonyo Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "nasib baiak"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "mangołok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namonyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-10-04T04:01:53.273458193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 5,
+  "translation": "Urang nan sombong indak dapek tagak di muko mato Engkau; Engkau mambanciai sado urang nan bakarajo kaburukoan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "dapek tagak"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "urang nan sombong"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mato Engkau"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "mambanciai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "urang nan bakarajo"
+    },
+    {
+      "surface": "און",
+      "gloss": "kaburukoan"
+    }
+  ],
+  "timestamp": "2026-10-04T07:22:00.397963767Z",
+  "model": "glm-5.3"
+}

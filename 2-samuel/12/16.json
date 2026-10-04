@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 12,
+  "translation": "Lalu Dawid mancari ⟨את⟩ Elohim dek karano anak tu; Dawid balaku barpuaso, masuak, baliyo malam, jo barantiak di ateh tanah.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "lalu mancari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak tu"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "balaku barpuaso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צום",
+      "gloss": "barpuaso"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "baliyo malam"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "barantiak"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "di ateh tanah"
+    }
+  ],
+  "timestamp": "2026-10-04T05:38:18.418764249Z",
+  "model": "glm-5.3"
+}
