@@ -5,8 +5,49 @@
   "book": "numbers",
   "lang": "min",
   "chapter": 35,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-04T04:50:40.265216795Z",
+  "translation": "Kalau inyo mamukua jo parabot basi, lalu urang tu mati — pambunuah inyo; pambunuah tu pasti dihukum mati.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kalau"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "jo parabot"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "basi"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "mamukua"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu urang tu mati"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "pambunuah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dihukum mati"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pambunuah tu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:36:22.487482996Z",
   "model": "glm-5.3"
 }

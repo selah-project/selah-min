@@ -5,8 +5,46 @@
   "book": "ezekiel",
   "lang": "min",
   "chapter": 20,
-  "translation": "Tatapi mato ambo maasihanan Publisher Note: indak tampek untuak catatan panarjamah — kaluaran JSON sajo.",
-  "tokens": [],
-  "timestamp": "2026-10-04T06:54:35.386427693Z",
+  "translation": "Tatapi mato Ambo manyayang inyo urang tu, indak mahancuean inyo urang tu, jo Ambo indak mambuek ⟨את⟩ kasudahan inyo urang tu di padang gurun.",
+  "tokens": [
+    {
+      "surface": "וַתָּחָס",
+      "gloss": "Tatapi mato Ambo manyayang"
+    },
+    {
+      "surface": "עֵינִי",
+      "gloss": "mato Ambo"
+    },
+    {
+      "surface": "עֲלֵיהֶם",
+      "gloss": "kapado inyo urang tu"
+    },
+    {
+      "surface": "מִשַּׁחֲתָם",
+      "gloss": "indak mahancuean inyo urang tu"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "עָשִׂיתִי",
+      "gloss": "Ambo mambuek"
+    },
+    {
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "kasudahan inyo urang tu"
+    },
+    {
+      "surface": "כָלָה",
+      "gloss": "kasudahan"
+    },
+    {
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-10-04T09:38:35.087492355Z",
   "model": "glm-5.3"
 }

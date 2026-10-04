@@ -5,15 +5,16 @@
   "book": "malachi",
   "lang": "min",
   "chapter": 1,
-  "translation": "Ambo alah mangasihi ⟨את⟩ sanak, kato Yahweh, tapi sanak bakato: Dengan apo Sanak mangasihi ami? Bukankah Esav itu dunsanak Yaakov, kato Yahweh, tapi Ambo mangasihi ⟨את⟩ Yaakov,",
+  "translation": "Ambo alah mangasihi ⟨את⟩ korong-korong, kato Yahweh, tapi korong bakato: Dangan ayo Amelia pangasihi ambo awak? Bukannyo Esau dunsanak Yaakov? kato Yahweh. Tapi ambo mangasihi ⟨את⟩ Yaakov.",
   "tokens": [
     {
       "surface": "אהבתי",
-      "gloss": "Ambo alah mangasihi"
+      "gloss": "ambo alah mangasihi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sanak"
+      "gloss": "⟨את⟩ korong-korong",
+      "marks": "korong-korong"
     },
     {
       "surface": "אמר",
@@ -25,19 +26,19 @@
     },
     {
       "surface": "ואמרתם",
-      "gloss": "tapi sanak bakato"
+      "gloss": "tapi korong bakato"
     },
     {
       "surface": "במה",
-      "gloss": "dengan apo"
+      "gloss": "dangan ayo"
     },
     {
       "surface": "אהבתנו",
-      "gloss": "Sanak mangasihi ami"
+      "gloss": "mangasihi ambo awak"
     },
     {
       "surface": "הלוא",
-      "gloss": "bukankah"
+      "gloss": "bukannyo"
     },
     {
       "surface": "אח",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "Esav"
+      "gloss": "Esau"
     },
     {
       "surface": "ליעקב",
@@ -61,7 +62,7 @@
     },
     {
       "surface": "ואהב",
-      "gloss": "tapi Ambo mangasihi"
+      "gloss": "tapi ambo mangasihi"
     },
     {
       "surface": "את",
@@ -73,6 +74,6 @@
       "gloss": "Yaakov"
     }
   ],
-  "timestamp": "2026-10-04T07:21:10.594248890Z",
+  "timestamp": "2026-10-04T09:42:59.823719516Z",
   "model": "glm-5.3"
 }

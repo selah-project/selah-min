@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "min",
   "chapter": 39,
-  "translation": "Dengan garuah jo kamaraah inyo manalan bumi, indak inyo picayo baso itu bunyi shofar.",
+  "translation": "Jo riak jo kamaraah inyo manyapu ⟨את⟩ tanah, dan inyo indak tatarik karano bunyi shofar.",
   "tokens": [
     {
       "surface": "ברעש",
-      "gloss": "dengan garuah"
+      "gloss": "jo riak"
     },
     {
       "surface": "ורגז",
@@ -17,11 +17,16 @@
     },
     {
       "surface": "יגמא",
-      "gloss": "manalan"
+      "gloss": "manyapu"
     },
     {
       "surface": "ארץ",
-      "gloss": "bumi"
+      "gloss": "tanah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
     },
     {
       "surface": "ולא",
@@ -29,11 +34,11 @@
     },
     {
       "surface": "יאמין",
-      "gloss": "picayo"
+      "gloss": "tatarik"
     },
     {
       "surface": "כי",
-      "gloss": "baso"
+      "gloss": "karano"
     },
     {
       "surface": "קול",
@@ -44,6 +49,6 @@
       "gloss": "shofar"
     }
   ],
-  "timestamp": "2026-10-04T08:13:42.176537023Z",
+  "timestamp": "2026-10-04T09:40:11.691825693Z",
   "model": "glm-5.3"
 }

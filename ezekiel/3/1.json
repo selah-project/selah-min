@@ -5,8 +5,79 @@
   "book": "ezekiel",
   "lang": "min",
   "chapter": 3,
-  "translation": "Lai inyo bakato kapado ambo: Anak manusia, apo nan kâ€¦ Kok ambo lai makan ⟨את⟩ gulungan ko, â€¦",
-  "tokens": [],
-  "timestamp": "2026-10-04T06:48:58.435792106Z",
+  "translation": "Jo inyo bakato kapado ambo: Anak manusia, ⟨את⟩ nan sandek ambo tantu makan, makanlah ⟨את⟩ gulungan iko, jo pai baokalah kapado rumah Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo inyo bakato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan sandek ambo tantu makan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "sande"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "makan"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "makanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulungan iko"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gulungan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "jo pai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "baok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T09:38:43.105533346Z",
   "model": "glm-5.3"
 }

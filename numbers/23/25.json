@@ -5,8 +5,57 @@
   "book": "numbers",
   "lang": "min",
   "chapter": 23,
-  "translation": "Lalu Balak bakato kapado Bileam: kok maanCur, elok elok jan kok maanCur, kok maanCur, kok maanCur",
-  "tokens": [],
-  "timestamp": "2026-10-04T04:46:37.022862377Z",
+  "translation": "Jo Balak bakato kapado Bileam: Jan kau maubrehi inyo sacaro, jo jan kau barakahi inyo sacaro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sacaro"
+    },
+    {
+      "surface": "קב",
+      "gloss": "maubrehi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "kau maubrehi inyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sacaro"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barakahi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jan"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "kau barakahi inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:35:38.092870720Z",
   "model": "glm-5.3"
 }

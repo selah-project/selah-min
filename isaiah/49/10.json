@@ -5,8 +5,69 @@
   "book": "isaiah",
   "lang": "min",
   "chapter": 49,
-  "translation": "Indak urang tu lapa, jo indak urang tu haus, indak maagiah pukauan藏 ⟨itu⟩; karano Nan bapasieh kapado urang tu mambaok urang tu, jo ka mato-mato aia Inyo mamimpiak urang tu.",
-  "tokens": [],
-  "timestamp": "2026-10-04T06:19:56.444159738Z",
+  "translation": "Indak inyo baraha, jo indak inyo barasauik, sarab jo matoari indak manyarang inyo; karano nan mambarasiak inyo ka mamimpiak inyo, ka mato aia inyo ka mambaok.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "baraha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "barasauik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "manyarang inyo"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "sarab"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "jo matoari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "nan mambarasiak inyo"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "ka mamimpiak inyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "mato aia"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "ka mambaok inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:37:28.214785880Z",
   "model": "glm-5.3"
 }

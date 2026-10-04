@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "min",
   "chapter": 40,
-  "translation": "Lalu inyo mandirian ⟨את⟩ tampek lua sacaro mangaliliangi ⟨the⟩ Mishkan jo ⟨the⟩ mazbakh, lalu inyo mamasiakean ⟨את⟩ tirai gapura tampek lua itu; jo Moshe manyalasaikan ⟨את⟩ samuik pakerjaan itu.",
+  "translation": "Lalu inyo mandirian ⟨את⟩ palataran sakitar Mishkan jo sakitar mazbaha, jo inyo mamasanang ⟨את⟩ tirai gapuro palataran itu; lalu Moshe manyalasaikan ⟨את⟩ karajo itu.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -14,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tampek lua"
+      "marks": "palataran"
     },
     {
       "surface": "החצר",
-      "gloss": "tampek lua"
+      "gloss": "palataran"
     },
     {
       "surface": "סביב",
-      "gloss": "sacaro mangaliliangi"
+      "gloss": "sakitar"
     },
     {
       "surface": "למשכן",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "ולמזבח",
-      "gloss": "jo mazbakh"
+      "gloss": "mazbaha"
     },
     {
       "surface": "ויתן",
-      "gloss": "mamasiakean"
+      "gloss": "mamasanang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tirai gapura tampek lua"
+      "marks": "tirai"
     },
     {
       "surface": "מסך",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "שער",
-      "gloss": "gapura"
+      "gloss": "gapuro"
     },
     {
       "surface": "החצר",
-      "gloss": "tampek lua"
+      "gloss": "palataran"
     },
     {
       "surface": "ויכל",
@@ -64,13 +64,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pakerjaan itu"
+      "marks": "karajo"
     },
     {
       "surface": "המלאכה",
-      "gloss": "pakerjaan"
+      "gloss": "karajo"
     }
   ],
-  "timestamp": "2026-10-04T04:26:23.463530996Z",
+  "timestamp": "2026-10-04T09:35:09.881003423Z",
   "model": "glm-5.3"
 }

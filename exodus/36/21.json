@@ -5,8 +5,49 @@
   "book": "exodus",
   "lang": "min",
   "chapter": 36,
-  "translation": "Sepuluh hasta panjang papan itu, jo satangah hasta ameh—indak, jo ciek hasta satangahnyo—leba ciek papan itu.",
-  "tokens": [],
-  "timestamp": "2026-10-04T04:24:18.017575608Z",
+  "translation": "Sapuluah ama panjang ⟨dari⟩ karas tu, jo satu ama satangah lebanyo karas nan ciek tu.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sapuluah"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "karas tu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "jo satu ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "satangah"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ama tu"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leba"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "karas tu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nan ciek tu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:34:58.610484995Z",
   "model": "glm-5.3"
 }

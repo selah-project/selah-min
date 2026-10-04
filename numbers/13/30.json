@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 13,
+  "translation": "Kalep maantang ⟨את⟩ urang tuo tu kapado Moshe, lalu bakato: Naiklah, naiak sanapek kito, jo marampok ⟨את⟩ inyo, karano pasti sanggup kito untuaknyo.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "lalu maantang"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang tuo tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "urang tuo tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Naiklah"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "naiak sanapek kito"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "jo marampok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "pasti sanggup"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "kito sanggup"
+    },
+    {
+      "surface": "לה",
+      "gloss": "untuaknyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:35:50.663479380Z",
+  "model": "glm-5.3"
+}

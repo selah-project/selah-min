@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Dan kini, baangkatlah, jo ambo mangiriman awak kapado Paroh, supayo awak mangaluaan ⟨את⟩ umat ambo, anak-anak Yisrael, dari Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "baangkatlah"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ambo mangiriman awak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "supayo awak mangaluaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat ambo, anak-anak Yisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat ambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-04T09:34:23.123499384Z",
+  "model": "glm-5.3"
+}

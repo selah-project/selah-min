@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 26:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Singgahlah di tanah iko, jo ambo ka basamo jo ang, jo ambo ka mamacak ang; karano kapado ang jo kapado beniah ang ambo ka agiah ⟨את⟩ sadonyo nagari-nagari iko, jo ambo ka mandirikan ⟨את⟩ sumpah nan alah disumpahkan ambo kapado Avraham, ayah ang.",
+  "tokens": [
+    {
+      "surface": "גור",
+      "gloss": "singgahlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "jo ambo ka ado"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "basamo jo ang"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "jo ambo ka mamacak ang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ang"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "jo kapado beniah ang"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ambo ka agiah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadonyo nagari-nagari iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "nagari-nagari"
+    },
+    {
+      "surface": "האל",
+      "gloss": "iko"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "jo ambo ka mandirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumpah"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "alah disumpahkan ambo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kapado Avraham"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayah ang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:34:23.702488517Z",
+  "model": "glm-5.3"
+}

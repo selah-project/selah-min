@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "min",
   "chapter": 16,
-  "translation": "Apokah ketek bagi sanak, karano Elohim Yisrael alah mamisahan ⟨את⟩ sanak dari jamaah Yisrael, mandakek-an ⟨את⟩ sanak ka Inyo, untuak malakuan ⟨את⟩ karajo padusi ⟨the⟩ Mishkan Yahweh, jo untuak badiri di muko jamaah untuak melayani inyo?",
+  "translation": "Apokah ketek di mato nyoman, baso Elohim nagari Yisrael mamisahkan ⟨את⟩ nyoman dari jamaah Yisrael untuak mandakek-an ⟨את⟩ nyoman ka Inyo, untuak malayani ⟨את⟩ layanan Mishkan Yahweh, jo untuak tagak di muko jamaah untuak melayani inyo?",
   "tokens": [
     {
       "surface": "המעט",
-      "gloss": "apokah ketek"
+      "gloss": "ketek"
     },
     {
       "surface": "מכם",
-      "gloss": "bagi sanak"
+      "gloss": "di mato nyoman"
     },
     {
       "surface": "כי",
-      "gloss": "karano"
+      "gloss": "baso"
     },
     {
       "surface": "הבדיל",
-      "gloss": "lah mamisahan"
+      "gloss": "mamisahkan"
     },
     {
       "surface": "אלהי",
@@ -33,8 +33,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sanak",
-      "marks": "sanak (dari jamaah Yisrael)"
+      "gloss": "⟨את⟩",
+      "marks": "nyoman dari jamaah Yisrael"
     },
     {
       "surface": "מעדת",
@@ -46,12 +46,12 @@
     },
     {
       "surface": "להקריב",
-      "gloss": "mandakek-an"
+      "gloss": "untuak mandakek-an"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sanak",
-      "marks": "sanak (ka Inyo)"
+      "gloss": "⟨את⟩",
+      "marks": "nyoman ka Inyo"
     },
     {
       "surface": "אליו",
@@ -59,16 +59,16 @@
     },
     {
       "surface": "לעבד",
-      "gloss": "untuak malakuan"
+      "gloss": "untuak malayani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "karajo padusi Mishkan Yahweh"
+      "marks": "layanan Mishkan Yahweh"
     },
     {
       "surface": "עבדת",
-      "gloss": "karajo padusi"
+      "gloss": "layanan"
     },
     {
       "surface": "משכן",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "ולעמד",
-      "gloss": "jo untuak badiri"
+      "gloss": "jo untuak tagak"
     },
     {
       "surface": "לפני",
@@ -95,6 +95,6 @@
       "gloss": "untuak melayani inyo"
     }
   ],
-  "timestamp": "2026-10-04T04:44:09.477833115Z",
+  "timestamp": "2026-10-04T09:36:03.035402451Z",
   "model": "glm-5.3"
 }

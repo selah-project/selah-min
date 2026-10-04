@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 112,
+  "translation": "Urang jahat caliak jo tasingguang; giginyo digaretak, dan inyo lanyok; kaindakannyo urang jahat ka musnaho.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "jo tasingguang"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "giginyo"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "digaretak"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "dan lanyok"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "kaindakannyo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "urang jahat"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ka musnaho"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:15.764943383Z",
+  "model": "glm-5.3"
+}

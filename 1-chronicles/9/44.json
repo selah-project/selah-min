@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "min",
   "chapter": 9,
-  "translation": "Dan kapado Atsel anam anak, jo iko namo-namo mereka: Azrikam, Bokhru, jo Yismael, jo Shearyah, jo Obadyah, jo Khanan; iko anak-anak Atsel.",
+  "translation": "Jo kapado Atsel anam urang anak, jo iko-lah namo-namo inyo: Azrikam, Bokhru, jo Yismael, jo Shearayah, jo Ovadyah, jo Khanan; iko-lah anak-anak Atsel.",
   "tokens": [
     {
       "surface": "ולאצל",
-      "gloss": "Dan kapado Atsel"
+      "gloss": "jo kapado Atsel"
     },
     {
       "surface": "ששה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "בנים",
-      "gloss": "anak"
+      "gloss": "urang anak"
     },
     {
-      "surface": "ואלה",
-      "gloss": "jo iko"
+      "surface": "ו אלה",
+      "gloss": "jo iko-lah"
     },
     {
       "surface": "שמותם",
-      "gloss": "namo-namo mereka"
+      "gloss": "namo-namo inyo"
     },
     {
       "surface": "עזריקם",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ושעריה",
-      "gloss": "jo Shearyah"
+      "gloss": "jo Shearayah"
     },
     {
       "surface": "ועבדיה",
-      "gloss": "jo Obadyah"
+      "gloss": "jo Ovadyah"
     },
     {
       "surface": "וחנן",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "iko"
+      "gloss": "iko-lah"
     },
     {
       "surface": "בני",
@@ -64,6 +64,6 @@
       "gloss": "Atsel"
     }
   ],
-  "timestamp": "2026-10-04T08:43:10.790809258Z",
+  "timestamp": "2026-10-04T09:40:35.039766758Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "min",
   "chapter": 1,
-  "translation": "Sadangko ang, pasiahkan ⟨את⟩ urang Levi ateh Mishkan hanan kasaksian, jo ateh sagalo pakakasnyo, jo ateh sagalo nan ado padanyo; mareka nan ka mangangkek ⟨את⟩ ⟨ה⟩ Mishkan jo ⟨את⟩ sagalo pakakasnyo, jo mareka nan ka malayaninyo; jo sakaliliang ⟨ה⟩ Mishkan mareka bakamp.",
+  "translation": "Tapi angkau, tunjuak ⟨את⟩ urang Levi ateh Mishkan kasaksian jo ateh saluruah parabotnyo jo ateh saluruah nan miliknyo; mareka mambaok ⟨את⟩ Mishkan jo ⟨את⟩ saluruah parabotnyo, jo mareka malayanie, jo sakaliliang Mishkan mareka bamuaro.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "sadangko ang"
+      "gloss": "tapi angkau"
     },
     {
       "surface": "הפקד",
-      "gloss": "pasiahkan"
+      "gloss": "tunjuak"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "העדת",
-      "gloss": "hanan kasaksian"
+      "gloss": "kasaksian"
     },
     {
       "surface": "ועל",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "sagalo"
+      "gloss": "saluruah"
     },
     {
       "surface": "כליו",
-      "gloss": "pakakasnyo"
+      "gloss": "parabotnyo"
     },
     {
       "surface": "ועל",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "sagalo"
+      "gloss": "saluruah"
     },
     {
       "surface": "אשר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "ado padanyo"
+      "gloss": "miliknyo"
     },
     {
       "surface": "המה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ישאו",
-      "gloss": "ka mangangkek"
+      "gloss": "mambaok"
     },
     {
       "surface": "את",
@@ -84,15 +84,15 @@
     {
       "surface": "ואת",
       "gloss": "jo ⟨את⟩",
-      "marks": "sagalo pakakasnyo"
+      "marks": "saluruah parabotnyo"
     },
     {
       "surface": "כל",
-      "gloss": "sagalo"
+      "gloss": "saluruah"
     },
     {
       "surface": "כליו",
-      "gloss": "pakakasnyo"
+      "gloss": "parabotnyo"
     },
     {
       "surface": "והם",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "ישרתהו",
-      "gloss": "ka malayaninyo"
+      "gloss": "malayanie"
     },
     {
       "surface": "וסביב",
@@ -112,9 +112,9 @@
     },
     {
       "surface": "יחנו",
-      "gloss": "mareka bakamp"
+      "gloss": "bamuaro"
     }
   ],
-  "timestamp": "2026-10-04T04:37:52.060836801Z",
+  "timestamp": "2026-10-04T09:35:49.748492115Z",
   "model": "glm-5.3"
 }

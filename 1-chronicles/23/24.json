@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "min",
   "chapter": 23,
-  "translation": "Ikoolah anak-anak Lewi manuruik rumah abaiknyo surang-surang, kapalo-kapalo kaluargo manuruik pancatatan mereka, dalam jumlah namo, manuruik golongan urang mereka, nan mangarajokan ⟨את⟩ karajo untuak karajo bait Yahweh, umua duo puluah taun ka ateh.",
+  "translation": "Iko anak-anak Levi manuruik rumah abaiknyo, kapalo-kapalo kaum abaik manuruik pancatetannyo, dalam jumlah namo manuruik urang-urangnyo, nan mangarajokan ⟨את⟩ karajo tu untuak bakti di rumah Yahweh, dari umua duo puluah taun jo ka ateh.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Ikoolah"
+      "gloss": "iko"
     },
     {
       "surface": "בני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לוי",
-      "gloss": "Lewi"
+      "gloss": "Levi"
     },
     {
       "surface": "לבית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אבתיהם",
-      "gloss": "abaiknyo surang-surang"
+      "gloss": "abaiknyo"
     },
     {
       "surface": "ראשי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "האבות",
-      "gloss": "kaluargo"
+      "gloss": "kaum abaik"
     },
     {
       "surface": "לפקודיהם",
-      "gloss": "manuruik pancatatan mereka"
+      "gloss": "manuruik pancatetannyo"
     },
     {
       "surface": "במספר",
@@ -49,23 +49,28 @@
     },
     {
       "surface": "לגלגלתם",
-      "gloss": "manuruik golongan urang mereka"
+      "gloss": "manuruik urang-urangnyo"
     },
     {
       "surface": "עשה",
-      "gloss": "nan mangarajokan"
+      "gloss": "mangarajokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karajo tu"
     },
     {
       "surface": "המלאכה",
-      "gloss": "karajo"
+      "gloss": "karajo tu"
     },
     {
       "surface": "לעבדת",
-      "gloss": "untuak karajo"
+      "gloss": "untuak bakti"
     },
     {
       "surface": "בית",
-      "gloss": "bait"
+      "gloss": "rumah"
     },
     {
       "surface": "יהוה",
@@ -73,7 +78,7 @@
     },
     {
       "surface": "מבן",
-      "gloss": "umua"
+      "gloss": "dari umua"
     },
     {
       "surface": "עשרים",
@@ -85,9 +90,9 @@
     },
     {
       "surface": "ומעלה",
-      "gloss": "ka ateh"
+      "gloss": "jo ka ateh"
     }
   ],
-  "timestamp": "2026-10-04T08:47:18.976338802Z",
+  "timestamp": "2026-10-04T09:40:48.857782516Z",
   "model": "glm-5.3"
 }

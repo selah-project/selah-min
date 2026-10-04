@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "min",
   "chapter": 7,
-  "translation": "Jo imam tu mambaka ⟨את⟩-nyo di ateh mezbah, sabagai api-lanjoan kapado Yahweh; inyo ⟨is⟩ lanjoan doso.",
+  "translation": "Imam manyuanyo ⟨את⟩ kadonyo ka ateh mezbah, korban api untuak Yahweh; asyam itu ⟨adolah⟩.",
   "tokens": [
     {
       "surface": "והקטיר",
-      "gloss": "mambaka"
+      "gloss": "manyuanyo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩-nyo",
-      "marks": "inyo (bagian-bagian itu)"
+      "gloss": "⟨את⟩",
+      "marks": "kadonyo (bagian-bagian tu)"
     },
     {
       "surface": "הכהן",
@@ -22,25 +22,25 @@
     },
     {
       "surface": "המזבחה",
-      "gloss": "di ateh mezbah"
+      "gloss": "ka ateh mezbah"
     },
     {
       "surface": "אשה",
-      "gloss": "api-lanjoan"
+      "gloss": "korban api"
     },
     {
       "surface": "ליהוה",
-      "gloss": "kapado Yahweh"
+      "gloss": "untuak Yahweh"
     },
     {
       "surface": "אשם",
-      "gloss": "lanjoan doso"
+      "gloss": "asyam"
     },
     {
       "surface": "הוא",
-      "gloss": "inyo"
+      "gloss": "itu"
     }
   ],
-  "timestamp": "2026-10-04T04:27:20.264509282Z",
+  "timestamp": "2026-10-04T09:35:24.989721527Z",
   "model": "glm-5.3"
 }

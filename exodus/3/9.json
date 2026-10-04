@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 3,
+  "translation": "Dan kini, tingoklah, tariakan anak-anak Yisrael tibo kapado ambo, jo ambo juo alah mancaliak ⟨את⟩ panyasoan nan urang Mitsrayim manyaso ⟨את⟩ ⟨inyo⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan kini"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tingoklah"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "tariakan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "tibo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jo ... juo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mancaliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panyasoan"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "panyasoan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "manyaso"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨inyo⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T09:34:23.123234804Z",
+  "model": "glm-5.3"
+}

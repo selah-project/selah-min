@@ -5,8 +5,49 @@
   "book": "jonah",
   "lang": "min",
   "chapter": 2,
-  "translation": "Tapi ambo, jo soaro panyukoan ambo ka babali ka Εlohim —",
-  "tokens": [],
-  "timestamp": "2026-10-04T07:12:48.967155408Z",
+  "translation": "Tapi ambo, jo suaro tarimo kasih ambo kaonyo ⟨את⟩ kurbanan untuak Sanak; nan alah ambo nazarkankan, ambo bayia. Palupuihan adolah milik Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi ambo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "jo suaro"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tarimo kasih"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "ambo kaonyo ⟨את⟩ kurbanan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untuak Sanak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "alah ambo nazarkankan"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "ambo bayia"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "palupuihan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "milik Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:38:34.579338457Z",
   "model": "glm-5.3"
 }

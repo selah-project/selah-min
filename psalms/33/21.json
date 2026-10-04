@@ -5,8 +5,41 @@
   "book": "psalms",
   "lang": "min",
   "chapter": 33,
-  "translation": "Karano di dalamINYO ati sanak maang, karano di dalam namo nan suciINYO sanak bacamin-diri.",
-  "tokens": [],
-  "timestamp": "2026-10-04T07:26:58.926910043Z",
+  "translation": "Karano di Ia ati kami basuka-rayo, karano ka namo nan suci-Nyo kito alah batajak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di Ia"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "basuka-rayo"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ati kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka namo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nan suci-Nyo"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "kito alah batajak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:21.472256628Z",
   "model": "glm-5.3"
 }

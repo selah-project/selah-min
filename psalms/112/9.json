@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 112,
+  "translation": "Alah manyebar, alah mambari kapado urang miskin; tsedaqonyo tagak salamo-lamonyo; tanduaknyo akan ditinggikan jo kamuliaan.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "manyabar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mambari"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "kapado urang miskin"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedaqonyo"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "tanduaknyo"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ditinggikan"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "jo kamuliaan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:15.764715821Z",
+  "model": "glm-5.3"
+}

@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "min",
   "chapter": 29,
-  "translation": "Jo inyo mambaok masuak ⟨את⟩ para imam jo ⟨את⟩ urang Lewi, lalu mangumpuakan mereka ka lapiah timur.",
+  "translation": "Jo inyo mambaok ⟨את⟩ para imam jo ⟨את⟩ urang Levi, lalu mangumpuakan inyo di lapangan timur.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Jo inyo mambaok masuak"
+      "gloss": "mambaok"
     },
     {
       "surface": "את",
@@ -22,26 +22,26 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "urang Lewi"
+      "gloss": "jo ⟨את⟩",
+      "marks": "urang Levi"
     },
     {
       "surface": "הלוים",
-      "gloss": "urang Lewi"
+      "gloss": "urang Levi"
     },
     {
       "surface": "ויאספם",
-      "gloss": "lalu mangumpuakan mereka"
+      "gloss": "mangumpuakan inyo"
     },
     {
       "surface": "לרחוב",
-      "gloss": "ka lapiah"
+      "gloss": "di lapangan"
     },
     {
       "surface": "המזרח",
       "gloss": "timur"
     }
   ],
-  "timestamp": "2026-10-04T08:57:33.234170423Z",
+  "timestamp": "2026-10-04T09:40:37.461446529Z",
   "model": "glm-5.3"
 }

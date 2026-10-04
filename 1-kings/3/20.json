@@ -5,8 +5,75 @@
   "book": "1-kings",
   "lang": "min",
   "chapter": 3,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-04T05:45:13.530780438Z",
+  "translation": "Jo inyo bangun di tangah malam, jo inyo maambiak ⟨את⟩ anak ambo dari sampiang ambo, sadang hamba padusi tuan tu lalok, jo inyo malangkok-anak tu di ampaiannyo, sadang ⟨את⟩ anaknyo nan alah mati inyo malangkok di ampaiannyo-ambo.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "jo inyo bangun"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "jo inyo maambiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak ambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ambo"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "dari sampiang ambo"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "sadang hamba padusi tuan tu"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "jo inyo malangkok-diri"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "di ampaiannyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anaknyo nan alah mati"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "המת",
+      "gloss": "nan alah mati"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "inyo malangkok"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "di ampaiannyo-ambo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:36:37.274588808Z",
   "model": "glm-5.3"
 }

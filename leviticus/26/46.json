@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "min",
   "chapter": 26,
-  "translation": "Iko adolah ⟨ה⟩ hukum-hukum jo ⟨ה⟩ pangadilan-pangadilan jo ⟨ה⟩ Torah-Torah, nan dibariak Yahweh antaro inyo jo anak-anak Yisrael, di gunuang Sinai, dek tangan Moshe.",
+  "translation": "Iko adolah katantuan-katantuan, hukum-hukum, jo Torah-Torah nan dibariak Yahweh di antaro inyo jo urang-urang Yisrael, di gunuang Sinai, lewat tangan Moshe.",
   "tokens": [
     {
       "surface": "אלה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "החקים",
-      "gloss": "hukum-hukum"
+      "gloss": "katantuan-katantuan"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "jo pangadilan-pangadilan"
+      "gloss": "jo hukum-hukum"
     },
     {
       "surface": "והתורת",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "בינו",
-      "gloss": "antaro inyo"
+      "gloss": "di antaro inyo"
     },
     {
       "surface": "ובין",
-      "gloss": "jo antaro"
+      "gloss": "jo di antaro"
     },
     {
       "surface": "בני",
-      "gloss": "anak-anak"
+      "gloss": "urang-urang"
     },
     {
       "surface": "ישראל",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "ביד",
-      "gloss": "dek tangan"
+      "gloss": "lewat tangan"
     },
     {
       "surface": "משה",
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-10-04T04:36:37.043427066Z",
+  "timestamp": "2026-10-04T09:34:52.998783425Z",
   "model": "glm-5.3"
 }

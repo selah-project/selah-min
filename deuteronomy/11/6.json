@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "min",
   "chapter": 11,
-  "translation": "Jo nan Inyo buek kapado Datán jo kapado Aviram, anak-anak Eliav, katurunan Reuben; katiko bumi mambukak ⟨את⟩ munguanyo jo manalan inyo, jo ⟨את⟩ rumah-rumah mereka, jo ⟨את⟩ khemah-khemah mereka, jo ⟨את⟩ sagalo nan iduik nan di kaki mereka, di tangah-tangah sagalo Yisrael.",
+  "translation": "Jo nan alah inyo buek kapado Datan jo Aviram, anak-anak Eliav, anak Reuven: baa bumi mambukak ⟨את⟩ muluiknyo jo manalannyo, jo ⟨את⟩ rumah-rumahnyo, jo ⟨את⟩ khemah-khemahnyo, jo ⟨את⟩ sado nan ado nan di kaki urang tu, di tangah-tangah sado Yisrael.",
   "tokens": [
     {
       "surface": "ואשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לדתן",
-      "gloss": "kapado Datán"
+      "gloss": "kapado Datan"
     },
     {
       "surface": "ולאבירם",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "katurunan"
+      "gloss": "anak"
     },
     {
       "surface": "ראובן",
-      "gloss": "Reuben"
+      "gloss": "Reuven"
     },
     {
       "surface": "אשר",
@@ -54,46 +54,46 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "munguanyo"
+      "marks": "muluiknyo"
     },
     {
       "surface": "פיה",
-      "gloss": "munguanyo"
+      "gloss": "muluiknyo"
     },
     {
       "surface": "ותבלעם",
-      "gloss": "jo manalan inyo"
+      "gloss": "jo manalannyo"
     },
     {
       "surface": "ואת",
-      "gloss": "jo ⟨את⟩",
-      "marks": "rumah-rumah mereka"
+      "gloss": "⟨את⟩",
+      "marks": "rumah-rumahnyo"
     },
     {
       "surface": "בתיהם",
-      "gloss": "rumah-rumah mereka"
+      "gloss": "rumah-rumahnyo"
     },
     {
       "surface": "ואת",
-      "gloss": "jo ⟨את⟩",
-      "marks": "khemah-khemah mereka"
+      "gloss": "⟨את⟩",
+      "marks": "khemah-khemahnyo"
     },
     {
       "surface": "אהליהם",
-      "gloss": "khemah-khemah mereka"
+      "gloss": "khemah-khemahnyo"
     },
     {
       "surface": "ואת",
-      "gloss": "jo ⟨את⟩",
-      "marks": "sagalo nan iduik"
+      "gloss": "⟨את⟩",
+      "marks": "sado nan ado"
     },
     {
       "surface": "כל",
-      "gloss": "sagalo"
+      "gloss": "sado"
     },
     {
       "surface": "היקום",
-      "gloss": "nan iduik"
+      "gloss": "nan ado"
     },
     {
       "surface": "אשר",
@@ -101,7 +101,7 @@
     },
     {
       "surface": "ברגליהם",
-      "gloss": "di kaki mereka"
+      "gloss": "di kaki urang tu"
     },
     {
       "surface": "בקרב",
@@ -109,13 +109,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "sagalo"
+      "gloss": "sado"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-10-04T04:55:10.876780788Z",
+  "timestamp": "2026-10-04T09:41:44.522457814Z",
   "model": "glm-5.3"
 }

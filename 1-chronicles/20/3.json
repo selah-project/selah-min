@@ -5,16 +5,16 @@
   "book": "1-chronicles",
   "lang": "min",
   "chapter": 20,
-  "translation": "Jo ⟨את⟩ urang nan ado di dalamnyo inyo dibaok kalua, jo dipotong jo gergaji, jo jo panganih basi, jo jo panganih gadang; jo baitu pulo Dawid buek ka sado koto-koto urang katurunan Amon. Sudah itu Dawid jo sado urang itu baliak ka Yerushalayim.",
+  "translation": "Jo ⟨את⟩ urang nan ado di dalamnyo inyo kaluaan, jo inyo mamanjiang jo gergaji jo jo pakeh bosi jo jo gergaji-gergaji; jo co itu pulo Dawid buek kapado sadonyo kota-kota urang Ammon; lalu Dawim jo sado urang tu baliak ka Yerushalayim.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ jo",
+      "gloss": "⟨את⟩",
       "marks": "urang nan ado di dalamnyo"
     },
     {
       "surface": "העם",
-      "gloss": "urang itu"
+      "gloss": "urang"
     },
     {
       "surface": "אשר",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "dibaok kalua"
+      "gloss": "inyo kaluaan"
     },
     {
       "surface": "וישר",
-      "gloss": "dipotong"
+      "gloss": "jo inyo mamanjiang"
     },
     {
       "surface": "במגרה",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "ובחריצי",
-      "gloss": "jo panganih"
+      "gloss": "jo pakeh"
     },
     {
       "surface": "הברזל",
-      "gloss": "basi"
+      "gloss": "bosi"
     },
     {
       "surface": "ובמגרות",
-      "gloss": "jo panganih gadang"
+      "gloss": "jo gergaji-gergaji"
     },
     {
       "surface": "וכן",
-      "gloss": "baitu pulo"
+      "gloss": "jo co itu pulo"
     },
     {
       "surface": "יעשה",
@@ -62,23 +62,23 @@
     },
     {
       "surface": "לכל",
-      "gloss": "ka sado"
+      "gloss": "kapado sadonyo"
     },
     {
       "surface": "ערי",
-      "gloss": "koto-koto"
+      "gloss": "kota-kota"
     },
     {
       "surface": "בני",
-      "gloss": "urang katurunan"
+      "gloss": "urang"
     },
     {
       "surface": "עמון",
-      "gloss": "Amon"
+      "gloss": "Ammon"
     },
     {
       "surface": "וישב",
-      "gloss": "baliak"
+      "gloss": "lalu baliak"
     },
     {
       "surface": "דויד",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "העם",
-      "gloss": "urang itu"
+      "gloss": "urang tu"
     },
     {
       "surface": "ירושלם",
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-10-04T08:46:28.309366119Z",
+  "timestamp": "2026-10-04T09:41:35.487180056Z",
   "model": "glm-5.3"
 }

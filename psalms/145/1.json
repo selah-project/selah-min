@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "min",
   "chapter": 145,
-  "translation": "Pujian untuak Dawid. Ambo ka maagiahkán ⟨awak sanjato⟩ Yahweh — indak ado kato Tuhan di siko; naskah bakato: Elohim ambo, rajo tu — kok baitu: \"Ambo ka mangangkek ⟨awak sanjato⟩ Elohai, ⟨nan⟩ rajo, jo ambo ka mamacikjioki namo ⟨awak sanjato⟩ salamo-lamonyo, sampai salamanya.\"",
-  "tokens": [],
-  "timestamp": "2026-10-04T09:26:06.618859526Z",
+  "translation": "Puji dek Dawid. Ambo maninggikan Eloah ambo, rajo, jo ambo mampakaba siak namo ⟨dikau⟩ salamo-lamonyo jo salalu.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Puji"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dek Dawid"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ambo maninggikan ⟨dikau⟩"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah ambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "jo ambo mampakaba siak"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo ⟨dikau⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo salalu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:17.508579596Z",
   "model": "glm-5.3"
 }

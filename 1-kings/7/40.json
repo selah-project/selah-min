@@ -5,33 +5,33 @@
   "book": "1-kings",
   "lang": "min",
   "chapter": 7,
-  "translation": "Jo Hiram mambuek ⟨את⟩ kiyor-kiyor tu, jo ⟨את⟩ panimbuak-panimbuak, jo ⟨את⟩ piriang-piriang; sudah tu Hiram manyalasaikan mambuek ⟨את⟩ saluruah karajo nan inyo karajokan untuak rajo Shelomoh, di Rumah Yahweh.",
+  "translation": "Jo Khiram mambuek ⟨את⟩ kuali-kuali, ⟨את⟩ pangambiak, jo ⟨את⟩ piriang-piriang; jo Khiram manyalasai buek ⟨את⟩ sado pekerjaan nan inyo buek untuak rajo Shelomoh untuak rumah Yahweh.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "jo inyo mambuek"
+      "gloss": "mambuek"
     },
     {
       "surface": "חירום",
-      "gloss": "Hiram"
+      "gloss": "Khiram"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kiyor-kiyor tu"
+      "marks": "kuali-kuali"
     },
     {
       "surface": "הכירות",
-      "gloss": "kiyor-kiyor tu"
+      "gloss": "kuali-kuali"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "panimbuak-panimbuak"
+      "marks": "pangambiak"
     },
     {
       "surface": "היעים",
-      "gloss": "panimbuak-panimbuak"
+      "gloss": "pangambiak"
     },
     {
       "surface": "ואת",
@@ -44,28 +44,28 @@
     },
     {
       "surface": "ויכל",
-      "gloss": "sudah tu manyalasaikan"
+      "gloss": "manyalasai"
     },
     {
       "surface": "חירם",
-      "gloss": "Hiram"
+      "gloss": "Khiram"
     },
     {
       "surface": "לעשות",
-      "gloss": "mambuek"
+      "gloss": "buek"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "saluruah karajo"
+      "marks": "sado pekerjaan"
     },
     {
       "surface": "כל",
-      "gloss": "saluruah"
+      "gloss": "sado"
     },
     {
       "surface": "המלאכה",
-      "gloss": "karajo"
+      "gloss": "pekerjaan"
     },
     {
       "surface": "אשר",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "inyo karajokan"
+      "gloss": "inyo buek"
     },
     {
       "surface": "למלך",
@@ -85,13 +85,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "Rumah"
+      "gloss": "rumah"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-10-04T05:46:34.544312292Z",
+  "timestamp": "2026-10-04T09:36:39.518173555Z",
   "model": "glm-5.3"
 }

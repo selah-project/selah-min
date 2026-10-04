@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Kau pangakek ari-ari mudo nyo, Kau salimuti inyo jo raso malu. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "Kau pangakek"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "mudo nyo"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "Kau salimuti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "jo raso malu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:29.174892631Z",
+  "model": "glm-5.3"
+}

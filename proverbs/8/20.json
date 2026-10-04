@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 8,
+  "translation": "Di jalan tsedeq ambo bajalan, di tangah laluan-laluan hukum.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ambo bajalan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "laluan-laluan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:48.344260151Z",
+  "model": "glm-5.3"
+}

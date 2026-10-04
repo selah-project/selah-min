@@ -5,8 +5,52 @@
   "book": "exodus",
   "lang": "min",
   "chapter": 34,
-  "translation": "sabab mezbah urang tu musti pa­rabuik сан ⟨את⟩ mezbah urang tu, jo ⟨את⟩ batu-batu tagak urang tu musti san dakok, jo ⟨את⟩ Asherah urang tu musti ditebang.",
-  "tokens": [],
-  "timestamp": "2026-10-04T04:23:06.693478753Z",
+  "translation": "sabab ⟨את⟩ mazbakhnyo musti dibongka, jo ⟨את⟩ tiang-tiang batunyo dipacah, jo ⟨את⟩ tunggul Asheranyo ditebang:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbakhnyo"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mazbakhnyo"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "dibongka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tiang-tiang batunyo"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "tiang-tiang batunyo"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "dipacah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "tunggul Asheranyo"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "tunggul Asheranyo"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "ditebang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:34:58.798637183Z",
   "model": "glm-5.3"
 }

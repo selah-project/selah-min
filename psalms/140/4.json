@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 140,
+  "translation": "Inyo mancogok lidahnyo sarupo ula; bisa ubun-ubun ula tanpa lia ado di bawah bibianyo. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "mancogok"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidahnyo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ula"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "ubun-ubun ula tanpa lia"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "bibianyo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:18.605863024Z",
+  "model": "glm-5.3"
+}

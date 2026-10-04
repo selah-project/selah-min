@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 24,
+  "translation": "Jo inyo mandapek-i caliak ⟨את⟩ Elohimnyo Yisrael; jo di bawah kaki-Nyo ado sarupo pandidikan dari batu safir, jo sarupo raso langik katiko barasiah-baniahnyo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "jo inyo mandapek-i caliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimnyo Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "jo di bawah"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki-Nyo"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sarupo pandidikan dari"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "batu safir"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safir"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "jo sarupo raso"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "katiko barasiah-baniahnyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:34:20.009649097Z",
+  "model": "glm-5.3"
+}

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "min",
   "chapter": 10,
-  "translation": "Ba a lai indak makan ⟨את⟩ korban doso tu di tampek nan suci? Karano inyo suci nan mosek suci, jo ⟨את⟩ inyo alah dibarikan kapado awak soba untuak mamikua doso kaliangan, untuak manyalasai ⟨dosa⟩ mereka di muko Yahweh.",
+  "translation": "Ba a indak kalian makan ⟨את⟩ korban pamaksiat di tampek nan suci? Karano suci nan paliang suci inyo, jo ⟨את⟩ inyo dibaok kapado kalian untuak mamikua ⟨את⟩ doso masyarakaik, supayo mangecek atas inyo di muko Yahweh.",
   "tokens": [
     {
       "surface": "מדוע",
-      "gloss": "ba a lai"
+      "gloss": "ba a"
     },
     {
       "surface": "לא",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "אכלתם",
-      "gloss": "makan"
+      "gloss": "kalian makan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "korban doso tu"
+      "marks": "korban pamaksiat"
     },
     {
       "surface": "החטאת",
-      "gloss": "korban doso tu"
+      "gloss": "korban pamaksiat"
     },
     {
       "surface": "במקום",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "קדשים",
-      "gloss": "mosek suci"
+      "gloss": "nan paliang suci"
     },
     {
       "surface": "הוא",
@@ -54,16 +54,16 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "jo ⟨את⟩",
+      "gloss": "jo ⟨את⟩ inyo",
       "marks": "inyo"
     },
     {
       "surface": "נתן",
-      "gloss": "dibarikan"
+      "gloss": "dibaok"
     },
     {
       "surface": "לכם",
-      "gloss": "kapado awak soba"
+      "gloss": "kapado kalian"
     },
     {
       "surface": "לשאת",
@@ -72,7 +72,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "doso kaliangan"
+      "marks": "doso masyarakaik"
     },
     {
       "surface": "עון",
@@ -80,15 +80,15 @@
     },
     {
       "surface": "העדה",
-      "gloss": "kaliangan"
+      "gloss": "masyarakaik"
     },
     {
       "surface": "לכפר",
-      "gloss": "untuak manyalasai"
+      "gloss": "supayo mangecek"
     },
     {
       "surface": "עליהם",
-      "gloss": "⟨dosa⟩ mereka"
+      "gloss": "atas inyo"
     },
     {
       "surface": "לפני",
@@ -99,6 +99,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-10-04T04:30:11.494866495Z",
+  "timestamp": "2026-10-04T09:35:14.037141997Z",
   "model": "glm-5.3"
 }

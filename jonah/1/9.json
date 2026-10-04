@@ -5,19 +5,19 @@
   "book": "jonah",
   "lang": "min",
   "chapter": 1,
-  "translation": "Lalu bakato inyo ka mereka: urang Ibrani ambo, jo ⟨את⟩ Yahweh, Elohim langik, ambo takuik — Nnan mambuek ⟨את⟩ lauik jo ⟨את⟩ darek kariang.",
+  "translation": "Jo inyo bakato kapado mareka: Ibrani ambo, jo ⟨את⟩ Yahweh, Elohim langik, ambo takuik, Nan mambuek ⟨את⟩ lauik jo ⟨את⟩ dareh.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "bakato"
+      "gloss": "jo bakato"
     },
     {
       "surface": "אליהם",
-      "gloss": "ka mereka"
+      "gloss": "kapado mareka"
     },
     {
       "surface": "עברי",
-      "gloss": "urang Ibrani"
+      "gloss": "Ibrani"
     },
     {
       "surface": "אנכי",
@@ -45,12 +45,12 @@
       "gloss": "ambo"
     },
     {
-      "surface": "ירא",
+      "surface": "יָרֵא",
       "gloss": "takuik"
     },
     {
       "surface": "אשר",
-      "gloss": "nan"
+      "gloss": "Nan"
     },
     {
       "surface": "עשה",
@@ -68,13 +68,13 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "darek kariang"
+      "marks": "dareh"
     },
     {
       "surface": "היבשה",
-      "gloss": "darek kariang"
+      "gloss": "dareh"
     }
   ],
-  "timestamp": "2026-10-04T07:13:18.286848764Z",
+  "timestamp": "2026-10-04T09:39:16.047283529Z",
   "model": "glm-5.3"
 }

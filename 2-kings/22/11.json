@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "min",
   "chapter": 22,
-  "translation": "Jadi katiko rajo mandanga ⟨את⟩ kato-kato kitab Torah tu, inyo mamacah ⟨את》 pakaiannyo.",
+  "translation": "Jo tajadi katiko rajo mandanga ⟨את⟩ kato-kato kitab Torah, inyo maoyak ⟨את⟩ pakaiannyo.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "jadi"
+      "gloss": "jo tajadi"
     },
     {
       "surface": "כשמע",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kato-kato"
+      "marks": "kato-kato kitab Torah"
     },
     {
       "surface": "דברי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ויקרע",
-      "gloss": "mamacah"
+      "gloss": "maoyak"
     },
     {
       "surface": "את",
@@ -50,6 +50,6 @@
       "gloss": "pakaiannyo"
     }
   ],
-  "timestamp": "2026-10-04T06:04:07.925916874Z",
+  "timestamp": "2026-10-04T09:37:32.639113362Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 11,
+  "translation": "Lalu Dawid mangirim urang jo mananyo tantang padusi itu, jo ⟨urang⟩ bakato: Indokah iko Bat-Syeba, anak padusi Eliam, bini urang dari Uríyah urang Het?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mangirim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "mananyo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tantang padusi itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "indokah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iko"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-Syeba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bini"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uríyah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "urang Het"
+    }
+  ],
+  "timestamp": "2026-10-04T09:36:34.349507635Z",
+  "model": "glm-5.3"
+}

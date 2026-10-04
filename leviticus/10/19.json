@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "min",
   "chapter": 10,
-  "translation": "Jo Aharon bakato kapado Moshe: Caliek, ari ko urang tu alah mambaok ⟨את⟩ korban doso mereka jo ⟨את⟩ korban baka mereka di muko Yahweh, jo kajadian-kajadian sarupo iko manimpa ambo; kalau ambo makan korban doso ari ko, naikek bak inyo dapek raso elok di mato Yahweh?",
+  "translation": "Jo Aharon bakato kapado Moshe: Caliak, pado ari iko urang tu alah mambaokan ⟨את⟩ kurban doso urang tu jo ⟨את⟩ kurban bakaruah urang tu di muko Yahweh, jo kajadian-kajadian sarupo iko alah manimpo ambo — kok ambo makan kurban doso ari iko, baa itu elok di mato Yahweh?",
   "tokens": [
     {
-      "surface": "וידבר",
-      "gloss": "jo bakato"
+      "surface": "וידבבר",
+      "gloss": "jo Aharon bakato"
     },
     {
       "surface": "אהרן",
@@ -25,33 +25,33 @@
     },
     {
       "surface": "הן",
-      "gloss": "caliek"
+      "gloss": "Caliak"
     },
     {
       "surface": "היום",
-      "gloss": "ari ko"
+      "gloss": "pado ari iko"
     },
     {
       "surface": "הקריבו",
-      "gloss": "urang tu alah mambaok"
+      "gloss": "urang tu alah mambaokan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "korban doso mereka"
+      "marks": "kurban doso urang tu"
     },
     {
       "surface": "חטאתם",
-      "gloss": "korban doso mereka"
+      "gloss": "kurban doso urang tu"
     },
     {
       "surface": "ואת",
       "gloss": "jo ⟨את⟩",
-      "marks": "korban baka mereka"
+      "marks": "kurban bakaruah urang tu"
     },
     {
       "surface": "עלתם",
-      "gloss": "korban baka mereka"
+      "gloss": "kurban bakaruah urang tu"
     },
     {
       "surface": "לפני",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "ותקראנה",
-      "gloss": "jo manimpa"
+      "gloss": "jo kajadian-kajadian ... alah manimpo ambo"
     },
     {
       "surface": "אתי",
@@ -76,19 +76,19 @@
     },
     {
       "surface": "ואכלתי",
-      "gloss": "kalau ambo makan"
+      "gloss": "kok ambo makan"
     },
     {
       "surface": "חטאת",
-      "gloss": "korban doso"
+      "gloss": "kurban doso"
     },
     {
       "surface": "היום",
-      "gloss": "ari ko"
+      "gloss": "ari iko"
     },
     {
       "surface": "הייטב",
-      "gloss": "dapek raso elok"
+      "gloss": "elok"
     },
     {
       "surface": "בעיני",
@@ -99,6 +99,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-10-04T04:30:11.495655904Z",
+  "timestamp": "2026-10-04T09:35:24.497950874Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,41 @@
   "book": "numbers",
   "lang": "min",
   "chapter": 35,
-  "translation": "Jo urang-urang kota nan ka jo urang-urang kota iyo baâgaâ, anam kota perlinduangan babuek untuak awak.",
-  "tokens": [],
-  "timestamp": "2026-10-04T04:50:40.264089325Z",
+  "translation": "Koto-koto nan ka agiah tu, anam koto miklat maádi untuak awak awak sagalonyo.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ka agiah"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anam"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "koto"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "miklat"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "maádi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuak awak awak sagalonyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:36:22.486817913Z",
   "model": "glm-5.3"
 }

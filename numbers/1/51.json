@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "min",
   "chapter": 1,
-  "translation": "Jo katiko ⟨ה⟩ Mishkan bajalan, urang Levi nan manuruikannyo, jo katiko ⟨ה⟩ Mishkan bamuaro, urang Levi nan mandirikannyo; jo urang lua nan mandakek dirinyo, ka dibunuah.",
+  "translation": "Wakatu Mishkan bajalanan, urang Levi manuruik an ⟨את⟩ inyo; wakatu Mishkan bamuaro, urang Levi mandirian ⟨את⟩ inyo; jo urang lua nan mandakek, dibunuah.",
   "tokens": [
     {
       "surface": "ובנסע",
-      "gloss": "jo katiko bajalan"
+      "gloss": "wakatu bajalanan"
     },
     {
       "surface": "המשכן",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "יורידו",
-      "gloss": "nan manuruikannyo"
+      "gloss": "manuruik an"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-nyo",
+      "gloss": "⟨את⟩ inyo",
       "marks": "Mishkan"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ובחנת",
-      "gloss": "jo katiko bamuaro"
+      "gloss": "wakatu bamuaro"
     },
     {
       "surface": "המשכן",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "יקימו",
-      "gloss": "nan mandirikannyo"
+      "gloss": "mandirian"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-nyo",
+      "gloss": "⟨את⟩ inyo",
       "marks": "Mishkan"
     },
     {
@@ -55,13 +55,13 @@
     },
     {
       "surface": "הקרב",
-      "gloss": "nan mandakek dirinyo"
+      "gloss": "nan mandakek"
     },
     {
       "surface": "יומת",
-      "gloss": "ka dibunuah"
+      "gloss": "dibunuah"
     }
   ],
-  "timestamp": "2026-10-04T04:37:52.061071557Z",
+  "timestamp": "2026-10-04T09:35:49.749321967Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "min",
   "chapter": 5,
-  "translation": "Kalau ambo mandapek-an raso elok di mato rajo, jo kalau elok di rajo untuak mangarimiak-an ⟨את⟩ pamintaanku jo malakukan ⟨את⟩ parintaanku — datanglah rajo jo Haman ka jamuan nan akan kubuek untuak mereka, jo basok kubuek sasuai kato rajo.",
+  "translation": "Kalau ambo alah mandapek anugrah di mato rajo, jo kalau di mato rajo elok untuak mangarimo ⟨את⟩ patisahan ambo jo mangarajoan ⟨את⟩ pintaan ambo, baiak rajo jo Haman tibo ka jamuan nan ambo buaik untuak inyo urang tu, jo kok pagi ambo karajoan sasuai kato rajo.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מצאתי",
-      "gloss": "ambo mandapek-an"
+      "gloss": "ambo alah mandapek"
     },
     {
       "surface": "חן",
-      "gloss": "raso elok"
+      "gloss": "anugrah"
     },
     {
       "surface": "בעיני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "על",
-      "gloss": "di"
+      "gloss": "di mato"
     },
     {
       "surface": "המלך",
@@ -45,33 +45,33 @@
     },
     {
       "surface": "לתת",
-      "gloss": "untuak mangarimiak-an"
+      "gloss": "untuak mangarimo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pamintaanku"
+      "marks": "patisahan ambo"
     },
     {
       "surface": "שאלתי",
-      "gloss": "pamintaanku"
+      "gloss": "patisahan ambo"
     },
     {
       "surface": "ולעשות",
-      "gloss": "jo malakukan"
+      "gloss": "jo mangarajoan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "parintaanku"
+      "marks": "pintaan ambo"
     },
     {
       "surface": "בקשתי",
-      "gloss": "parintaanku"
+      "gloss": "pintaan ambo"
     },
     {
       "surface": "יבוא",
-      "gloss": "datanglah"
+      "gloss": "baiak tibo"
     },
     {
       "surface": "המלך",
@@ -95,19 +95,19 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "akan kubuek"
+      "gloss": "ambo buaik"
     },
     {
       "surface": "להם",
-      "gloss": "untuak mereka"
+      "gloss": "untuak inyo urang tu"
     },
     {
       "surface": "ומחר",
-      "gloss": "jo basok"
+      "gloss": "jo kok pagi"
     },
     {
       "surface": "אעשה",
-      "gloss": "kubuek"
+      "gloss": "ambo karajoan"
     },
     {
       "surface": "כדבר",
@@ -118,6 +118,6 @@
       "gloss": "rajo"
     }
   ],
-  "timestamp": "2026-10-04T08:23:58.709863346Z",
+  "timestamp": "2026-10-04T09:43:11.314746978Z",
   "model": "glm-5.3"
 }

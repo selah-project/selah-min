@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "min",
   "chapter": 34,
-  "translation": "Baraik tajadi katiko rajo mandanga ⟨את⟩ kato-kato Torah itu, inyo mangoyak ⟨את》 pakaiannyo.",
+  "translation": "Mako katiko rajo mandanga ⟨את⟩ kato-kato Torah, inyo mancabiak ⟨את⟩ pakaiannyo.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Baraik tajadi"
+      "gloss": "mako katiko"
     },
     {
       "surface": "כשמע",
-      "gloss": "katiko mandanga"
+      "gloss": "mandanga"
     },
     {
       "surface": "המלך",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kato-kato Torah itu"
+      "marks": "kato-kato Torah"
     },
     {
       "surface": "דברי",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "התורה",
-      "gloss": "Torah itu"
+      "gloss": "Torah"
     },
     {
       "surface": "ויקרע",
-      "gloss": "inyo mangoyak"
+      "gloss": "inyo mancabiak"
     },
     {
       "surface": "את",
@@ -46,6 +46,6 @@
       "gloss": "pakaiannyo"
     }
   ],
-  "timestamp": "2026-10-04T09:00:12.452610254Z",
+  "timestamp": "2026-10-04T09:40:34.723586656Z",
   "model": "glm-5.3"
 }

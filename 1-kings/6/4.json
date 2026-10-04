@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 6,
+  "translation": "Jo inyo mambuek untuak rumah tu jandela-jandela nan tabuka tapi tatutuik rancak.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jo inyo mambuek"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "untuak rumah tu"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "jandela-jandela"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "nan tabuka"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "tatutuik rancak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:36:32.305774866Z",
+  "model": "glm-5.3"
+}

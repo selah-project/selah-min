@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 106,
+  "translation": "Siapo nan dapek manyampaikan ⟨את⟩ kakuatan-kakuatan Yahweh, siapo nan dapek mambuek sado pujian-Nyo tadanga?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapo"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "dapek manyampaikan"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "kakuatan-kakuatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "mambuek tadanga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:06.390459061Z",
+  "model": "glm-5.3"
+}

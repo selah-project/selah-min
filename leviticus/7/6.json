@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "min",
   "chapter": 7,
-  "translation": "Satiok laki-laki di antaro imam-imam dapek makan ⟨את⟩-nyo; di tampek nan suci inyo dimakan; inyo ⟨is⟩ suci dari nan paliang suci.",
+  "translation": "Satiok urang laki-laki di antaro para imam makan inyo; di tampek suci inyo dimakan; suci dari nan paliang suci inyo.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "זכר",
-      "gloss": "laki-laki"
+      "gloss": "urang laki-laki"
     },
     {
       "surface": "בכהנים",
-      "gloss": "di antaro imam-imam"
+      "gloss": "di antaro para imam"
     },
     {
       "surface": "יאכלנו",
-      "gloss": "dapek makan"
+      "gloss": "makan inyo"
     },
     {
       "surface": "במקום",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "קדוש",
-      "gloss": "nan suci"
+      "gloss": "suci"
     },
     {
       "surface": "יאכל",
@@ -48,6 +48,6 @@
       "gloss": "inyo"
     }
   ],
-  "timestamp": "2026-10-04T04:27:20.264936744Z",
+  "timestamp": "2026-10-04T09:35:24.989970322Z",
   "model": "glm-5.3"
 }

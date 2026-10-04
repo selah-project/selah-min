@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 145,
+  "translation": "Satiok ari ambo mampakaba siak ⟨dikau⟩, jo ambo mamuji namo ⟨dikau⟩ salamo-lamonyo jo salalu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ambo mampakaba siak ⟨dikau⟩"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "jo ambo mamuji"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namo ⟨dikau⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jo salalu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:17.509011390Z",
+  "model": "glm-5.3"
+}

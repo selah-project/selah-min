@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Inyo manyarahkan ⟨את⟩ taruan mareka kapado bayu angin, jo ⟨את⟩ kawan mareka kapado kilat nan mambaka.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "manyarahkan"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "kapado bayu angin"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "taruan mareka"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "jo kawan mareka"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "kapado kilat nan mambaka"
+    }
+  ],
+  "timestamp": "2026-10-04T09:43:07.651473046Z",
+  "model": "glm-5.3"
+}

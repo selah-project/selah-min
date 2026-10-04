@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 59,
+  "translation": "Tapi angkau, Yahweh, bakatawa kapadonyo; angkau mailok sagalo banso-banso.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tapi angkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "bakatawa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "mailok"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kapado sagalo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "banso-banso"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:22.452688292Z",
+  "model": "glm-5.3"
+}

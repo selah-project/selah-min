@@ -5,8 +5,87 @@
   "book": "leviticus",
   "lang": "min",
   "chapter": 9,
-  "translation": "Anak-anak Aharon maāmākan ⟨את⟩ darah itu kapado inyo, lalu inyo manyalamokan jarinyo ka dalam darah, jo mambao darah ka tanduak mazbah, tapi ⟨את⟩ darah nan tasiso inyo tuang ka fmtmzbd dasar mazbah.",
-  "tokens": [],
-  "timestamp": "2026-10-04T04:28:51.882463760Z",
+  "translation": "Lalu anak-anak Aharon mambaok ⟨את⟩ darah itu kapadonyo, dan inyo manyalamakan jarinyo ka dalam darah itu, lalu mambantuaknyo ka tanduak altar itu, sadang ⟨את⟩ darah nan tasisa inyo tuang ka pondasi altar itu.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "mambaok"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah itu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah itu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "manyalamakan"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "jarinyo"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ka dalam darah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mambantuaknyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tanduak"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "darah nan tasisa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "tuang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "pondasi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar itu"
+    }
+  ],
+  "timestamp": "2026-10-04T09:35:04.839432500Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,57 @@
   "book": "ezekiel",
   "lang": "min",
   "chapter": 48,
-  "translation": "Iko adolah bumi nan ka pambarian banso-bangso Yisrael; iko pulo bahagian bhuvvom, kato Adonai Yahweh.",
-  "tokens": [],
-  "timestamp": "2026-10-04T07:06:49.809063475Z",
+  "translation": "Ko bumi nan surang-surang agiah manjadi pusako untuak suku-suku Yisrael, jo ko baa pambagian urang tu, kato Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "surang-surang agiah"
+    },
+    {
+      "surface": "מנחלה",
+      "gloss": "manjadi pusako"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "untuak suku-suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "jo ko"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "pambagian urang tu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:38:50.372576810Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,73 @@
   "book": "judges",
   "lang": "min",
   "chapter": 6,
-  "translation": "Karano urang tu jo taranaknyo naiak, jo kemah-kemahnyo datang, sarupo balang dek kabanyakan; jo urang tu jo unta-unta mereka indak ado hinggo — 'unta-unta mereka' no → 'unta-unta mereka' salah; tulih 'unta-unta mereka' INDO — bantuak Minang: 'unta-unta urang tu'.",
-  "tokens": [],
-  "timestamp": "2026-10-04T05:14:01.942335988Z",
+  "translation": "Karano inyo urang tu jo binatang taranaknyo maijak, jo khemah-khemahnyo datang, sampai manyarupoi balalang karano banyaknyo; jo urang tu jo unta-untainyo indak ado cacahnyo, lalu urang tu masuak ka dalam bumi untuak manguasoiannyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "הם",
+      "gloss": "inyo urang tu"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "jo binatang taranaknyo"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "maijak"
+    },
+    {
+      "surface": "ואהליהם",
+      "gloss": "jo khemah-khemahnyo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "balalang"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "karano banyaknyo"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "jo urang tu"
+    },
+    {
+      "surface": "ולגמליהם",
+      "gloss": "jo unta-untainyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "cacahnyo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "lalu urang tu masuak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ka dalam bumi"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "untuak manguasoiannyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:36:43.070370184Z",
   "model": "glm-5.3"
 }

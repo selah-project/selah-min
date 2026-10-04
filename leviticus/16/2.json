@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "min",
   "chapter": 16,
-  "translation": "Jo Yahweh bakato kapado Moshe: Bicaro kapado Aharon, sanak laki-laki ang: jangan inyo masuak sapanjuang wakatu ka tampek nan suci, di balakang tabir, ka muko kaporet nan ado di ateh peti — supayo inyo indak mati, karano Aku tampia dalam awan di ateh kaporet.",
+  "translation": "Jo Yahweh bakato kapado Moshe: Bicaro kapado Aharon, sanak laki-lakinyo, supayo inyo indak masuak sapanjuah wakatu ka tampek nan suci, di balakang parehak, di muko takhto pangampunon nan ado di ateh peti itu, supayo inyo indak mati; karano Aku mamuncuak dalam awan di ateh takhto pangampunon itu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Jo Yahweh bakato"
+      "gloss": "bakato"
     },
     {
       "surface": "יהוה",
@@ -37,37 +37,93 @@
     },
     {
       "surface": "אחיך",
-      "gloss": "sanak laki-laki ang"
+      "gloss": "sanak laki-lakinyo"
     },
     {
-      "surface": "ויאמר",
-      "gloss": ""
+      "surface": "ואל",
+      "gloss": "supayo indak"
     },
     {
-      "surface": "ויאמר",
-      "gloss": ""
+      "surface": "יבא",
+      "gloss": "masuak"
     },
     {
-      "surface": "ויאמר",
-      "gloss": ""
+      "surface": "בכל",
+      "gloss": "sapanjuah"
     },
     {
-      "surface": "דבר",
-      "gloss": ""
+      "surface": "עת",
+      "gloss": "wakatu"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
-      "surface": "אהרן",
-      "gloss": ""
+      "surface": "הקדש",
+      "gloss": "tampek nan suci"
     },
     {
-      "surface": "אחיך",
-      "gloss": ""
+      "surface": "מבית",
+      "gloss": "di balakang"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "parehak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "takhto pangampunon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "peti itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supayo indak"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "dalam awan"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "Aku mamuncuak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "takhto pangampunon itu"
     }
   ],
-  "timestamp": "2026-10-04T04:33:26.316130537Z",
+  "timestamp": "2026-10-04T09:35:20.077306603Z",
   "model": "glm-5.3"
 }

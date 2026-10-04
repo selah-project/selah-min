@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "min",
   "chapter": 77,
-  "translation": "Kok ambo bana-bana mamparatikan ko —",
-  "tokens": [],
-  "timestamp": "2026-10-04T07:37:00.363412939Z",
+  "translation": "Singguluik Nyawa maantaian urang-Nyo sarupo kawanjang domba, dek tangan Moshe jo Aharon.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "maantaian"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sarupo kawanjang domba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "urang-Nyo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dek tangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jo Aharon"
+    }
+  ],
+  "timestamp": "2026-10-04T09:41:50.100719091Z",
   "model": "glm-5.3"
 }

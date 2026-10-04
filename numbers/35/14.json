@@ -5,8 +5,71 @@
   "book": "numbers",
   "lang": "min",
   "chapter": 35,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-04T04:50:40.264540187Z",
+  "translation": "⟨את⟩ tigo koto agiah di sabalik Yarden, jo ⟨את⟩ tigo koto agiah di tanah Kenaan; koto miklat maádi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tigo koto"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "di sabalik"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tigo koto"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "koto-koto"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "koto"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "miklat"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "maádi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:36:22.487096603Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "min",
   "chapter": 10,
-  "translation": "Indak demikian; pai kini, hai urang laki-laki, jo bakti kapado Yahweh, karano ⟨את⟩ sanak nan pancari itu. Lalu urang tu mandorong ⟨את⟩ mereka kalua dari ⟨את⟩ hadirat Paroh.",
+  "translation": "Indak sarupo itu! Pai kini laporan ⟨את⟩ laki-laki sajo, jo lakui-lakui lah ⟨את⟩ Yahweh, karano itulah nan kalian pancari. Lalu inyo mangaluaan ⟨את⟩ urang tu dari muko Paro.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "demikian"
+      "gloss": "sarupo itu"
     },
     {
       "surface": "לכו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הגברים",
-      "gloss": "urang laki-laki"
+      "gloss": "laki-laki sajo"
     },
     {
-      "surface": "ויעבדו",
-      "gloss": "jo bakti"
+      "surface": "ועבדו",
+      "gloss": "jo lakui-lakui lah"
     },
     {
       "surface": "את",
@@ -47,11 +47,11 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "sanak"
+      "marks": "kalian"
     },
     {
       "surface": "אתם",
-      "gloss": "sanak"
+      "gloss": "kalian"
     },
     {
       "surface": "מבקשים",
@@ -59,26 +59,27 @@
     },
     {
       "surface": "ויגרש",
-      "gloss": "mandorong kalua"
+      "gloss": "lalu inyo mangaluaan"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ mereka",
-      "marks": ""
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
     },
     {
       "surface": "מאת",
-      "gloss": "dari ⟨את⟩"
+      "gloss": "dari ⟨את⟩",
+      "marks": "muko Paro"
     },
     {
       "surface": "פני",
-      "gloss": "hadirat"
+      "gloss": "muko"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paroh"
+      "gloss": "Paro"
     }
   ],
-  "timestamp": "2026-10-04T04:14:22.599695432Z",
+  "timestamp": "2026-10-04T09:34:56.138397339Z",
   "model": "glm-5.3"
 }

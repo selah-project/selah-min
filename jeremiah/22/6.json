@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "min",
   "chapter": 22,
-  "translation": "Karano baitu bakato Yahweh tantang rumah rajo Yehudah: Giload sanitary® kau adolah kapado ambo, kapalo Libanon; kok indak, ambo ka mambuek kau gurun, koto-koto nan indak diunyi.",
+  "translation": "Karano kato Yahweh tantang rumah rajo Yehudah: Gil'ad ⟨adolah⟩ ambo, kapalo Levanon; kok indak — ambo mambuek ⟨datang⟩ padang raso, kampuang-kampuang nan indak diunyi.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "baitu"
+      "gloss": "kato"
     },
     {
       "surface": "אמר",
-      "gloss": "bakato"
+      "gloss": "kato"
     },
     {
       "surface": "יהוה",
@@ -36,24 +36,20 @@
       "gloss": "rajo"
     },
     {
-      "surface": "יהוה",
-      "gloss": ""
-    },
-    {
       "surface": "יהודה",
       "gloss": "Yehudah"
     },
     {
       "surface": "גלעד",
-      "gloss": "Giload"
+      "gloss": "Gil'ad"
     },
     {
       "surface": "אתה",
-      "gloss": "kau"
+      "gloss": "⟨adolah⟩ ambo"
     },
     {
       "surface": "לי",
-      "gloss": "kapado ambo"
+      "gloss": "ambo"
     },
     {
       "surface": "ראש",
@@ -61,7 +57,7 @@
     },
     {
       "surface": "הלבנון",
-      "gloss": "Libanon"
+      "gloss": "Levanon"
     },
     {
       "surface": "אם",
@@ -73,15 +69,15 @@
     },
     {
       "surface": "אשיתך",
-      "gloss": "ambo ka mambuek kau"
+      "gloss": "ambo mambuek ⟨datang⟩"
     },
     {
       "surface": "מדבר",
-      "gloss": "gurun"
+      "gloss": "padang raso"
     },
     {
       "surface": "ערים",
-      "gloss": "koto-koto"
+      "gloss": "kampuang-kampuang"
     },
     {
       "surface": "לא",
@@ -92,6 +88,6 @@
       "gloss": "diunyi"
     }
   ],
-  "timestamp": "2026-10-04T06:33:11.681965786Z",
+  "timestamp": "2026-10-04T09:41:43.696364295Z",
   "model": "glm-5.3"
 }

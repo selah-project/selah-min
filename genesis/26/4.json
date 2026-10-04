@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 26:4",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 26,
+  "translation": "Jo ambo ka mambanyakkan ⟨את⟩ beniah ang sarupo bintang-bintang di langik, jo ambo ka agiah kapado beniah ang ⟨את⟩ sadonyo nagari-nagari iko, jo sado bangso-bangso di bumi ka maminta barka jo beniah ang.",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "jo ambo ka mambanyakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beniah ang"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "beniah ang"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "sarupo bintang-bintang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di langik"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "jo ambo ka agiah"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "kapado beniah ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadonyo nagari-nagari iko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadonyo"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "nagari-nagari"
+    },
+    {
+      "surface": "האל",
+      "gloss": "iko"
+    },
+    {
+      "surface": "והתברכו",
+      "gloss": "jo ka maminta barka"
+    },
+    {
+      "surface": "בזרעך",
+      "gloss": "jo beniah ang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "bangso-bangso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:34:23.702737591Z",
+  "model": "glm-5.3"
+}

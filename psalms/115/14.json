@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 115,
+  "translation": "Yahweh manamba panando kapado sanak, kapado sanak jo kapado anak-anak sanak.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "manamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kapado sanak"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anak sanak"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:02.811742899Z",
+  "model": "glm-5.3"
+}

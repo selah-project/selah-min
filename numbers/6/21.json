@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "min",
   "chapter": 6,
-  "translation": "Iko adolah Torah sang Nazir, nan baâ€˜bajak-bajaknyo kapado Yahweh ateh pandidikannyo, salain dari nan dicapai tangannyo; manuruik bajaknyo nan inyo baâ€˜bajak, baitu pulo inyo buek manuruik Torah pandidikannyo.",
+  "translation": "Ko iko Torah si Nazir, nan bajanji ⟨את⟩ kurban nyo kapado Yahweh ateh panasihaan nyo, salain dari nan dapek dicapai tangan nyo; sasuai jo nazar nyo nan dijanjinyo, demikian pulo inyo bueak, ateh Torah panasihaan nyo.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "iko"
+      "gloss": "ko iko"
     },
     {
       "surface": "תורת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנזיר",
-      "gloss": "sang Nazir"
+      "gloss": "si Nazir"
     },
     {
       "surface": "אשר",
@@ -25,11 +25,16 @@
     },
     {
       "surface": "ידר",
-      "gloss": "baâ€˜bajak"
+      "gloss": "bajansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban nyo"
     },
     {
       "surface": "קרבנו",
-      "gloss": "bajak-bajaknyo"
+      "gloss": "kurban nyo"
     },
     {
       "surface": "ליהוה",
@@ -41,7 +46,7 @@
     },
     {
       "surface": "נזרו",
-      "gloss": "pandidikannyo"
+      "gloss": "panasihaan nyo"
     },
     {
       "surface": "מלבד",
@@ -53,19 +58,19 @@
     },
     {
       "surface": "תשיג",
-      "gloss": "dicapai"
+      "gloss": "dapek dicapai"
     },
     {
       "surface": "ידו",
-      "gloss": "tangannyo"
+      "gloss": "tangan nyo"
     },
     {
       "surface": "כפי",
-      "gloss": "manuruik"
+      "gloss": "sasuai jo"
     },
     {
       "surface": "נדרו",
-      "gloss": "bajaknyo"
+      "gloss": "nazar nyo"
     },
     {
       "surface": "אשר",
@@ -73,19 +78,19 @@
     },
     {
       "surface": "ידר",
-      "gloss": "baâ€˜bajak"
+      "gloss": "dijanjinyo"
     },
     {
       "surface": "כן",
-      "gloss": "baitu pulo"
+      "gloss": "demikian pulo"
     },
     {
       "surface": "יעשה",
-      "gloss": "buek"
+      "gloss": "inyo bueak"
     },
     {
       "surface": "על",
-      "gloss": "manuruik"
+      "gloss": "ateh"
     },
     {
       "surface": "תורת",
@@ -93,9 +98,9 @@
     },
     {
       "surface": "נזרו",
-      "gloss": "pandidikannyo"
+      "gloss": "panasihaan nyo"
     }
   ],
-  "timestamp": "2026-10-04T09:04:38.325157785Z",
+  "timestamp": "2026-10-04T09:34:54.887246482Z",
   "model": "glm-5.3"
 }

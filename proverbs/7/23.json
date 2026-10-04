@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "min",
   "chapter": 7,
-  "translation": "Sampai panaang mailangkan <את> atinyo — karano ati dianggap tampek hiduik — saripo buruang bacancang ka jariah, indak tau baso itu mambaok nyawonyo.",
+  "translation": "Sampai panah manusuk atinyo, sarupo buruang mahasten ka jaring, jo indak inyo tahu baso inyo ⟨mampertaruhkan⟩ nyawonyo.",
   "tokens": [
     {
       "surface": "עד",
@@ -13,23 +13,19 @@
     },
     {
       "surface": "יפלח",
-      "gloss": "mailangkan"
+      "gloss": "manusuk"
     },
     {
       "surface": "חץ",
-      "gloss": "panaang"
+      "gloss": "panah"
     },
     {
       "surface": "כבדו",
-      "gloss": "atininyo"
+      "gloss": "atinyo"
     },
     {
       "surface": "כמהר",
-      "gloss": "saripo bacancang"
-    },
-    {
-      "surface": "צפור",
-      "gloss": "buruang"
+      "gloss": "sarupo buruang mahasten"
     },
     {
       "surface": "אל",
@@ -37,15 +33,15 @@
     },
     {
       "surface": "פח",
-      "gloss": "jariah"
+      "gloss": "jaring"
     },
     {
       "surface": "ולא",
-      "gloss": "indak"
+      "gloss": "jo indak"
     },
     {
       "surface": "ידע",
-      "gloss": "tau"
+      "gloss": "inyo tahu"
     },
     {
       "surface": "כי",
@@ -53,13 +49,13 @@
     },
     {
       "surface": "בנפשו",
-      "gloss": "mambaok nyawonyo"
+      "gloss": "nyawonyo"
     },
     {
       "surface": "הוא",
-      "gloss": "itu"
+      "gloss": "inyo"
     }
   ],
-  "timestamp": "2026-10-04T07:55:18.772949432Z",
+  "timestamp": "2026-10-04T09:39:48.719510751Z",
   "model": "glm-5.3"
 }

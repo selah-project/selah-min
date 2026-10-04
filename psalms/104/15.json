@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 104,
+  "translation": "Jo aia anggur manyanio ati urang, untuak mamancarkan muko jo minyak, jo roti manopang ati urang.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "jo aia anggur"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "manyanio"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "untuak mamancarkan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muko"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "jo minyak"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "jo roti"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "manopang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:04.060681164Z",
+  "model": "glm-5.3"
+}

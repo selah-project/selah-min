@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 89,
+  "translation": "Sampai bilo, Yahweh, Kau bahasia salamo-lamonyo? Ateh paneh murko nyo mambaka sarupo api?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "Kau bahasia"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salamo-lamonyo"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "mambaka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "Ateh paneh murko nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:29.175061730Z",
+  "model": "glm-5.3"
+}

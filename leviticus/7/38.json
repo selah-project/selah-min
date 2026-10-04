@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "min",
   "chapter": 7,
-  "translation": "nan diparentahkan Yahweh kapado ⟨את⟩ Moshe di gunuang Sinai, pado ari inyo mamarentahkan ⟨את⟩ anak-anak Yisrael mandakek-an ⟨את⟩ korban-korban mereka kapado Yahweh, di gurun Sinai.",
+  "translation": "nan diperintahkan Yahweh kapado ⟨את⟩ Moshe di gunuang Sinai, pado ari inyo mamarintahkan ⟨את⟩ anak-anak Yisrael untuak mambaokan dakek ⟨את⟩ korban-korban nasinyo kapado Yahweh, di gurun Sinai.",
   "tokens": [
     {
       "surface": "אשר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "mamarentahkan"
+      "gloss": "diperintahkan"
     },
     {
       "surface": "יהוה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "צותו",
-      "gloss": "mamarentahkan"
+      "gloss": "inyo mamarintahkan"
     },
     {
       "surface": "את",
@@ -59,16 +59,16 @@
     },
     {
       "surface": "להקריב",
-      "gloss": "mandakek-an"
+      "gloss": "untuak mambaokan dakek"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "korban-korban mereka"
+      "marks": "korban-korban nasinyo"
     },
     {
       "surface": "קרבניהם",
-      "gloss": "korban-korban mereka"
+      "gloss": "korban-korban nasinyo"
     },
     {
       "surface": "ליהוה",
@@ -83,6 +83,6 @@
       "gloss": "Sinai"
     }
   ],
-  "timestamp": "2026-10-04T09:04:36.563932150Z",
+  "timestamp": "2026-10-04T09:34:50.648718304Z",
   "model": "glm-5.3"
 }

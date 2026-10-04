@@ -5,8 +5,37 @@
   "book": "genesis",
   "lang": "min",
   "chapter": 37,
-  "translation": "Jo Yaakov tingga di tanah tampekIndices indak — di tanah mungguah amboinyo, di tanah Kanaan.",
-  "tokens": [],
-  "timestamp": "2026-10-04T04:06:00.051880554Z",
+  "translation": "Lalu Yaakov tingga di tanah tampek pai-manumpang ayahnyo, di tanah Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lalu tingga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "tampek pai-manumpang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:34:25.076848604Z",
   "model": "glm-5.3"
 }

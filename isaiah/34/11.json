@@ -5,31 +5,31 @@
   "book": "isaiah",
   "lang": "min",
   "chapter": 34,
-  "translation": "Buruang qa'at jo kipod ka manduduakinyo, jo buruang yanshuf jo gagak ka tingga di sinan; jo ⟨iniah⟩ mambukak garih tohu di atehnyo, jo batu-batu bohu.",
+  "translation": "Nan punyo inyo: pelikan jo landak, buruang hantu jo gagak tingga di sinan; jo inyo mampasiahan atehnyo tali ukua kasantakan jo batu-batu kasamparan.",
   "tokens": [
     {
       "surface": "וירשוה",
-      "gloss": "ka manduduakinyo"
+      "gloss": "nan punyo inyo"
     },
     {
       "surface": "קאת",
-      "gloss": "buruang qa'at"
-    },
-    {
-      "surface": "וינשוף",
-      "gloss": "jo buruang yanshuf"
+      "gloss": "pelikan"
     },
     {
       "surface": "וקפוד",
-      "gloss": "jo kipod"
+      "gloss": "jo landak"
     },
     {
-      "surface": "ועורב",
+      "surface": "וינשוף",
+      "gloss": "jo buruang hantu"
+    },
+    {
+      "surface": "וערב",
       "gloss": "jo gagak"
     },
     {
       "surface": "ישכנו",
-      "gloss": "ka tingga"
+      "gloss": "tingga"
     },
     {
       "surface": "בה",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "ונטה",
-      "gloss": "jo mambukak"
+      "gloss": "jo inyo mampasiahan"
     },
     {
       "surface": "עליה",
-      "gloss": "di atehnyo"
+      "gloss": "atehnyo"
     },
     {
       "surface": "קו",
-      "gloss": "garih"
+      "gloss": "tali ukua"
     },
     {
       "surface": "תהו",
-      "gloss": "tohu"
+      "gloss": "kasantakan"
     },
     {
       "surface": "ואבני",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "בהו",
-      "gloss": "bohu"
+      "gloss": "kasamparan"
     }
   ],
-  "timestamp": "2026-10-04T06:16:09.164800340Z",
+  "timestamp": "2026-10-04T09:44:43.326936370Z",
   "model": "glm-5.3"
 }

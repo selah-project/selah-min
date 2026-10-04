@@ -5,24 +5,24 @@
   "book": "deuteronomy",
   "lang": "min",
   "chapter": 12,
-  "translation": "Hancuaan bana sanak ⟨את⟩ sado tampek-tampek nan bangso-bangso tu, nan sanak usiakan ⟨את⟩ mereka, alah bakti di sinan kapado ⟨את⟩ tuhan-tuhan mereka — di gunuang-gunuang nan tinggi, jo di bukik-bukik, jo di bawah satiok kayu nan rimbun.",
+  "translation": "Angku musti musnah bana ⟨את⟩ sadolah tampek-tampek nan bangso-bangso — ⟨את⟩ nan angku marampasa tampeknyo — bakarajo di sinan untuak tuhan-tuhan mareka ⟨את⟩, di ateh gunuang-gunuang nan tinggi, di ateh bukik-bukik, jo di bawah satiok kayu nan rimbun.",
   "tokens": [
     {
       "surface": "אבד",
-      "gloss": "Hancuaan bana"
+      "gloss": "musnah"
     },
     {
       "surface": "תאבדון",
-      "gloss": "sanak hancuaan"
+      "gloss": "angku musti musnahkan bana"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sado tampek-tampek"
+      "marks": "sadolah tampek-tampek"
     },
     {
       "surface": "כל",
-      "gloss": "sado"
+      "gloss": "sadolah"
     },
     {
       "surface": "המקמות",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "alah bakti"
+      "gloss": "bakarajo untuak"
     },
     {
       "surface": "שם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "bangso-bangso tu"
+      "gloss": "bangso-bangso"
     },
     {
       "surface": "אשר",
@@ -50,25 +50,25 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sanak"
+      "gloss": "angku"
     },
     {
       "surface": "ירשים",
-      "gloss": "usiakan"
+      "gloss": "marampasa tampeknyo"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "sanak"
+      "marks": "bangso-bangso"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tuhan-tuhan mereka"
+      "marks": "tuhan-tuhan mareka"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "tuhan-tuhan mereka"
+      "gloss": "tuhan-tuhan mareka"
     },
     {
       "surface": "על",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "jo di ateh"
+      "gloss": "di ateh"
     },
     {
       "surface": "הגבעות",
@@ -104,9 +104,9 @@
     },
     {
       "surface": "רענן",
-      "gloss": "nan rimbun"
+      "gloss": "rimbun"
     }
   ],
-  "timestamp": "2026-10-04T04:56:41.710533874Z",
+  "timestamp": "2026-10-04T09:36:28.405175984Z",
   "model": "glm-5.3"
 }

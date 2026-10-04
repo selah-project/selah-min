@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "min",
   "chapter": 29,
-  "translation": "Dan itu manjadi untuak Aharon jo untuak anak-anaknyo sabagai katantuan salamanyo dari pihak ⟨את⟩ anak-anak Yisrael, karano itu ⟨is⟩ trumah; jo trumah akan ado dari pihak ⟨את⟩ anak-anak Yisrael, dari korban slamat urang tu — trumah urang tu untuak Yahweh.",
+  "translation": "Dan itu manjadi hak Aharon jo anak-anaknyo manuruik katantuan salamo-lamonyo, dari ⟨את⟩ anak-anak Yisrael, karano itu adolah taruman; jo taruman akan ado dari ⟨את⟩ anak-anak Yisrael, dari kurban sajati mareka — taruman mareka bagi Yahweh.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "dan manjadi"
+      "gloss": "dan itu manjadi"
     },
     {
       "surface": "לאהרן",
@@ -21,15 +21,16 @@
     },
     {
       "surface": "לחק",
-      "gloss": "sabagai katantuan"
+      "gloss": "manuruik katantuan"
     },
     {
       "surface": "עולם",
-      "gloss": "salamanyo"
+      "gloss": "salamo-lamonyo"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ dari pihak"
+      "gloss": "dari ⟨את⟩",
+      "marks": "anak-anak Yisrael"
     },
     {
       "surface": "בני",
@@ -45,15 +46,15 @@
     },
     {
       "surface": "תרומה",
-      "gloss": "trumah"
+      "gloss": "taruman"
     },
     {
       "surface": "הוא",
-      "gloss": "itu ⟨is⟩"
+      "gloss": "itu"
     },
     {
       "surface": "ותרומה",
-      "gloss": "jo trumah"
+      "gloss": "jo taruman"
     },
     {
       "surface": "יהיה",
@@ -61,7 +62,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ dari pihak"
+      "gloss": "dari ⟨את⟩",
+      "marks": "anak-anak Yisrael"
     },
     {
       "surface": "בני",
@@ -73,21 +75,21 @@
     },
     {
       "surface": "מזבחי",
-      "gloss": "dari korban"
+      "gloss": "dari kurban"
     },
     {
       "surface": "שלמיהם",
-      "gloss": "slamat urang tu"
+      "gloss": "sajati mareka"
     },
     {
       "surface": "תרומתם",
-      "gloss": "trumah urang tu"
+      "gloss": "taruman mareka"
     },
     {
       "surface": "ליהוה",
-      "gloss": "untuak Yahweh"
+      "gloss": "bagi Yahweh"
     }
   ],
-  "timestamp": "2026-10-04T04:22:06.397515061Z",
+  "timestamp": "2026-10-04T09:35:06.318460805Z",
   "model": "glm-5.3"
 }

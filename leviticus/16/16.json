@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "min",
   "chapter": 16,
-  "translation": "Dan inyo mangafek ateh tampek nan suci dek karano kajauahan anak-anak Yisrael jo dek karano palanggaran mereka, ateh sagalo doso mereka; jo baitu juo inyo buek untuak tenda patamuan, nan tapado jo ⟨את⟩ mereka di tangah-tangah kajauahan mereka.",
+  "translation": "Jo inyo mampasucian tampek nan suci dari kajiman-kajiman anak-anak Yisrael, jo dari panghianatan-panghianatan urang tu, ateh sagalo doso urang tu; jo sarupo itu pulo inyo buek untuak Ohel Moed, nan tingga ⟨את⟩ urang tu di tangah-tangah kajiman urang tu.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "mangafek ateh"
+      "gloss": "mampasucian"
     },
     {
       "surface": "על",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מטמאת",
-      "gloss": "dek karano kajauahan"
+      "gloss": "dari kajiman-kajiman"
     },
     {
       "surface": "בני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ומפשעיהם",
-      "gloss": "jo dek karano palanggaran mereka"
+      "gloss": "jo dari panghianatan-panghianatan urang tu"
     },
     {
       "surface": "לכל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "חטאתם",
-      "gloss": "doso mereka"
+      "gloss": "doso urang tu"
     },
     {
       "surface": "וכן",
-      "gloss": "jo baitu juo"
+      "gloss": "jo sarupo itu pulo"
     },
     {
       "surface": "יעשה",
@@ -53,19 +53,20 @@
     },
     {
       "surface": "לאהל",
-      "gloss": "untuak tenda"
+      "gloss": "untuak Ohel"
     },
     {
       "surface": "מועד",
-      "gloss": "patamuan"
+      "gloss": "Moed"
     },
     {
       "surface": "השכן",
-      "gloss": "nan tapado jo"
+      "gloss": "nan tingga"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ mereka"
+      "gloss": "⟨את⟩",
+      "marks": "urang tu"
     },
     {
       "surface": "בתוך",
@@ -73,9 +74,9 @@
     },
     {
       "surface": "טמאתם",
-      "gloss": "kajauahan mereka"
+      "gloss": "kajiman urang tu"
     }
   ],
-  "timestamp": "2026-10-04T04:32:59.590698375Z",
+  "timestamp": "2026-10-04T09:41:32.588937329Z",
   "model": "glm-5.3"
 }

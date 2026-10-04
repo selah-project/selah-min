@@ -5,11 +5,16 @@
   "book": "psalms",
   "lang": "min",
   "chapter": 136,
-  "translation": "Kapado nan mamukul Mitsrayim pado anak-anak sulung mereka, karano salamanyo-lamanyo hesed-Nyo.",
+  "translation": "Kapado nan mamukua ⟨את⟩ Mitsrayim di anak-anak suluangnyo, karano salamo-lamonyo hesed-Nyo.",
   "tokens": [
     {
       "surface": "למכה",
-      "gloss": "kapado nan mamukul"
+      "gloss": "Kapado nan mamukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
     },
     {
       "surface": "מצרים",
@@ -17,7 +22,7 @@
     },
     {
       "surface": "בבכוריהם",
-      "gloss": "pado anak-anak sulung mereka"
+      "gloss": "di anak-anak suluangnyo"
     },
     {
       "surface": "כי",
@@ -25,13 +30,13 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "salamanyo-lamanyo"
+      "gloss": "salamo-lamonyo"
     },
     {
       "surface": "חסדו",
       "gloss": "hesed-Nyo"
     }
   ],
-  "timestamp": "2026-10-04T07:49:07.480515597Z",
+  "timestamp": "2026-10-04T09:39:33.260049769Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 55,
+  "translation": "Karano indak pikia-pikia ambo pikia-pikia sanak, jo indak jalan sanak jalan ambo, kato Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "pikia-pikia ambo"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "pikia-pikia sanak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jalan sanak"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan ambo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:37:28.567877803Z",
+  "model": "glm-5.3"
+}

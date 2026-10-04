@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "min",
   "chapter": 31,
-  "translation": "Jadi sado ameh parampek nan diâ€angkek urang tu untuak Yahweh, dari ⟨את⟩ para kapalo saribu jo dari ⟨את⟩ para kapalo saratus, ampek baleh ibu tujuah ratus lima puluah syikal.",
+  "translation": "Maka sado ameh persembahan nan diangkek untuak Yahweh — anam baleh ribu, tujuah ratus lima puluah syikal — dari ⟨את⟩ panglimo-panglimo ribuan jo dari ⟨את⟩ panglimo-panglimo ratusan.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "jadi"
+      "gloss": "Maka"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "התרומה",
-      "gloss": "parampek"
+      "gloss": "persembahan"
     },
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הרימו",
-      "gloss": "diâ€angkek urang tu"
+      "gloss": "diangkek"
     },
     {
       "surface": "ליהוה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "וחמשים",
-      "gloss": "jo lima puluah"
+      "gloss": "lima puluah"
     },
     {
       "surface": "שקל",
@@ -65,30 +65,31 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ dari"
+      "gloss": "dari ⟨את⟩",
+      "marks": "panglimo-panglimo ribuan"
     },
     {
       "surface": "שרי",
-      "gloss": "para kapalo"
+      "gloss": "panglimo-panglimo"
     },
     {
       "surface": "האלפים",
-      "gloss": "saribu"
+      "gloss": "ribuan"
     },
     {
       "surface": "ומאת",
-      "gloss": "jo ⟨את⟩ dari",
-      "marks": "para kapalo saratus"
+      "gloss": "jo dari ⟨את⟩",
+      "marks": "panglimo-panglimo ratusan"
     },
     {
       "surface": "שרי",
-      "gloss": "para kapalo"
+      "gloss": "panglimo-panglimo"
     },
     {
       "surface": "המאות",
-      "gloss": "saratus"
+      "gloss": "ratusan"
     }
   ],
-  "timestamp": "2026-10-04T04:49:02.197085832Z",
+  "timestamp": "2026-10-04T09:35:47.895603723Z",
   "model": "glm-5.3"
 }

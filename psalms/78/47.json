@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 78,
+  "translation": "Inyo mambunuah jo bayu anginyo ⟨את⟩ pokok anggur mareka, jo ⟨את⟩ sikomore mareka jo es nan paneh.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "mambunuah"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "jo bayu angin"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "pokok anggur mareka"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "jo sikomore mareka"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "jo es nan paneh"
+    }
+  ],
+  "timestamp": "2026-10-04T09:43:07.651219222Z",
+  "model": "glm-5.3"
+}

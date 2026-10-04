@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "min",
   "chapter": 10,
-  "translation": "Lalu inyo manulih kapado mereka surat nan kaduo, bakato: Jikok untuak ambo kalian, jo kok kapado suaro ambo kalian mandanga, ambiaklah ⟨את⟩ kapalo-kapalo urang-urang anak-anak tuan kalian tu, jo datanglah kapado ambo pado wakatu isuak ka Yizreel. Anak-anak rajo tu tujuah puluah urang, basamo ⟨את⟩ urang-urang gadang kota tu, nan mangaduak mereka.",
+  "translation": "Lalu inyo manulih kapado urang tu surat nan kaduo, bakato: Kok untuak ambo sanak, jo kok kok kato ambo sanak danga, ambialah ⟨את⟩ kapalo-kapalo urang-urang anak-anak tuan sanak, jo datanglah ka ambo pado wakatu iko esok, ka Yizreel. (Anak-anak rajo, tujuah puluah urang, ado ⟨את⟩ basamo urang-urang gadang kota, nan mambesarkan inyo.)",
   "tokens": [
     {
       "surface": "ויכתב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "kapado mereka"
+      "gloss": "kapado urang tu"
     },
     {
       "surface": "ספר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "jikok"
+      "gloss": "kok"
     },
     {
       "surface": "לי",
@@ -37,28 +37,28 @@
     },
     {
       "surface": "אתם",
-      "gloss": "kalian"
+      "gloss": "sanak"
     },
     {
       "surface": "ולקלי",
-      "gloss": "jo kapado suaro ambo"
+      "gloss": "jo kok kato ambo"
     },
     {
       "surface": "אתם",
-      "gloss": "kalian"
+      "gloss": "sanak"
     },
     {
       "surface": "שמעים",
-      "gloss": "mandanga"
+      "gloss": "danga"
     },
     {
       "surface": "קחו",
-      "gloss": "ambiaklah"
+      "gloss": "ambialah"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kapalo-kapalo"
+      "marks": "kapalo-kapalo urang-urang anak-anak tuan sanak"
     },
     {
       "surface": "ראשי",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אדניכם",
-      "gloss": "tuan kalian"
+      "gloss": "tuan sanak"
     },
     {
       "surface": "ובאו",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "אלי",
-      "gloss": "kapado ambo"
+      "gloss": "ka ambo"
     },
     {
       "surface": "כעת",
-      "gloss": "pado wakatu"
+      "gloss": "pado wakatu iko"
     },
     {
       "surface": "מחר",
-      "gloss": "isuak"
+      "gloss": "esok"
     },
     {
       "surface": "יזרעאלה",
@@ -114,7 +114,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ basamo",
       "marks": "urang-urang gadang kota"
     },
     {
@@ -127,13 +127,13 @@
     },
     {
       "surface": "מגדלים",
-      "gloss": "nan mangaduak"
+      "gloss": "nan mambesarkan"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ mereka"
+      "gloss": "⟨את⟩ inyo"
     }
   ],
-  "timestamp": "2026-10-04T05:59:53.565635488Z",
+  "timestamp": "2026-10-04T09:38:15.449814315Z",
   "model": "glm-5.3"
 }

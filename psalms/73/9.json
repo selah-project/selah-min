@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 73,
+  "translation": "Muluik mareka dikanaikkan ka langik, jo lido mareka bajalan di bumi.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "dikanaikkan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ka langik"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "muluik mareka"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "jo lido mareka"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "bajalan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:14.396553299Z",
+  "model": "glm-5.3"
+}

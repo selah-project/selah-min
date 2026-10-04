@@ -5,8 +5,37 @@
   "book": "2-samuel",
   "lang": "min",
   "chapter": 22,
-  "translation": "Jo Yahweh mambałik kapado ambo according to tsedeq ambo, manuruik kasuciaan ambo di muko mato-Nyo.",
-  "tokens": [],
-  "timestamp": "2026-10-04T05:43:44.188638090Z",
+  "translation": "Dan Yahweh mambaliah kapado ambo manuruik tsedeq ambo, manuruik kasucian ambo di muko mato-Nyo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mambaliah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "manuruik tsedeq ambo"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "manuruik kasucian ambo"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mato-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:36:39.447051937Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,37 @@
   "book": "proverbs",
   "lang": "min",
   "chapter": 9,
-  "translation": "Inyo alah manyambalih ⟨את⟩ santapannyo, alah mamacak ⟨את⟩ anggurnyo, pulo alah manyadio ⟨את⟩ mejanyo.",
-  "tokens": [],
-  "timestamp": "2026-10-04T09:26:12.885934254Z",
+  "translation": "Inyo manyambaliah sambariangnyo, mamacik anggurnyo, bahkan inyo maatur meja nyō.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "manyambaliah"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "sambariangnyo"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "mamacik"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "anggurnyo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "maatur"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "meja nyō"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:41.079391211Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 140,
+  "translation": "Nan maanyam kaburukoan di atinyo, kasado ari inyo mamasuak paparangan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "maanyam"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kaburukoan"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "di atinyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasado"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "mamasuak"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "paparangan"
+    }
+  ],
+  "timestamp": "2026-10-04T09:39:18.605609689Z",
+  "model": "glm-5.3"
+}

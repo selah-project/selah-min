@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 22,
+  "translation": "Jo Yehoshafat mamueh jo rajo Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "mamueh"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T09:37:19.502065227Z",
+  "model": "glm-5.3"
+}

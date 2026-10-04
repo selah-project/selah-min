@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "min",
   "chapter": 32,
-  "translation": "Lalu Moshe maagiah ka urang tu — kapado anak-anak Gad, kapado anak-anak Reuben, jo kapado satangah suku Menashé anak Yoséf — ⟨את⟩ karajoan Sichon rajo urang Emori jo ⟨את⟩ karajoan Og rajo Basan: ⟨ה⟩ tanah tasabuik jo kotanyo, dalam bateh-batehnyo, kotokoto di tanah sakaliliangnyo.",
+  "translation": "Lalu Moshe maagiah kapado anak-anak Gad jo kapado anak-anak Reuben jo kapado satangah suku Menashshe anak Yosef ⟨את⟩ karajaan Sihon rajo urang Emori jo ⟨את⟩ karajaan Og rajo Bashan — tanah itu basamo kotanyo, dalam bateh-batehnyo, kota-kota di tanah sakitiling",
   "tokens": [
     {
       "surface": "ויתן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "ka urang tu"
+      "gloss": "kapado inyo"
     },
     {
       "surface": "משה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menashé"
+      "gloss": "Menashshe"
     },
     {
       "surface": "בן",
@@ -53,20 +53,20 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Yoséf"
+      "gloss": "Yosef"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "karajoan Sichon"
+      "marks": "karajaan Sihon rajo urang Emori"
     },
     {
       "surface": "ממלכת",
-      "gloss": "karajoan"
+      "gloss": "karajaan"
     },
     {
       "surface": "סיחן",
-      "gloss": "Sichon"
+      "gloss": "Sihon"
     },
     {
       "surface": "מלך",
@@ -79,11 +79,11 @@
     {
       "surface": "ואת",
       "gloss": "jo ⟨את⟩",
-      "marks": "karajoan Og"
+      "marks": "karajaan Og rajo Bashan"
     },
     {
       "surface": "ממלכת",
-      "gloss": "karajoan"
+      "gloss": "karajaan"
     },
     {
       "surface": "עוג",
@@ -95,15 +95,15 @@
     },
     {
       "surface": "הבשן",
-      "gloss": "Basan"
+      "gloss": "Bashan"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨ה⟩ tanah"
+      "gloss": "tanah itu"
     },
     {
       "surface": "לעריה",
-      "gloss": "jo kotanyo"
+      "gloss": "basamo kotanyo"
     },
     {
       "surface": "בגבלת",
@@ -111,7 +111,7 @@
     },
     {
       "surface": "ערי",
-      "gloss": "kotokoto"
+      "gloss": "kota-kota"
     },
     {
       "surface": "הארץ",
@@ -119,9 +119,9 @@
     },
     {
       "surface": "סביב",
-      "gloss": "sakaliliangnyo"
+      "gloss": "sakitiling"
     }
   ],
-  "timestamp": "2026-10-04T04:49:21.930149770Z",
+  "timestamp": "2026-10-04T09:35:49.112610797Z",
   "model": "glm-5.3"
 }

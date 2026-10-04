@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "min",
   "chapter": 18,
-  "translation": "Sado tarumah benda-benda suci nan diangkek dek anak-anak Yisrael untuak Yahweh, alah Aku agiah kapado sanak, kapado anak-anak laki-laki sanak jo kapado anak-anak padusi sanak, ⟨את⟩ basamo sanak, sabagai katantu salamanyo: parjanjian garam salamanyo ⟨is⟩ inyo di muko Yahweh, untuak sanak jo untuak katurunan sanak, ⟨את⟩ basamo sanak.",
+  "translation": "Sagalo tarumah benda-benda nan suci nan diangkek dek anak-anak Yisrael untuak Yahweh, alah Ambo baan kapado sanak, jo kapado anak-anak laki-laki sanak, jo kapado anak-anak padusi sanak, basamo ⟨את⟩ sanak, manjadi katantuan salamanyo; parjanjian garam salamanyo inyo ado di muko Yahweh, kapado sanak jo kapado katurunan sanak basamo ⟨את⟩ sanak.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "sado"
+      "gloss": "sagalo"
     },
     {
       "surface": "תרומת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הקדשים",
-      "gloss": "benda-benda suci"
+      "gloss": "benda-benda nan suci"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "alah Aku agiah"
+      "gloss": "alah Ambo baan"
     },
     {
       "surface": "לך",
@@ -49,19 +49,20 @@
     },
     {
       "surface": "ולבניך",
-      "gloss": "kapado anak-anak laki-laki sanak"
+      "gloss": "jo kapado anak-anak laki-laki sanak"
     },
     {
       "surface": "ולבנתיך",
-      "gloss": "kapado anak-anak padusi sanak"
+      "gloss": "jo kapado anak-anak padusi sanak"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ basamo sanak"
+      "gloss": "⟨את⟩",
+      "marks": "sanak (basamo sanak)"
     },
     {
       "surface": "לחק",
-      "gloss": "sabagai katantu"
+      "gloss": "manjadi katantuan"
     },
     {
       "surface": "עולם",
@@ -93,17 +94,18 @@
     },
     {
       "surface": "לך",
-      "gloss": "untuak sanak"
+      "gloss": "kapado sanak"
     },
     {
       "surface": "ולזרעך",
-      "gloss": "untuak katurunan sanak"
+      "gloss": "jo kapado katurunan sanak"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ basamo sanak"
+      "gloss": "⟨את⟩",
+      "marks": "sanak (basamo sanak)"
     }
   ],
-  "timestamp": "2026-10-04T04:45:05.446992473Z",
+  "timestamp": "2026-10-04T09:36:09.267880613Z",
   "model": "glm-5.3"
 }

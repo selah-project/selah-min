@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "min",
   "chapter": 10,
-  "translation": "Siso kato-kato Yehu, jo sagalo nan inyo buek, jo sagalo kapahlawannyo, indakkah itu tacatek di dalam kitab kato-kato ari-ari untuak rajo-rajo Yisrael?",
+  "translation": "Siso kato-kato Yehu lainnyo, jo sagalo nan inyo buek jo sagalo kapahlawannyo — bukankah itu sadang tatulih di kitab kato-kato ari-ari untuak rajo-rajo Yisrael?",
   "tokens": [
     {
       "surface": "ויתר",
@@ -20,18 +20,6 @@
       "gloss": "Yehu"
     },
     {
-      "surface": "ויתר",
-      "gloss": ""
-    },
-    {
-      "surface": "דברי",
-      "gloss": ""
-    },
-    {
-      "surface": "יהוא",
-      "gloss": ""
-    },
-    {
       "surface": "וכל",
       "gloss": "jo sagalo"
     },
@@ -41,7 +29,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "buek"
+      "gloss": "inyo buek"
     },
     {
       "surface": "וכל",
@@ -53,7 +41,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "indakkah"
+      "gloss": "bukankah"
     },
     {
       "surface": "הם",
@@ -61,11 +49,11 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "tacatek"
+      "gloss": "tatulih"
     },
     {
       "surface": "על",
-      "gloss": "di dalam"
+      "gloss": "di"
     },
     {
       "surface": "ספר",
@@ -88,6 +76,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-10-04T05:58:56.151710351Z",
+  "timestamp": "2026-10-04T09:37:29.706328685Z",
   "model": "glm-5.3"
 }

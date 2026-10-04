@@ -5,8 +5,82 @@
   "book": "2-chronicles",
   "lang": "min",
   "chapter": 34,
-  "translation": "Jo kapado rajo Yehudah, nan mangiriman ⟨kamu⟩ untuak batanyo kapado Yahweh, baa ko kato should mandapek: kokokokokok",
-  "tokens": [],
-  "timestamp": "2026-10-04T09:00:37.009926856Z",
+  "translation": "Jo kapado rajo Yehudah, nan mangirim ⟨את⟩ kalian untuak mananyo kapado Yahweh, baitu kalian bakato kapadonyo: baitu kato Yahweh, Elohim Israel, tantang kato-kato nan alah san danga.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "nan mangirim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kalian",
+      "marks": "kalian"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "untuak mananyo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kalian bakato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "baitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kato-kato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "san danga"
+    }
+  ],
+  "timestamp": "2026-10-04T09:41:46.077851815Z",
   "model": "glm-5.3"
 }

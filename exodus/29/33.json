@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "min",
   "chapter": 29,
-  "translation": "Jo urang tu makan ⟨את⟩ inyo, nan alah diatoni dek bantuan inyo, untuak mareh ⟨את⟩ tangan urang tu, untuak manyucikan ⟨את⟩ inyo; urang asiang indak buliah makan, karano inyo ⟨is⟩ suci.",
+  "translation": "Inyo makan ⟨את⟩ benda-benda nan alah diatoni jo itu, untuak maisi ⟨את⟩ tangan inyo, untuak manyucian ⟨את⟩ inyo; urang asiang indak buliah makan, karano suci benda-benda itu.",
   "tokens": [
     {
       "surface": "ואכלו",
-      "gloss": "jo urang tu makan"
+      "gloss": "inyo makan"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "inyo"
+      "marks": "benda-benda nan alah diatoni"
     },
     {
       "surface": "אשר",
@@ -26,24 +26,24 @@
     },
     {
       "surface": "בהם",
-      "gloss": "dek bantuan inyo"
+      "gloss": "jo itu"
     },
     {
       "surface": "למלא",
-      "gloss": "untuak mareh"
+      "gloss": "untuak maisi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tangan urang tu"
+      "marks": "tangan inyo"
     },
     {
       "surface": "ידם",
-      "gloss": "tangan urang tu"
+      "gloss": "tangan inyo"
     },
     {
       "surface": "לקדש",
-      "gloss": "untuak manyucikan"
+      "gloss": "untuak manyucian"
     },
     {
       "surface": "אתם",
@@ -72,9 +72,9 @@
     },
     {
       "surface": "הם",
-      "gloss": "inyo"
+      "gloss": "benda-benda itu"
     }
   ],
-  "timestamp": "2026-10-04T04:21:15.900761994Z",
+  "timestamp": "2026-10-04T09:41:48.175013018Z",
   "model": "glm-5.3"
 }

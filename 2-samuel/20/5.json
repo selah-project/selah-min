@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 20,
+  "translation": "Lah pai Amasa untuak mangumpuan ⟨את⟩ Yehuda, tapi inyo lai labiah lamo dari wakatu nan alah ditetapkan kapado inyo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lah pai"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "untuak mangumpuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "tapi inyo lai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "wakatu nan ditetapkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "ditetapkan kapado inyo"
+    }
+  ],
+  "timestamp": "2026-10-04T09:36:40.030104284Z",
+  "model": "glm-5.3"
+}

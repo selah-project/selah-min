@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 47,
+  "translation": "Takajuikannyo ka talanjang, jo aibnyo ka caliak; pambalasan ambo ambia, jo ambo indak bamua-sabana jo urang.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "ka talanjang"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "takajuikannyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ka caliak"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "aibnyo"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pambalasan"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ambia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "bamua-sabana jo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "urang"
+    }
+  ],
+  "timestamp": "2026-10-04T09:37:15.314428071Z",
+  "model": "glm-5.3"
+}

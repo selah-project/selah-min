@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "min",
   "chapter": 10,
-  "translation": "Lalu datang surang utusan, mangabihan kapado inyo, bakato: Kapalo-kapalo anak-anak rajo tu alah dibao. Inyo bakato: Bueklah ⟨את⟩ mereka jadi duo timbunan di muko gapuro sampai pagi.",
+  "translation": "Lalu datang suruah manyampaikan kapado inyo, bakato: Urang tu alah mambaok kapalo-kapalo anak-anak rajo. Inyo bakato: Latakkan ⟨את⟩ inyo manjadi duoa timbunan di munggo gapuro sampai pagi.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "המלאך",
-      "gloss": "utusan tu"
+      "gloss": "suruah"
     },
     {
       "surface": "ויגד",
-      "gloss": "mangabihan"
+      "gloss": "manyampaikan"
     },
     {
       "surface": "לו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הביאו",
-      "gloss": "alah dibao"
+      "gloss": "alah mambaok"
     },
     {
       "surface": "ראשי",
@@ -49,16 +49,16 @@
     },
     {
       "surface": "שימו",
-      "gloss": "bueklah"
+      "gloss": "latakkan"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "kapalo-kapalo tu"
+      "gloss": "⟨את⟩ inyo",
+      "marks": "kapalo-kapalo anak-anak rajo"
     },
     {
       "surface": "שני",
-      "gloss": "duo"
+      "gloss": "duoa"
     },
     {
       "surface": "צברים",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "פתח",
-      "gloss": "di muko"
+      "gloss": "di munggo"
     },
     {
       "surface": "השער",
@@ -81,6 +81,6 @@
       "gloss": "pagi"
     }
   ],
-  "timestamp": "2026-10-04T05:59:53.566057993Z",
+  "timestamp": "2026-10-04T09:38:15.450314419Z",
   "model": "glm-5.3"
 }
