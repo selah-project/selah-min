@@ -9,7 +9,7 @@
     {
       "kind": "substitution",
       "subject": "קנית",
-      "rationale": "קנה means acquire\/create (as a possessor); 'mambuek' (made) follows JPS\/BSB; KJV 'possessed' keeps the purchase sense"
+      "rationale": "קנה means acquire/create (as a possessor); 'mambuek' (made) follows JPS/BSB; KJV 'possessed' keeps the purchase sense"
     },
     {
       "kind": "substitution",
@@ -22,11 +22,11 @@
       "rationale": "object suffix on תסכני rendered as free pronoun 'ambo' for Minang word order"
     }
   ],
-  "translation": "Karano sanityo dagakiah nan mambuek ⟨את⟩ ginjaku, manyalimuik ambo dalam batiak ibu ambo.",
+  "translation": "Karano sanityo dagakiah nan mambuek ginjaku, manyalimuik ambo dalam batiak ibu ambo.",
   "provenance": {
     "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
     "user-sha256": "93e872202f730d41c125dac2cae90b5ef9c56f6f552ce57a7dd5435392c0270f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/psalms\/139\/13-13.1791273113039.json",
+    "prompt-file": ".selah/sources/translations/prompts/min/psalms/139/13-13.1791273113039.json",
     "code": "c024393f-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -44,11 +44,6 @@
     {
       "surface": "קנית",
       "gloss": "mambuek"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ginjaku"
     },
     {
       "surface": "כליתי",
