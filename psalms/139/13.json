@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mambuek",
+      "rationale": "קנה berarti 'mambali\/mamiliki\/mambuek'; KJV 'possessed', JPS 'made' — min kok 'mambuek (sarupo mamiliki)'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ginjal-ginjalku",
+      "rationale": "כליות harfiah 'ginjal', lambang gigih batin — tampek parasoan dalam budayo Ibrani"
+    },
+    {
+      "kind": "crux",
+      "subject": "תסכני",
+      "rationale": "סכך 'mambungkuih\/manutuik' (KJV 'covered') lawan 'manjalin\/mambantuak' (JPS 'knit'); min mamilih gambaran manyalimuiktuak"
+    }
+  ],
+  "translation": "Karano Engkau nan mambuek ⟨את⟩ ginjal-ginjalku, manyalimuiktuak ambo di dalam paruik ibu ambo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "93e872202f730d41c125dac2cae90b5ef9c56f6f552ce57a7dd5435392c0270f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/psalms\/139\/13-13.1791272182744.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "nan mambuek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ginjal-ginjalku"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ginjal-ginjalku"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "manyalimuiktuak ambo"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "di dalam paruik"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibu ambo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:22.746788269Z",
+  "model": "glm-5.3"
+}

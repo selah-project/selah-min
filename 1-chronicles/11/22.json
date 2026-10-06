@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 11:22",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אריאל",
+      "rationale": "'singonyo EL' — KJV 'lionlike men', JPS 'altar-hearths', LXX kadang baco 'duo anak AriEL'; dipacik sacaro bunyi: AriEL."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רב פעלים",
+      "rationale": "harafiah 'rabak urangan karajo' — 'banyak buah karajo', kaduo kato dipisah dek glos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "השלג",
+      "rationale": "'urang salju' — harafiah 'salju'; 'ari salju' = ari katiko salju turun."
+    }
+  ],
+  "translation": "Benajah anak Yehoyada, anak saurang urang gagah, rancak buah karajonyo, dari Kabtseel; inyo maila ⟨את⟩ duo AriEL Moab, jo inyo turun jo maila ⟨את⟩ singo di tangah-tangah liang pado ari urang salju.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "34fe9597fb17d8a98cf090c7725885a5f84cd7de8a792c15ec45dd09db3d394c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/1-chronicles\/11\/22-22.1791272184916.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "Benajah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang urang"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gagah"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rancak"
+    },
+    {
+      "surface": "פעלים",
+      "gloss": "buah karajo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "קבצאל",
+      "gloss": "Kabtseel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "maila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duo AriEL Moab"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "AriEL"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "jo maila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "singo"
+    },
+    {
+      "surface": "הארי",
+      "gloss": "singo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tangah-tangah"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "liang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pado ari"
+    },
+    {
+      "surface": "השלג",
+      "gloss": "urang salju"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:24.917515176Z",
+  "model": "glm-5.3"
+}
