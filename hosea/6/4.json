@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 6:4",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Efrayim dan Yehudah",
+      "rationale": "Yahweh langsuang manyapo kaduo karajaan jo panyapoan ulang."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה...מה אעשה",
+      "rationale": "Pangulangan tanyo 'apo ambo buat' dua kali — parulangan ritoris, kahilangan raso mandapek inyo sacaro struktural."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד tetap 'hesed' (D2), bukan 'kasiah' sajo — kasatiaan janji nan ilang sarupo ambun."
+    },
+    {
+      "kind": "crux",
+      "subject": "משכים",
+      "rationale": "Dari akar שכם 'mamuatu jo muncua awal': 'muncua-muncua awal' vs 'pargi capek' (KJV 'early goeth away')."
+    }
+  ],
+  "translation": "Apo ambo buat kapado kalian, Efrayim? Apo ambo buat kapado kalian, Yehudah? Karano hesed kalian sarupo awan pagi, jo sarupo ambun nan pargi muncua-muncua.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "aee543da751b12d08cd18ba99a43f4df9f203d519728a56d91c313785b0f7117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/hosea\/6\/4-4.1791264024024.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ambo buat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kalian"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ambo buat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado kalian"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וחסדכם",
+      "gloss": "jo hesed kalian"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "sarupo awan"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "jo sarupo ambun"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "nan muncua-muncua awal"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nan pargi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:24.024792808Z",
+  "model": "glm-5.3"
+}

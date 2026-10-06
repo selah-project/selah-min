@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "min",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Shabat",
+      "rationale": "שבת di siko kato karajo ('baranti'), bukan namo hari; bantuak umum dipakai, indak 'Shabat' nan acok untuak namo"
+    },
+    {
+      "kind": "addition",
+      "subject": "inai",
+      "rationale": "Ibrani indak manyabuik palaku; subjek ditambah supayo jaleh"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערים",
+      "rationale": "KJV\/ASV 'kota-kota', YLT 'musuah', BSB 'saksi-saksi' (qere עדים) — tigo jalua bacaan nan balain"
+    }
+  ],
+  "translation": "Lorong-lorong gadang alah talatak, urang nan lalu di jalan baranti; ⟨inai⟩ mamatahan parjanjian, manghino kota-kota, indak maanggap manusia.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "70adf32177d36e65897bc82624109df19fe828cf246d926dd37304d648c1d350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/isaiah\/33\/8-8.1791264026651.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "talatak"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "lorong-lorong gadang"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "baranti"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "urang nan lalu"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mamatahan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "parjanjian"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "manghino"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "maanggap"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:26.652558736Z",
+  "model": "glm-5.3"
+}

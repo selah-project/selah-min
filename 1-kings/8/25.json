@@ -1,0 +1,173 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 8:25",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמר\/ישמרו",
+      "rationale": "Akar nan samo — 'agaiah' jo 'maàga' — tapijan janji jo syaraik anak-anak, tareso di Minang juo"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahweh",
+      "rationale": "Doa Shlomo langsuang kapado Yahweh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפני",
+      "rationale": "Huruf Ibrani 'hadapan\/muko', idiom untuak 'di hadirat' — dipertahan 'di muko-' sacaro harfiah"
+    }
+  ],
+  "translation": "Kini ko, Yahweh, Elohim Yisrael, agaiah untuak hamba-Mu Dawid ayah ambo ⟨את⟩ nan Kaukatoan kapadonyo, sangko bakato: indak akan diputuih untuak kau urang dari muko-Ku, nan duduak di atieh takhta Yisrael — hanyo jiko anak-anakmu maàga ⟨את⟩ jalan mareka untuak bajalan di muko-Ku, sarupo kau bajalan di muko-Ku.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "494601008492f3b30020b5e25620a324351a2acce6582c9f5bab104c4743c70f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/1-kings\/8\/25-28.1791264032417.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kini ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "agaiah"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "untuak hamba-Mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan Kaukatoan kapadonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Kaukatoan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapadonyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangko bakato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "akan diputuih"
+    },
+    {
+      "surface": "لך",
+      "gloss": "untuak kau"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dari muko-Ku"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atieh"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jiko"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "maàga"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan mareka"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jalan mareka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuak bajalan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko-Ku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "kau bajalan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di muko-Ku"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:32.419848038Z",
+  "model": "glm-5.3"
+}

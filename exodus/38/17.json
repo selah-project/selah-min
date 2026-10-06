@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 38:17",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tambago",
+      "rationale": "נחשת tampeknyo 'tambago' (tembaga), bukan 'bras' — logam ciek, indak pacampua."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשוקים\/מחשקים",
+      "rationale": "Akar nan samo (חשק) baliek-baliak tigo kali: panekek perak manyangkoki tiang — ulangan iko tatok kuek jo kato 'panekek' nan samo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "bahan Tiang Hiaskail",
+      "rationale": "Ayaik iko manyampo surek bahan: tambago, perak, perak, perak — mandaftaran bagian Tiang Hiaskail."
+    }
+  ],
+  "translation": "Alah-alah tiang-tiang tu tambago, kail-kail tiang-tiang tu jo panekek-panekeknyo perak, jo lapihan kapalonyo perak, dan urang tu diikek panekek perak, sado tiang-tiang halaman tu.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "398a0ffd279ec351336131bdccbc9f83ba2aac655ea58b85154affe2e857b28c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/exodus\/38\/17-17.1791263970417.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאדנים",
+      "gloss": "alah-alah"
+    },
+    {
+      "surface": "לעמדים",
+      "gloss": "tiang-tiang tu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambago"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "kail-kail"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiang-tiang tu"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "jo panekek-panekeknyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וצפוי",
+      "gloss": "jo lapihan"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "והם",
+      "gloss": "dan urang tu"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "diikek panekek"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman tu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:30.418805964Z",
+  "model": "glm-5.3"
+}

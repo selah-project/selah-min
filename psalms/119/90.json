@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Dari … ka",
+      "rationale": "Hebrew uses ל…ו (to-generation-and-generation); Minang needs 'dari … ka' to carry the span"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kasetiaan",
+      "rationale": "אמונתך literally 'firmness\/kekok'an' of Your — rendered as kasetiaan (fidelity)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כוננת\/ותעמד",
+      "rationale": "establish\/stand: the verb kūn (to set upright) and ʿamad (to stand) echo each other — earth set up, earth stands"
+    }
+  ],
+  "translation": "Dari generasi ka generasi kasetiaan-Mu; Kau alah mambuek tagak ⟨את⟩ bumi, dan inyo tagak.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "c547a8b331a0cc036912ed5b6dd9f5cf8c2d0f5a7be547f8dca3b0083c1397ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/psalms\/119\/90-90.1791264002173.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "ka generasi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "generasi"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kasetiaan-Mu"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "Kau alah mambuek tagak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dan inyo tagak"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:02.174447162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 32:9",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mamak ambo",
+      "rationale": "דדי harfiah 'dod ambo' (saudara ayah); 'mamak ambo' ditambahan untuak kajalehan, baso Minang punyo kato khusus"
+    },
+    {
+      "kind": "crux",
+      "subject": "tujuah jo sapuluah",
+      "rationale": "Ibrani manulih 'tujuah syikal jo sapuluah' (17); banyak tarjamahan manggabuangnyo manjadi 'tujuah baleh syikal'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tujuah syikal jo sapuluah, perak",
+      "rationale": "panimbangan harago tanah — pitih ditimbang, indak dibulia"
+    }
+  ],
+  "translation": "Lalu ambo mambali ⟨את⟩ sawah itu dari ⟨את⟩ Hanamuel anak mamak ambo, nan di Anatot, jo ambo manimbangkan ka inyo ⟨את⟩ perak — tujuah syikal jo sapuluah, tuo perak itu.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "90ef21fefac656a6804401e56bef20359be5f4dfa909bb5fe0d7661754de4222",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/jeremiah\/32\/9-9.1791264018715.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "lalu ambo mambali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sawah itu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sawah itu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩"
+    },
+    {
+      "surface": "חנמאל",
+      "gloss": "Hanamuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "mamak ambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "di Anatot"
+    },
+    {
+      "surface": "ואשקלה",
+      "gloss": "jo ambo manimbangkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "syikal"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "jo sapuluah"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak itu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:18.717122918Z",
+  "model": "glm-5.3"
+}

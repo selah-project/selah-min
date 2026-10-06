@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "basamo",
+      "rationale": "Preposition ‘et dengan pangikik barek indak punyo pasanan tapisah; ‘basamo’ ditambahan untuak kasaimbangan Minang"
+    },
+    {
+      "kind": "addition",
+      "subject": "Lalu",
+      "gloss": "Vav konversif pada וישכב ditandi jo panghubuah kalimaik ‘Lalu’"
+    }
+  ],
+  "translation": "Lalu Uria barulang di munggu gapuro rumah rajo, basamo ⟨את⟩ sagalo ambaninyo tuan-nyo, dan indak turun ka rumahnyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "aa20aa06e538c996116930d2e6012bae41d55557f48a256173f7285a000a743e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/2-samuel\/11\/9-9.1791263989363.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "barulang"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "munggu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalo ambaninyo tuan-nyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ambaninyo"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuan-nyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:49.364791414Z",
+  "model": "glm-5.3"
+}

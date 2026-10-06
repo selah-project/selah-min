@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "balaku",
+      "rationale": "ויהי formula naratif 'jadi\/tarjadi' dilakukan 'balaku' untuak idiom Minang nan alami"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tahado",
+      "rationale": "אל kaduo jo katigo bukan arah 'kapado' tapi alasan kapantuangan: 'tahado' rumah jo ladang"
+    },
+    {
+      "kind": "elision",
+      "subject": "האשה",
+      "rationale": "'padusi itu' di terjemahan dipendekan manjadi 'inyo' pado klausa kaduo dek aliah subjek nan samo"
+    }
+  ],
+  "translation": "Sasudah tujuah tahun barakhia, balaku woman: baliaklah inyo dari tanah urang Palisyt, jo kalua inyo untuak baseruak kapado rajo, tahado rumahnyo jo tanah ladangnyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "1c05850cbea768b55e7cf1396a97b5261654de0c94a842e234f93318e6f56fa2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/2-kings\/8\/3-3.1791264029702.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "balaku"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "barakhia"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuah"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "padusi itu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palisyt"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "jo kalua inyo"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "untuak baseruak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tahado"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "rumahnyo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo tahado"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tanah ladangnyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:29.704567274Z",
+  "model": "glm-5.3"
+}

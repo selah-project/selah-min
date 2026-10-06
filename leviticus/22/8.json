@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bangkei",
+      "rationale": "נבלה adolah bangkei nan mati surang — indak 'nan mati dek dirinyo' panjang"
+    },
+    {
+      "kind": "substitution",
+      "subject": "manjamu dirinyo",
+      "rationale": "טמא akar 'tame' — indak bajamah dek karano tanah; jamu\/langgang untuak makna seremonial"
+    }
+  ],
+  "translation": "Bangkei jo nan tagariak binatang indak inyo makan untuak manjamu dirinyo jo itu; ambo Yahweh.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "ff05551ca0b5ed96fa9b5b4b015148058ec686de0c375ded2792365124e42b46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/leviticus\/22\/8-8.1791263976673.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "bangkei"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "nan tagariak binatang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "untuak manjamu dirinyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jo itu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:36.673880258Z",
+  "model": "glm-5.3"
+}

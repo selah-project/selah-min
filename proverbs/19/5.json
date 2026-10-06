@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka bebas dari hukuman",
+      "rationale": "ינקה sacaro harfiah 'dibarasiahan\/diampunan'; 'bebas dari hukuman' maagiah makna hukumnyo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "maniup boho-boo",
+      "rationale": "יפיח harfiah 'maniup\/mangaluakan napas' — Ibrani mamakaikan gambar angok untuak mangecekan boho"
+    },
+    {
+      "kind": "you",
+      "subject": "pambaco",
+      "rationale": "pepatah marunduang urang manyaksi-boho sacaro langsuang, tokok kito ati"
+    }
+  ],
+  "translation": "Saksi pambohong indak ka bebas dari hukuman, jo nan maniup boho-boo indak ka lolos.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "e7cb01a68a6833e29e7d81f205a388c4250f1f0fb180ac859de27918a43c978f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/proverbs\/19\/5-5.1791264045568.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "pambohong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ka bebas dari hukuman"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "jo nan maniup"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "boho-boo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ka lolos"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:45.569756787Z",
+  "model": "glm-5.3"
+}

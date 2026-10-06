@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 21:28",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "api jo lahia baka",
+      "rationale": "Api dari Cheshbon adolah idiom paduan: kakuasoan parang Sichon, bukan api harfiah."
+    },
+    {
+      "kind": "substitution",
+      "subject": "makan",
+      "rationale": "אכלה 'makan' dipakai untuak api nan mailang; dipertahankan bantuak harfiahnyo 'makan'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעלי במות",
+      "rationale": "Dapek dibaco 'pamilik tampek tinggi' (KJV\/ASV) atau namo tampek 'Baale-Bamot' (Bamot-Baal); ambo mamilih harfiah 'pamilik tampek tinggi'."
+    }
+  ],
+  "translation": "Karano api alah kalua dari Cheshbon, lahia baka dari kota Sichon; lah makan Ar nan punyo Moab, jo pamilik-pamilik tampek tinggi di Arnon.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "f7fd3c8ae7dfc12a2613c36f60db65ce2f243a58fe924630cef705c6c3c20e22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/numbers\/21\/28-28.1791263987619.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "lah kalua"
+    },
+    {
+      "surface": "מחשבון",
+      "gloss": "dari Cheshbon"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "lahia baka"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "dari kota"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "lah makan"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "nan punyo Moab"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "pamilik-pamilik"
+    },
+    {
+      "surface": "במות",
+      "gloss": "tampek tinggi"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "di Arnon"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:47.621123150Z",
+  "model": "glm-5.3"
+}

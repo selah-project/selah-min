@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 12:8",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "priests consented",
+      "rationale": "KJV\/ASV follow LXX 'the priests consented'; the Hebrew text as given reads 'the king called', followed here."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מכריכם",
+      "rationale": "literally 'your acquaintances' — those with whom the priests had dealings; rendered 'urang nan bakawan jo urang tu'."
+    },
+    {
+      "kind": "you",
+      "subject": "to the priests",
+      "rationale": "King Yehoasy directly addresses Yehoyada and the priests with questions and commands."
+    }
+  ],
+  "translation": "Rajo Yehoasy maimbau Yehoyada, imam tu, jo imam-imam nan lain, jo bakato kapado urang tu: Ba'a kok urang tu indak manguatkan ⟨את⟩ luko-luko rumah tu? Kok kini, jan lai urang tu ambiak perak dari ⟨את⟩ urang nan bakawan jo urang tu, karano untuak luko-luko rumah tu harus diagiah urang tu.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "6252a9016ef344bc945a30beffa876230a1f1fcbe13767a26fb1cc7abb74a9bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/2-kings\/12\/8-8.1791264037707.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maimbau"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoasy"
+    },
+    {
+      "surface": "ליהוידע",
+      "gloss": "kapado Yehoyada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam tu"
+    },
+    {
+      "surface": "ולכהנים",
+      "gloss": "jo ka imam-imam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kapado urang tu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ba'a kok"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "indak"
+    },
+    {
+      "surface": "מחזקים",
+      "gloss": "manguatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luko-luko rumah tu"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "luko-luko"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kok kini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jan lai"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "urang tu ambiak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩"
+    },
+    {
+      "surface": "מכריכם",
+      "gloss": "urang nan bakawan jo urang tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "לבדק",
+      "gloss": "untuak luko-luko"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah tu"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "harus diagiah urang tu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:37.710596959Z",
+  "model": "glm-5.3"
+}

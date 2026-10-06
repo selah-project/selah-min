@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 12:47",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mangecualikan",
+      "rationale": "קדשש akar nan samo jo 'suci': 'manyucikan\/mamiliahan nan suci'; 'mangecualikan' dipiliah dek Minang indak punyo bantuak kausatif nan pas untuak bando suci."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומקדשים",
+      "rationale": "KJV 'sanctified holy things' mambaco qal; JPS\/ASV 'set apart' mambaco Piel: mamiliahan — objek indak tasabuik dalam Ibrani."
+    },
+    {
+      "kind": "measurement",
+      "subject": "דבר יום ביומו",
+      "rationale": "pambagian jatah saari-saari — hituangan harian nan tatap."
+    }
+  ],
+  "translation": "Jo sadoalah Yisrael pado maso Zerubabel jo pado maso Nechemyah agiah jatah kapado para panyanyi jo para panjago gapura, urusan saari dalam aarinyo; inyo mangecualikan ⟨nan suci⟩ untuak urang Lewi, jo urang Lewi mangecualikan untuak anak-anak Aharon.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "cf8396dd7bdcf87bab8c8d784262de64ed30ebd920c4dd252ccbec7be7023946",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/nehemiah\/12\/47-47.1791264055355.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pado maso"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabel"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "jo pado maso"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemyah"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "agiah"
+    },
+    {
+      "surface": "מניות",
+      "gloss": "jatah"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "para panyanyi"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "jo para panjago gapura"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "urusan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "saari"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "dalam aarinyo"
+    },
+    {
+      "surface": "ומקדשים",
+      "gloss": "inyo mangecualikan"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "untuak urang Lewi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "jo urang Lewi"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "mangecualikan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "untuak anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:55.357164802Z",
+  "model": "glm-5.3"
+}

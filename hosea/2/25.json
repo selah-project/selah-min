@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "min",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רחמה \/ עמי",
+      "rationale": "Lo-Rukhamah ('nan indak dipaneh-uih') dan Lo-Ami ('bukan umat Ambo') adalah namo nan dikanun di Hosea 1; dibaliak di siko — namo kutuak manjadi namo kasiak."
+    },
+    {
+      "kind": "crux",
+      "subject": "וזרעתיה",
+      "rationale": "'Ambo ka mananam inyo': Yam banua mananam bini (Israel) — sacaro harfiah 'mananam inyo untuak Ambo di bumi', indak ditambah tafsiran."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ללא עמי",
+      "rationale": "'kapado Lo-Ami': Ibrani maagiah namo urang, indak 'kapado urang nan bakato'; namo dipatahan jo aratinyo dicaliak-an."
+    },
+    {
+      "kind": "you",
+      "subject": "kapado Israel",
+      "rationale": "Yahweh langsuang mangecek kapado umat-Nyo: 'Umat Amboalah dikau', jo balasan umat: 'Elohim ambo'."
+    }
+  ],
+  "translation": "Jo Ambo ka mananam inyo untuak Ambo di bumi, jo Ambo ka mangeceangi ⟨את⟩ nan indak dipaneh-uih — Lo-Rukhamah — jo Ambo ka bakato kapado nan bukan umat Ambo — Lo-Ami — Umat Amboalah dikau, jo inyo ka bakato: Elohim ambo!",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "6fec8fedddb02aaf41659331e6ab37dadc165c57a0d9da86dba00d845b119ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/hosea\/2\/25-25.1791264027400.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "ka mananam inyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untuak Ambo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ka mangeceangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan indak dipaneh-uih — Lo-Rukhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "dipaneh-uih — Lo-Rukhamah"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ka bakato"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "kapado nan bukan — Lo-Ami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat Ambo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Umat Ambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "dikau"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jo inyo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ka bakato"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ambo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:27.401480807Z",
+  "model": "glm-5.3"
+}

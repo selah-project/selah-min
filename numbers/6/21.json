@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 6:21",
+  "book": "numbers",
+  "lang": "min",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Torah",
+      "rationale": "תורה dipacik sabagai Torah, bukan 'hukum' sajo, sasuai D2."
+    },
+    {
+      "kind": "crux",
+      "subject": "תשיג ידו",
+      "rationale": "harfiah 'capai tangannyo': dapek dicapai dek kamampuannyo (JPS 'means suffice') lawan KJV 'hand shall get'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נזר\/נזיר\/נדר",
+      "rationale": "akar נזר (pamisahan) jo נדר (nazar) bamain sabalahan dalam ayaik ko, indak tatulih sacaro penuah dalam Minang."
+    }
+  ],
+  "translation": "Ko iko Torah urang Nazir, apo nan inyo nazarikan, jo kurban nyo kapado Yahweh dek panazarannyo, salain nan dapek dicapai dek tangannyo; sasuai jo nazarnyo nan inyo nazarikan, baa baitu pulo inyo karajokan, manuruik Torah panazarannyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "1f6d9ebf21dfecfb0f125fab8624ea213c0e1591354413b324b71b663ac33d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/numbers\/6\/21-21.1791263995850.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ko iko"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "urang Nazir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo nan"
+    },
+    {
+      "surface": "ידר",
+      "gloss": "inyo nazarikan"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurban nyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapado Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "dek"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "panazarannyo"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "salain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo nan"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "dapek dicapai"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannyo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sasuai jo"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "nazarnyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ידר",
+      "gloss": "inyo nazarikan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baa baitu pulo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "inyo karajokan"
+    },
+    {
+      "surface": "על",
+      "gloss": "manuruik"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "panazarannyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:55.851990560Z",
+  "model": "glm-5.3"
+}

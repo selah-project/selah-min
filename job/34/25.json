@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 34:25",
+  "book": "job",
+  "lang": "min",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכיר",
+      "rationale": "Dari akar נכר: 'mangatahui\/manganaui' (KJV) lawan 'manampakkan\/mambari tando' (Geneva) — ambo piliah mambari tando bana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dipalatak sampai hancua",
+      "rationale": "ידכא sacaro harfiah 'ditumbuak\/didaduak sampai remuk', ciek kato Ibrani jadi duo kato Minang."
+    }
+  ],
+  "translation": "Dek karano itu inyo mambari tando bana ka pabuatan-pabuatan urang tu, inyo mambaliakannyo manjadi malam, dan urang tu dipalatak sampai hancua.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "481f040da0573938fc2a8c347e7664317f8c4d816063f4ab479a3c1be6cdb44b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/job\/34\/25-25.1791264050947.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Dek karano itu"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "inyo mambari tando bana ka"
+    },
+    {
+      "surface": "מעבדיהם",
+      "gloss": "pabuatan-pabuatan urang tu"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "inyo mambaliakannyo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "manjadi malam"
+    },
+    {
+      "surface": "וידכאו",
+      "gloss": "urang tu dipalatak sampai hancua"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:50.948773042Z",
+  "model": "glm-5.3"
+}

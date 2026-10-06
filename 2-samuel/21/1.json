@@ -1,0 +1,155 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 21:1",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל שאול ואל בית הדמים",
+      "rationale": "Ibrani harfiah 'kapado Shaul jo kapado rumah darah-darah' — sabagian tampek manarjamahkan 'dek Shaul' (panyabab), YLT\/JPS manahan arah 'kapado\/for'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מבקש את פני יהוה",
+      "rationale": "Idiom 'mancari muko Yahweh' = bado jo mananyo kapado Yahweh; manahan bantuak harfiah"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנה אחרי שנה",
+      "rationale": "Pangulangan 'taun sasudah taun' manandoi kalaparo nan balanjuik tanpa jeda"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Kato pangubuang אשר indak punyo padanan Minang tapisah; dilalui dalam 'karano'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tigo taun",
+      "rationale": "Pangukuran wakatu: kalaparo tigo taun baturuik-turuik"
+    }
+  ],
+  "translation": "Mako tajadi kalaparo pado maso Dawid tigo taun, taun sasudah taun, jo Dawid mancari ⟨את⟩ muko Yahweh, jo Yahweh bakato: Kapado Shaul jo kapado rumah darah-darah, karano inyo mambunuah ⟨את⟩ urang Gibeon.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "fa7cadc4ef8e41889eaa522333c9470cd896ed284222891673a61d3d7c668f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/2-samuel\/21\/1-1.1791264089247.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mako tajadi"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kalaparo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pado maso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tigo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "jo mancari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jo bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jo kapado"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "darah-darah"
+    },
+    {
+      "surface": "על",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "המית",
+      "gloss": "mambunuah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Gibeon"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "urang Gibeon"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:29.254298287Z",
+  "model": "glm-5.3"
+}

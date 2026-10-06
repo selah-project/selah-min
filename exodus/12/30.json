@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 12:30",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "urang",
+      "rationale": "אין שם מת literally 'not there dead'; 'urang' (person) added in Minang so 'mati' has a noun to modify"
+    },
+    {
+      "kind": "substitution",
+      "subject": "di ma",
+      "rationale": "אשר rendered as locative relative 'di ma' from context; Hebrew word itself is general"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרים",
+      "rationale": "Mitsrayim repeated twice in the verse — the nation named as both agent and site of the cry"
+    }
+  ],
+  "translation": "Lalu Paroh bangun pado wakatu malam, inyo jo sadoalah hamba-hambanyo jo sadoalah urang Mitsrayim, lalu ado tariakan gadang di Mitsrayim, karano indak ado rumah di ma indak ado urang mati di sinan.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "f57bc1b9dac93d40e5920c7fffd48676cdba68e7335a6a8326e7c6d2de042a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/exodus\/12\/30-30.1791263966925.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pado wakatu malam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sadoalah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "lalu ado"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "tariakan"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "gadang"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "מת",
+      "gloss": "urang mati"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:26.926593753Z",
+  "model": "glm-5.3"
+}

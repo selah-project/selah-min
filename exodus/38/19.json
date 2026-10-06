@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 38:19",
+  "book": "exodus",
+  "lang": "min",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ampek",
+      "rationale": "Counting of pillars and bases: four and four."
+    },
+    {
+      "kind": "crux",
+      "subject": "ראשיהם",
+      "rationale": "Literally 'their heads' — KJV 'chapiters', JPS 'capitals'; rendered 'atehnyo' keeping the body-part picture."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חשוקיהם",
+      "rationale": "Rare word for connecting rods\/fillets between pillars; rendered 'rang-rangnyo' (connecting rods)."
+    }
+  ],
+  "translation": "Jo tiang-tiangnyo ampek, jo dasanyo ampek, tameh tambago; kait-kaitnyo perak, jo salian atehnyo jo rang-rangnyo perak.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "f9eb4db757f141573280c5ad9f2a02429165675af45382eea12a04baa0e60cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/exodus\/38\/19-19.1791263965147.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדיהם",
+      "gloss": "jo tiang-tiangnyo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "jo dasanyo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ampek"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tameh tambago"
+    },
+    {
+      "surface": "ואויהם",
+      "gloss": "kait-kaitnyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וצפוי",
+      "gloss": "jo salian"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "jo rang-rangnyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:25.148795416Z",
+  "model": "glm-5.3"
+}

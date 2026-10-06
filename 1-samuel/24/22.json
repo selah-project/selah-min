@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "min",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jan",
+      "rationale": "kalimat sumpah Ibrani pakai 'אם' sajo, kato larangan ditambah untuak tata bahaso Minang"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pangkok",
+      "rationale": "תכרית harfiah 'mamotong' — 'pangkok' mamuek gambaran motong tu"
+    },
+    {
+      "kind": "you",
+      "subject": "kapado Dawid",
+      "rationale": "Saul langsuang maagiah parentah jo sumpah kapado Dawid"
+    }
+  ],
+  "translation": "Jadi kini baa daulu jo ambo demi Yahweh: jan ⟨kok⟩ ewe pangkok ⟨את⟩ beniah ambo sasudah ambo, jo jan ewe paan ⟨את⟩ namo ambo dari rumah apak ambo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "cb3d7bfa92ce20fcd314cfdc22b523120c85802b774dc536e839ed714596acec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/1-samuel\/24\/22-22.1791263984902.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jadi kini"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "baa daulu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jo ambo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "demi Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jan ⟨kok⟩"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "ewe pangkok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beniah ambo"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "beniah ambo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasudah ambo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jo jan ⟨kok⟩"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "ewa paan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo ambo"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "namo ambo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apak ambo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:44.904945344Z",
+  "model": "glm-5.3"
+}

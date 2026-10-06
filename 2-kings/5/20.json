@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 5:20",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "anak sia",
+      "rationale": "נער di siko tampek dapek 'anak sia' tapi lai manuruik bunyinyo; 'pelayan' peran, bukan bantuak kato"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם רצתי",
+      "rationale": "Sumpah jo 'כי אם': 'kok indak' (sumpah niat) lawan bacaan YLT 'kok ambo alah lari' — ambo ambiak bacaan sumpah niat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חי יהוה",
+      "rationale": "Sumpah 'Yahweh iduik' di ucok dek Geichazi sacaro mangaleh — maimbau Yahweh dalam urusan nan indak jujua"
+    },
+    {
+      "kind": "elision",
+      "subject": "ingok",
+      "rationale": "'ingok' ditambah untuak mamuduakan sumpah Ibrani nan indak punyo kato pambukak"
+    }
+  ],
+  "translation": "Jo Geichazi, anak sia Elohim, urang tu Elisha, bakato: Caliak, tuan ambo alah manahan ⟨את⟩ Naaman urang Aram ko, indak maambiak dari tangannyo ⟨את⟩ nan dibawonyo; ingok Yahweh iduik, kok indak ambo lari manyusulnyo jo ambo ambiak dari inyo saketek",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "4cb768821fd751c9876dc85e5f1b076dbb80c741b6dcce4d980a47e3e90db376",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/2-kings\/5\/20-20.1791263994661.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "Geichazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "anak sia"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Caliak"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "manahan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan ambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman urang Aram ko"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "urang Aram"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "maambiak"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "dari tangannyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan dibawonyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "dibawonyo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אם",
+      "gloss": "indak"
+    },
+    {
+      "surface": "רצתי",
+      "gloss": "ambo lari"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "manyusulnyo"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "jo ambo ambiak"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "dari ⟨את⟩ inyo"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "saketek"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:54.663793598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 16:12",
+  "book": "2-samuel",
+  "lang": "min",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעוני",
+      "rationale": "'my affliction' (עֲנִי, KJV\/JPS) vs 'my iniquity' (עֲוֹן, Niph 'wrong done to me', ASV); Minang follows 'affliction'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ganti",
+      "rationale": "תחת literally 'under\/in place of' rendered as 'ganti' (substitute)"
+    }
+  ],
+  "translation": "Boleh jado Yahweh maliek panyakik ambo, jo Yahweh mambaliek kapado ambo kabaiakan ganti kutuaknyo ari ko.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "3377ac7a48fb82a6df0e977ae2adfbfab6f8fdf4d47da93b36631a87c1fda9c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/2-samuel\/16\/12-12.1791263981592.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "Boleh jado"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "maliek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "panyakik ambo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "jo mambaliek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kabaiakan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "קללתו",
+      "gloss": "kutuaknyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:41.593774609Z",
+  "model": "glm-5.3"
+}

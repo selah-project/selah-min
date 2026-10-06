@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 2:5",
+  "book": "joshua",
+  "lang": "min",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kasampai wakatu",
+      "rationale": "לסגור infinitive 'untuak manutuik' manando wakatu; kato panando wakatu ditambah"
+    },
+    {
+      "kind": "substitution",
+      "subject": "urang tu",
+      "rationale": "האנשים harfiah 'urang-urang itu'; deiksis Minang manggunoan 'urang tu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשיגום",
+      "rationale": "bantuak yesua ('kalian ka tangkok') jo bantuuk weatal ('dapek kalian tangkok') — KJV 'shall', BSB 'may'"
+    },
+    {
+      "kind": "you",
+      "subject": "kapado pangikut rajo Yerikho",
+      "rationale": "Rahab mangecek kapado pangirim rajo, pulang jo parentah 'kejare'"
+    }
+  ],
+  "translation": "Dan tajadi kasampai wakatu gapuro ka ditutuik, katiko lamang, urang tu lah kalua; ambo indak tahu ka ma urang tu pai; kejare capek-capek urang tu, karano dapek kalian tangkok inyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "5efacd824023704b18fe2e13592b399a698df30c89fe0b846c8f373fe59885c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/joshua\/2\/5-5.1791263986769.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tajadi"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gapuro"
+    },
+    {
+      "surface": "לסגור",
+      "gloss": "ka ditutuik"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "katiko lamang"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lah kalua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ambo tahu"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ka ma"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "pai"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "kejare"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "capek-capek"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "urang tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "תשיגום",
+      "gloss": "dapek kalian tangkok inyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:46.770772395Z",
+  "model": "glm-5.3"
+}

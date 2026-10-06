@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 22:12",
+  "book": "1-chronicles",
+  "lang": "min",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mudah-mudahan",
+      "rationale": "Ibrani indak punyo kato panyupo kainginan; 'mudah-mudahan' ditambahkan untuak manyalasaikan patunjuk 'hanyo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "akal",
+      "rationale": "שׂכל bararti akal kaarifan, tibo-tibo juo takaik kalabihan\/kasuksesan; 'akal' hanyo manangkok bagian pertama"
+    },
+    {
+      "kind": "you",
+      "subject": "kapado Shelomo",
+      "rationale": "Dawid bakato kapado anaknyo Shelomo satalah manyiapkan bahan baliak Bait Allah"
+    }
+  ],
+  "translation": "Hanyo Yahweh mangarompakkan kapado ambo sajo: mudah-mudahan Yahweh maagiah ⟨ka⟩-ambo akal jo pancarian, jo mamarentahkan ⟨kapado⟩-ambo takaik Yisrael, untuak manjago ⟨את⟩ Torah Yahweh Elohim ⟨ka⟩-ambo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "c4e494ebd902df24986f0440bc595a717c768da5e4b22140f4de13641e3999f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/1-chronicles\/22\/12-12.1791264046176.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanyo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "akal"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "jo pancarian"
+    },
+    {
+      "surface": "ויצוך",
+      "gloss": "jo mamarentahkan ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "takaik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולשמור",
+      "gloss": "jo manjago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah Yahweh Elohim ambo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ka-ambo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:46.177280809Z",
+  "model": "glm-5.3"
+}

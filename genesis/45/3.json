@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tasaduik",
+      "rationale": "נבהלו adolah gaduak\/takuik dari dalam; 'tasaduik' dakek, tapi raso jantuang baribu indak tatariak"
+    },
+    {
+      "kind": "alternative",
+      "subject": "apo ambo ko ado elok",
+      "rationale": "העוד dapek pulo dibaco 'apo amai alah iduik lai' — kato tanyo nan samo jo 'apo ... elok'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפניו",
+      "rationale": "harafiah 'dari mukonyo'; Minang 'di hadapan mukonyo' — idiom paneh"
+    }
+  ],
+  "translation": "Jo Yosef bakato kapado sanak-sanaknyo: Ambo ko Yosef; apo ambo ko ado elok? Amai alah iduik? Tapi sanak-sanaknyo indak dapek manjawek ⟨את⟩ inyo, karano inyo tasaduik di hadapan mukonyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "21e0fe8f8be2f04bb7ac68daed70064aa42aad7c4c93b0e4f36aa4dac99fb05b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/genesis\/45\/3-3.1791263972566.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jo ... bakato"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sanak-sanaknyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "apo ... elok"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amai"
+    },
+    {
+      "surface": "חי",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi indak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dapek"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sanak-sanaknyo"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "manjawek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "tasaduik"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "di hadapan mukonyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:32.568137419Z",
+  "model": "glm-5.3"
+}

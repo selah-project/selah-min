@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iolah",
+      "rationale": "Ibrani indak punya kopula; Minang paralu 'iolah' untuak manyambuang"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kabutang",
+      "rationale": "ערפל adolah kabutang\/langik mangkalinduang, bukan 'gelap' sacaro umum"
+    }
+  ],
+  "translation": "Awan jo kabutang di sekitarnyo, tsedeq jo hukum iolah dasa takhtanyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "7c763c79900d5c2c0798e860167e562c229883852ed7d520483ef3905a3e5f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/psalms\/97\/2-2.1791264009280.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "jo kabutang"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "di sekitarnyo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jo hukum"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "dasa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhtanyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:09.281311598Z",
+  "model": "glm-5.3"
+}

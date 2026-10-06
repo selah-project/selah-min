@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 46:8",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yoar",
+      "rationale": "כיאר adolah kanal\/Nil; 'yoar' dipacik bunyinyo karano ciek kato khusus"
+    },
+    {
+      "kind": "addition",
+      "subject": "aku ka",
+      "rationale": "Baso Minang parolu bantuak kato karajo untuak fiil pa-uruik nan indak ado sacaro harafiah dalam Ibrani"
+    },
+    {
+      "kind": "crux",
+      "subject": "kota",
+      "rationale": "עיר tunggal manuruik naskah; ASV\/BSB mamjamakannyo manjadi 'cities' — tunggal dipatahan"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלה...אעלה",
+      "rationale": "Pangulangan aka 'naiak' (עלה) dalam gamba jo dalam kato Mitsrayim surang — kajayaan nan ilang dalam Minang"
+    }
+  ],
+  "translation": "Mitsrayim naiak sarupo yoar, jo sarupo sungai-sungai aia bagauik; inyo bakato: Aku ka naiak, aku ka tutuik bumi, aku ka musnahan kota jo panduduaknyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "b9440503a075a2bdbcbde5f5296460884b30faae12d9777a19f5b6e0e7edc012",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/jeremiah\/46\/8-8.1791264016685.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "sarupo yoar"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "וכנהרות",
+      "gloss": "jo sarupo sungai-sungai"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "bagauik"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inyo bakato"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aku ka naiak"
+    },
+    {
+      "surface": "אכסה",
+      "gloss": "aku ka tutuik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אבידה",
+      "gloss": "aku ka musnahan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "jo panduduaknyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sinan"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:16.687626688Z",
+  "model": "glm-5.3"
+}

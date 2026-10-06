@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 22:26",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nyawonyo",
+      "rationale": "נפש di siko artinyo 'nyawa\/jiwo' — makam bunuh, bukan sekadar 'diri'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tu",
+      "rationale": "Minang indak punyo artikel, 'tu' ditambah untuak manandoi objek nan tak takenal — jo ⟨…⟩ indak dipakai dek Minang indak mamaralukan artikel"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטא מות",
+      "rationale": "Harafiah 'doso maut': pambandiangan antaro 'dosa nan bia mautau' (KJV) jo 'doso maut' sajo (YLT)"
+    }
+  ],
+  "translation": "Jo kapado anak padusi tu indak usah dibuek apo-apo; indak ado pado anak padusi tu dosa nan bia mautau; karano sarupo katiko surang laki-laki bangkik mangalo kawannyo sarato mambunuah nyawonyo — sarupo itulah parkaro iko.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "be706343e7db363f205653a62c8d286acc068ade6d23bcc37d4e498f7aba2609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/deuteronomy\/22\/26-26.1791263968187.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולנער",
+      "gloss": "jo kapado anak padusi tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "usah dibuek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "apo-apo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indak ado"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "pado anak padusi tu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mautau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sarupo katiko"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "bangkik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "surang laki-laki"
+    },
+    {
+      "surface": "על",
+      "gloss": "mangalo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kawannyo"
+    },
+    {
+      "surface": "ורצחו",
+      "gloss": "sarato mambunuah"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawonyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sarupo itulah"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "parkaro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:28.188457589Z",
+  "model": "glm-5.3"
+}

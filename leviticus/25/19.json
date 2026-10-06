@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 25:19",
+  "book": "leviticus",
+  "lang": "min",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sanak",
+      "rationale": "Hebik indak ado kato ganti untuak padahsan untuak maagiah caso nan jaleh kapado padang.addListenernyo dari bantuak kato karanjo"
+    }
+  ],
+  "translation": "Dan bumi itu maagiah buahnyo, jo sanak makan sampai kanyang, jo sanak tingga bakadangan di atehnyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "a4fb61195a26d6fb12e34f5df7166fc9b53272a17c45a3b26ca67694ebc67bc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/leviticus\/25\/19-19.1791263975618.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "buahnyo"
+    },
+    {
+      "surface": "וַאכלתם",
+      "gloss": "sanak makan"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sampai kanyang"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "sanak tingga"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bakadangan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atehnyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:35.619054178Z",
+  "model": "glm-5.3"
+}

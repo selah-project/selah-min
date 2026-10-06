@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי בא כי בא",
+      "rationale": "Repetition of 'karano Ia tibo' — the doubling intensifies certainty; kept fully."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeq",
+      "rationale": "בצדק ditulih jo bunyi Ibrani 'tsedeq' sasuai aturan D2, indak 'kabanaran' sajo."
+    },
+    {
+      "kind": "addition",
+      "subject": "Ia",
+      "rationale": "Subjek 'Ia' ditambah dalam tarjamahan karano Minang paralu subjek; Ibrani iyolah bantuak verba."
+    }
+  ],
+  "translation": "Di muko Yahweh, karano Ia tibo, karano Ia tibo untuak manguji ⟨את⟩ bumi; Ia maagiah putusan kapado dunio jo tsedeq, jo kapado urang-urang banyak jo kasatiaan-Nyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "7608e0ee44926bb4a0ac680cae1383f608f02699b88e5e1ea78d579a01d91da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/psalms\/96\/13-13.1791263997851.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "di muko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ia tibo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ia tibo"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "untuak manguji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "Ia maagiah putusan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunio"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "jo tsedeq"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "jo kapado urang-urang banyak"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "jo kasatiaan-Nyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:57.853337326Z",
+  "model": "glm-5.3"
+}

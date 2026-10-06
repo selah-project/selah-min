@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "khemahnyo",
+      "rationale": "Ibrani ויאהל indak bajanji 'khemahnyo' — akhiran Minang manambaan milik sacaro taramang"
+    },
+    {
+      "kind": "crux",
+      "subject": "עד סדם",
+      "rationale": "'sampai ka Sedom' lawan 'arah ka Sedom' (KJV 'toward') — Lot alun bamukim di dalam Sedom sacaro harfiah"
+    }
+  ],
+  "translation": "Avram tingga di tanah Kenaan, sadangkan Lot tingga di nagari-nagari tanah datak tu, jo mambangkik khemahnyo sampai ka Sedom.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "b70964b0ec778f2aa8e714957fcb9bbc95c59d8ec962ab834bf0fb0e987b627f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/genesis\/13\/12-12.1791263973690.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "sadangkan Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "di nagari-nagari"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "tanah datak tu"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "mambangkik khemah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ka"
+    },
+    {
+      "surface": "סדום",
+      "gloss": "Sedom"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:33.692204975Z",
+  "model": "glm-5.3"
+}

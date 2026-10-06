@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הקשה\/הקל",
+      "rationale": "Antitesi kokok-lawan-lapeh: 'manjadi kokok' malawan 'manjadi lapang' — bantuak jo bunyi babaloi dalam Ibrani"
+    },
+    {
+      "kind": "you",
+      "subject": "kapado Rehoboam",
+      "rationale": "Pangaduahan langsuang urang Israel kapado rajo baru Rehoboam"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על",
+      "rationale": "'Kuk' — kato kokok barek untuak karajo paksa; tatap bantuaknyo, indak diganti 'hukum'"
+    }
+  ],
+  "translation": "Ayahmu mampakokokan ⟨את⟩ kuk awak; sadangkok kau kini, lapehkan lah saketek dari pakarajoan ayahmu nan kokok, jo dari kuknyo nan barek nan dibarihnyo kapado awak, maka awak mangabekan kau.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "09ddde18b5fbf5c22c065b59deb8b3e433b2d93d0f45b1561afa4c2abcd44a12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/1-kings\/12\/4-4.1791263999063.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "mampakokokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuk awak"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "kuk awak"
+    },
+    {
+      "surface": "ו אתה",
+      "gloss": "sadangkok kau"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "lapehkan lah saketek"
+    },
+    {
+      "surface": "מ עבדת",
+      "gloss": "dari pakarajoan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "nan kokok"
+    },
+    {
+      "surface": "ו מ עלו",
+      "gloss": "jo dari kuknyo"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "nan barek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibarihnyo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kapado awak"
+    },
+    {
+      "surface": "ו נעבדך",
+      "gloss": "maka awak mangabekan kau"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:59.064461438Z",
+  "model": "glm-5.3"
+}

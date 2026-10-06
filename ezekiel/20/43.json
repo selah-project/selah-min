@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezekiel 20:43",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונקטתם",
+      "rationale": "Akar qut — 'mamuek\/mamuak diri' lawan 'mangutuji diri layak dimusnakan' (Geneva); YLT barado di sisi harfiah 'banci di muko kalian surang'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בפניכם",
+      "rationale": "Sacara harfiah 'di muko-muko kalian' — idiom Ibrani untuak 'manuruik pandangan kalian surang'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעותיכם",
+      "rationale": "Radiko ra' (jahat\/hancua) muncuak baulang; disandingkan jo 'ajam (najis) — karusakan moral jo ritual ado dalam ciek surek."
+    }
+  ],
+  "translation": "Dan di sinan sanak ALLAING sumbuang — koreksi: Dan di sinan kalian ka mangana ⟨את⟩ jalan-jalan kalian jo ⟨את⟩ sagalo parbuatan kalian nan alah manajiskan diri kalian jo itu, dan kalian ka mamuak diri kalian di muko sanak — di sagalo kajahatan kalian nan alah kalian buek.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "69fe7096e671a8f0fe062c4bc8e03562920ec17775b1b0f48be26867e301c172",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/ezekiel\/20\/43-43.1791264037712.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתם",
+      "gloss": "dan kalian ka mangana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sinan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan-jalan kalian"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jalan-jalan kalian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jo ⟨את⟩",
+      "marks": "sagalo parbuatan kalian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalo"
+    },
+    {
+      "surface": "עלילותיכם",
+      "gloss": "parbuatan kalian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "נטמאתם",
+      "gloss": "kalian alah manajiskan diri"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jo itu"
+    },
+    {
+      "surface": "ונקטתם",
+      "gloss": "dan kalian ka mamuak diri"
+    },
+    {
+      "surface": "בפניכם",
+      "gloss": "di muko kalian surang"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagalo"
+    },
+    {
+      "surface": "רעותיכם",
+      "gloss": "kahancuran kalian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "kalian buek"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:37.713957482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "inyo",
+      "rationale": "Ibrani indak ado janji tatingga; bantuak יצוה urang katigo laki-laki manantuankon subjek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "malak",
+      "gloss": "מלאך aronyo pangutuih; 'malak' dipilih mamakai bunyi, indak 'malaikat' Indonesia"
+    }
+  ],
+  "translation": "Karano malak-malak-Nyo inyo mandapek parintah tantang ang, untuak manjago ang di sado jalan-jalan ang.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "81f9fba2361ea9e6555b0f5c5810f30c63179d1453d9fc2c88d4292721a9eacb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/psalms\/91\/11-11.1791264003158.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malak-malak-Nyo"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "inyo mandapek parintah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tantang ang"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "untuak manjago ang"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sado"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan-jalan ang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:03.159504231Z",
+  "model": "glm-5.3"
+}

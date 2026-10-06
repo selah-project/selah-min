@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kapado ambo",
+      "rationale": "לי dibuek eksplisit: 'baliak kapado ambo' sabagai tujuan doa"
+    }
+  ],
+  "translation": "Baliaklah urang-urang nan takuik kapado Yahweh kapado ambo, jo urang-urang nan tahu ⟨את⟩ kasaksian-kasaksian-Nyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "e0aeeb7495834684cb4ac81300eccb107b82c7b6667b4d45f68726b7f5f6431c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/psalms\/119\/79-79.1791264004601.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "baliaklah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapado ambo"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "urang nan takuik kapado-Mu"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "jo urang nan tahu"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kasaksian-kasaksian-Mu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:04.601763145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 13:20",
+  "book": "jeremiah",
+  "lang": "min",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lah",
+      "rationale": "Minang pakambang kato untuak pabuatan nan sadang tajadi, indak ado di Ibrani"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ayik iko",
+      "rationale": "Ayik bakalimo langsuang jo parentah kapado Yerusalem"
+    },
+    {
+      "kind": "you",
+      "subject": "kapado Yerusalem\/Yehuda",
+      "rationale": "Kato\"kamu\"  perempuan jamak (עיניכם, לך, תפארתך) dikatokan kapado Yerusalem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "binatang kabanggaan awak",
+      "rationale": "תפארתך acok ditarjamahkan 'kamilangan'; bantuak asalinyo 'parhiasan\/kagemilangan'"
+    }
+  ],
+  "translation": "Angkek ⟨…⟩ mato nyo, jo caliak lah urang nan tibo dari utara; di ma kawanan nan diagiah kapado awak, kawanannyo, binatang kabanggaan awak?",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "b8cc390afb60f3b69be840a18ae55451e4685b6b51c7355ff5278a58962d3309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/jeremiah\/13\/20-20.1791264000999.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאי",
+      "gloss": "Angkek"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mato nyo"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "jo caliak"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "urang nan tibo"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "dari utara"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di ma"
+    },
+    {
+      "surface": "העדר",
+      "gloss": "kawanan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diagiah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kapado awak"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "kabanggaan awak"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:01.001693054Z",
+  "model": "glm-5.3"
+}

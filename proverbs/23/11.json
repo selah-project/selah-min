@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "goel",
+      "rationale": "גאלם adolah goel — sanak nan mardekaikan manuruik adaik karabatan; 'nan mangadekannyo' ditambah dalam ⟨…⟩ untuak majaleh-an"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יריב\/ריבם",
+      "rationale": "kato karja rib jo kato bando rib samo akar: 'inyo bapadang parkaro parkaronyo' — ulangan iko lansia dalam Minang"
+    },
+    {
+      "kind": "addition",
+      "subject": "samo jo kau",
+      "rationale": "אתך dijago jo ⟨את⟩ jo kato 'kau' karano prefiks את (H854) ado dalam kato nan samo"
+    }
+  ],
+  "translation": "Karano goel ⟨nan mangadekannyo⟩ kuek, inyo bapadang ⟨את⟩ parkaro nan ka urang tu, samo jo ⟨את⟩ kau.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "4591cfcfd3bf6631f602cfdb95edf6712843ba6be5cd46684593d4a2d0910451",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/proverbs\/23\/11-11.1791264044793.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "karano"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "goel ⟨nan mangadekannyo⟩"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "bapadang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parkaro nan ka urang tu"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "parkaro nan ka urang tu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kau"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:44.796423172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "min",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גֹלֶם",
+      "rationale": "golem — mass nan alun babantuak, muncua ciek kali sajo dalam Tanakh; dipacik manuruik bunyinyo."
+    },
+    {
+      "kind": "crux",
+      "subject": "ימים יצרו",
+      "rationale": "'ari-ari nan dibantuak' — atau 'ari nan alah ditantuan'; verba yatsar takaik pambantuak sabagai panunjuak."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ספרך כלם יכתבו",
+      "rationale": "ari-ari hiduik dicaliak, dihituang, jo tatulih ciek-ciek dalam kitab."
+    },
+    {
+      "kind": "secret",
+      "subject": "גלמי",
+      "rationale": "bantuak nan alun nampak, diliek dek Elohim sajak balun tabantuak — nan tasuruik dari mato manusia."
+    }
+  ],
+  "translation": "Golem ambo caliak mato-Mu, dan di kitab-Mu inyo sadoalahnyo tatulih — ari-ari nan dibantuak, jo indak ciek pun dari sadonyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "b5fb65c98a5d96462b4933da89bf580a6bfec885adff446412c9e48a4cccaee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/psalms\/139\/16-16.1791264007898.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "golem ambo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "caliak"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mato-Mu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan di"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "kitab-Mu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadoalahnyo"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "tatulih"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ari-ari"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "dibantuak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ciek"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dari sadonyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:07.899217461Z",
+  "model": "glm-5.3"
+}

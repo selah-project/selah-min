@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 2:19",
+  "book": "genesis",
+  "lang": "min",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mahluk iduik",
+      "rationale": "נפש חיה sacaro harfiah 'nafas nan iduik' — makanniah nan tapakaik jo hanyuik\/ka-iduik-an, bukan 'jiwa' sacaro pambacoan nan kudian"
+    },
+    {
+      "kind": "measurement",
+      "subject": "pangarangan namo",
+      "rationale": "Manusia maagiah namo kapado satiok binatang — pamiliahan jo panyabuikan satu-satu, karajo partaxonomy patamo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "את",
+      "rationale": "Chakam-basuah 'mambantuak dari tanah' dapek juo dibaco 'alah mambantuak' (wayyiqtol sabalum 2:19), tapi urutan carito manunjuak kajadian barurutan"
+    }
+  ],
+  "translation": "Lalu Yahweh Elohim mambantuak dari tanah satiok binatang ladang jo ⟨את⟩ satiok buruang langik, jo dibaokNyo îTu ka hadapan manusia untuak caliak aok nan ka manyabuikannyo; jo sagalo nan disabuik dek manusia — mahluk iduik — itulah namonyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "2d086e8a65ff41f44f18545d29d156328197de1a536f641b0f65e811ffbfb579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/genesis\/2\/19-19.1791263978113.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "mambantuak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "חית",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "satiok buruang langik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satiok"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "buruang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langik"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dibaokNyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka hadapan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuak caliak"
+    },
+    {
+      "surface": "מה",
+      "gloss": "aok"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "manyabuikannyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jo sagalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "disabuik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mahluk iduik"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "iduik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namonyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:38.114524617Z",
+  "model": "glm-5.3"
+}

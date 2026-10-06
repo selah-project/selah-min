@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 7:23",
+  "book": "proverbs",
+  "lang": "min",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ati",
+      "rationale": "כבד sacara harfiah ati (organ paliang barek); lambago padusi modern manjadi 'perut', tapi Ibrani manyabuik ati"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨itu⟩",
+      "rationale": "Aleph-tav indak ado; הוא dicukuik jo kato panunjuak nan ditambahkan"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנפשו הוא",
+      "rationale": "Sacaro harfiah 'karano nyawonyo inyo adolah': mambaok ka nyawonyo (harago nyawonyo) lawan 'tautok pado nyawonyo'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלח\/פח",
+      "rationale": "פִלֵּחַ (manusuk) jo פַּח (jaring) bamain bunyi, indak tatando dalam Minang"
+    }
+  ],
+  "translation": "Sampai anak panah malewati atinyo, sarupo buruang langgam batubarui ka jaring, sadang inyo indak tau basonyo ⟨itu⟩ mambao ka nyawonyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "026f4797e30a47f290e4d732d95a52c258b5bde21f2de2b2e22de1b662ab3056",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/proverbs\/7\/23-23.1791264025700.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "malewati"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "anak panah"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "atinyo"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "batubarui"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "buruang langgam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jaring"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadang indak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "basonyo"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ka nyawonyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itu⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:25.701010220Z",
+  "model": "glm-5.3"
+}

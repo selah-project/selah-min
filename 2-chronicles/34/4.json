@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 34:4",
+  "book": "2-chronicles",
+  "lang": "min",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חמנים",
+      "rationale": "Tiang-tiang suryo (sun-pillar) — kato langka, anyo dalam Kronik; dijago gambarnyo 'tiang suryo', bukan 'mezbah dupa'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "האשרים",
+      "rationale": "Asherah dipacik jo bunyinyo — namo patuang dewi, bukan 'pohon' atau 'rumpun'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨inyo⟩",
+      "rationale": "Kato ganti untuak buangan pacahan patuang ditambahkan, karano Baso Minang paralu objek untuak 'manabak'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעליהם",
+      "rationale": "'ateh atehnyo' — saketek janggal dalam Ibrani; pambaco balain: di ateh mezbah, atau di ateh patuang-patuang itu."
+    }
+  ],
+  "translation": "Jo urang tu manumbangkan di mukonyo ⟨את⟩ mezbah-mezbah Baal, jo tiang-tiang suryo nan di ateh atehnyo inyo tabangkan, jo ⟨את⟩ Asherah, jo ⟨את⟩ patuang-patuang ukiran, jo ⟨את⟩ patuang-patuang tuang inyo pacah jo mambugka, jo manabak ⟨inyo⟩ di muko kubua-kubua urang nan alah bakurban ka inyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "a7c8c8545cbcf1b5387ca98991603e1fa6399d9b2e8b515600ecd14c66ff09c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/2-chronicles\/34\/4-4.1791264061506.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינתצו",
+      "gloss": "jo urang tu manumbangkan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di mukonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah-mezbah Baal"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mezbah-mezbah"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ו החמנים",
+      "gloss": "jo tiang-tiang suryo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "di ateh"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "atehnyo"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "tabangkan"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "jo Asherah"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "jo patuang-patuang ukiran"
+    },
+    {
+      "surface": "והמסכות",
+      "gloss": "jo patuang-patuang tuang"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "pacah"
+    },
+    {
+      "surface": "והדק",
+      "gloss": "mambugka"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "jo manabak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muko"
+    },
+    {
+      "surface": "הקברים",
+      "gloss": "kubua-kubua"
+    },
+    {
+      "surface": "הזבחים",
+      "gloss": "urang nan bakurban"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka inyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:01.510955689Z",
+  "model": "glm-5.3"
+}

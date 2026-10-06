@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "min",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מזרח שמש",
+      "rationale": "Harfiah 'terbit-matahari' (timur); ditarjamahkan 'ka arah tareknyo matahari'"
+    },
+    {
+      "kind": "addition",
+      "subject": "urang tu",
+      "rationale": "Subjek Ibrani tacuum dalam kato karama (wayyiqtol); ditambah untuak kajalehan"
+    }
+  ],
+  "translation": "Jo urang tu mampunyoi ⟨את⟩ tanahnyo, jo ⟨את⟩ tanah Og, rajo Bashan — duo rajo urang Emori, nan di sabalah timua Yarden, ka arah tareknyo matahari.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "1455ba0ac680da7149a244a861e4d495ab13c9c08b7290fb68df806263c4f97e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/deuteronomy\/4\/47-47.1791263974338.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "mampunyoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanahnyo"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tanahnyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Og"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajo-rajo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di sabalah"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "timua"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:34.340383538Z",
+  "model": "glm-5.3"
+}

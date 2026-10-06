@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 2:15",
+  "book": "lamentations",
+  "lang": "min",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "manyipak-an tangan",
+      "rationale": "ספק כפים: pakakan tangan jo sikik-sikik, tando olok-olok, bukan tando katagorieh"
+    },
+    {
+      "kind": "idiom",
+      "subject": "manyiriak",
+      "rationale": "שרק: mangesang\/mambunyi 'sss' sabagai olok-olok, bukan mambiasonyo"
+    },
+    {
+      "kind": "you",
+      "subject": "kapado anak padusi Yerushalayim",
+      "rationale": "ayaik iko mangeceak langsuang kapado Yerushalayim nan dilukih-i personifikasi sabagai anak padusi"
+    },
+    {
+      "kind": "crux",
+      "subject": "שיאמרו",
+      "rationale": "bantuak kok dek urang bakato (nan alah takenal) lawan 'urang ka bakato' — 'kasampurnaan rancak' mamakai patunjua lalu"
+    }
+  ],
+  "translation": "Manyipak-an kapado kau tangan urang, sado nan lalu di jalan; inyo manyiriak jo mangguak kapalonyo ateh anak padusi Yerushalayim, bakato: Inikah kota nan kok inyo kato urang, kasampurnaan rancak, kagirangan untuak saluruah bumi?",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "4775bf535c3b4414c8a133139ee078510aea61d9c4c9b193502c20cf17ba1d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/lamentations\/2\/15-15.1791264066772.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ספקו",
+      "gloss": "manyipak-an"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kapado kau"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "tangan urang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sado"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "nan lalu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "manyiriak"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "jo mangguak"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kapalonyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ateh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak padusi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "inikah"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "שיאמרו",
+      "gloss": "nan kok inyo kato urang"
+    },
+    {
+      "surface": "כלילת",
+      "gloss": "kasampurnaan"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "rancak"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kagirangan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuak saluruah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:06.778380384Z",
+  "model": "glm-5.3"
+}

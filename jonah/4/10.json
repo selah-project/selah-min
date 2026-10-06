@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "min",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבן לילה ובן לילה",
+      "rationale": "Ulangan 'anak ciek malam' — idiom Ibrani untuak nan hiduik ciek malam sajo; bantuak anak dipatahan."
+    },
+    {
+      "kind": "crux",
+      "subject": "הקיקיון",
+      "rationale": "Kato kikiyo (qiqayon): tanaman nan identitasnyo dipabingkiang — labu, jarak, atau tanaman naungan; dikatokan jo bunyinyo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hilang",
+      "rationale": "אבד sacara harfiah 'baguliliang lah, hilang diri' — bukan sekadar mati."
+    }
+  ],
+  "translation": "Lalu Yahweh bakato: Sanak alah balas sayang kapado ⟨את⟩ tanaman kikiyo, nan indak Sanak basusah payah untuaknyo, jo nan indak Sanak gadang-an; anak ciek malam inyo ado, jo anak ciek malam inyo hilang.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "ca0e5af72a49b48390e8943d75b9f32d0e5fa29e07f76e4c0a67fa819f902b95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/jonah\/4\/10-10.1791264038349.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bakato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sanak"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "balas sayang"
+    },
+    {
+      "surface": "על",
+      "gloss": "kapado"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "tanaman kikiyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "basusah payah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "untuaknyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jo indak"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "gadang-an"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ciek malam"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ado"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "jo anak"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ciek malam"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "hilang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:38.351779856Z",
+  "model": "glm-5.3"
+}

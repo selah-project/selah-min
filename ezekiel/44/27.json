@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 44:27",
+  "book": "ezekiel",
+  "lang": "min",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maâgéh",
+      "rationale": "יקרי׬ harfiah 'mandakekkan (kurban)', dandani jo 'maâgéh' untuak kasalamatan"
+    },
+    {
+      "kind": "addition",
+      "subject": "kurban",
+      "rationale": "חטאתו adolah kurban doso; kato 'kurban' ditambahkan dek Minang paralu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש…קדש",
+      "rationale": "kato 'tampek nan suci' balaku duo kali — paâulangan Ibrani dijago"
+    }
+  ],
+  "translation": "Jo pado ari inyo masuak ka tampek nan suci, ka halaman nan di dalam, untuak babakti di tampek nan suci, inyo ka maâgéh ⟨את⟩ kurban dosonyo, kato Adonai Yahweh.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "0371cc4905a6a13bf09259e071868c0b9f021f110472e09d6246a0a23fb72936",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/ezekiel\/44\/27-27.1791264036749.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "jo pado ari"
+    },
+    {
+      "surface": "באו",
+      "gloss": "masuak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tampek nan suci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "nan di dalam"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "untuak babakti"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tampek nan suci"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "maâgéh"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "kurban dosonyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:36.751685561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "min",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lampu",
+      "rationale": "ניר lampu — metafora katarusan uiang karajaan Dawid, indak benda nyato sajo"
+    },
+    {
+      "kind": "crux",
+      "subject": "Elohim-nyo",
+      "rationale": "אלהיו 'Elohim-nyo' — Elohim Abia, bukan Elohim Dawid sajo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "mampokok",
+      "rationale": "להעמיד 'mambuek batarak' — idiom Hebraik untuak manguatkan\/mastabikan"
+    }
+  ],
+  "translation": "Dek karano Dawid, Yahweh Elohim-nyo maagiah kapado inyo lampu di Yerushalayim, untuak mandirikan ⟨את⟩ anaknyo sasudah inyo, jo untuak mampokok ⟨את⟩ Yerushalayim.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "99e89d79b55f64b601ba3a59d584f426eebb48e903fa0b5ef71266d4f829b84c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/1-kings\/15\/4-4.1791263991819.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dek karano"
+    },
+    {
+      "surface": "למען",
+      "gloss": "untuak karano"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maagiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-nyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kapado inyo"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "lampu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalayim"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "untuak mandirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaknyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknyo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sasudah inyo"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "jo untuak mampokok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:51.820758393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 2:16",
+  "book": "nehemiah",
+  "lang": "min",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סגנים",
+      "rationale": "Prefek\/panguru provinsi — dilisankan 'para pamarentah', gala jo tugas dari jabatan Parsi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרים",
+      "rationale": "Sacara harfiah 'nan putiah\/mulia' — dilisankan 'urang gadang', bangsawan Yerusalem."
+    },
+    {
+      "kind": "addition",
+      "subject": "itu",
+      "rationale": "Ibrani עשה המלאכה indak punyo panunju; Minang parolu 'itu' supayo jaleh."
+    },
+    {
+      "kind": "secret",
+      "subject": "rahasio misi Nehemia",
+      "rationale": "Nehemia mangaaguang-aguangkan inspeksi malam ari; indak ado nan tau — tindakan nan dirancang dirahasikan."
+    }
+  ],
+  "translation": "Jo para pamarentah indak tau ka ma ambo pai jo apo nan ambo karajoan; jo kapado urang Yehuda, jo kapado para imam, jo kapado urang gadang, jo kapado para pamarentah, jo kapado siso urang nan mangarajoan karojo itu — sampai kini ambo alun mancaritokannyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "17109d15292cb46d3ac231d02a81af5633b9cb9c8dbb7724c574de752dcf858a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/nehemiah\/2\/16-16.1791264049995.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסגנים",
+      "gloss": "jo para pamarentah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tau"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ka ma"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ambo pai"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jo apo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ambo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "karajoan"
+    },
+    {
+      "surface": "וליהודים",
+      "gloss": "jo kapado urang Yehuda"
+    },
+    {
+      "surface": "ולכהנים",
+      "gloss": "jo kapado para imam"
+    },
+    {
+      "surface": "ולחרים",
+      "gloss": "jo kapado urang gadang"
+    },
+    {
+      "surface": "ולסגנים",
+      "gloss": "jo kapado para pamarentah"
+    },
+    {
+      "surface": "וליתר",
+      "gloss": "jo kapado siso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nan mangarajoan"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "karojo itu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alun"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "mancaritokannyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:50.004987554Z",
+  "model": "glm-5.3"
+}

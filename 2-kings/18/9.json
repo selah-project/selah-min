@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 18:9",
+  "book": "2-kings",
+  "lang": "min",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaampek\/katujuah",
+      "rationale": "Panyabutan taun pamarintahan duo rajo sacaro paralalel manandoi wakatu panagguangan Shomeron."
+    }
+  ],
+  "translation": "Dan taruih pado taun kaampek Rajo Hizkiahu — iyo taun katujuah Hoshea anak Elah rajo Yisrael — Shalmaneser rajo Ashur naiak maadoki Shomeron jo mangapuangnyo.",
+  "provenance": {
+    "system-sha256": "89b061a31de76205740307d5f62e53fc6fd67de4ccfc554e29e92a4580399ff0",
+    "user-sha256": "1fd10b3f8a083590337f75e619a93aa4ac1b06ace6e6cdb43c6816478cff2c8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/min\/2-kings\/18\/9-9.1791264031645.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "taruih"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pado taun"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "kaampek"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Rajo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "katujuah"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naiak"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "Shalmaneser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": "maadoki"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "mangapuang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:20:31.646663625Z",
+  "model": "glm-5.3"
+}
